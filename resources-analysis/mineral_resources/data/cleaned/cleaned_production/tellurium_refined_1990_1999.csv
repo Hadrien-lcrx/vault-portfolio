@@ -1,0 +1,5 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Canada,production,tellurium_refined,,12.0,16.0,25.0,27.0,42.0,102.0,59.0,59.0,62.0,64.0
+Japan,production,tellurium_refined,,50.0,57.0,57.0,47.0,47.0,43.0,40.0,25.0,39.0,35.0
+Peru,production,tellurium_refined,,8.0,13.0,19.0,17.0,25.0,30.0,25.0,25.0,22.0,17.0
+USA,production,tellurium_refined,,36.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0

@@ -1,0 +1,7 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Canada,production,tellurium_refined,,53.0,51.0,39.0,40.0,69.0,11.0,11.0,14.0,20.0,16.0
+Japan,production,tellurium_refined,,36.0,39.0,29.0,33.0,33.0,23.0,24.0,41.0,47.0,49.0
+Peru,production,tellurium_refined,,22.0,19.0,22.0,26.0,25.0,33.0,37.0,35.0,28.0,7.0
+Russia,production,tellurium_refined,,,,,,,,,,,30.0
+Sweden,production,tellurium_refined,,,,,,,,,,,0.0
+USA,production,tellurium_refined,,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0

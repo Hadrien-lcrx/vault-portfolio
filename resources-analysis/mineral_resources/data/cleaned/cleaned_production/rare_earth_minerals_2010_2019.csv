@@ -1,0 +1,10 @@
+Country,Activity,Commodity,Sub-commodity,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+Australia,production,rare_earth_minerals,,0.0,,,,,,,,,
+Brazil,production,rare_earth_minerals,Monazite                                          ,249.0,290.0,206.0,0.0,0.0,,,,,
+Burundi,production,rare_earth_minerals,,,,,0.0,0.0,0.0,0.0,50.0,1075.0,338.0
+China,production,rare_earth_minerals,,120000.0,105000.0,100000.0,,,,,,,
+India,production,rare_earth_minerals,Monazite                                          ,,,,491.0,2825.0,1500.0,,,,
+Malaysia,production,rare_earth_minerals,Monazite                                          ,622.0,571.0,113.0,261.0,372.0,499.0,1875.0,302.0,86.0,54.0
+Malaysia,production,rare_earth_minerals,Xenotime                                          ,110.0,208.0,66.0,97.0,83.0,66.0,4.0,0.0,1568.0,60.0
+Russia,production,rare_earth_minerals,Loparite,5120.0,6226.0,6712.0,7485.0,7700.0,8509.0,8756.0,8928.0,9224.0,9472.0
+USA,production,rare_earth_minerals,Bastnaesite                                       ,0.0,0.0,3000.0,5500.0,5400.0,5900.0,0.0,0.0,18000.0,28000.0

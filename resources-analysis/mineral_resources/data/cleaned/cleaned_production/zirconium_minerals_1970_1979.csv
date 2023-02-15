@@ -1,0 +1,13 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Australia,production,zirconium_minerals,,384130.0,408334.0,353127.0,371358.0,362143.0,375548.0,420185.0,398229.0,391606.0,444975.0
+Brazil,production,zirconium_minerals,,4024.0,4240.0,4214.0,3094.0,2518.0,2925.0,3058.0,4649.0,4301.0,3337.0
+China,production,zirconium_minerals,,,,,,,,,,,12000.0
+India,production,zirconium_minerals,,,,,,,,10300.0,10700.0,11200.0,12200.0
+Korea (Rep. of),production,zirconium_minerals,,,,13.0,23.0,40.0,,,,,
+Madagascar,production,zirconium_minerals,,3.0,3.0,,,,,,,,
+Malaysia,production,zirconium_minerals,,,,,,,,3131.0,1823.0,902.0,1372.0
+South Africa,production,zirconium_minerals,,,,,4956.0,11978.0,11594.0,11252.0,16825.0,36000.0,82000.0
+Soviet Union,production,zirconium_minerals,,,,,,,,,63500.0,68000.0,72600.0
+Sri Lanka,production,zirconium_minerals,,112.0,139.0,30.0,28.0,21.0,39.0,10.0,374.0,3194.0,1510.0
+Thailand,production,zirconium_minerals,,865.0,1526.0,366.0,402.0,2002.0,383.0,55.0,303.0,25.0,116.0
+USA,production,zirconium_minerals,,75000.0,80000.0,90000.0,100000.0,110000.0,110000.0,90000.0,90000.0,80000.0,60000.0

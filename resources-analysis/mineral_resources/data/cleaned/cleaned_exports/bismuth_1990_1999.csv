@@ -1,0 +1,27 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,exports,bismuth,Metal                                             ,176.0,41.0,,,,,,,,
+Belgium-Luxembourg,exports,bismuth,Compounds                                         ,21.0,52.0,136.0,417.0,46.0,519.0,454.0,842.0,1172.0,1373.0
+Canada,exports,bismuth,Metal                                             ,130.0,49.0,41.0,43.0,165.0,220.0,141.0,150.0,176.0,190.0
+China,exports,bismuth,Metal                                             ,609.0,961.0,1259.0,2020.0,5806.0,3511.0,1199.0,1603.0,1344.0,2694.0
+Finland,exports,bismuth,Metal                                             ,,,,,,0.0,0.0,,17.0,27.0
+France,exports,bismuth,Compounds                                         ,68.0,86.0,160.0,80.0,34.0,44.0,40.0,81.0,14.0,10.0
+France,exports,bismuth,Metal                                             ,78.0,18.0,33.0,18.0,61.0,93.0,77.0,47.0,44.0,11.0
+German Federal Republic,exports,bismuth,Compounds                                         ,56.0,,,,,,,,,
+German Federal Republic,exports,bismuth,Metal                                             ,75.0,,,,,,,,,
+Germany,exports,bismuth,Compounds                                         ,,39.0,70.0,99.0,33.0,50.0,79.0,336.0,27.0,28.0
+Germany,exports,bismuth,Metal                                             ,,107.0,150.0,247.0,359.0,267.0,133.0,75.0,102.0,51.0
+Hong Kong,exports,bismuth,Metal                                             ,,,130.0,305.0,118.0,187.0,117.0,9.0,0.0,52.0
+Italy,exports,bismuth,Metal                                             ,19.0,7.0,18.0,1.0,2.0,10.0,,,,
+Japan,exports,bismuth,Metal                                             ,35.0,13.0,21.0,35.0,4.0,36.0,5.0,11.0,5.0,9.0
+Kazakhstan,exports,bismuth,Metal                                             ,,,,,,,10.0,11.0,2.0,54.0
+Korea (Rep. of),exports,bismuth,Metal                                             ,129.0,90.0,49.0,41.0,102.0,97.0,75.0,107.0,94.0,53.0
+Mexico,exports,bismuth,Metal                                             ,871.0,1567.0,1783.0,720.0,1008.0,865.0,914.0,1731.0,2526.0,755.0
+Netherlands,exports,bismuth,Metal                                             ,46.0,2.0,8.0,50.0,105.0,16.0,170.0,48.0,300.0,29.0
+Peru,exports,bismuth,Metal                                             ,,,494.0,722.0,1009.0,521.0,660.0,1204.0,880.0,660.0
+Russia,exports,bismuth,Metal                                             ,,,,,,,10.0,35.0,269.0,11.0
+Spain,exports,bismuth,Compounds                                         ,33.0,30.0,14.0,50.0,76.0,77.0,,,40.0,52.0
+Spain,exports,bismuth,Metal                                             ,,,,,19.0,5.0,27.0,12.0,12.0,7.0
+Sweden,exports,bismuth,Metal                                             ,,,,,,,,6.0,0.0,24.0
+USA,exports,bismuth,Compounds                                         ,,,,,,174.0,64.0,135.0,340.0,196.0
+USA,exports,bismuth,Metal                                             ,123.0,77.0,101.0,75.0,176.0,269.0,161.0,243.0,266.0,302.0
+United Kingdom,exports,bismuth,Metal                                             ,598.0,473.0,574.0,665.0,635.0,743.0,859.0,2038.0,1973.0,2381.0

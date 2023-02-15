@@ -1,0 +1,79 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Argentina,imports,manganese,Ores & Concentrates                               ,58891.0,56211.0,126250.0,95426.0,28970.0,64000.0,50578.0,60353.0,78395.0,66325.0
+Australia,imports,manganese,Metal                                             ,1838.0,1693.0,567.0,1144.0,1561.0,1012.0,892.0,732.0,1794.0,2634.0
+Australia,imports,manganese,Ores & Concentrates                               ,2422.0,2139.0,451.0,1004.0,1298.0,1576.0,1207.0,1618.0,2035.0,2393.0
+Austria,imports,manganese,Metal                                             ,,,,,,,,,402.0,429.0
+Austria,imports,manganese,Ores & Concentrates                               ,1726.0,459.0,439.0,362.0,441.0,666.0,437.0,472.0,270.0,528.0
+Belgium-Luxembourg,imports,manganese,Metal                                             ,1178.0,711.0,1467.0,1757.0,2333.0,2096.0,2994.0,3421.0,3207.0,3439.0
+Belgium-Luxembourg,imports,manganese,Ores & Concentrates                               ,299848.0,244784.0,227057.0,162653.0,221559.0,230711.0,199138.0,75549.0,232668.0,308522.0
+Brazil,imports,manganese,Metal                                             ,1019.0,754.0,1020.0,1174.0,1217.0,1336.0,1364.0,1605.0,1710.0,1736.0
+Brazil,imports,manganese,Ores & Concentrates                               ,28501.0,15289.0,11324.0,19206.0,1006.0,3753.0,2106.0,0.0,32749.0,6937.0
+Bulgaria,imports,manganese,Ores & Concentrates                               ,99700.0,114000.0,81900.0,96800.0,94400.0,92600.0,82500.0,65000.0,46700.0,20000.0
+Cameroon,imports,manganese,Ores & Concentrates                               ,,,,,,,,3180.0,2800.0,2360.0
+Canada,imports,manganese,Metal                                             ,6957.0,10371.0,781.0,2652.0,3078.0,3757.0,2655.0,2085.0,4086.0,5225.0
+Canada,imports,manganese,Ores & Concentrates                               ,95161.0,119748.0,71658.0,42260.0,77543.0,102199.0,94914.0,80957.0,124282.0,79047.0
+China,imports,manganese,Metal                                             ,,,,,,,,,,
+China,imports,manganese,Ores & Concentrates                               ,,,,,,,,235999.0,276690.0,424803.0
+Colombia,imports,manganese,Ores & Concentrates                               ,4603.0,3993.0,4284.0,1477.0,3397.0,2241.0,3951.0,12589.0,9576.0,3359.0
+Czechoslovakia,imports,manganese,Ores & Concentrates                               ,525000.0,480000.0,502000.0,506000.0,482000.0,457000.0,332000.0,438000.0,484000.0,871000.0
+Denmark,imports,manganese,Metal                                             ,,,,,,,39.0,17.0,57.0,833.0
+Denmark,imports,manganese,Ores & Concentrates                               ,819.0,611.0,510.0,322.0,416.0,1085.0,575.0,543.0,410.0,477.0
+Finland,imports,manganese,Ores & Concentrates                               ,10735.0,337.0,1733.0,10154.0,7005.0,10045.0,2265.0,2218.0,1266.0,16828.0
+France,imports,manganese,Metal                                             ,6930.0,984.0,1173.0,1461.0,1184.0,824.0,1183.0,2124.0,2198.0,3376.0
+France,imports,manganese,Ores & Concentrates                               ,1225909.0,880817.0,921816.0,745625.0,1007721.0,1039791.0,760987.0,702453.0,1485591.0,850594.0
+German Democratic Rep,imports,manganese,Ores & Concentrates                               ,46600.0,46000.0,39800.0,27400.0,21800.0,19500.0,30200.0,23800.0,27400.0,26600.0
+German Federal Republic,imports,manganese,Metal                                             ,5731.0,5146.0,5989.0,5468.0,6102.0,6225.0,6344.0,5489.0,7150.0,9113.0
+German Federal Republic,imports,manganese,Ores & Concentrates                               ,489548.0,606851.0,393546.0,434261.0,535843.0,377795.0,473126.0,378627.0,514446.0,546351.0
+Germany,imports,manganese,Metal                                             ,,,,,,,,,,
+Greece,imports,manganese,Metal                                             ,,,,,,,138.0,160.0,278.0,181.0
+Greece,imports,manganese,Ores & Concentrates                               ,29277.0,5.0,25157.0,,,10852.0,589.0,15.0,82.0,24.0
+Hong Kong,imports,manganese,Ores & Concentrates                               ,374.0,0.0,5.0,204.0,135.0,243.0,341.0,665.0,629.0,580.0
+Hungary,imports,manganese,Ores & Concentrates                               ,15537.0,150.0,404.0,343.0,340.0,480.0,440.0,420.0,,
+India,imports,manganese,Metal                                             ,136.0,338.0,444.0,,217.0,236.0,130.0,567.0,1095.0,3915.0
+India,imports,manganese,Ores & Concentrates                               ,17881.0,3807.0,3165.0,,3947.0,4809.0,3954.0,1152.0,4860.0,1093.0
+Indonesia,imports,manganese,Ores & Concentrates                               ,11968.0,9513.0,4890.0,2889.0,1545.0,1153.0,1170.0,1998.0,1680.0,1370.0
+Iran,imports,manganese,Ores & Concentrates                               ,,1000.0,2700.0,3000.0,3700.0,1500.0,3500.0,,,
+"Ireland, Republic of",imports,manganese,Ores & Concentrates                               ,32391.0,16103.0,10815.0,21152.0,28072.0,24178.0,34758.0,26343.0,27467.0,36977.0
+Israel,imports,manganese,Ores & Concentrates                               ,,,,,,,,1500.0,1300.0,1300.0
+Italy,imports,manganese,Metal                                             ,1397.0,1711.0,1713.0,1974.0,2653.0,3522.0,1664.0,1836.0,2680.0,1978.0
+Italy,imports,manganese,Ores & Concentrates                               ,409846.0,354225.0,333064.0,385550.0,273192.0,392646.0,329736.0,452653.0,280344.0,390049.0
+Ivory Coast,imports,manganese,Ores & Concentrates                               ,1007.0,900.0,1800.0,1250.0,1301.0,2067.0,3030.0,,2750.0,
+Japan,imports,manganese,Metal                                             ,,,,,,,,,9893.0,10739.0
+Japan,imports,manganese,Ores & Concentrates                               ,2953309.0,2492728.0,2146444.0,1623244.0,2212243.0,2183066.0,1806871.0,1580662.0,1922113.0,1939002.0
+Kenya,imports,manganese,Ores & Concentrates                               ,1404.0,2089.0,1407.0,1739.0,1998.0,1592.0,3550.0,2363.0,3150.0,2000.0
+Korea (Rep. of),imports,manganese,Metal                                             ,,,,,,,,,697.0,823.0
+Korea (Rep. of),imports,manganese,Ores & Concentrates                               ,208200.0,282015.0,236585.0,196457.0,255364.0,275920.0,222831.0,373880.0,391811.0,508323.0
+"Korea, Dem. P.R. of",imports,manganese,Ores & Concentrates                               ,29100.0,15000.0,28200.0,20200.0,41600.0,41300.0,55600.0,61000.0,134500.0,61400.0
+Malaysia,imports,manganese,Ores & Concentrates                               ,2351.0,1557.0,1332.0,1499.0,1462.0,1128.0,985.0,1170.0,933.0,985.0
+Mexico,imports,manganese,Ores & Concentrates                               ,99298.0,64238.0,59320.0,155418.0,141803.0,146455.0,112353.0,44669.0,140333.0,167578.0
+Netherlands,imports,manganese,Metal                                             ,2558.0,3474.0,4102.0,2170.0,1560.0,2113.0,2004.0,1710.0,2203.0,2362.0
+Netherlands,imports,manganese,Ores & Concentrates                               ,46779.0,53392.0,67628.0,44389.0,50386.0,72493.0,130177.0,124983.0,53425.0,55961.0
+Norway,imports,manganese,Metal                                             ,713.0,351.0,320.0,1579.0,1121.0,1678.0,1315.0,1641.0,1263.0,1355.0
+Norway,imports,manganese,Ores & Concentrates                               ,807700.0,484640.0,764085.0,623305.0,737061.0,701993.0,817544.0,628173.0,847235.0,724558.0
+Pakistan,imports,manganese,Ores & Concentrates                               ,,,15.0,0.0,25030.0,163.0,33187.0,27722.0,,
+Peru,imports,manganese,Ores & Concentrates                               ,963.0,1638.0,1442.0,625.0,1056.0,1320.0,1099.0,,,
+Philippines,imports,manganese,Ores & Concentrates                               ,6626.0,1984.0,3021.0,3981.0,3438.0,2669.0,3040.0,3594.0,3209.0,22244.0
+Poland,imports,manganese,Ores & Concentrates                               ,664187.0,583207.0,689370.0,574194.0,648163.0,617977.0,670843.0,682259.0,693211.0,575223.0
+Portugal,imports,manganese,Ores & Concentrates                               ,173823.0,109916.0,122071.0,68587.0,227526.0,127342.0,126703.0,92572.0,2410.0,2166.0
+Romania,imports,manganese,Ores & Concentrates                               ,,,174000.0,220000.0,165000.0,225000.0,196000.0,212000.0,205000.0,205000.0
+Saudi Arabia,imports,manganese,Ores & Concentrates                               ,,,2605.0,7424.0,22649.0,20144.0,27929.0,26124.0,19509.0,8535.0
+Singapore,imports,manganese,Ores & Concentrates                               ,60468.0,80900.0,68209.0,44840.0,35095.0,35923.0,28846.0,45512.0,51062.0,26180.0
+South Africa,imports,manganese,Ores & Concentrates                               ,3972.0,7052.0,4351.0,5542.0,7970.0,5250.0,3050.0,3931.0,5381.0,6780.0
+Spain,imports,manganese,Metal                                             ,1565.0,2869.0,454.0,676.0,524.0,466.0,674.0,614.0,679.0,782.0
+Spain,imports,manganese,Ores & Concentrates                               ,432648.0,253987.0,260600.0,213765.0,417653.0,299032.0,244299.0,202286.0,199519.0,328520.0
+Sri Lanka,imports,manganese,Ores & Concentrates                               ,1744.0,1147.0,1120.0,867.0,1342.0,290.0,104.0,1299.0,,
+Sweden,imports,manganese,Metal                                             ,1459.0,708.0,1331.0,1442.0,977.0,1072.0,1726.0,2064.0,1593.0,2040.0
+Sweden,imports,manganese,Ores & Concentrates                               ,354.0,531.0,25835.0,24527.0,486.0,336.0,12121.0,11139.0,11683.0,13398.0
+Switzerland,imports,manganese,Metal                                             ,,,,,,,,,493.0,685.0
+Taiwan,imports,manganese,Metal                                             ,,,,,,,,,,
+Taiwan,imports,manganese,Ores & Concentrates                               ,142975.0,62742.0,135556.0,106195.0,97160.0,128970.0,119241.0,131704.0,170943.0,196032.0
+Thailand,imports,manganese,Ores & Concentrates                               ,9.0,9.0,2932.0,,,,,,,
+Trinidad & Tobago,imports,manganese,Ores & Concentrates                               ,,,,,,1.0,4040.0,3158.0,2111.0,3071.0
+Turkey,imports,manganese,Ores & Concentrates                               ,2429.0,722.0,1952.0,1910.0,1348.0,1300.0,840.0,1618.0,1496.0,1107.0
+USA,imports,manganese,Metal                                             ,6937.0,7573.0,5049.0,5606.0,12033.0,8609.0,8844.0,8132.0,10957.0,14731.0
+USA,imports,manganese,Ores & Concentrates                               ,633228.0,587244.0,208390.0,334151.0,306714.0,344087.0,415884.0,301732.0,443581.0,587818.0
+United Kingdom,imports,manganese,Metal                                             ,3292.0,1962.0,2741.0,3424.0,3113.0,4215.0,4831.0,2484.0,2859.0,4574.0
+United Kingdom,imports,manganese,Ores & Concentrates                               ,126610.0,278056.0,178946.0,367206.0,269865.0,386299.0,159500.0,120550.0,195457.0,275509.0
+Venezuela,imports,manganese,Ores & Concentrates                               ,5552.0,23386.0,54436.0,5150.0,28956.0,48377.0,48006.0,62259.0,80413.0,64702.0
+Yugoslavia,imports,manganese,Ores & Concentrates                               ,131053.0,87741.0,109043.0,130169.0,148033.0,140249.0,132548.0,88173.0,138587.0,128877.0
+Zimbabwe,imports,manganese,Ores & Concentrates                               ,5295.0,4149.0,6795.0,4174.0,5131.0,6539.0,23550.0,18419.0,248.0,

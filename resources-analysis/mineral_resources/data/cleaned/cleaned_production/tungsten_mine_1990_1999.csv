@@ -1,0 +1,35 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,production,tungsten_mine,,1086.0,237.0,159.0,113.0,21.0,31.0,61.0,,,
+Austria,production,tungsten_mine,,1043.0,994.0,1134.0,506.0,0.0,568.0,1072.0,1138.0,1077.0,1218.0
+Bolivia,production,tungsten_mine,,1014.0,1065.0,851.0,287.0,462.0,655.0,581.0,513.0,497.0,334.0
+Brazil,production,tungsten_mine,,316.0,223.0,205.0,245.0,196.0,98.0,99.0,40.0,0.0,13.0
+Burma,production,tungsten_mine,,351.0,275.0,531.0,524.0,548.0,531.0,334.0,272.0,178.0,87.0
+Burundi,production,tungsten_mine,,,,,0.0,0.0,22.0,,,,
+Canada,production,tungsten_mine,,,,,,,,,,0.0,0.0
+China,production,tungsten_mine,,32370.0,31960.0,25410.0,22890.0,27010.0,27470.0,26650.0,25030.0,23845.0,20200.0
+"Congo, Democratic Republic",production,tungsten_mine,,,,15.0,15.0,15.0,,,,,
+Czechoslovakia,production,tungsten_mine,,25.0,25.0,20.0,,,,,,,
+India,production,tungsten_mine,,6.0,15.0,,,,,,,,
+Japan,production,tungsten_mine,,218.0,240.0,298.0,66.0,,,,,,
+Kazakhstan,production,tungsten_mine,,,,200.0,150.0,154.0,314.0,96.0,,,
+Korea (Rep. of),production,tungsten_mine,,1361.0,780.0,247.0,,,,,,,
+"Korea, Dem. P.R. of",production,tungsten_mine,,1000.0,1000.0,1000.0,1000.0,900.0,900.0,900.0,900.0,800.0,500.0
+Kyrgyzstan,production,tungsten_mine,,,,,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+Mexico,production,tungsten_mine,,183.0,194.0,162.0,0.0,0.0,287.0,188.0,179.0,130.0,
+Mongolia,production,tungsten_mine,,500.0,300.0,0.0,0.0,17.0,62.0,22.0,33.0,46.0,27.0
+Peru,production,tungsten_mine,,1118.0,981.0,431.0,308.0,205.0,577.0,263.0,226.0,60.0,
+Portugal,production,tungsten_mine,,1405.0,971.0,1126.0,767.0,60.0,873.0,777.0,1029.0,821.0,435.0
+Russia,production,tungsten_mine,,,,8319.0,6639.0,3392.0,4568.0,4500.0,4500.0,3000.0,3500.0
+Rwanda,production,tungsten_mine,,156.0,243.0,238.0,175.0,0.0,46.0,104.0,78.0,30.0,54.0
+Soviet Union,production,tungsten_mine,,8800.0,8000.0,,,,,,,,
+Spain,production,tungsten_mine,,49.0,50.0,,,,,,,,
+Sweden,production,tungsten_mine,,80.0,0.0,,,,,,,,
+Tajikistan,production,tungsten_mine,,,,200.0,150.0,100.0,75.0,50.0,,,
+Thailand,production,tungsten_mine,,269.0,440.0,92.0,105.0,115.0,45.0,35.0,28.0,31.0,28.0
+Turkey,production,tungsten_mine,,350.0,0.0,,,,,,,,
+USA,production,tungsten_mine,,400.0,200.0,50.0,50.0,50.0,,,,,
+Uganda,production,tungsten_mine,,25.0,51.0,16.0,5.0,12.0,17.0,0.0,0.0,8.0,0.0
+United Kingdom,production,tungsten_mine,,42.0,9.0,,,,,,,,
+Uzbekistan,production,tungsten_mine,,,,300.0,300.0,300.0,300.0,300.0,250.0,200.0,200.0
+Vietnam,production,tungsten_mine,,,,,0.0,20.0,50.0,130.0,210.0,0.0,
+Zaire,production,tungsten_mine,,17.0,15.0,,,,,,,,

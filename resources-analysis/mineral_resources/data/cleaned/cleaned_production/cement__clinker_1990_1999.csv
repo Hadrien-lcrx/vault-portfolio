@@ -1,0 +1,13 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Austria,production,cement__clinker,"Cement, clinker",,,,,,,,,,
+Belgium,production,cement__clinker,"Cement, clinker",,,,,,,,,2946561.0,1786067.0
+Czech Republic,production,cement__clinker,"Cement, clinker",,,,,,,,,3065737.0,2833903.0
+Denmark,production,cement__clinker,"Cement, clinker",,,,,,,,,119465.0,111916.0
+France,production,cement__clinker,"Cement, clinker",,,,,,,,,,15990000.0
+Germany,production,cement__clinker,"Cement, clinker",,,,,,,,,,27739000.0
+Greece,production,cement__clinker,"Cement, clinker",,,,,,,,,11789070.0,11912108.0
+Italy,production,cement__clinker,"Cement, clinker",,,,,,,,,27327784.0,28716744.0
+Latvia,production,cement__clinker,"Cement, clinker",,,,,,,,,,200000.0
+Poland,production,cement__clinker,"Cement, clinker",,,,,,,,,11974000.0,11678000.0
+Sweden,production,cement__clinker,"Cement, clinker",2309100.0,2098600.0,2006900.0,2010600.0,2043400.0,2406100.0,2254676.0,2047051.0,2104916.0,2116248.0
+United Kingdom,production,cement__clinker,"Cement, clinker",,,9872000.0,9996000.0,11521000.0,11371000.0,11609000.0,12141000.0,12372000.0,11816000.0

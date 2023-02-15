@@ -1,0 +1,63 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Algeria,exports,cadmium,,58.0,,,,,,,,,
+Australia,exports,cadmium,Metal                                             ,,,1076.0,950.0,861.0,750.0,782.0,449.0,700.0,448.0
+Australia,exports,cadmium,,311.0,701.0,,,,,,,,
+Austria,exports,cadmium,Metal                                             ,,,0.0,14.0,6.0,13.0,,,,
+Austria,exports,cadmium,,35.0,20.0,,,,,,,,
+Belgium-Luxembourg,exports,cadmium,Metal                                             ,1168.0,1390.0,1445.0,2321.0,1585.0,2206.0,1591.0,1816.0,2172.0,1089.0
+Belgium-Luxembourg,exports,cadmium,Sulphide                                          ,60.0,49.0,30.0,22.0,53.0,44.0,31.0,14.0,22.0,15.0
+Bulgaria,exports,cadmium,Metal                                             ,,,250.0,140.0,10.0,277.0,50.0,248.0,301.0,286.0
+Bulgaria,exports,cadmium,,40.0,190.0,,,,,,,,
+Canada,exports,cadmium,Metal                                             ,,,1581.0,1857.0,1904.0,2463.0,1694.0,2539.0,2050.0,2170.0
+Canada,exports,cadmium,,1283.0,1452.0,,,,,,,,
+China,exports,cadmium,Metal                                             ,,,125.0,0.0,3479.0,1449.0,241.0,372.0,225.0,12.0
+China,exports,cadmium,,568.0,475.0,,,,,,,,
+Czech Republic,exports,cadmium,Metal                                             ,,,,,,,,,,45.0
+Finland,exports,cadmium,Metal                                             ,,,586.0,706.0,810.0,496.0,496.0,476.0,415.0,762.0
+Finland,exports,cadmium,,591.0,407.0,,,,,,,,
+France,exports,cadmium,Metal                                             ,,,841.0,444.0,159.0,4155.0,879.0,1493.0,1155.0,1252.0
+France,exports,cadmium,,377.0,721.0,,,,,,,,
+Germany,exports,cadmium,Metal                                             ,,,758.0,794.0,2022.0,766.0,595.0,1179.0,758.0,382.0
+Germany,exports,cadmium,Sulphide                                          ,,,,,,,,,,8.0
+Germany,exports,cadmium,,,638.0,,,,,,,,
+Hong Kong,exports,cadmium,Metal                                             ,,,323.0,392.0,248.0,691.0,452.0,231.0,66.0,0.0
+Hungary,exports,cadmium,,144.0,,,,,,,,,
+India,exports,cadmium,Metal                                             ,,,,,,,,,,6.0
+Italy,exports,cadmium,Metal                                             ,,,584.0,566.0,583.0,220.0,221.0,301.0,212.0,363.0
+Italy,exports,cadmium,Sulphide                                          ,,,,,104.0,,,29.0,35.0,23.0
+Italy,exports,cadmium,,450.0,686.0,,,,,,,,
+Japan,exports,cadmium,Metal                                             ,,,30.0,80.0,15.0,19.0,31.0,98.0,17.0,4.0
+Japan,exports,cadmium,Sulphide                                          ,,,,,2.0,8.0,14.0,9.0,11.0,9.0
+Japan,exports,cadmium,,255.0,13.0,,,,,,,,
+Kazakhstan,exports,cadmium,Metal                                             ,,,,,240.0,739.0,794.0,866.0,1216.0,
+Korea (Rep. of),exports,cadmium,Metal                                             ,,,804.0,461.0,1198.0,1274.0,773.0,1576.0,799.0,2120.0
+Korea (Rep. of),exports,cadmium,,874.0,669.0,,,,,,,,
+Mexico,exports,cadmium,Metal                                             ,,,590.0,808.0,617.0,693.0,661.0,1284.0,1215.0,1431.0
+Mexico,exports,cadmium,,691.0,521.0,,,,,,,,
+Namibia,exports,cadmium,Metal                                             ,,,38.0,10.0,31.0,33.0,9.0,,,
+Namibia,exports,cadmium,,45.0,69.0,,,,,,,,
+Netherlands,exports,cadmium,Metal                                             ,,,436.0,594.0,2040.0,544.0,711.0,858.0,1108.0,1206.0
+Netherlands,exports,cadmium,,500.0,513.0,,,,,,,,
+North Macedonia,exports,cadmium,Metal                                             ,,,,,,,42.0,36.0,134.0,164.0
+Norway,exports,cadmium,Metal                                             ,,,186.0,356.0,346.0,169.0,172.0,321.0,454.0,280.0
+Norway,exports,cadmium,,287.0,232.0,,,,,,,,
+Peru,exports,cadmium,Metal                                             ,,,331.0,,412.0,305.0,315.0,494.0,347.0,479.0
+Peru,exports,cadmium,,,,,,,,,,,
+Poland,exports,cadmium,Metal                                             ,,,15.0,1.0,12.0,,,,10.0,0.0
+Poland,exports,cadmium,Oxide                                             ,,,,,,,22.0,35.0,25.0,9.0
+Poland,exports,cadmium,,140.0,229.0,,,,,,,,
+Russia,exports,cadmium,Metal                                             ,,,,100.0,50.0,950.0,850.0,1070.0,650.0,270.0
+South Africa,exports,cadmium,Metal                                             ,,,,,,207.0,100.0,,,
+Soviet Union,exports,cadmium,,,,,,,,,,,
+Spain,exports,cadmium,Metal                                             ,,,,381.0,301.0,335.0,380.0,263.0,20.0,41.0
+Spain,exports,cadmium,,155.0,318.0,,,,,,,,
+Sweden,exports,cadmium,Oxide                                             ,,,,,,,,,15.0,87.0
+Thailand,exports,cadmium,Metal                                             ,,,,,722.0,2390.0,420.0,303.0,39.0,1.0
+USA,exports,cadmium,Metal                                             ,,,213.0,39.0,1468.0,1094.0,204.0,558.0,606.0,104.0
+USA,exports,cadmium,Sulphide                                          ,,,38.0,31.0,205.0,506.0,797.0,399.0,29.0,107.0
+USA,exports,cadmium,,702.0,460.0,,,,,,,,
+United Kingdom,exports,cadmium,Metal                                             ,,,308.0,134.0,134.0,299.0,174.0,18.0,28.0,215.0
+United Kingdom,exports,cadmium,,621.0,210.0,,,,,,,,
+Uzbekistan,exports,cadmium,Metal                                             ,,,,,,,10.0,170.0,150.0,
+Yugoslavia,exports,cadmium,,,,,,,,,,,
+Zaire,exports,cadmium,,110.0,,,,,,,,,

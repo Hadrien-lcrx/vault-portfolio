@@ -1,0 +1,18 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Canada,production,potash,Chloride                                          ,3173243.0,3572938.0,3927618.0,4261996.0,5480433.0,5435706.0,4995863.0,6088587.0,6109555.0,6704728.0
+Chile,production,potash,Nitrate                                           ,22200.0,26200.0,24000.0,25000.0,13000.0,12000.0,17900.0,11200.0,14900.0,21600.0
+China,production,potash,,,210000.0,280000.0,300000.0,300000.0,150000.0,12000.0,18000.0,21000.0,16000.0
+Congo,production,potash,,206267.0,430150.0,287000.0,269000.0,288000.0,286000.0,254000.0,83000.0,,
+France,production,potash,Chloride                                          ,1683670.0,1802380.0,1577530.0,2038636.0,,,,,,
+France,production,potash,Other fertiliser salts,55759.0,49131.0,46972.0,28018.0,,,,,,
+France,production,potash,Potassic salts                                    ,,,,,2275000.0,1920000.0,1640000.0,1678000.0,1928000.0,2075000.0
+German Democratic Rep,production,potash,Potassic salts                                    ,2419000.0,2445000.0,2458000.0,2556000.0,2864000.0,3019000.0,3161000.0,3229000.0,3323000.0,3395000.0
+German Federal Republic,production,potash,Kainite,,,,,,,,,,
+German Federal Republic,production,potash,Potassic salts                                    ,,,,,,2223000.0,2036000.0,2341000.0,2470000.0,2616000.0
+Israel,production,potash,Chloride                                          ,513000.0,550000.0,561000.0,582245.0,607000.0,716000.0,680000.0,707000.0,695000.0,730000.0
+Italy,production,potash,Potassic salts                                    ,241000.0,286000.0,216000.0,215000.0,245000.0,220000.0,203000.0,342567.0,248310.0,182429.0
+Soviet Union,production,potash,,4450000.0,5350000.0,5433000.0,5917000.0,6586000.0,7944000.0,8310000.0,8347000.0,8193000.0,6635000.0
+Spain,production,potash,Chloride                                          ,519938.0,508640.0,533187.0,474041.0,,,,,,
+Spain,production,potash,Potassic salts                                    ,,,,,495282.0,567040.0,630252.0,693789.0,722301.0,780632.0
+USA,production,potash,Potassic salts                                    ,2476000.0,2347000.0,2412000.0,2361000.0,2315000.0,2269000.0,2177000.0,2229000.0,2253000.0,2225000.0
+United Kingdom,production,potash,Chloride                                          ,,,,,11585.0,16615.0,48645.0,85365.0,157342.0,277684.0

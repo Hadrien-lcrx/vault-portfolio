@@ -1,0 +1,21 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Australia,production,tantalum_and_niobium_minerals,Tantalite                                         ,1300.0,1700.0,2300.0,2300.0,2400.0,2500.0,1400.0,890.0,940.0,140.0
+Brazil,production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,460.0,520.0,410.0,440.0,490.0,470.0,380.0,420.0,440.0,250.0
+Brazil,production,tantalum_and_niobium_minerals,Djalmaite                                         ,84.0,,,,,,,,,
+Brazil,production,tantalum_and_niobium_minerals,Pyrochlore                                        ,63117.0,70000.0,60000.0,66000.0,79000.0,146000.0,175000.0,215000.0,241000.0,276000.0
+Burundi,production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,31.0,123.0,72.0,24.0,23.0,43.0,16.0,52.0,117.0,44.0
+Canada,production,tantalum_and_niobium_minerals,Pyrochlore                                        ,5400.0,6700.0,8100.0,8100.0,8600.0,8800.0,9800.0,10000.0,10200.0,9500.0
+Canada,production,tantalum_and_niobium_minerals,Tantalite                                         ,190.0,277.0,215.0,203.0,209.0,233.0,204.0,167.0,161.0,88.0
+China,production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,217.0,357.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0,350.0
+"Congo, Democratic Republic",production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,,,130.0,113.0,74.0,124.0,52.0,267.0,509.0,490.0
+Ethiopia,production,tantalum_and_niobium_minerals,Tantalite                                         ,66.0,47.0,55.0,58.0,71.0,93.0,109.0,117.0,183.0,206.0
+Madagascar,production,tantalum_and_niobium_minerals,Columbite                                         ,,,0.0,,40.0,,,0.0,0.0,0.0
+Malaysia,production,tantalum_and_niobium_minerals,Struverite                                        ,969.0,8430.0,2298.0,2619.0,121.0,552.0,93.0,52.0,216.0,176.0
+Mozambique,production,tantalum_and_niobium_minerals,Tantalite                                         ,0.0,27.0,47.0,189.0,712.0,281.0,95.0,196.0,396.0,405.0
+Nigeria,production,tantalum_and_niobium_minerals,Columbite                                         ,,,,,,45.0,387.0,180.0,335.0,300.0
+Nigeria,production,tantalum_and_niobium_minerals,Tantalite                                         ,25.0,25.0,25.0,26.0,24.0,25.0,25.0,,,83.0
+Russia,production,tantalum_and_niobium_minerals,Nb content                                        ,,,,,,639.0,656.0,688.0,585.0,511.0
+Russia,production,tantalum_and_niobium_minerals,Ta content                                        ,,,,,,35.0,38.0,48.0,39.0,35.0
+Rwanda,production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,561.0,241.0,96.0,187.0,220.0,276.0,996.0,547.0,922.0,950.0
+Uganda,production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,3.0,11.0,6.0,16.0,,,,,,
+Zimbabwe,production,tantalum_and_niobium_minerals,Columbite-tantalite                               ,4.0,30.0,26.0,231.0,27.0,,,,,

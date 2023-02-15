@@ -1,0 +1,91 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Afghanistan,production,natural_gas,,300.0,300.0,2300.0,2300.0,2300.0,2200.0,2300.0,2300.0,2200.0,2500.0
+Albania,production,natural_gas,,700.0,140.0,100.0,82.0,52.0,28.0,23.0,18.0,16.0,13.0
+Algeria,production,natural_gas,,50640.0,54760.0,53246.0,53872.0,50300.0,58100.0,62130.0,71800.0,72519.0,81425.0
+Angola,production,natural_gas,,460.0,580.0,570.0,560.0,560.0,521.0,600.0,570.0,580.0,560.0
+Argentina,production,natural_gas,,19700.0,21957.0,21797.0,22619.0,23404.0,25941.0,28473.0,30319.0,32832.0,37616.0
+Australia,production,natural_gas,,20620.0,21694.0,23462.0,24457.0,28147.0,29761.0,29799.0,29876.0,30361.0,30755.0
+Austria,production,natural_gas,,1288.0,1329.0,1441.0,1488.0,1355.0,1482.0,1492.0,1428.0,1568.0,1741.0
+Azerbaijan,production,natural_gas,,,,7370.0,6340.0,6380.0,6644.0,6305.0,5960.0,5590.0,5997.0
+Bahrain,production,natural_gas,,6170.0,6315.0,7249.0,7646.0,,7702.0,7929.0,8070.0,8555.0,8782.0
+Bangladesh,production,natural_gas,,4754.0,4893.0,5337.0,5973.0,6338.0,7006.0,7520.0,7600.0,7800.0,7781.0
+Belarus,production,natural_gas,,,280.0,280.0,280.0,294.0,266.0,249.0,246.0,252.0,256.0
+Belgium,production,natural_gas,,0.0,0.0,,,,,,,,
+Bolivia,production,natural_gas,,3004.0,2987.0,3130.0,3100.0,3288.0,3294.0,3329.0,3016.0,3106.0,2612.0
+Brazil,production,natural_gas,,3443.0,3411.0,4000.0,4500.0,4500.0,4800.0,5500.0,6000.0,6300.0,6700.0
+Brunei,production,natural_gas,,8462.0,7850.0,8100.0,9959.0,10245.0,11185.0,11097.0,11099.0,10800.0,11300.0
+Bulgaria,production,natural_gas,,14.0,10.0,,67.0,8.0,23.0,19.0,38.0,33.0,27.0
+Burma,production,natural_gas,,953.0,900.0,894.0,1031.0,1301.0,1477.0,1625.0,1781.0,1750.0,2600.0
+Canada,production,natural_gas,,123228.0,129598.0,141365.0,155033.0,166533.0,176364.0,158676.0,161149.0,165210.0,170315.0
+Chile,production,natural_gas,,1921.0,1649.0,1750.0,1951.0,2185.0,2104.0,3632.0,3211.0,3218.0,2957.0
+China,production,natural_gas,,15298.0,16073.0,15788.0,16765.0,17563.0,17947.0,20114.0,22703.0,22321.0,25198.0
+Colombia,production,natural_gas,,4280.0,4400.0,4270.0,4700.0,4200.0,4400.0,4700.0,5900.0,6300.0,5200.0
+Croatia,production,natural_gas,,,,1820.0,2068.0,1792.0,1966.0,1786.0,1717.0,1570.0,1567.0
+Cuba,production,natural_gas,,,,,,,,,37.0,124.0,460.0
+Czech Republic,production,natural_gas,,,,0.0,106.0,154.0,165.0,146.0,118.0,137.0,143.0
+Czechoslovakia,production,natural_gas,,1227.0,592.0,370.0,,,,,,,
+Denmark,production,natural_gas,,2752.0,3509.0,3850.0,4266.0,4828.0,5161.0,6254.0,7694.0,7348.0,7741.0
+Ecuador,production,natural_gas,,,,,,,,,113.0,113.0,113.0
+Egypt,production,natural_gas,,8110.0,9080.0,9820.0,11300.0,11990.0,12430.0,13400.0,13500.0,13860.0,14700.0
+Equatorial Guinea,production,natural_gas,,,,,,0.0,0.0,0.0,44.0,78.0,83.0
+France,production,natural_gas,,2964.0,3370.0,3280.0,3563.0,3540.0,3356.0,2901.0,2586.0,2183.0,1940.0
+Gabon,production,natural_gas,,100.0,100.0,100.0,100.0,90.0,100.0,100.0,100.0,100.0,100.0
+Georgia,production,natural_gas,,,,,,,,3.0,0.0,0.0,0.0
+German Democratic Rep,production,natural_gas,,8500.0,,,,,,,,,
+German Federal Republic,production,natural_gas,,14554.0,,,,,,,,,
+Germany,production,natural_gas,,,21890.0,18800.0,18700.0,19378.0,20270.0,23211.0,22615.0,21967.0,22932.0
+Greece,production,natural_gas,,,,100.0,70.0,120.0,35.0,38.0,38.0,33.0,
+Hungary,production,natural_gas,,4932.0,5043.0,4932.0,5325.0,5462.0,5365.0,4757.0,4513.0,3958.0,3562.0
+India,production,natural_gas,,10245.0,12700.0,16116.0,16340.0,17339.0,20916.0,21262.0,19703.0,25706.0,26885.0
+Indonesia,production,natural_gas,,61137.0,65599.0,73132.0,75390.0,83297.0,84929.0,89669.0,90293.0,84370.0,70960.0
+Iran,production,natural_gas,,23710.0,26000.0,25000.0,27100.0,31800.0,35300.0,40210.0,47000.0,50000.0,56755.0
+Iraq,production,natural_gas,,4180.0,1100.0,2270.0,2550.0,3000.0,3400.0,3500.0,4300.0,2950.0,3180.0
+"Ireland, Republic of",production,natural_gas,,2320.0,2400.0,2300.0,2690.0,2710.0,2830.0,2740.0,2359.0,1742.0,1366.0
+Israel,production,natural_gas,,33.0,27.0,,,,,,,,
+Italy,production,natural_gas,,17000.0,17220.0,18109.0,19438.0,20341.0,20383.0,20048.0,19123.0,18981.0,17635.0
+Ivory Coast,production,natural_gas,,,,,,0.0,36.0,547.0,879.0,1000.0,1395.0
+Japan,production,natural_gas,,2043.0,2134.0,2170.0,2170.0,2274.0,2209.0,2230.0,2279.0,2301.0,2280.0
+Jordan,production,natural_gas,,,,,,0.0,0.0,235.0,291.0,300.0,282.0
+Kazakhstan,production,natural_gas,,,,6005.0,5416.0,4200.0,5500.0,6100.0,5569.0,4878.0,6585.0
+Kuwait,production,natural_gas,,5230.0,500.0,2620.0,4470.0,4700.0,4700.0,9300.0,9250.0,9491.0,8688.0
+Kyrgyzstan,production,natural_gas,,,,72.0,42.0,39.0,36.0,26.0,24.0,18.0,25.0
+Libya,production,natural_gas,,6200.0,,6770.0,6360.0,6390.0,6345.0,6420.0,6570.0,6360.0,5200.0
+Malaysia,production,natural_gas,,18520.0,21150.0,22550.0,24900.0,26130.0,29046.0,35166.0,40582.0,38485.0,40846.0
+Mexico,production,natural_gas,,26730.0,26521.0,26146.0,25440.0,25850.0,26610.0,29300.0,31700.0,38400.0,37100.0
+Morocco,production,natural_gas,,57.0,39.0,,,,,20.0,52.0,,44.0
+Netherlands,production,natural_gas,,72238.0,81666.0,82020.0,83652.0,79376.0,80164.0,90630.0,80282.0,77105.0,71702.0
+New Zealand,production,natural_gas,,4793.0,5273.0,5340.0,5187.0,4768.0,4497.0,5089.0,5424.0,4767.0,5559.0
+Nigeria,production,natural_gas,,3710.0,4750.0,4720.0,5150.0,4599.0,4885.0,5400.0,5100.0,5900.0,6950.0
+Norway,production,natural_gas,,27642.0,27425.0,29419.0,28867.0,30927.0,31449.0,41971.0,46726.0,48146.0,48479.0
+Oman,production,natural_gas,,1749.0,2400.0,2900.0,2800.0,2900.0,4100.0,4400.0,5000.0,5200.0,5500.0
+Pakistan,production,natural_gas,,14290.0,15130.0,15540.0,16526.0,17679.0,17791.0,18878.0,19761.0,19814.0,21095.0
+Papua New Guinea,production,natural_gas,,,,60.0,80.0,100.0,100.0,140.0,119.0,138.0,135.0
+Peru,production,natural_gas,,650.0,585.0,913.0,960.0,1003.0,1000.0,984.0,513.0,650.0,678.0
+Poland,production,natural_gas,,3867.0,4132.0,4019.0,4949.0,4635.0,4803.0,4754.0,4836.0,4852.0,4757.0
+Qatar,production,natural_gas,,6720.0,9300.0,12620.0,13500.0,13500.0,13500.0,13700.0,17400.0,19580.0,22050.0
+Romania,production,natural_gas,,29200.0,24800.0,22100.0,21318.0,19598.0,19016.0,18162.0,15916.0,14441.0,14617.0
+Russia,production,natural_gas,,,,640100.0,617600.0,606800.0,594900.0,575000.0,544000.0,564000.0,563000.0
+Saudi Arabia,production,natural_gas,,30500.0,32000.0,34000.0,35900.0,37700.0,38040.0,41340.0,45300.0,46720.0,46200.0
+Serbia and Montenegro,production,natural_gas,,,,846.0,962.0,824.0,906.0,671.0,688.0,731.0,679.0
+Sharjah,production,natural_gas,,,,,,,,,,,
+Slovakia,production,natural_gas,,,,0.0,264.0,288.0,349.0,307.0,284.0,260.0,219.0
+Slovenia,production,natural_gas,,,,,,13.0,18.0,13.0,12.0,13.0,6.0
+South Africa,production,natural_gas,,,,40.0,1860.0,,,,1500.0,1500.0,2000.0
+Soviet Union,production,natural_gas,,815300.0,810530.0,,,,,,,,
+Spain,production,natural_gas,,1330.0,1320.0,1233.0,644.0,188.0,422.0,467.0,174.0,114.0,148.0
+Syria,production,natural_gas,,2920.0,3500.0,3600.0,3700.0,4200.0,4400.0,4400.0,4400.0,4000.0,3900.0
+Taiwan,production,natural_gas,,1129.0,928.0,872.0,826.0,867.0,889.0,871.0,849.0,879.0,856.0
+Tajikistan,production,natural_gas,,,,100.0,50.0,30.0,40.0,50.0,40.0,30.0,40.0
+Thailand,production,natural_gas,,6520.0,8088.0,8627.0,9729.0,10726.0,11361.0,13274.0,16168.0,17598.0,19263.0
+Trinidad & Tobago,production,natural_gas,,5271.0,5705.0,5943.0,5871.0,6573.0,6635.0,7100.0,7380.0,8642.0,9423.0
+Tunisia,production,natural_gas,,378.0,387.0,402.0,366.0,354.0,300.0,300.0,300.0,300.0,300.0
+Turkey,production,natural_gas,,212.0,203.0,200.0,210.0,200.0,182.0,204.0,199.0,202.0,
+Turkmenistan,production,natural_gas,,,,56060.0,60910.0,35800.0,32300.0,35180.0,17318.0,13257.0,22943.0
+USA,production,natural_gas,,504314.0,501146.0,505170.0,512400.0,533000.0,526700.0,533900.0,535200.0,538700.0,533300.0
+Ukraine,production,natural_gas,,,,20900.0,19221.0,18316.0,18161.0,18408.0,18131.0,17967.0,18092.0
+United Arab Emirates,production,natural_gas,,21551.0,23046.0,24729.0,27463.0,22700.0,31340.0,35371.0,36240.0,37070.0,38990.0
+United Kingdom,production,natural_gas,,49551.0,55209.0,55945.0,65336.0,69584.0,75480.0,89896.0,91558.0,95506.0,105070.0
+Uzbekistan,production,natural_gas,,,,39930.0,41980.0,47200.0,48600.0,49000.0,51200.0,54790.0,55600.0
+Venezuela,production,natural_gas,,21966.0,21902.0,21617.0,23329.0,24675.0,29973.0,29731.0,30830.0,32335.0,27410.0
+Vietnam,production,natural_gas,,,,,,,,830.0,700.0,1100.0,1100.0
+Yugoslavia,production,natural_gas,,2659.0,1878.0,,,,,,,,

@@ -1,0 +1,8 @@
+Country,Activity,Commodity,Sub-commodity,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+China,production,gallium_primary,,,200.0,270.0,300.0,300.0,284.0,171.0,319.0,404.0,357.0
+Germany,production,gallium_primary,,,,,38.0,16.0,11.0,23.0,0.0,0.0,0.0
+Japan,production,gallium_primary,,5.0,5.0,8.0,8.0,8.0,6.0,3.0,3.0,3.0,3.0
+Kazakhstan,production,gallium_primary,,19.0,19.0,16.0,,,,,,,
+Korea (Rep. of),production,gallium_primary,,,,7.0,2.0,1.0,3.0,3.0,3.0,3.0,3.0
+Russia,production,gallium_primary,,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0
+Ukraine,production,gallium_primary,,,,,13.0,13.0,9.0,9.0,4.0,4.0,8.0

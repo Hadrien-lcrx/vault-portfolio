@@ -1,0 +1,37 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Afghanistan,production,asbestos,,,,,,,,13260.0,13000.0,13000.0,4000.0
+Argentina,production,asbestos,,35.0,393.0,908.0,620.0,896.0,1130.0,889.0,686.0,1069.0,1371.0
+Australia,production,asbestos,Chrysotile                                        ,739.0,756.0,16844.0,43529.0,30863.0,47922.0,60642.0,50601.0,62744.0,79721.0
+Brazil,production,asbestos,,14908.0,19262.0,32883.0,44868.0,61871.0,73978.0,92703.0,92773.0,122815.0,138457.0
+Bulgaria,production,asbestos,,3000.0,2900.0,1500.0,13000.0,25000.0,,300.0,500.0,700.0,600.0
+Canada,production,asbestos,Chrysotile                                        ,1507418.0,1482865.0,1530467.0,1690064.0,1643763.0,1055667.0,1536091.0,1517360.0,1421808.0,1492719.0
+China,production,asbestos,,170000.0,160000.0,200000.0,210000.0,150000.0,150000.0,150000.0,200000.0,250000.0,140000.0
+Cyprus,production,asbestos,Chrysotile                                        ,,,,,,31602.0,34518.0,36684.0,34359.0,35472.0
+Cyprus,production,asbestos,,28706.0,27697.0,29780.0,31706.0,28086.0,,,,,
+Czechoslovakia,production,asbestos,,,,,,,,,,575.0,564.0
+Egypt,production,asbestos,,449.0,70.0,441.0,329.0,283.0,479.0,1018.0,478.0,349.0,238.0
+Eswatini (Swaziland),production,asbestos,Chrysotile                                        ,,,,,,37601.0,39327.0,38046.0,36951.0,34294.0
+Eswatini (Swaziland),production,asbestos,,33057.0,35484.0,28683.0,36993.0,37917.0,,,,,
+Finland,production,asbestos,,13625.0,10360.0,6388.0,6337.0,5593.0,2791.0,,,,
+France,production,asbestos,,710.0,710.0,,,,,,,,
+India,production,asbestos,Amphibole                                         ,,,,,,20312.0,24119.0,22177.0,24623.0,32094.0
+India,production,asbestos,,10056.0,13581.0,12539.0,12460.0,23272.0,,,,,
+Italy,production,asbestos,,118536.0,119592.0,132718.0,149255.0,148099.0,146984.0,164788.0,149327.0,135401.0,143931.0
+Japan,production,asbestos,Amphibole                                         ,13144.0,9096.0,9639.0,8255.0,5130.0,4612.0,,,,
+Japan,production,asbestos,Chrysotile                                        ,8130.0,8830.0,4788.0,,,,7703.0,6307.0,5746.0,3362.0
+Korea (Rep. of),production,asbestos,,1372.0,2172.0,5279.0,5707.0,5710.0,4345.0,4762.0,6180.0,13616.0,14804.0
+Mexico,production,asbestos,,176.0,311.0,0.0,15.0,5.0,,,,,
+Mozambique,production,asbestos,,228.0,1430.0,544.0,566.0,,,0.0,0.0,0.0,789.0
+Philippines,production,asbestos,,1213.0,1700.0,,,,,,,,
+Portugal,production,asbestos,,202.0,127.0,0.0,127.0,,,,,,
+Rhodesia,production,asbestos,Chrysotile                                        ,,,,,,261542.0,281455.0,273194.0,248861.0,259891.0
+Rhodesia,production,asbestos,,80000.0,80000.0,80000.0,165000.0,165000.0,,,,,
+South Africa,production,asbestos,Amosite                                           ,97380.0,98464.0,102278.0,106477.0,94543.0,88411.0,78898.0,66983.0,40526.0,39058.0
+South Africa,production,asbestos,Anthophyllite,0.0,0.0,0.0,425.0,822.0,1912.0,1506.0,550.0,,
+South Africa,production,asbestos,Chrysotile                                        ,52801.0,61161.0,58512.0,69807.0,82430.0,99660.0,111025.0,111575.0,79511.0,91828.0
+South Africa,production,asbestos,Crocidolite                                       ,137235.0,159671.0,159838.0,155941.0,155477.0,164727.0,178411.0,200966.0,137171.0,118301.0
+Soviet Union,production,asbestos,,1066000.0,1152000.0,1220000.0,1280000.0,1360000.0,1900000.0,1850000.0,1900000.0,1945000.0,2020000.0
+Taiwan,production,asbestos,,2842.0,2327.0,2687.0,5308.0,2957.0,1737.0,853.0,673.0,2031.0,2957.0
+Turkey,production,asbestos,,3312.0,3888.0,4932.0,4775.0,15587.0,15496.0,9941.0,3975.0,13380.0,38967.0
+USA,production,asbestos,,113683.0,118734.0,119443.0,136110.0,98966.0,89497.0,104873.0,92256.0,93097.0,93354.0
+Yugoslavia,production,asbestos,,12104.0,15432.0,18191.0,12745.0,12867.0,12336.0,12830.0,9036.0,10304.0,9959.0

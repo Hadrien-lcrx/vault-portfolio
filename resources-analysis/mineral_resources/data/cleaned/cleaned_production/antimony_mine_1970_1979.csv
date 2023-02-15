@@ -1,0 +1,31 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Algeria,production,antimony_mine,,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0
+Australia,production,antimony_mine,,930.0,1361.0,1366.0,1546.0,1406.0,2205.0,1892.0,2089.0,1580.0,1539.0
+Austria,production,antimony_mine,,610.0,467.0,535.0,577.0,540.0,555.0,568.0,561.0,550.0,655.0
+Bolivia,production,antimony_mine,,11400.0,11672.0,13105.0,12383.0,11961.0,13967.0,17409.0,15156.0,12672.0,13019.0
+Brazil,production,antimony_mine,,,,,,,,38.0,367.0,274.0,73.0
+Burma,production,antimony_mine,,65.0,128.0,131.0,143.0,166.0,278.0,455.0,530.0,590.0,680.0
+Canada,production,antimony_mine,,330.0,147.0,308.0,2400.0,2500.0,2600.0,3400.0,3200.0,3005.0,3025.0
+China,production,antimony_mine,,12000.0,12000.0,12000.0,13000.0,12000.0,12000.0,8400.0,10000.0,10000.0,10000.0
+Czechoslovakia,production,antimony_mine,,600.0,600.0,855.0,720.0,706.0,724.0,285.0,300.0,510.0,530.0
+France,production,antimony_mine,,,,,,,,,,0.0,0.0
+Guatemala,production,antimony_mine,,261.0,885.0,900.0,962.0,435.0,856.0,1120.0,916.0,230.0,638.0
+Honduras,production,antimony_mine,,115.0,13.0,30.0,96.0,80.0,103.0,117.0,70.0,79.0,45.0
+India,production,antimony_mine,,526.0,605.0,894.0,517.0,393.0,238.0,404.0,186.0,,
+Italy,production,antimony_mine,,1299.0,1175.0,1201.0,1358.0,1177.0,1028.0,1009.0,808.0,931.0,950.0
+Japan,production,antimony_mine,,6.0,3.0,,,,,,,,
+Korea (Rep. of),production,antimony_mine,,0.0,0.0,9.0,11.0,8.0,40.0,10.0,0.0,,
+Malaysia,production,antimony_mine,,180.0,288.0,205.0,170.0,274.0,352.0,361.0,264.0,291.0,307.0
+Mexico,production,antimony_mine,,4468.0,3361.0,2976.0,2388.0,2407.0,3137.0,2546.0,2698.0,2457.0,2872.0
+Morocco,production,antimony_mine,,1822.0,1972.0,832.0,1110.0,1780.0,1260.0,1426.0,1443.0,1483.0,850.0
+Pakistan,production,antimony_mine,,,30.0,23.0,8.0,33.0,196.0,121.0,94.0,104.0,31.0
+Peru,production,antimony_mine,,1167.0,687.0,749.0,686.0,317.0,122.0,603.0,819.0,745.0,546.0
+Portugal,production,antimony_mine,,0.0,0.0,,,,,,,,
+Rhodesia,production,antimony_mine,,,,,,300.0,400.0,279.0,551.0,121.0,158.0
+South Africa,production,antimony_mine,,17644.0,14638.0,14706.0,15780.0,15380.0,15958.0,10714.0,11831.0,9095.0,11651.0
+Soviet Union,production,antimony_mine,,7500.0,7500.0,7500.0,7500.0,7500.0,7500.0,7700.0,7700.0,7000.0,7500.0
+Spain,production,antimony_mine,,79.0,111.0,138.0,114.0,134.0,80.0,157.0,331.0,442.0,501.0
+Thailand,production,antimony_mine,,2911.0,2833.0,5865.0,4217.0,5232.0,3870.0,4534.0,3031.0,3548.0,3625.0
+Turkey,production,antimony_mine,,2770.0,2834.0,2705.0,2700.0,2925.0,1550.0,1784.0,1715.0,1984.0,495.0
+USA,production,antimony_mine,,1568.0,1681.0,444.0,494.0,600.0,804.0,257.0,553.0,1213.0,844.0
+Yugoslavia,production,antimony_mine,,1999.0,2002.0,1975.0,2055.0,2208.0,2183.0,2021.0,2248.0,2676.0,2037.0

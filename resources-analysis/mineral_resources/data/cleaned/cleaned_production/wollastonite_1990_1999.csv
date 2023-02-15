@@ -1,0 +1,9 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+China,production,wollastonite,,60000.0,70000.0,100000.0,120000.0,,100000.0,200000.0,200000.0,300000.0,391060.0
+Czech Republic,production,wollastonite,,,,0.0,0.0,0.0,800.0,800.0,,,
+Finland,production,wollastonite,,29628.0,27829.0,27928.0,26656.0,27757.0,29592.0,22304.0,20700.0,16700.0,13883.0
+India,production,wollastonite,,61386.0,61358.0,54183.0,62029.0,68920.0,96017.0,93060.0,97742.0,94700.0,117094.0
+Mexico,production,wollastonite,,11442.0,13877.0,27392.0,35800.0,29000.0,20194.0,28365.0,20655.0,41264.0,44126.0
+Namibia,production,wollastonite,,,,,,1309.0,967.0,248.0,194.0,267.0,347.0
+South Africa,production,wollastonite,,,,,,,,0.0,0.0,646.0,200.0
+USA,production,wollastonite,,100000.0,110000.0,120000.0,120000.0,130000.0,130000.0,150000.0,150000.0,,

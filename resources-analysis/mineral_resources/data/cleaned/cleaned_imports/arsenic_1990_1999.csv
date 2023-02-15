@@ -1,0 +1,48 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,imports,arsenic,Metallic arsenic                                  ,,,,,89.0,22.0,79.0,124.0,148.0,61.0
+Australia,imports,arsenic,White arsenic                                     ,966.0,962.0,1066.0,1062.0,1190.0,1316.0,1188.0,1234.0,2122.0,
+Austria,imports,arsenic,Metallic arsenic                                  ,22.0,17.0,22.0,14.0,21.0,20.0,18.0,18.0,22.0,1.0
+Belgium-Luxembourg,imports,arsenic,Metallic arsenic                                  ,97.0,93.0,95.0,97.0,90.0,,32.0,20.0,40.0,46.0
+Brazil,imports,arsenic,Metallic arsenic                                  ,,,,,,,,,,18.0
+Brazil,imports,arsenic,White arsenic                                     ,453.0,396.0,,382.0,559.0,472.0,317.0,,,
+Canada,imports,arsenic,Metallic arsenic                                  ,,,,,43.0,76.0,193.0,138.0,668.0,1711.0
+China,imports,arsenic,Metallic arsenic                                  ,,,,,,,,,,0.0
+Czech Republic,imports,arsenic,Metallic arsenic                                  ,,,,,,,,,15.0,18.0
+Denmark,imports,arsenic,Metallic arsenic                                  ,,,,,,,,829.0,920.0,
+France,imports,arsenic,Metallic arsenic                                  ,260.0,289.0,374.0,85.0,94.0,259.0,79.0,76.0,72.0,68.0
+German Federal Republic,imports,arsenic,Metallic arsenic                                  ,29.0,,,,,,,,,
+Germany,imports,arsenic,Metallic arsenic                                  ,,68.0,92.0,,8.0,0.0,42.0,19.0,32.0,25.0
+Greece,imports,arsenic,Metallic arsenic                                  ,,,,,,,,11.0,21.0,26.0
+Hong Kong,imports,arsenic,Metallic arsenic                                  ,,,,,,,,69.0,71.0,58.0
+Hong Kong,imports,arsenic,White arsenic                                     ,658.0,4676.0,,,,,,,,
+India,imports,arsenic,Metallic arsenic                                  ,41.0,103.0,257.0,503.0,403.0,192.0,48.0,109.0,183.0,310.0
+India,imports,arsenic,White arsenic                                     ,211.0,504.0,690.0,220.0,897.0,917.0,1162.0,1328.0,2170.0,
+Indonesia,imports,arsenic,Metallic arsenic                                  ,,,,,,,98.0,143.0,123.0,256.0
+Indonesia,imports,arsenic,White arsenic                                     ,2.0,160.0,139.0,140.0,134.0,140.0,,,,
+"Ireland, Republic of",imports,arsenic,Metallic arsenic                                  ,,,,,,,,20.0,19.0,20.0
+Italy,imports,arsenic,Metallic arsenic                                  ,208.0,164.0,129.0,166.0,82.0,,,76.0,102.0,77.0
+Japan,imports,arsenic,Metallic arsenic                                  ,95.0,336.0,12.0,40.0,28.0,35.0,0.0,78.0,0.0,103.0
+Japan,imports,arsenic,White arsenic                                     ,362.0,234.0,,,,,,,,
+Korea (Rep. of),imports,arsenic,Metallic arsenic                                  ,,,,24.0,51.0,99.0,34.0,103.0,48.0,85.0
+Netherlands,imports,arsenic,Metallic arsenic                                  ,30.0,0.0,0.0,58.0,75.0,93.0,,,75.0,92.0
+New Zealand,imports,arsenic,Metallic arsenic                                  ,143.0,,9.0,8.0,29.0,28.0,14.0,14.0,,21.0
+New Zealand,imports,arsenic,White arsenic                                     ,,,,,,,,,,
+Norway,imports,arsenic,Metallic arsenic                                  ,19.0,32.0,24.0,24.0,20.0,553.0,36.0,36.0,36.0,61.0
+Philippines,imports,arsenic,Metallic arsenic                                  ,,,,,,,,,22.0,
+Philippines,imports,arsenic,White arsenic                                     ,,108.0,,,,,,,,
+Poland,imports,arsenic,Metallic arsenic                                  ,,,9.0,62.0,42.0,70.0,35.0,42.0,40.0,25.0
+Poland,imports,arsenic,White arsenic                                     ,,,,,,,95.0,76.0,64.0,74.0
+South Africa,imports,arsenic,Metallic arsenic                                  ,31.0,44.0,,,,,,,,
+Spain,imports,arsenic,Metallic arsenic                                  ,30.0,35.0,100.0,58.0,104.0,124.0,,73.0,93.0,112.0
+Sweden,imports,arsenic,Metallic arsenic                                  ,29.0,7.0,11.0,21.0,14.0,,,13.0,15.0,20.0
+Switzerland,imports,arsenic,Metallic arsenic                                  ,,,,,16.0,3.0,6.0,2.0,8.0,3.0
+Taiwan,imports,arsenic,White arsenic                                     ,245.0,223.0,411.0,607.0,278.0,0.0,40.0,99.0,159.0,99.0
+Thailand,imports,arsenic,Metallic arsenic                                  ,37.0,20.0,26.0,38.0,2.0,34.0,10.0,36.0,24.0,56.0
+Thailand,imports,arsenic,White arsenic                                     ,,,,,,,,,,
+Turkey,imports,arsenic,Metallic arsenic                                  ,,,,,,,,,,13.0
+Turkey,imports,arsenic,White arsenic                                     ,,,,51.0,21.0,52.0,79.0,403.0,,1.0
+USA,imports,arsenic,Metallic arsenic                                  ,796.0,1018.0,717.0,781.0,1349.0,576.0,252.0,909.0,1000.0,1298.0
+USA,imports,arsenic,White arsenic                                     ,26257.0,27142.0,30672.0,27514.0,26791.0,29037.0,27969.0,29996.0,38636.0,29131.0
+United Kingdom,imports,arsenic,Metallic arsenic                                  ,80.0,268.0,89.0,268.0,120.0,62.0,83.0,122.0,81.0,108.0
+Uruguay,imports,arsenic,White arsenic                                     ,39.0,42.0,,,,,,,,
+Yugoslavia,imports,arsenic,Metallic arsenic                                  ,27.0,,,,,,,,,

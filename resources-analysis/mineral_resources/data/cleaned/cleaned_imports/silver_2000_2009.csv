@@ -1,0 +1,84 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Albania,imports,silver,Metal                                             ,,,,,492.0,495.0,873.0,3225.0,7571.0,8832.0
+Argentina,imports,silver,Metal                                             ,70103.0,62035.0,62629.0,,,,,,,
+Australia,imports,silver,Metal                                             ,,,,,,,,,,
+Austria,imports,silver,Metal                                             ,136700.0,138500.0,100900.0,109300.0,127600.0,127900.0,168300.0,151600.0,441900.0,431500.0
+Belgium,imports,silver,Metal                                             ,,,,,,,258700.0,418100.0,351300.0,225700.0
+Belgium,imports,silver,Ores & concentrates                               ,,,,,,,536600.0,195900.0,253700.0,1567600.0
+Belgium-Luxembourg,imports,silver,Metal                                             ,928500.0,875300.0,652200.0,735100.0,476800.0,175200.0,,,,
+Belgium-Luxembourg,imports,silver,Ores & concentrates                               ,,,200.0,84400.0,1090.0,625.0,,,,
+Bolivia,imports,silver,Metal                                             ,,,73.0,,,,,,,
+Brazil,imports,silver,Metal                                             ,218466.0,300980.0,418944.0,,,,,,,
+Bulgaria,imports,silver,Metal                                             ,,,,,,,,10521.0,2189.0,871.0
+Canada,imports,silver,Metal                                             ,,158610.0,211618.0,,,,,,,
+Canada,imports,silver,Ores & concentrates                               ,421860.0,,,,,,,,,
+Chile,imports,silver,Metal                                             ,595.0,,,,,,,,,
+China,imports,silver,Metal                                             ,283739.0,315523.0,407288.0,,,,,,,
+China,imports,silver,Ores & concentrates                               ,290645.0,1442835.0,2108565.0,,,,,,,
+Costa Rica,imports,silver,Metal                                             ,392.0,3218.0,222.0,,,,,,,
+Croatia,imports,silver,Metal                                             ,4292.0,4573.0,4000.0,3500.0,3340.0,3837.0,5043.0,3684.0,3293.0,2353.0
+Cyprus,imports,silver,Metal                                             ,11631.0,9624.0,8614.0,8461.0,5257.0,5675.0,2866.0,3746.0,2863.0,1993.0
+Czech Republic,imports,silver,Metal                                             ,,,173805.0,238756.0,2573092.0,103373.0,602527.0,647818.0,1557076.0,163316.0
+Czech Republic,imports,silver,Ores & concentrates                               ,,,,,,,,,,5700.0
+Denmark,imports,silver,Metal                                             ,23506.0,19137.0,51291.0,49704.0,18909.0,18173.0,26104.0,62049.0,51992.0,1873817.0
+Estonia,imports,silver,Metal                                             ,8175.0,8089.0,9575.0,8892.0,10138.0,133123.0,10100.0,3100.0,5800.0,2900.0
+Faeroe Islands,imports,silver,Metal                                             ,328.0,,,,,,,,,
+Finland,imports,silver,Metal                                             ,87460.0,89015.0,87543.0,56470.0,75350.0,70623.0,64504.0,55400.0,44800.0,47900.0
+France,imports,silver,Metal                                             ,1439100.0,1421400.0,954400.0,970315.0,675245.0,731182.0,734679.0,643280.0,544821.0,435001.0
+France,imports,silver,Ores & concentrates                               ,,,17500.0,,19800.0,1955.0,16300.0,39800.0,21300.0,4279.0
+Germany,imports,silver,Metal                                             ,1584400.0,1894000.0,1844300.0,2185300.0,1434200.0,1861800.0,2227600.0,2565300.0,2668900.0,1784960.0
+Germany,imports,silver,Ores & concentrates                               ,,,,,,,1323500.0,859400.0,6024500.0,2581290.0
+Greece,imports,silver,Metal                                             ,39023.0,25686.0,38516.0,49225.0,95318.0,1059816.0,46241.0,1039000.0,276100.0,31300.0
+Hong Kong,imports,silver,Metal                                             ,464657.0,1710307.0,1585135.0,,,,,,,
+Hungary,imports,silver,Metal                                             ,17843.0,19541.0,15444.0,17697.0,33036.0,15711.0,206137.0,14581.0,8354.0,128985.0
+Iceland,imports,silver,Metal                                             ,700.0,500.0,300.0,471.0,717.0,544.0,763.0,1388.0,858.0,1096.0
+India,imports,silver,Metal                                             ,3717485.0,3030652.0,3069120.0,,,,,,,
+Indonesia,imports,silver,Metal                                             ,43557.0,10251.0,20060.0,,,,,,,
+"Ireland, Republic of",imports,silver,Metal                                             ,3115.0,2940.0,2960.0,2247.0,2709.0,2611.0,5147.0,1045.0,29530.0,5316.0
+"Ireland, Republic of",imports,silver,Ores & concentrates                               ,,,,,30.0,,18974.0,,,
+Italy,imports,silver,Metal                                             ,2226980.0,2030362.0,1705431.0,1724000.0,1776385.0,1635765.0,1583508.0,1445303.0,1167457.0,881205.0
+Italy,imports,silver,Ores & concentrates                               ,,,,546.0,1428.0,2378.0,67952.0,1002.0,0.0,15.0
+Japan,imports,silver,Metal                                             ,2051348.0,1874511.0,1467832.0,,,,,,,
+Japan,imports,silver,Ores & concentrates                               ,14189000.0,14872000.0,10152000.0,,,,,,,
+Japan,imports,silver,Waste & scrap                                     ,10977147.0,11012030.0,9784649.0,,,,,,,
+Jordan,imports,silver,Metal                                             ,248.0,462.0,0.0,,,,,,,
+Kazakhstan,imports,silver,Metal                                             ,,,161.0,,,,,,,
+Korea (Rep. of),imports,silver,Metal                                             ,264421.0,217444.0,267505.0,,,,,,,
+Latvia,imports,silver,Metal                                             ,,,,,0.0,189912.0,16.0,1450.0,1174.0,556.0
+Lithuania,imports,silver,Metal                                             ,,,3058.0,1771.0,5885.0,3943.0,4500.0,5200.0,6900.0,5800.0
+Luxembourg,imports,silver,Metal                                             ,,,,,,,18344.0,26083.0,7061.0,3738.0
+Malta,imports,silver,Metal                                             ,,,,872.0,1031.0,188.0,1465.0,783.0,5455.0,1090.0
+Mexico,imports,silver,Metal                                             ,138105.0,231422.0,,,,,,,,
+Mexico,imports,silver,Ores & concentrates                               ,3780235.0,,,,,,,,,
+Netherlands,imports,silver,Metal                                             ,,,131021.0,140415.0,139218.0,139625.0,263049.0,229637.0,265925.0,218279.0
+New Zealand,imports,silver,Metal                                             ,,23996.0,49604.0,,,,,,,
+North Macedonia,imports,silver,Metal                                             ,,,3509.0,2986.0,3725.0,3813.0,3901.0,3612.0,3807.0,2229.0
+Norway,imports,silver,Metal                                             ,128551.0,84784.0,60995.0,72647.0,86037.0,90331.0,64511.0,62077.0,67398.0,47040.0
+Norway,imports,silver,Ores & concentrates                               ,,,,,3118000.0,,8200.0,59000.0,200.0,5700.0
+Oman,imports,silver,Metal                                             ,1043264.0,,21554.0,,,,,,,
+Panama,imports,silver,Metal                                             ,7501.0,2472.0,2748.0,,,,,,,
+Poland,imports,silver,Metal                                             ,22562.0,22372.0,18297.0,36266.0,34563.0,40100.0,28800.0,77000.0,95200.0,122900.0
+Portugal,imports,silver,Metal                                             ,,599.0,64.0,2520.0,2237.0,54309.0,36450.0,30616.0,22678.0,18602.0
+Romania,imports,silver,Metal                                             ,,,7700.0,10900.0,10900.0,17700.0,18600.0,7700.0,9400.0,8800.0
+Saudi Arabia,imports,silver,Metal                                             ,6000.0,,12587.0,,,,,,,
+Singapore,imports,silver,Metal                                             ,637232.0,475383.0,565975.0,,,,,,,
+Slovakia,imports,silver,Metal                                             ,13002.0,,13268.0,13073.0,14584.0,57439.0,6400.0,12200.0,8200.0,9000.0
+Slovenia,imports,silver,Metal                                             ,36769.0,32378.0,35827.0,36253.0,306403.0,42380.0,19700.0,27800.0,45000.0,17800.0
+South Africa,imports,silver,Metal                                             ,47487.0,48922.0,42326.0,,,,,,,
+Spain,imports,silver,Metal                                             ,941883.0,175430.0,307864.0,133844.0,158529.0,106596.0,134673.0,126668.0,1547747.0,754262.0
+Spain,imports,silver,Ores & concentrates                               ,31406.0,43638.0,75862.0,59205.0,54295.0,59653.0,56421.0,58344.0,75633.0,66088.0
+Sri Lanka,imports,silver,Metal                                             ,21381.0,1196.0,2122.0,,,,,,,
+Sweden,imports,silver,Metal                                             ,148000.0,153000.0,116000.0,111000.0,161000.0,151000.0,137000.0,162900.0,122200.0,85300.0
+Sweden,imports,silver,Ores & concentrates                               ,,,,,15000.0,,,21000.0,2466000.0,2330100.0
+Switzerland,imports,silver,Metal                                             ,2748848.0,1476601.0,1028138.0,746184.0,1082664.0,1484207.0,1306866.0,849037.0,1520531.0,2136092.0
+Switzerland,imports,silver,Ores & concentrates                               ,,,,462800.0,141000.0,309400.0,792000.0,39800.0,9600.0,100900.0
+Taiwan,imports,silver,Metal                                             ,480119.0,393251.0,529949.0,,,,,,,
+Thailand,imports,silver,Metal                                             ,1911529.0,851527.0,998844.0,,,,,,,
+Tunisia,imports,silver,Metal                                             ,,,29331.0,,,,,,,
+Turkey,imports,silver,Metal                                             ,136321.0,90014.0,169098.0,199226.0,269009.0,409844.0,108588.0,996239.0,154639.0,57700.0
+USA,imports,silver,Metal                                             ,4595230.0,3517800.0,4674101.0,,,,,,,
+USA,imports,silver,Waste & scrap                                     ,1122018.0,1110323.0,815773.0,,,,,,,
+United Kingdom,imports,silver,Metal                                             ,2541673.0,3471871.0,3780907.0,2484101.0,2105057.0,1485290.0,7316639.0,3635563.0,3943638.0,6649190.0
+United Kingdom,imports,silver,Ores & concentrates                               ,,,,,306311.0,12640.0,249.0,8283.0,8332.0,1106.0
+United Kingdom,imports,silver,Waste & scrap                                     ,4887.0,4472.0,4074.0,2952.0,2488771.0,2282562.0,2741705.0,3049452.0,4222712.0,3311165.0
+Uruguay,imports,silver,Metal                                             ,,,3714.0,,,,,,,

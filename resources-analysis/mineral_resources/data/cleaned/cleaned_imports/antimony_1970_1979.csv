@@ -1,0 +1,83 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Algeria,imports,antimony,Metal                                             ,,,46.0,41.0,77.0,53.0,30.0,115.0,35.0,262.0
+Argentina,imports,antimony,Ores & concentrates                               ,67.0,388.0,550.0,319.0,322.0,580.0,533.0,368.0,220.0,399.0
+Australia,imports,antimony,Metal                                             ,66.0,27.0,40.0,117.0,73.0,497.0,32.0,58.0,87.0,51.0
+Austria,imports,antimony,Metal                                             ,,,,,48.0,97.0,171.0,92.0,52.0,56.0
+Austria,imports,antimony,Regulus,45.0,103.0,144.0,119.0,,,,,,
+Belgium-Luxembourg,imports,antimony,Metal                                             ,,,,,72.0,222.0,210.0,550.0,230.0,335.0
+Belgium-Luxembourg,imports,antimony,Ores & concentrates                               ,6520.0,8245.0,8459.0,12024.0,8969.0,8707.0,11170.0,6823.0,5179.0,6662.0
+Belgium-Luxembourg,imports,antimony,Oxide                                             ,125.0,49.0,57.0,138.0,196.0,93.0,147.0,104.0,110.0,240.0
+Belgium-Luxembourg,imports,antimony,Regulus,4.0,36.0,50.0,352.0,,,,,,
+Brazil,imports,antimony,Metal                                             ,,,135.0,126.0,209.0,47.0,129.0,81.0,284.0,177.0
+Brazil,imports,antimony,Ores & concentrates                               ,96.0,374.0,600.0,452.0,1738.0,1597.0,1721.0,494.0,655.0,1641.0
+Brazil,imports,antimony,Oxide                                             ,170.0,131.0,200.0,354.0,274.0,225.0,340.0,386.0,392.0,597.0
+Brazil,imports,antimony,Regulus,48.0,284.0,,,,,,,,
+Brazil,imports,antimony,Sulphide                                          ,57.0,11.0,9.0,24.0,42.0,8.0,3.0,3.0,5.0,9.0
+Bulgaria,imports,antimony,Metal                                             ,,,,,,,,300.0,800.0,400.0
+Canada,imports,antimony,Oxide                                             ,383.0,268.0,467.0,675.0,796.0,395.0,734.0,626.0,907.0,794.0
+Chile,imports,antimony,Regulus,28.0,56.0,21.0,,,,,,,
+Colombia,imports,antimony,Regulus,7.0,7.0,8.0,21.0,,,,,,
+Denmark,imports,antimony,Metal                                             ,,,,,46.0,12.0,13.0,21.0,9.0,24.0
+Denmark,imports,antimony,Oxide                                             ,,,,,22.0,13.0,23.0,10.0,27.0,26.0
+Denmark,imports,antimony,Regulus,12.0,75.0,83.0,23.0,,,,,,
+Finland,imports,antimony,Metal                                             ,,,,,77.0,8.0,6.0,5.0,39.0,35.0
+France,imports,antimony,Crude & regulus,362.0,801.0,1119.0,1269.0,,,,,,
+France,imports,antimony,Metal                                             ,,,,,2010.0,527.0,563.0,451.0,818.0,886.0
+France,imports,antimony,Ores & concentrates                               ,4430.0,5075.0,4643.0,6286.0,8184.0,5045.0,10829.0,7679.0,9984.0,10794.0
+France,imports,antimony,Oxide                                             ,,,,,451.0,407.0,193.0,318.0,454.0,434.0
+German Federal Republic,imports,antimony,Metal                                             ,,,,,924.0,841.0,1064.0,761.0,747.0,567.0
+German Federal Republic,imports,antimony,Ores & concentrates                               ,2048.0,3269.0,3326.0,3012.0,3369.0,2129.0,3514.0,2578.0,3040.0,3126.0
+German Federal Republic,imports,antimony,Oxide                                             ,1565.0,1223.0,2316.0,3479.0,2819.0,2393.0,3010.0,3243.0,3406.0,3896.0
+German Federal Republic,imports,antimony,Regulus,1826.0,1261.0,1363.0,1377.0,,,,,,
+Greece,imports,antimony,Metal                                             ,,,,,17.0,21.0,40.0,40.0,63.0,13.0
+Greece,imports,antimony,Regulus,10.0,15.0,29.0,14.0,,,,,,
+India,imports,antimony,Metal                                             ,,,,,1.0,11.0,46.0,526.0,811.0,450.0
+India,imports,antimony,Ores & concentrates                               ,699.0,1640.0,1334.0,1240.0,879.0,724.0,1523.0,1453.0,106.0,
+India,imports,antimony,Oxide                                             ,52.0,99.0,59.0,47.0,24.0,42.0,68.0,107.0,114.0,67.0
+India,imports,antimony,Regulus,2.0,306.0,91.0,26.0,,,,,,
+Italy,imports,antimony,Metal                                             ,,,,,132.0,185.0,230.0,121.0,152.0,122.0
+Italy,imports,antimony,Ores & concentrates                               ,971.0,855.0,1464.0,2688.0,2326.0,728.0,1090.0,720.0,,
+Italy,imports,antimony,Oxide                                             ,393.0,517.0,365.0,545.0,504.0,229.0,363.0,437.0,406.0,626.0
+Italy,imports,antimony,Regulus,145.0,140.0,203.0,173.0,,,,,,
+Japan,imports,antimony,Metal                                             ,,,,,589.0,454.0,1055.0,1239.0,1611.0,3202.0
+Japan,imports,antimony,Ores & concentrates                               ,17344.0,10197.0,13312.0,13959.0,10857.0,9012.0,12703.0,7501.0,6553.0,6702.0
+Japan,imports,antimony,Oxide                                             ,,,,,,,,,0.0,0.0
+Japan,imports,antimony,Regulus,20.0,0.0,262.0,1248.0,,,,,,
+Japan,imports,antimony,Sulphide                                          ,33.0,3.0,28.0,35.0,3.0,0.0,,41.0,43.0,16.0
+Korea (Rep. of),imports,antimony,Ores & concentrates                               ,,,,,,,,,192.0,480.0
+Malaysia,imports,antimony,Metal                                             ,,,27.0,16.0,31.0,30.0,60.0,52.0,75.0,67.0
+Mexico,imports,antimony,Oxide                                             ,4.0,10.0,10.0,15.0,42.0,21.0,41.0,37.0,63.0,
+Morocco,imports,antimony,Metal                                             ,,,13.0,36.0,7.0,4.0,12.0,9.0,2.0,9.0
+Morocco,imports,antimony,Regulus,5.0,5.0,,,,,,,,
+Netherlands,imports,antimony,Metal                                             ,,,,,64.0,43.0,47.0,128.0,90.0,132.0
+Netherlands,imports,antimony,Oxide                                             ,633.0,325.0,419.0,739.0,678.0,466.0,863.0,897.0,1059.0,1141.0
+Netherlands,imports,antimony,Regulus,159.0,55.0,99.0,110.0,,,,,,
+Norway,imports,antimony,Metal                                             ,,,,,35.0,52.0,40.0,17.0,22.0,28.0
+Norway,imports,antimony,Regulus,21.0,19.0,44.0,88.0,,,,,,
+Romania,imports,antimony,Metal                                             ,700.0,1200.0,900.0,1100.0,,,,,,
+Soviet Union,imports,antimony,Metal                                             ,,,,,,,,,,700.0
+Spain,imports,antimony,Metal                                             ,,,,,317.0,137.0,99.0,321.0,126.0,199.0
+Spain,imports,antimony,Ores & concentrates                               ,432.0,352.0,550.0,306.0,1709.0,335.0,992.0,1054.0,564.0,664.0
+Spain,imports,antimony,Oxide                                             ,38.0,116.0,119.0,139.0,103.0,123.0,237.0,202.0,307.0,242.0
+Spain,imports,antimony,Regulus,245.0,204.0,295.0,367.0,,,,,,
+Sweden,imports,antimony,Metal                                             ,,,,,22.0,47.0,25.0,25.0,21.0,19.0
+Sweden,imports,antimony,Regulus,194.0,189.0,65.0,44.0,,,,,,
+Switzerland,imports,antimony,Metal                                             ,,,,,62.0,122.0,160.0,137.0,126.0,28.0
+Switzerland,imports,antimony,Regulus,154.0,159.0,212.0,95.0,,,,,,
+USA,imports,antimony,Crude,16.0,29.0,,,,,,,,
+USA,imports,antimony,Liquated,,,71.0,46.0,78.0,67.0,37.0,231.0,54.0,45.0
+USA,imports,antimony,Metal                                             ,,,2214.0,766.0,2544.0,2468.0,2584.0,2417.0,4015.0,3376.0
+USA,imports,antimony,Ores & concentrates                               ,31237.0,20079.0,15614.0,15131.0,13295.0,18811.0,19001.0,7060.0,7867.0,14283.0
+USA,imports,antimony,Oxide                                             ,3861.0,2532.0,4565.0,4247.0,5727.0,8937.0,10533.0,8714.0,9702.0,12384.0
+USA,imports,antimony,Regulus,1360.0,1731.0,,,,,,,,
+United Kingdom,imports,antimony,Metal                                             ,,,,,260.0,398.0,116.0,349.0,317.0,413.0
+United Kingdom,imports,antimony,Ores & concentrates                               ,12000.0,5400.0,,,,,,828.0,,11600.0
+United Kingdom,imports,antimony,Oxide                                             ,14.0,6.0,3.0,42.0,196.0,98.0,142.0,,253.0,272.0
+United Kingdom,imports,antimony,Refined & regulus,33.0,60.0,98.0,168.0,,,,,,
+United Kingdom,imports,antimony,Sulphide                                          ,0.0,1.0,59.0,38.0,32.0,,,,,
+Uruguay,imports,antimony,Regulus,7.0,11.0,4.0,3.0,,,,,,
+Venezuela,imports,antimony,Metal                                             ,,46.0,32.0,11.0,16.0,60.0,101.0,142.0,179.0,122.0
+Venezuela,imports,antimony,Sulphide                                          ,,,,,,,,10.0,21.0,
+Yugoslavia,imports,antimony,Metal                                             ,,,,,40.0,127.0,118.0,170.0,145.0,
+Yugoslavia,imports,antimony,Ores & concentrates                               ,1939.0,87.0,1383.0,1677.0,2863.0,3276.0,1935.0,2209.0,2576.0,3261.0
+Yugoslavia,imports,antimony,Regulus,,,191.0,71.0,,,,,,

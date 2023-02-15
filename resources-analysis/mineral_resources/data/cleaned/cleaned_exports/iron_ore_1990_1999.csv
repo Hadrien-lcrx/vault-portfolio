@@ -1,0 +1,72 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Albania,exports,iron_ore,,,,,,,,39780.0,,,
+Algeria,exports,iron_ore,,2375.0,13300.0,41000.0,29000.0,,,,,,
+Australia,exports,iron_ore,Burnt pyrites                                     ,,,,,54293.0,,,,,
+Australia,exports,iron_ore,,95928000.0,111557000.0,103487000.0,111527000.0,119093070.0,130367019.0,128273927.0,146757247.0,136396291.0,146200021.0
+Bahrain,exports,iron_ore,,,,,,,,2900000.0,3200000.0,1900000.0,2700000.0
+Belarus,exports,iron_ore,,,,,,2900.0,,,,,
+Belgium-Luxembourg,exports,iron_ore,Burnt pyrites                                     ,101117.0,65065.0,17478.0,5766.0,1572.0,0.0,0.0,0.0,18190.0,98522.0
+Belgium-Luxembourg,exports,iron_ore,,15790.0,12612.0,20340.0,9162.0,64866.0,35404.0,68607.0,12616.0,13880.0,67657.0
+Bolivia,exports,iron_ore,Burnt pyrites                                     ,,,50316.0,,,,,,,
+Bolivia,exports,iron_ore,,61000.0,55600.0,,39003.0,2500.0,,,,,
+Brazil,exports,iron_ore,Burnt pyrites                                     ,,,105011089.0,,,,,,,
+Brazil,exports,iron_ore,,113496703.0,113622721.0,,114375430.0,123062432.0,130178346.0,128989790.0,134092571.0,150210269.0,139801476.0
+Canada,exports,iron_ore,Burnt pyrites                                     ,,,25131837.0,,,,,,,
+Canada,exports,iron_ore,,27100472.0,29687515.0,,26199550.0,29993393.0,28840291.0,28880500.0,33142058.0,30691746.0,26885514.0
+Chile,exports,iron_ore,Burnt pyrites                                     ,,,6620645.0,,,,,,,
+Chile,exports,iron_ore,,6909717.0,7263904.0,,5809386.0,6938960.0,6161316.0,6982429.0,6726425.0,7071147.0,5887614.0
+China,exports,iron_ore,Burnt pyrites                                     ,,,,,,79.0,,,,6972.0
+China,exports,iron_ore,,,,,,,706.0,159.0,5409.0,,9306.0
+Denmark,exports,iron_ore,Burnt pyrites                                     ,0.0,0.0,1093.0,,,,,,,
+Denmark,exports,iron_ore,,4265.0,1122.0,1444.0,,,,,,,
+France,exports,iron_ore,Burnt pyrites                                     ,,,2874808.0,,,,,,,
+France,exports,iron_ore,,3280365.0,3152726.0,,2795566.0,2441929.0,1639443.0,1293802.0,584665.0,37351.0,20178.0
+Georgia,exports,iron_ore,,,,,,37000.0,,5000.0,52600.0,,
+German Federal Republic,exports,iron_ore,Burnt pyrites                                     ,18883.0,,,,,,,,,
+German Federal Republic,exports,iron_ore,,18752.0,,,,,,,,,
+Germany,exports,iron_ore,Burnt pyrites                                     ,,26438.0,9998.0,11104.0,35919.0,16165.0,12886.0,94633.0,13678.0,1318.0
+Germany,exports,iron_ore,,,80829.0,76553.0,100275.0,85756.0,65232.0,34034.0,14176.0,4461.0,12222.0
+Honduras,exports,iron_ore,,30866.0,42033.0,,,,,,,,
+India,exports,iron_ore,,32492902.0,29513463.0,22166619.0,26856590.0,24004646.0,31719565.0,17627888.0,19498132.0,22273379.0,15716166.0
+Iran,exports,iron_ore,,,,,,,,,,,167034.0
+Italy,exports,iron_ore,Burnt pyrites                                     ,27897.0,27151.0,66350.0,10171.0,50628.0,8511.0,18957.0,17296.0,48802.0,65162.0
+Italy,exports,iron_ore,,375.0,171.0,121.0,5991.0,,,,,,
+Japan,exports,iron_ore,,,,,,,,37.0,70.0,103.0,29042.0
+Kazakhstan,exports,iron_ore,,,,92000.0,95000.0,,,3503300.0,8622565.0,7353001.0,3394300.0
+"Korea, Dem. P.R. of",exports,iron_ore,,599000.0,830000.0,786000.0,490000.0,300000.0,231000.0,177000.0,168000.0,83000.0,26000.0
+Liberia,exports,iron_ore,,3887000.0,1108000.0,1539000.0,332000.0,,180000.0,,100000.0,100000.0,0.0
+Malaysia,exports,iron_ore,,10559.0,3900.0,197307.0,29868.0,1707.0,2973.0,12012.0,9000.0,160049.0,147184.0
+Mauritania,exports,iron_ore,,11356000.0,10469000.0,8094000.0,9655000.0,10342000.0,11514000.0,11158000.0,11689000.0,11402000.0,11042000.0
+Mexico,exports,iron_ore,,,,,,,,,,185984.0,
+Morocco,exports,iron_ore,Burnt pyrites                                     ,0.0,1700.0,0.0,48380.0,29500.0,26891.0,13140.0,,,
+Morocco,exports,iron_ore,,63266.0,65728.0,58523.0,1977.0,2761.0,1531.0,,,,
+Netherlands,exports,iron_ore,Burnt pyrites                                     ,,,,,,2031.0,16196.0,63895.0,44352.0,20576.0
+Netherlands,exports,iron_ore,,82842.0,65318.0,27794.0,1412748.0,29837.0,163982.0,292784.0,107663.0,29344.0,151475.0
+New Zealand,exports,iron_ore,,1223284.0,1115922.0,1006369.0,1234766.0,1232504.0,1231527.0,1338505.0,558246.0,678790.0,1329660.0
+Norway,exports,iron_ore,Burnt pyrites                                     ,36845.0,58669.0,128995.0,153133.0,172612.0,153439.0,155982.0,87562.0,64053.0,38232.0
+Norway,exports,iron_ore,,2112730.0,2098540.0,2281251.0,2505979.0,2092396.0,1018254.0,610787.0,270815.0,50829.0,19127.0
+Peru,exports,iron_ore,Burnt pyrites                                     ,,,3022380.0,,,,,,,
+Peru,exports,iron_ore,,3305201.0,2581740.0,,4714934.0,6063064.0,6100000.0,4100000.0,3800000.0,4504523.0,3694124.0
+Philippines,exports,iron_ore,Burnt pyrites                                     ,32214.0,5257.0,16148.0,17506.0,,,,,,
+Philippines,exports,iron_ore,,4740768.0,4776273.0,3882726.0,4100000.0,4708759.0,4744000.0,4546000.0,4487000.0,3663000.0,3852000.0
+Poland,exports,iron_ore,,,,632021.0,118980.0,54435.0,130480.0,30396.0,,,
+Russia,exports,iron_ore,,,,8210000.0,10570000.0,9800000.0,11256800.0,13833500.0,11772600.0,13828300.0,10841114.0
+Serbia and Montenegro,exports,iron_ore,Burnt pyrites                                     ,,,2171.0,,,,13000.0,17219.0,16157.0,21367.0
+Slovakia,exports,iron_ore,,,,0.0,52000.0,58000.0,80000.0,95000.0,79500.0,75000.0,95900.0
+Slovenia,exports,iron_ore,Burnt pyrites                                     ,,,12224.0,4100.0,,,,,,
+South Africa,exports,iron_ore,,17028950.0,15596411.0,14867545.0,19024024.0,19605138.0,21847012.0,19328139.0,20729659.0,22093000.0,21092000.0
+Soviet Union,exports,iron_ore,,26254000.0,21957000.0,,,,,,,,
+Spain,exports,iron_ore,Burnt pyrites                                     ,70961.0,23996.0,104009.0,131186.0,137508.0,139156.0,198896.0,138015.0,55052.0,33256.0
+Spain,exports,iron_ore,,1632737.0,2219306.0,1879336.0,1505107.0,1516162.0,1479841.0,975353.0,43224.0,55173.0,36742.0
+Sweden,exports,iron_ore,Burnt pyrites                                     ,0.0,25000.0,146000.0,23000.0,,,,,,
+Sweden,exports,iron_ore,,16398000.0,15226000.0,15435000.0,16418000.0,15394000.0,16917210.0,15172628.0,17571842.0,14631068.0,13819605.0
+Tunisia,exports,iron_ore,,3771.0,7687.0,8685.0,8831.0,8228.0,11337.0,14658.0,9025.0,15801.0,9581.0
+USA,exports,iron_ore,Burnt pyrites                                     ,,,5162528.0,,,,,,,
+USA,exports,iron_ore,,3199348.0,4796030.0,,5068726.0,4930993.0,5227162.0,6244606.0,6392675.0,6065078.0,6125063.0
+Ukraine,exports,iron_ore,Burnt pyrites                                     ,,,9470000.0,,,,,,,
+Ukraine,exports,iron_ore,,,,,,21100000.0,19138510.0,19108682.0,20083455.0,17703014.0,13343939.0
+United Kingdom,exports,iron_ore,Burnt pyrites                                     ,,,2179.0,143.0,22.0,8.0,29.0,21.0,,31.0
+United Kingdom,exports,iron_ore,,2442.0,2071.0,2135.0,5854.0,1847.0,838.0,688.0,397.0,606.0,573.0
+Venezuela,exports,iron_ore,Burnt pyrites                                     ,,,10002552.0,,,,,,,
+Venezuela,exports,iron_ore,,13620344.0,13385242.0,,10659000.0,10711000.0,10612000.0,9579320.0,9321862.0,8603412.0,6616973.0
+Yugoslavia,exports,iron_ore,Burnt pyrites                                     ,73120.0,44972.0,,,,,,,,

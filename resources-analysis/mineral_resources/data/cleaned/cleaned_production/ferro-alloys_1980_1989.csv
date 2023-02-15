@@ -1,0 +1,223 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Albania,production,ferro-alloys,Ferro-chrome,3500.0,28000.0,30000.0,35000.0,40000.0,11900.0,46000.0,46000.0,38700.0,38800.0
+Argentina,production,ferro-alloys,Ferro-manganese,20479.0,25451.0,30586.0,28724.0,28016.0,23663.0,19782.0,21407.0,19737.0,24441.0
+Argentina,production,ferro-alloys,Ferro-silico-manganese,11875.0,12780.0,15679.0,13523.0,13336.0,7493.0,12977.0,11746.0,11610.0,21160.0
+Argentina,production,ferro-alloys,Ferro-silicon,11953.0,9932.0,8850.0,12296.0,16884.0,18790.0,22979.0,23998.0,30539.0,35667.0
+Argentina,production,ferro-alloys,Other ferro-alloys,2084.0,1523.0,2089.0,4005.0,5217.0,4892.0,5272.0,6790.0,5952.0,5805.0
+Argentina,production,ferro-alloys,Silicon metal,,,,,5000.0,5000.0,5000.0,13900.0,15800.0,10000.0
+Australia,production,ferro-alloys,Ferro-manganese,94146.0,67563.0,54717.0,53463.0,70883.0,69000.0,61000.0,51000.0,58000.0,67000.0
+Australia,production,ferro-alloys,Ferro-silico-manganese,18376.0,29916.0,29548.0,19810.0,31795.0,27000.0,23000.0,43000.0,44000.0,55000.0
+Australia,production,ferro-alloys,Ferro-silicon,18435.0,18313.0,19678.0,18669.0,18313.0,18700.0,19000.0,18000.0,18000.0,20000.0
+Australia,production,ferro-alloys,Silicon metal,,,,,,,,,8000.0,9000.0
+Austria,production,ferro-alloys,Ferro-alloys,10000.0,12000.0,14000.0,14000.0,13000.0,13000.0,12000.0,15000.0,20000.0,15000.0
+Belgium,production,ferro-alloys,Ferro-manganese,85000.0,90000.0,90000.0,87000.0,95000.0,90000.0,87000.0,90000.0,95000.0,95000.0
+Brazil,production,ferro-alloys,Ferro-calcium-silicon,8025.0,7481.0,9657.0,7400.0,17755.0,22179.0,23715.0,25673.0,31519.0,33020.0
+Brazil,production,ferro-alloys,Ferro-chrome,93443.0,118781.0,96646.0,77326.0,125125.0,127288.0,109392.0,105394.0,130024.0,113267.0
+Brazil,production,ferro-alloys,Ferro-manganese,140496.0,107872.0,122898.0,103271.0,106459.0,134835.0,164093.0,155252.0,180588.0,180668.0
+Brazil,production,ferro-alloys,Ferro-molybdenum,802.0,797.0,337.0,126.0,437.0,509.0,511.0,422.0,427.0,332.0
+Brazil,production,ferro-alloys,Ferro-nickel,11280.0,10744.0,10597.0,30012.0,33661.0,33467.0,34296.0,35496.0,33930.0,34997.0
+Brazil,production,ferro-alloys,Ferro-niobium,17530.0,14632.0,11506.0,9665.0,16522.0,17676.0,17391.0,10880.0,19106.0,16378.0
+Brazil,production,ferro-alloys,Ferro-phosphorus,,346.0,1122.0,1211.0,926.0,1310.0,1496.0,1784.0,1469.0,1928.0
+Brazil,production,ferro-alloys,Ferro-silico-chrome,8086.0,8654.0,2598.0,5526.0,7628.0,8875.0,9512.0,8079.0,9177.0,8938.0
+Brazil,production,ferro-alloys,Ferro-silico-magnesium,13734.0,11001.0,11186.0,10711.0,15429.0,14876.0,13053.0,17575.0,17000.0,15864.0
+Brazil,production,ferro-alloys,Ferro-silico-manganese,134243.0,142743.0,162643.0,178266.0,185631.0,180271.0,177568.0,188022.0,193490.0,208262.0
+Brazil,production,ferro-alloys,Ferro-silicon,109140.0,120662.0,121348.0,151030.0,151101.0,181784.0,217715.0,231159.0,267538.0,286994.0
+Brazil,production,ferro-alloys,Ferro-titanium,698.0,499.0,430.0,166.0,551.0,1372.0,755.0,80.0,549.0,430.0
+Brazil,production,ferro-alloys,Ferro-vanadium,807.0,296.0,238.0,102.0,456.0,905.0,439.0,88.0,261.0,302.0
+Brazil,production,ferro-alloys,Other ferro-alloys,1059.0,592.0,577.0,313.0,494.0,639.0,1025.0,521.0,926.0,1414.0
+Brazil,production,ferro-alloys,Silicon metal,12379.0,18023.0,17921.0,20602.0,26783.0,29477.0,37077.0,39982.0,79287.0,116779.0
+Bulgaria,production,ferro-alloys,Ferro-manganese & ferro-silico-manganese,28000.0,34000.0,34000.0,30000.0,22000.0,30000.0,32000.0,31000.0,31000.0,30000.0
+Bulgaria,production,ferro-alloys,Ferro-silicon,16000.0,20000.0,20000.0,17000.0,15000.0,10000.0,15000.0,10000.0,15000.0,14000.0
+Bulgaria,production,ferro-alloys,Other ferro-alloys,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Canada,production,ferro-alloys,Ferro-manganese,86000.0,109000.0,138000.0,107000.0,116000.0,118000.0,120000.0,170000.0,190000.0,185000.0
+Canada,production,ferro-alloys,Ferro-silicon,139000.0,116000.0,105000.0,85000.0,80000.0,77100.0,144053.0,100000.0,111622.0,120000.0
+Canada,production,ferro-alloys,Other ferro-alloys,25000.0,,,,,,,,,
+Canada,production,ferro-alloys,Silicon metal,39000.0,28000.0,27000.0,25000.0,25000.0,25000.0,30000.0,30000.0,30000.0,30000.0
+Chile,production,ferro-alloys,Ferro-chrome,,,,,,,,475.0,2212.0,2840.0
+Chile,production,ferro-alloys,Ferro-manganese,5684.0,5254.0,2982.0,5209.0,4757.0,6516.0,6225.0,6614.0,6899.0,7250.0
+Chile,production,ferro-alloys,Ferro-molybdenum,515.0,656.0,1456.0,1712.0,2211.0,671.0,1397.0,1325.0,1191.0,2990.0
+Chile,production,ferro-alloys,Ferro-silico-manganese,219.0,104.0,0.0,0.0,0.0,754.0,1465.0,1232.0,681.0,180.0
+Chile,production,ferro-alloys,Ferro-silicon,5385.0,2477.0,1413.0,4885.0,6365.0,4501.0,3732.0,4655.0,5686.0,6370.0
+China,production,ferro-alloys,Ferro-chrome,120000.0,120000.0,120000.0,120000.0,120000.0,125000.0,120000.0,,170000.0,180000.0
+China,production,ferro-alloys,Ferro-manganese,590000.0,526000.0,472000.0,490000.0,490000.0,550000.0,466400.0,510300.0,309000.0,360000.0
+China,production,ferro-alloys,Ferro-silico-manganese,,,,,,,,220000.0,220000.0,240000.0
+China,production,ferro-alloys,Ferro-silicon,195000.0,195000.0,195000.0,195000.0,195000.0,375000.0,466200.0,591200.0,787600.0,900000.0
+China,production,ferro-alloys,Other ferro-alloys,72000.0,75000.0,75000.0,75000.0,75000.0,75000.0,664400.0,524500.0,597400.0,702000.0
+China,production,ferro-alloys,Silicon metal,22000.0,20000.0,20000.0,20000.0,20000.0,25000.0,20000.0,,,
+Colombia,production,ferro-alloys,Ferro-nickel,0.0,0.0,3500.0,30900.0,37500.0,25500.0,45500.0,46389.0,41672.0,41446.0
+Czechoslovakia,production,ferro-alloys,Ferro-chrome,28155.0,28025.0,29751.0,29135.0,23500.0,25178.0,28231.0,29018.0,29183.0,29844.0
+Czechoslovakia,production,ferro-alloys,Ferro-manganese,58800.0,58113.0,53708.0,62549.0,87000.0,62358.0,57593.0,59252.0,60766.0,63518.0
+Czechoslovakia,production,ferro-alloys,Ferro-silico-manganese,39000.0,40000.0,40000.0,40000.0,,31000.0,34000.0,38000.0,34000.0,37000.0
+Czechoslovakia,production,ferro-alloys,Ferro-silicon,28582.0,31012.0,25876.0,19507.0,28000.0,20765.0,21090.0,21030.0,22730.0,20997.0
+Czechoslovakia,production,ferro-alloys,Other ferro-alloys,9000.0,9000.0,9000.0,9000.0,8500.0,9000.0,8000.0,9000.0,10000.0,10000.0
+Czechoslovakia,production,ferro-alloys,Silicon metal,5400.0,5000.0,4500.0,4500.0,4000.0,4500.0,5000.0,5000.0,5000.0,5000.0
+Dominican Republic,production,ferro-alloys,Ferro-nickel,43018.0,49970.0,14375.0,52278.0,63966.0,66828.0,57565.0,85567.0,76275.0,85424.0
+Egypt,production,ferro-alloys,Ferro-silicon,4500.0,5000.0,6000.0,6000.0,7500.0,7500.0,7221.0,7702.0,7806.0,7800.0
+Finland,production,ferro-alloys,Ferro-chrome,52722.0,51624.0,54533.0,58698.0,,,,,,
+Finland,production,ferro-alloys,Ferro-chrome & ferro-silico-chrome,,,,,58644.0,133350.0,145271.0,155019.0,154827.0,135997.0
+Finland,production,ferro-alloys,Other ferro-alloys,21439.0,10375.0,15476.0,23259.0,52000.0,52500.0,53000.0,,,
+France,production,ferro-alloys,"Fe-Ti, Fe-W, Fe-Mo, Fe-V",4246.0,2860.0,4838.0,4223.0,5476.0,5159.0,2414.0,611.0,,2600.0
+France,production,ferro-alloys,Ferro-Si-manganese & silico-speigeleisen,20683.0,,,,,,,,,
+France,production,ferro-alloys,Ferro-chrome & ferro-silico-chrome,88703.0,32038.0,38121.0,19829.0,18636.0,1007.0,161.0,55.0,12000.0,17000.0
+France,production,ferro-alloys,Ferro-manganese & spiegeleisen,480126.0,312237.0,332223.0,270331.0,329447.0,333998.0,273602.0,295821.0,323945.0,346295.0
+France,production,ferro-alloys,Ferro-silico-manganese,,10180.0,29655.0,32710.0,34886.0,22596.0,16723.0,18441.0,60000.0,67000.0
+France,production,ferro-alloys,Ferro-silicon,245957.0,189062.0,168858.0,192762.0,206348.0,197114.0,195913.0,154659.0,196000.0,125390.0
+France,production,ferro-alloys,Other ferro-alloys,119996.0,111858.0,98371.0,102257.0,116201.0,95060.0,84752.0,57446.0,60000.0,42500.0
+France,production,ferro-alloys,Silicon metal,59930.0,57500.0,57200.0,64500.0,70500.0,71300.0,71557.0,70000.0,70000.0,72000.0
+German Democratic Rep,production,ferro-alloys,Ferro-chrome,19000.0,20000.0,20000.0,17250.0,19500.0,19500.0,22000.0,22000.0,22000.0,22000.0
+German Democratic Rep,production,ferro-alloys,Ferro-manganese & ferro-silico-manganese,70000.0,67000.0,62500.0,63000.0,63000.0,63000.0,68000.0,68000.0,67000.0,67000.0
+German Democratic Rep,production,ferro-alloys,Ferro-silicon,26000.0,25000.0,24000.0,24000.0,23000.0,23000.0,26000.0,26000.0,25000.0,25000.0
+German Democratic Rep,production,ferro-alloys,Other ferro-alloys,18000.0,19000.0,15400.0,18250.0,15250.0,15250.0,15600.0,15600.0,13600.0,13000.0
+German Democratic Rep,production,ferro-alloys,Silicon metal,4000.0,4000.0,3100.0,3600.0,3250.0,3250.0,3400.0,3400.0,3400.0,3000.0
+German Federal Republic,production,ferro-alloys,Ferro-chrome,58000.0,50000.0,42000.0,38000.0,45000.0,50000.0,60000.0,50000.0,34900.0,33350.0
+German Federal Republic,production,ferro-alloys,Ferro-manganese & ferro-silico-manganese,24000.0,19000.0,19000.0,17000.0,22000.0,25000.0,35000.0,25000.0,35000.0,45000.0
+German Federal Republic,production,ferro-alloys,Ferro-manganese & spiegeleisen,200000.0,214000.0,242000.0,174000.0,308000.0,205000.0,256000.0,196000.0,274000.0,305000.0
+German Federal Republic,production,ferro-alloys,Ferro-silicon,114000.0,92000.0,34000.0,31000.0,35000.0,40000.0,50000.0,40000.0,50000.0,55000.0
+German Federal Republic,production,ferro-alloys,Other ferro-alloys,50000.0,43000.0,36000.0,33000.0,54000.0,56000.0,61000.0,57000.0,62000.0,66000.0
+Greece,production,ferro-alloys,Ferro-chrome,0.0,0.0,0.0,18000.0,32974.0,34436.0,38259.0,43287.0,44147.0,43579.0
+Greece,production,ferro-alloys,Ferro-nickel,51407.0,51000.0,51000.0,50000.0,53000.0,63800.0,39700.0,35400.0,50500.0,41200.0
+Hungary,production,ferro-alloys,Ferro-silicon,10390.0,11077.0,10493.0,9458.0,10297.0,10578.0,10237.0,9342.0,10074.0,10224.0
+Hungary,production,ferro-alloys,Other ferro-alloys,,,,2000.0,2000.0,2000.0,2000.0,2000.0,1000.0,1000.0
+Hungary,production,ferro-alloys,Silicon metal,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0
+Iceland,production,ferro-alloys,Ferro-silicon,28299.0,33411.0,41077.0,49446.0,58443.0,60328.0,66787.0,60184.0,70061.0,72008.0
+India,production,ferro-alloys,Ferro-chrome,16494.0,31903.0,40540.0,34911.0,55578.0,67032.0,84096.0,93944.0,140262.0,133522.0
+India,production,ferro-alloys,Ferro-manganese,158308.0,205571.0,151234.0,152951.0,158314.0,166042.0,179910.0,173259.0,138331.0,149139.0
+India,production,ferro-alloys,Ferro-silico-chrome,4050.0,4339.0,4468.0,1675.0,4096.0,12215.0,9493.0,12321.0,2769.0,11384.0
+India,production,ferro-alloys,Ferro-silico-manganese,12525.0,16190.0,14213.0,10946.0,4673.0,13544.0,24782.0,37504.0,52895.0,75469.0
+India,production,ferro-alloys,Ferro-silicon,54319.0,60354.0,36060.0,52448.0,52931.0,43513.0,50096.0,50747.0,46721.0,73751.0
+India,production,ferro-alloys,Other ferro-alloys,653.0,775.0,427.0,271.0,284.0,461.0,617.0,528.0,445.0,386.0
+India,production,ferro-alloys,Silicon metal,2498.0,3868.0,656.0,0.0,1082.0,0.0,642.0,1445.0,686.0,800.0
+Indonesia,production,ferro-alloys,Ferro-nickel,18314.0,19884.0,21501.0,20708.0,22774.0,23789.0,22554.0,8354.0,26852.0,26058.0
+Italy,production,ferro-alloys,Calcium silicide,9260.0,8147.0,8982.0,5778.0,9075.0,11999.0,11514.0,17097.0,15047.0,11153.0
+Italy,production,ferro-alloys,Ferro-chrome,41150.0,10333.0,36541.0,45414.0,49942.0,57654.0,55939.0,59045.0,77123.0,81331.0
+Italy,production,ferro-alloys,Ferro-manganese,83092.0,71770.0,73353.0,61847.0,50466.0,67277.0,59655.0,36536.0,39449.0,26738.0
+Italy,production,ferro-alloys,Ferro-molybdenum,2096.0,807.0,235.0,,1422.0,1564.0,0.0,,,
+Italy,production,ferro-alloys,Ferro-phosphorus,53.0,60.0,,,,,,,,
+Italy,production,ferro-alloys,Ferro-silico-chrome,0.0,800.0,,,,,,,,
+Italy,production,ferro-alloys,Ferro-silico-magnesium,400.0,,,,,,,,,
+Italy,production,ferro-alloys,Ferro-silico-manganese,44914.0,54563.0,58118.0,37244.0,72779.0,64858.0,66083.0,75192.0,66959.0,46868.0
+Italy,production,ferro-alloys,Ferro-silicon,71857.0,55144.0,63947.0,51913.0,71157.0,74616.0,62799.0,47075.0,51131.0,65171.0
+Italy,production,ferro-alloys,Ferro-titanium & ferro-silico-titanium,1020.0,1456.0,1243.0,1876.0,2158.0,2291.0,2508.0,2861.0,2636.0,1653.0
+Italy,production,ferro-alloys,Ferro-vanadium,354.0,148.0,68.0,,79.0,8.0,0.0,,,
+Italy,production,ferro-alloys,Silicon metal,18852.0,19595.0,14012.0,11737.0,22812.0,17812.0,18904.0,16500.0,18000.0,19000.0
+Italy,production,ferro-alloys,Silicon pig iron,1896.0,1694.0,1024.0,580.0,342.0,686.0,968.0,,,
+Italy,production,ferro-alloys,Spiegeleisen,4990.0,832.0,957.0,494.0,935.0,1001.0,1151.0,491.0,,
+Japan,production,ferro-alloys,Ferro-calcium-silicon,3859.0,2590.0,3834.0,2357.0,1724.0,2496.0,2005.0,1419.0,1360.0,808.0
+Japan,production,ferro-alloys,Ferro-chrome,402997.0,306104.0,328480.0,304053.0,323930.0,349496.0,286925.0,272298.0,304642.0,333978.0
+Japan,production,ferro-alloys,Ferro-manganese,569147.0,567746.0,538355.0,389381.0,485008.0,441703.0,359044.0,332286.0,378351.0,394055.0
+Japan,production,ferro-alloys,Ferro-molybdenum,4367.0,3056.0,3413.0,3104.0,3299.0,3143.0,1894.0,2032.0,2656.0,2784.0
+Japan,production,ferro-alloys,Ferro-nickel,276829.0,244135.0,214523.0,180826.0,217053.0,227043.0,200311.0,203143.0,242276.0,275341.0
+Japan,production,ferro-alloys,Ferro-niobium,1159.0,825.0,1039.0,530.0,1031.0,1072.0,862.0,714.0,649.0,737.0
+Japan,production,ferro-alloys,Ferro-silico-chrome,20531.0,,,,,,,,,
+Japan,production,ferro-alloys,Ferro-silico-manganese,310714.0,282852.0,269379.0,222204.0,233061.0,216916.0,148429.0,91896.0,106970.0,122192.0
+Japan,production,ferro-alloys,Ferro-silicon,303754.0,234524.0,192372.0,157939.0,153386.0,150167.0,107236.0,73706.0,73767.0,74936.0
+Japan,production,ferro-alloys,Ferro-tungsten,242.0,362.0,329.0,200.0,144.0,114.0,122.0,96.0,91.0,77.0
+Japan,production,ferro-alloys,Ferro-vanadium,3526.0,4063.0,4465.0,2821.0,3733.0,3353.0,2867.0,2639.0,3776.0,3127.0
+Japan,production,ferro-alloys,Other ferro-alloys,10360.0,3167.0,2309.0,2159.0,2727.0,2575.0,2015.0,1384.0,1761.0,3578.0
+Japan,production,ferro-alloys,Silicon metal,15751.0,11906.0,9760.0,,,,,,,
+Korea (Rep. of),production,ferro-alloys,Ferro-manganese,54279.0,68300.0,60306.0,52896.0,58600.0,61396.0,53721.0,58044.0,75924.0,85329.0
+Korea (Rep. of),production,ferro-alloys,Ferro-silicon,29712.0,32000.0,32478.0,32489.0,35300.0,34840.0,30939.0,12646.0,8909.0,4582.0
+Korea (Rep. of),production,ferro-alloys,Other ferro-alloys,24994.0,27185.0,33240.0,43824.0,50215.0,54879.0,66499.0,90382.0,89966.0,101818.0
+"Korea, Dem. P.R. of",production,ferro-alloys,Ferro-manganese,70000.0,70000.0,70000.0,70000.0,70000.0,70000.0,70000.0,70000.0,70000.0,70000.0
+"Korea, Dem. P.R. of",production,ferro-alloys,Ferro-silicon,30000.0,30000.0,30000.0,30000.0,30000.0,30000.0,30000.0,30000.0,30000.0,30000.0
+"Korea, Dem. P.R. of",production,ferro-alloys,Other ferro-alloys,20000.0,20000.0,20000.0,20000.0,20000.0,20000.0,20000.0,20000.0,20000.0,20000.0
+Mexico,production,ferro-alloys,Ferro-chrome,0.0,3018.0,6320.0,2518.0,6862.0,6254.0,2670.0,6300.0,9295.0,2569.0
+Mexico,production,ferro-alloys,Ferro-manganese,125751.0,140953.0,135374.0,140304.0,160879.0,153733.0,156359.0,161331.0,165487.0,168042.0
+Mexico,production,ferro-alloys,Ferro-silico-magnesium,1436.0,1953.0,1196.0,1128.0,1736.0,2373.0,1308.0,420.0,,
+Mexico,production,ferro-alloys,Ferro-silico-manganese,30544.0,25694.0,31850.0,41935.0,41662.0,39277.0,60532.0,80123.0,80223.0,98852.0
+Mexico,production,ferro-alloys,Ferro-silicon,27634.0,22682.0,24111.0,24307.0,22504.0,27638.0,17650.0,18060.0,16553.0,9474.0
+Mexico,production,ferro-alloys,Other ferro-alloys,102.0,166.0,109.0,84.0,286.0,294.0,102.0,281.0,699.0,79.0
+New Caledonia,production,ferro-alloys,Ferro-nickel,131281.0,109679.0,112028.0,86868.0,116632.0,138614.0,130492.0,108170.0,136203.0,132261.0
+Norway,production,ferro-alloys,Ferro-chrome,,,,,,,,0.0,0.0,0.0
+Norway,production,ferro-alloys,Ferro-chrome & ferro-silico-chrome,11729.0,12422.0,11000.0,4400.0,0.0,0.0,0.0,,,
+Norway,production,ferro-alloys,Ferro-manganese,295706.0,233390.0,203256.0,283492.0,285169.0,267670.0,195257.0,193748.0,231903.0,200761.0
+Norway,production,ferro-alloys,Ferro-silico-manganese,167490.0,214534.0,215732.0,194784.0,280953.0,256457.0,233490.0,214456.0,232465.0,243816.0
+Norway,production,ferro-alloys,Ferro-silicon,319983.0,313736.0,296071.0,368817.0,437164.0,397776.0,335041.0,369761.0,382279.0,401116.0
+Norway,production,ferro-alloys,Other ferro-alloys,19795.0,4530.0,4000.0,4600.0,0.0,0.0,0.0,21540.0,17035.0,14000.0
+Norway,production,ferro-alloys,Silicon metal,63287.0,59202.0,64882.0,76856.0,89398.0,105552.0,86838.0,81460.0,88854.0,100194.0
+Philippines,production,ferro-alloys,Ferro-chrome,10000.0,10000.0,12000.0,26901.0,48049.0,50815.0,55000.0,47000.0,73000.0,82000.0
+Philippines,production,ferro-alloys,Ferro-silicon,20000.0,26000.0,27500.0,20000.0,18500.0,20000.0,20000.0,,,9000.0
+Poland,production,ferro-alloys,Ferro-chrome,47000.0,40500.0,35500.0,48500.0,48000.0,49000.0,36200.0,35900.0,36316.0,28222.0
+Poland,production,ferro-alloys,Ferro-manganese,122700.0,103692.0,87372.0,81400.0,87900.0,99400.0,95500.0,95300.0,91117.0,90267.0
+Poland,production,ferro-alloys,Ferro-manganese & ferro-silico-manganese,47000.0,40500.0,35000.0,48000.0,48000.0,4000.0,3700.0,4800.0,4066.0,1427.0
+Poland,production,ferro-alloys,Ferro-silicon,50000.0,43000.0,35500.0,51500.0,51000.0,52000.0,78500.0,77100.0,82114.0,83210.0
+Poland,production,ferro-alloys,Other ferro-alloys,15000.0,14000.0,12500.0,17000.0,17000.0,60000.0,60000.0,60000.0,65632.0,60718.0
+Poland,production,ferro-alloys,Silicon metal,10000.0,9000.0,7500.0,10000.0,10000.0,10500.0,10500.0,10000.0,10000.0,10000.0
+Poland,production,ferro-alloys,Spiegeleisen,8900.0,6410.0,4370.0,4500.0,4000.0,1900.0,1700.0,2500.0,1078.0,906.0
+Portugal,production,ferro-alloys,Ferro-manganese,,,45000.0,40000.0,46500.0,48000.0,20000.0,17000.0,10000.0,13170.0
+Portugal,production,ferro-alloys,Ferro-silico-manganese,,,23500.0,18500.0,24000.0,25000.0,10000.0,8000.0,5000.0,
+Portugal,production,ferro-alloys,Ferro-silicon,,,8500.0,8550.0,9000.0,9000.0,5000.0,2000.0,,
+Portugal,production,ferro-alloys,Ferro-tungsten,131812.0,244.0,211.0,176.0,183.0,150.0,24.0,,,
+Portugal,production,ferro-alloys,Other ferro-alloys,199.0,51276.0,,,,,,,,
+Portugal,production,ferro-alloys,Silicon metal,33000.0,32000.0,10000.0,9800.0,10500.0,11000.0,7000.0,3000.0,2500.0,
+Romania,production,ferro-alloys,Ferro-chrome,34000.0,36000.0,39000.0,42000.0,45000.0,44000.0,44000.0,42000.0,23430.0,26849.0
+Romania,production,ferro-alloys,Ferro-manganese,65000.0,70000.0,75000.0,80000.0,87000.0,80000.0,82000.0,81000.0,80000.0,80000.0
+Romania,production,ferro-alloys,Ferro-silico-manganese,31000.0,33000.0,35000.0,38000.0,41000.0,39000.0,40000.0,39000.0,40000.0,40000.0
+Romania,production,ferro-alloys,Ferro-silicon,39000.0,42000.0,45000.0,48000.0,52000.0,50000.0,51000.0,50000.0,50000.0,50000.0
+Romania,production,ferro-alloys,Silicon metal,3000.0,3300.0,3600.0,3800.0,4100.0,4500.0,4500.0,4500.0,4500.0,4400.0
+South Africa,production,ferro-alloys,Ferro-chrome,754854.0,639676.0,458170.0,690507.0,889203.0,852338.0,924630.0,965071.0,993685.0,1035973.0
+South Africa,production,ferro-alloys,Ferro-manganese,520000.0,441680.0,366080.0,166591.0,236930.0,331302.0,337213.0,315110.0,446894.0,394045.0
+South Africa,production,ferro-alloys,Ferro-silico-chrome,38000.0,2.0,2544.0,2839.0,4987.0,4651.0,,,,
+South Africa,production,ferro-alloys,Ferro-silico-manganese,70000.0,145172.0,141485.0,107211.0,143981.0,237864.0,270521.0,281790.0,247701.0,258000.0
+South Africa,production,ferro-alloys,Ferro-silicon,162000.0,56644.0,59490.0,49622.0,89414.0,75126.0,83256.0,82519.0,87247.0,92804.0
+South Africa,production,ferro-alloys,Other ferro-alloys,900.0,800.0,800.0,800.0,300.0,548.0,626.0,1000.0,1000.0,2000.0
+South Africa,production,ferro-alloys,Silicon metal,30000.0,24219.0,25109.0,27332.0,34775.0,35830.0,34954.0,34046.0,38960.0,36301.0
+Soviet Union,production,ferro-alloys,Ferro-chrome,390000.0,400000.0,415000.0,415000.0,420000.0,420000.0,798400.0,806200.0,1050000.0,828000.0
+Soviet Union,production,ferro-alloys,Ferro-manganese,1520000.0,980000.0,1000000.0,1050000.0,1150000.0,1249000.0,1040000.0,1030800.0,1057500.0,1023100.0
+Soviet Union,production,ferro-alloys,Ferro-nickel,,,,,,,,90000.0,90000.0,90000.0
+Soviet Union,production,ferro-alloys,Ferro-phosphorus,,,,,26000.0,26000.0,26000.0,25000.0,25000.0,29000.0
+Soviet Union,production,ferro-alloys,Ferro-silico-chrome,10000.0,10000.0,10000.0,12000.0,12000.0,12000.0,13000.0,13500.0,100000.0,100000.0
+Soviet Union,production,ferro-alloys,Ferro-silico-manganese,32000.0,32000.0,160000.0,170000.0,180000.0,190000.0,200000.0,1300000.0,1300000.0,1300000.0
+Soviet Union,production,ferro-alloys,Ferro-silicon,630000.0,650000.0,680000.0,720000.0,750000.0,750000.0,1831600.0,1867400.0,1911800.0,1872600.0
+Soviet Union,production,ferro-alloys,Other ferro-alloys,300000.0,209000.0,225000.0,230000.0,205000.0,230000.0,240000.0,150000.0,160000.0,160000.0
+Soviet Union,production,ferro-alloys,Silicon metal,59000.0,60000.0,60000.0,60000.0,60000.0,60000.0,65000.0,65000.0,65000.0,65000.0
+Soviet Union,production,ferro-alloys,Spiegeleisen,50000.0,50000.0,50000.0,50000.0,20000.0,19000.0,20000.0,19000.0,18000.0,18000.0
+Spain,production,ferro-alloys,Ferro-chrome,16505.0,17605.0,17066.0,9348.0,15000.0,17000.0,14000.0,16000.0,25400.0,29000.0
+Spain,production,ferro-alloys,Ferro-manganese,122541.0,95738.0,81994.0,114456.0,85000.0,86000.0,45000.0,50000.0,48000.0,50000.0
+Spain,production,ferro-alloys,Ferro-silico-manganese,94047.0,70007.0,69933.0,73224.0,70000.0,70000.0,35000.0,35000.0,38000.0,40000.0
+Spain,production,ferro-alloys,Ferro-silicon,123433.0,85559.0,62847.0,50460.0,60000.0,61000.0,35000.0,40000.0,36000.0,38000.0
+Spain,production,ferro-alloys,Other ferro-alloys,6042.0,5362.0,5283.0,5000.0,1000.0,4000.0,3000.0,5000.0,5000.0,5000.0
+Spain,production,ferro-alloys,Silicon metal,20000.0,18000.0,6700.0,1500.0,12400.0,12100.0,11000.0,11800.0,10700.0,11500.0
+Sweden,production,ferro-alloys,Ferro-chrome,144089.0,145716.0,116724.0,119491.0,134028.0,135701.0,126388.0,109352.0,143055.0,133984.0
+Sweden,production,ferro-alloys,Ferro-molybdenum,805.0,726.0,552.0,641.0,229.0,143.0,16.0,,,
+Sweden,production,ferro-alloys,Ferro-silico-chrome,26329.0,22516.0,19954.0,18377.0,30633.0,26243.0,17024.0,4029.0,,
+Sweden,production,ferro-alloys,Ferro-silicon,7741.0,18619.0,14177.0,19406.0,23278.0,26564.0,20103.0,19949.0,20622.0,20996.0
+Sweden,production,ferro-alloys,Ferro-tungsten,423.0,377.0,365.0,121.0,,,,,,
+Sweden,production,ferro-alloys,Ferro-vanadium,348.0,129.0,,,,,,,,
+Sweden,production,ferro-alloys,Silicon metal,18457.0,14340.0,14852.0,20340.0,20206.0,19775.0,19156.0,21145.0,17059.0,13421.0
+Switzerland,production,ferro-alloys,Ferro-silicon,3000.0,3000.0,3000.0,2000.0,3000.0,3000.0,3000.0,3000.0,3000.0,3000.0
+Switzerland,production,ferro-alloys,Silicon metal,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0
+Taiwan,production,ferro-alloys,Ferro-manganese,21010.0,19175.0,18665.0,21763.0,19803.0,18508.0,20040.0,16971.0,25822.0,30623.0
+Taiwan,production,ferro-alloys,Ferro-silico-manganese,22607.0,14376.0,21311.0,18509.0,23082.0,34285.0,31630.0,28309.0,30745.0,26510.0
+Taiwan,production,ferro-alloys,Ferro-silicon,28390.0,17523.0,16930.0,18304.0,23714.0,17272.0,20456.0,11266.0,19601.0,19277.0
+Thailand,production,ferro-alloys,Ferro-manganese,112.0,369.0,,,,,,,,
+Thailand,production,ferro-alloys,Ferro-silico-manganese,,,,,,,,3346.0,3532.0,4831.0
+Thailand,production,ferro-alloys,Ferro-silicon,60.0,280.0,,,,,,,,
+Turkey,production,ferro-alloys,Ferro-chrome,8650.0,40775.0,39862.0,30175.0,48081.0,50000.0,50000.0,53000.0,54030.0,59715.0
+Turkey,production,ferro-alloys,Ferro-silicon,,0.0,4300.0,4500.0,6902.0,6900.0,4876.0,4400.0,5200.0,4970.0
+USA,production,ferro-alloys,Ferro-chrome,167292.0,148815.0,83375.0,18078.0,72135.0,89836.0,86920.0,104817.0,109504.0,137997.0
+USA,production,ferro-alloys,Ferro-manganese,171886.0,174805.0,108136.0,77954.0,155246.0,139298.0,106474.0,102462.0,,
+USA,production,ferro-alloys,Ferro-nickel,,,,,,,,0.0,0.0,682.0
+USA,production,ferro-alloys,Ferro-niobium,1413.0,805.0,,,,,,,,
+USA,production,ferro-alloys,Ferro-phosphorus,105671.0,73071.0,55835.0,68032.0,82660.0,56211.0,52750.0,36458.0,60220.0,53546.0
+USA,production,ferro-alloys,Ferro-silico-chrome,49176.0,56659.0,24839.0,14942.0,14411.0,9558.0,8704.0,1899.0,10141.0,8847.0
+USA,production,ferro-alloys,Ferro-silico-manganese,170838.0,157182.0,62475.0,,,,,,,
+USA,production,ferro-alloys,Ferro-silicon,507000.0,526245.0,271200.0,284958.0,444856.0,400679.0,307936.0,324096.0,449328.0,475255.0
+USA,production,ferro-alloys,Other ferro-alloys,114509.0,124873.0,67788.0,128854.0,89820.0,81165.0,65416.0,32365.0,167803.0,117591.0
+USA,production,ferro-alloys,Silicon metal,115000.0,118163.0,69493.0,110577.0,127792.0,109738.0,112394.0,135559.0,149094.0,136531.0
+United Kingdom,production,ferro-alloys,Ferro-manganese,51700.0,83900.0,61400.0,82800.0,75200.0,76900.0,99500.0,92400.0,107300.0,142700.0
+Venezuela,production,ferro-alloys,Ferro-manganese,1500.0,1518.0,2000.0,2000.0,0.0,0.0,0.0,,,
+Venezuela,production,ferro-alloys,Ferro-silico-manganese,600.0,9002.0,9000.0,9000.0,16600.0,24109.0,28573.0,28000.0,33760.0,32387.0
+Venezuela,production,ferro-alloys,Ferro-silicon,59200.0,43986.0,42136.0,46636.0,40900.0,60583.0,50743.0,52188.0,51363.0,54873.0
+Yugoslavia,production,ferro-alloys,Ferro-chrome,68564.0,69194.0,50591.0,63807.0,75441.0,73308.0,66022.0,56276.0,93349.0,90429.0
+Yugoslavia,production,ferro-alloys,Ferro-manganese,33738.0,51126.0,38895.0,39677.0,47375.0,35775.0,39230.0,38041.0,45078.0,33869.0
+Yugoslavia,production,ferro-alloys,Ferro-nickel,0.0,0.0,1500.0,3000.0,7500.0,9248.0,8647.0,9556.0,15047.0,17102.0
+Yugoslavia,production,ferro-alloys,Ferro-silico-chrome,10326.0,5873.0,6129.0,5998.0,8147.0,7199.0,7513.0,6240.0,3688.0,3815.0
+Yugoslavia,production,ferro-alloys,Ferro-silico-manganese,33097.0,28600.0,20286.0,26254.0,37214.0,43374.0,41330.0,42528.0,46804.0,52737.0
+Yugoslavia,production,ferro-alloys,Ferro-silicon,66171.0,80201.0,70888.0,78014.0,94075.0,91702.0,99625.0,98843.0,120522.0,122153.0
+Yugoslavia,production,ferro-alloys,Other ferro-alloys,630.0,1072.0,2497.0,4198.0,4484.0,5539.0,6715.0,8071.0,11450.0,11199.0
+Yugoslavia,production,ferro-alloys,Silicon metal,30094.0,28358.0,29818.0,26256.0,28428.0,33094.0,31312.0,31915.0,25830.0,15897.0
+Zimbabwe,production,ferro-alloys,Ferro-chrome,194630.0,192110.0,189737.0,148178.0,170259.0,183928.0,187454.0,186947.0,224000.0,209807.0
+Zimbabwe,production,ferro-alloys,Ferro-manganese,2164.0,2200.0,2132.0,2085.0,1891.0,1953.0,8029.0,8500.0,2620.0,6250.0
+Zimbabwe,production,ferro-alloys,Ferro-silico-chrome,25116.0,32692.0,25692.0,27542.0,30878.0,29707.0,52298.0,21000.0,29000.0,25000.0
+Zimbabwe,production,ferro-alloys,Ferro-silicon,,,,,,,,,,2290.0

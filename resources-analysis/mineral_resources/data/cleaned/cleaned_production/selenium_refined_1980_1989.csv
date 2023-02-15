@@ -1,0 +1,18 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Australia,production,selenium_refined,,,,36.0,35.0,41.0,37.0,,,,
+Belgium,production,selenium_refined,,60.0,60.0,60.0,140.0,180.0,230.0,250.0,230.0,250.0,250.0
+Canada,production,selenium_refined,,377.0,350.0,234.0,352.0,467.0,360.0,354.0,430.0,321.0,213.0
+Chile,production,selenium_refined,,17.0,34.0,23.0,44.0,25.0,50.0,47.0,46.0,30.0,52.0
+China,production,selenium_refined,,,,,,,,,,,
+Finland,production,selenium_refined,,30.0,24.0,10.0,11.0,26.0,19.0,24.0,20.0,24.0,27.0
+German Democratic Rep,production,selenium_refined,,,,,,,26.0,25.0,25.0,25.0,
+German Federal Republic,production,selenium_refined,,,,,,,,,100.0,100.0,125.0
+Germany,production,selenium_refined,,,,,,,,,,,
+Japan,production,selenium_refined,,471.0,428.0,410.0,433.0,465.0,497.0,427.0,481.0,471.0,471.0
+Mexico,production,selenium_refined,,46.0,12.0,29.0,24.0,44.0,42.0,23.0,29.0,13.0,20.0
+Peru,production,selenium_refined,,23.0,22.0,24.0,20.0,21.0,15.0,12.0,11.0,5.0,9.0
+Philippines,production,selenium_refined,,,,,,,,,,,
+Sweden,production,selenium_refined,,51.0,44.0,27.0,42.0,68.0,46.0,24.0,31.0,20.0,23.0
+USA,production,selenium_refined,,141.0,252.0,243.0,354.0,254.0,195.0,161.0,227.0,286.0,253.0
+Yugoslavia,production,selenium_refined,,45.0,36.0,42.0,44.0,45.0,44.0,54.0,66.0,61.0,55.0
+Zambia,production,selenium_refined,,23.0,22.0,23.0,18.0,21.0,13.0,22.0,27.0,24.0,21.0

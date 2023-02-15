@@ -1,0 +1,9 @@
+Country,Activity,Commodity,Sub-commodity,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+Brazil,production,vanadium_mine,,0.0,0.0,0.0,0.0,578.0,3254.0,4461.0,5206.0,5505.0,5923.0
+China,production,vanadium_mine,,32000.0,36400.0,40000.0,45000.0,48000.0,51100.0,45900.0,45400.0,40000.0,54000.0
+India,production,vanadium_mine,,,,,,,1124.0,1125.0,400.0,442.0,400.0
+Kazakhstan,production,vanadium_mine,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000.0,1000.0,1000.0
+Poland,production,vanadium_mine,,,,,,3040.0,,,,,
+Russia,production,vanadium_mine,,12293.0,12860.0,14856.0,14403.0,15125.0,16196.0,16886.0,18636.0,17052.0,18380.0
+South Africa,production,vanadium_mine,,22606.0,21652.0,19957.0,21397.0,21582.0,17455.0,15877.0,14222.0,14904.0,14858.0
+USA,production,vanadium_mine,,1060.0,590.0,106.0,591.0,,0.0,0.0,0.0,0.0,460.0

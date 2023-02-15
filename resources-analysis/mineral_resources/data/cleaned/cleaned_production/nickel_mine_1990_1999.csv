@@ -1,0 +1,30 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Albania,production,nickel_mine,,8843.0,4000.0,,,,,,,,
+Australia,production,nickel_mine,,70000.0,67600.0,57800.0,65400.0,75900.0,102700.0,113000.0,123400.0,143900.0,119600.0
+Botswana,production,nickel_mine,,19022.0,20432.0,18873.0,21621.0,19041.0,18088.0,22095.0,20157.0,22851.0,22898.0
+Brazil,production,nickel_mine,,24054.0,26376.0,29372.0,32154.0,32663.0,29124.0,25245.0,31936.0,36764.0,43784.0
+Burma,production,nickel_mine,,100.0,,,,,,,,,
+Canada,production,nickel_mine,,196225.0,192259.0,186384.0,188080.0,149886.0,181820.0,192649.0,190529.0,208302.0,186236.0
+China,production,nickel_mine,,27300.0,30400.0,32800.0,30800.0,36900.0,41800.0,43800.0,46600.0,48700.0,49500.0
+Colombia,production,nickel_mine,,23100.0,23000.0,23400.0,23474.0,28144.0,29806.0,27154.0,31230.0,29422.0,39274.0
+Cuba,production,nickel_mine,,39292.0,32246.0,31036.0,29166.0,25956.0,40800.0,51300.0,59100.0,65100.0,63900.0
+Dominican Republic,production,nickel_mine,,42148.0,44661.0,43874.0,36487.0,50146.0,46523.0,43560.0,47730.0,40311.0,39997.0
+Finland,production,nickel_mine,,10812.0,10332.0,10311.0,8862.0,7652.0,4382.0,3872.0,3252.0,1967.0,730.0
+German Democratic Rep,production,nickel_mine,,872.0,,,,,,,,,
+Greece,production,nickel_mine,,15728.0,19300.0,17000.0,12940.0,18821.0,19947.0,20558.0,20996.0,18544.0,16556.0
+Indonesia,production,nickel_mine,,68583.0,70583.0,78094.0,65757.0,81175.0,86600.0,87900.0,71100.0,74100.0,89100.0
+Kazakhstan,production,nickel_mine,,,,,1000.0,8500.0,9900.0,3500.0,4000.0,3600.0,3.0
+New Caledonia,production,nickel_mine,,85047.0,99664.0,100500.0,97092.0,97261.0,119905.0,122486.0,136459.0,124729.0,109509.0
+North Macedonia,production,nickel_mine,,,,5500.0,5300.0,4600.0,3500.0,3000.0,5300.0,5800.0,100.0
+Norway,production,nickel_mine,,2200.0,2200.0,3398.0,3462.0,3328.0,3389.0,3119.0,2725.0,3219.0,2965.0
+Philippines,production,nickel_mine,,15818.0,13707.0,14005.0,10000.0,9895.0,15075.0,15003.0,18133.0,20685.0,12389.0
+Russia,production,nickel_mine,,,,214100.0,209000.0,212000.0,224000.0,232000.0,235000.0,235000.0,261800.0
+Serbia and Montenegro,production,nickel_mine,,,,0.0,0.0,0.0,300.0,3000.0,2700.0,800.0,
+South Africa,production,nickel_mine,,28200.0,26885.0,,29868.0,30135.0,29803.0,33861.0,34849.0,36679.0,36200.0
+Soviet Union,production,nickel_mine,,212000.0,200000.0,,,,,,,,
+Turkey,production,nickel_mine,,,,,,,,,,,0.0
+USA,production,nickel_mine,,330.0,5523.0,6671.0,2464.0,0.0,1560.0,1330.0,,,
+Ukraine,production,nickel_mine,,,,5900.0,3500.0,2500.0,2200.0,1700.0,,0.0,0.0
+Venezuela,production,nickel_mine,,,,,,,,,0.0,0.0,0.0
+Yugoslavia,production,nickel_mine,,4900.0,3200.0,,,,,,,,
+Zimbabwe,production,nickel_mine,,11442.0,11312.0,10349.0,12800.0,13800.0,11700.0,11600.0,11000.0,10135.0,9593.0

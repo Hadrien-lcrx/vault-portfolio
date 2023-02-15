@@ -1,0 +1,32 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Albania,production,nickel_smelter_refinery,,2143.0,827.0,,,,,,,,
+Australia,production,nickel_smelter_refinery,,44600.0,50000.0,50584.0,61400.0,66500.0,76900.0,74000.0,73700.0,79600.0,83600.0
+Austria,production,nickel_smelter_refinery,,,,3900.0,3200.0,2100.0,2000.0,2000.0,2000.0,1800.0,1500.0
+Brazil,production,nickel_smelter_refinery,,13004.0,13840.0,14668.0,15705.0,16610.0,15676.0,16432.0,19379.0,25753.0,32237.0
+Canada,production,nickel_smelter_refinery,,134700.0,131500.0,135233.0,123139.0,105144.0,125311.0,130136.0,131639.0,146755.0,124260.0
+China,production,nickel_smelter_refinery,,27500.0,28000.0,30800.0,30500.0,31300.0,38900.0,44600.0,43300.0,40100.0,44400.0
+Colombia,production,nickel_smelter_refinery,,18425.0,20190.0,20195.0,20182.0,20834.0,24565.0,22933.0,25170.0,28140.0,28341.0
+Cuba,production,nickel_smelter_refinery,,21126.0,18756.0,16920.0,16193.0,14099.0,21387.0,26730.0,33571.0,38192.0,37510.0
+Czechoslovakia,production,nickel_smelter_refinery,,2600.0,2433.0,1500.0,,,,,,,
+Dominican Republic,production,nickel_smelter_refinery,,28701.0,29063.0,27535.0,23863.0,30757.0,30897.0,30384.0,32554.0,25222.0,24456.0
+Finland,production,nickel_smelter_refinery,,17136.0,13146.0,14984.0,14577.0,16902.0,16025.0,29141.0,35285.0,43379.0,52800.0
+France,production,nickel_smelter_refinery,,8539.0,7455.0,8100.0,10400.0,10041.0,10305.0,11171.0,10702.0,11778.0,11700.0
+German Democratic Rep,production,nickel_smelter_refinery,,1300.0,,,,,,,,,
+Greece,production,nickel_smelter_refinery,,15728.0,16005.0,15424.0,10931.0,16182.0,17155.0,17801.0,17610.0,15004.0,13462.0
+Indonesia,production,nickel_smelter_refinery,,5000.0,5300.0,5506.0,5266.0,5745.0,10735.0,9600.0,9999.0,8500.0,9225.0
+Japan,production,nickel_smelter_refinery,,100200.0,114200.0,107000.0,102900.0,112600.0,135000.0,130500.0,128400.0,126500.0,134700.0
+Korea (Rep. of),production,nickel_smelter_refinery,,8200.0,11400.0,,,,,,,,
+New Caledonia,production,nickel_smelter_refinery,,32278.0,34411.0,31895.0,36850.0,39488.0,42200.0,42174.0,44312.0,44491.0,45289.0
+North Macedonia,production,nickel_smelter_refinery,,,,2700.0,4500.0,4100.0,3500.0,3000.0,5300.0,5800.0,0.0
+Norway,production,nickel_smelter_refinery,,57811.0,58729.0,55686.0,56818.0,67955.0,53237.0,61582.0,62700.0,70150.0,74100.0
+Russia,production,nickel_smelter_refinery,,,,249500.0,187800.0,190700.0,201100.0,195900.0,240900.0,233900.0,238000.0
+Serbia and Montenegro,production,nickel_smelter_refinery,,,,1857.0,443.0,663.0,962.0,2556.0,2440.0,466.0,
+South Africa,production,nickel_smelter_refinery,,28200.0,26885.0,27621.0,29868.0,30135.0,29803.0,33861.0,34849.0,36410.0,32600.0
+Soviet Union,production,nickel_smelter_refinery,,272300.0,257000.0,,,,,,,,
+Taiwan,production,nickel_smelter_refinery,,10400.0,11200.0,,,,,,,,
+USA,production,nickel_smelter_refinery,,3701.0,7065.0,8962.0,4878.0,0.0,8290.0,15100.0,15996.0,4290.0,
+Ukraine,production,nickel_smelter_refinery,,,,5900.0,3500.0,2500.0,2200.0,900.0,0.0,0.0,0.0
+United Kingdom,production,nickel_smelter_refinery,,26500.0,28600.0,28000.0,27000.0,28386.0,35157.0,38561.0,36091.0,39050.0,39467.0
+Venezuela,production,nickel_smelter_refinery,,,,,,,,,0.0,0.0,0.0
+Yugoslavia,production,nickel_smelter_refinery,,4900.0,3200.0,,,,,,,,
+Zimbabwe,production,nickel_smelter_refinery,,18800.0,18200.0,17200.0,18200.0,19600.0,16500.0,17100.0,19100.0,19300.0,19800.0

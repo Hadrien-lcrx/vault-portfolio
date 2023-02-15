@@ -1,0 +1,98 @@
+Country,Activity,Commodity,Sub-commodity,2020
+Afghanistan,production,coal,Coal                                              ,56620.0
+Albania,production,coal,Lignite                                           ,0.0
+Argentina,production,coal,Bituminous,14000.0
+Australia,production,coal,Bituminous,426303000.0
+Australia,production,coal,Brown coal                                        ,40372000.0
+Bangladesh,production,coal,Coal                                              ,811138.0
+Bhutan,production,coal,Coal                                              ,72838.0
+Bosnia & Herzegovina,production,coal,Brown coal & lignite                              ,13365730.0
+Botswana,production,coal,Coal                                              ,1939700.0
+Brazil,production,coal,Bituminous & lignite                              ,6042000.0
+Bulgaria,production,coal,Anthracite & Bituminous,0.0
+Bulgaria,production,coal,Brown coal                                        ,1300000.0
+Bulgaria,production,coal,Lignite                                           ,29000000.0
+Burma,production,coal,Coal                                              ,1942000.0
+Canada,production,coal,Coal                                              ,40791647.0
+Chile,production,coal,Bituminous,25778.0
+Chile,production,coal,Lignite                                           ,165784.0
+China,production,coal,Coal                                              ,3850000000.0
+Colombia,production,coal,Anthracite                                        ,14500.0
+Colombia,production,coal,Coking coal,2780000.0
+Colombia,production,coal,Other bituminous coal,45650000.0
+"Congo, Democratic Republic",production,coal,Bituminous,8000.0
+Czech Republic,production,coal,Bituminous,1861000.0
+Czech Republic,production,coal,Brown coal                                        ,29505000.0
+Eswatini (Swaziland),production,coal,Anthracite                                        ,161768.0
+Ethiopia,production,coal,Lignite                                           ,2800.0
+Georgia,production,coal,Coal                                              ,99134.0
+Germany,production,coal,Anthracite & Bituminous,0.0
+Germany,production,coal,Brown coal                                        ,107377260.0
+Greece,production,coal,Lignite                                           ,14000000.0
+Hungary,production,coal,Bituminous,1513.0
+Hungary,production,coal,Brown coal                                        ,51591.0
+Hungary,production,coal,Lignite                                           ,6069000.0
+India,production,coal,Bituminous,716084000.0
+India,production,coal,Lignite                                           ,36615000.0
+Indonesia,production,coal,Anthracite & Bituminous,563728255.0
+Iran,production,coal,Bituminous,1600000.0
+Kazakhstan,production,coal,Bituminous,104084100.0
+Kazakhstan,production,coal,Lignite                                           ,5422100.0
+Korea (Rep. of),production,coal,Anthracite                                        ,1019298.0
+"Korea, Dem. P.R. of",production,coal,Coal                                              ,17000000.0
+Kosovo,production,coal,Lignite                                           ,8537948.0
+Kyrgyzstan,production,coal,Coal                                              ,2488400.0
+Laos,production,coal,Anthracite                                        ,320231.0
+Laos,production,coal,Lignite                                           ,14366628.0
+Malawi,production,coal,Coal                                              ,54876.0
+Malaysia,production,coal,Coal                                              ,2978248.0
+Mexico,production,coal,Bituminous,7000000.0
+Mongolia,production,coal,Coal                                              ,43844800.0
+Montenegro,production,coal,Brown coal                                        ,8500.0
+Montenegro,production,coal,Lignite                                           ,1656900.0
+Mozambique,production,coal,Bituminous,8041211.0
+Nepal,production,coal,Sub-bituminous                                    ,69418.0
+New Zealand,production,coal,Bituminous,1128917.0
+New Zealand,production,coal,Lignite                                           ,297690.0
+New Zealand,production,coal,Sub-bituminous                                    ,1392075.0
+Niger,production,coal,Coal                                              ,246880.0
+Nigeria,production,coal,Bituminous,49000.0
+North Macedonia,production,coal,Lignite                                           ,4532745.0
+Norway,production,coal,Bituminous,74503.0
+Pakistan,production,coal,Coal                                              ,5300000.0
+Peru,production,coal,Anthracite & Bituminous,114864.0
+Philippines,production,coal,Bituminous,12951291.0
+Poland,production,coal,Coking coal,12274000.0
+Poland,production,coal,Lignite                                           ,47300000.0
+Poland,production,coal,Other bituminous coal,42467000.0
+Romania,production,coal,Anthracite & Bituminous,428368.0
+Romania,production,coal,Lignite                                           ,15161420.0
+Russia,production,coal,Coal                                              ,398000000.0
+Serbia,production,coal,Bituminous,30000.0
+Serbia,production,coal,Brown coal                                        ,306000.0
+Serbia,production,coal,Lignite                                           ,39330000.0
+Slovakia,production,coal,Brown coal                                        ,745000.0
+Slovakia,production,coal,Lignite                                           ,211600.0
+Slovenia,production,coal,Lignite                                           ,3259309.0
+South Africa,production,coal,Anthracite                                        ,4301386.0
+South Africa,production,coal,Bituminous,244090581.0
+Spain,production,coal,Anthracite                                        ,0.0
+Spain,production,coal,Bituminous,0.0
+Spain,production,coal,Sub-bituminous                                    ,0.0
+Tajikistan,production,coal,Coal                                              ,2029139.0
+Tanzania,production,coal,Bituminous,689989.0
+Thailand,production,coal,Lignite                                           ,13250574.0
+Turkey,production,coal,Anthracite                                        ,1613624.0
+Turkey,production,coal,Lignite                                           ,84265524.0
+USA,production,coal,Anthracite                                        ,2151782.0
+USA,production,coal,Bituminous,215789949.0
+USA,production,coal,Lignite                                           ,44773678.0
+USA,production,coal,Sub-bituminous                                    ,222923550.0
+Ukraine,production,coal,Bituminous,24168300.0
+United Kingdom,production,coal,Bituminous,1673000.0
+Uzbekistan,production,coal,Bituminous,263700.0
+Uzbekistan,production,coal,Lignite                                           ,3868100.0
+Venezuela,production,coal,Bituminous,200000.0
+Vietnam,production,coal,Anthracite                                        ,48377000.0
+Zambia,production,coal,Bituminous,400000.0
+Zimbabwe,production,coal,Bituminous,2750883.0

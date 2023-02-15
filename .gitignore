@@ -1,0 +1,14 @@
+# Ignore all .ipynb checkpoints
+*.ipynb_checkpoints
+
+# Ignore Mac files
+*.DS_Store
+
+# Ignore sensitive data and credentials
+/terrorism-analysis/globalterrorismdb_0919dist.xlsx
+/resources-analysis/mineral_resources/data/concatenated/.ipynb_checkpoints/concatenated_exports-checkpoint.csv
+/resources-analysis/mineral_resources/data/concatenated/concatenated_all.csv
+/exoplanet-analysis/oral_report/data/exoTrain.csv
+/resources-analysis/mineral_resources/data/concatenated/.ipynb_checkpoints/concatenated_imports-checkpoint.csv
+/exoplanet-analysis/written_report/data/exoTrain.csv
+/resources-analysis/mineral_resources/data/concatenated/.ipynb_checkpoints/concatenated_imports-checkpoint.csv

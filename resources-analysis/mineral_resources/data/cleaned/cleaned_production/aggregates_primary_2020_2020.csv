@@ -1,0 +1,57 @@
+Country,Activity,Commodity,Sub-commodity,2020
+Austria,production,aggregates_primary,Crushed rock                                      ,27471201.0
+Austria,production,aggregates_primary,Sand and gravel                                   ,30010316.0
+Belgium,production,aggregates_primary,Crushed rock                                      ,45000000.0
+Belgium,production,aggregates_primary,Sand and gravel                                   ,15500000.0
+Bulgaria,production,aggregates_primary,Crushed rock                                      ,24611097.0
+Bulgaria,production,aggregates_primary,Sand and gravel                                   ,8500308.0
+Croatia,production,aggregates_primary,Sand and gravel                                   ,4585010.0
+Cyprus,production,aggregates_primary,Crushed rock                                      ,7905100.0
+Czech Republic,production,aggregates_primary,Crushed rock                                      ,42915000.0
+Czech Republic,production,aggregates_primary,Sand and gravel                                   ,20335000.0
+Denmark,production,aggregates_primary,Crushed rock                                      ,175000.0
+Denmark,production,aggregates_primary,Sand and gravel                                   ,51558000.0
+Estonia,production,aggregates_primary,Crushed rock                                      ,10923300.0
+Estonia,production,aggregates_primary,Sand and gravel                                   ,3962700.0
+Finland,production,aggregates_primary,Crushed rock                                      ,50000000.0
+Finland,production,aggregates_primary,Sand and gravel                                   ,23000000.0
+France,production,aggregates_primary,Crushed rock                                      ,199000000.0
+France,production,aggregates_primary,Sand and gravel                                   ,126700000.0
+Germany,production,aggregates_primary,Crushed rock                                      ,223000000.0
+Germany,production,aggregates_primary,Sand and gravel                                   ,262000000.0
+Greece,production,aggregates_primary,,34000000.0
+Hungary,production,aggregates_primary,Crushed rock                                      ,9000000.0
+Hungary,production,aggregates_primary,Sand and gravel                                   ,49000000.0
+Iceland,production,aggregates_primary,Sand and gravel                                   ,291000.0
+"Ireland, Republic of",production,aggregates_primary,Crushed rock                                      ,23000000.0
+"Ireland, Republic of",production,aggregates_primary,Sand and gravel                                   ,7000000.0
+Italy,production,aggregates_primary,Crushed rock                                      ,29800000.0
+Italy,production,aggregates_primary,Sand and gravel                                   ,54606351.0
+Latvia,production,aggregates_primary,Crushed rock                                      ,901472.0
+Latvia,production,aggregates_primary,Sand and gravel                                   ,12500000.0
+Lithuania,production,aggregates_primary,Crushed rock                                      ,8298830.0
+Lithuania,production,aggregates_primary,Sand and gravel                                   ,12539223.0
+Malta,production,aggregates_primary,Crushed rock                                      ,1436438.0
+Montenegro,production,aggregates_primary,Crushed rock                                      ,163573.0
+Montenegro,production,aggregates_primary,Sand and gravel                                   ,380976.0
+Netherlands,production,aggregates_primary,Sand and gravel                                   ,69000000.0
+Norway,production,aggregates_primary,Crushed rock                                      ,79020476.0
+Norway,production,aggregates_primary,Sand and gravel                                   ,14053691.0
+Poland,production,aggregates_primary,Crushed rock                                      ,76286654.0
+Poland,production,aggregates_primary,Sand and gravel                                   ,180243000.0
+Portugal,production,aggregates_primary,Crushed rock                                      ,35063333.0
+Portugal,production,aggregates_primary,Sand and gravel                                   ,10784029.0
+Romania,production,aggregates_primary,Crushed rock                                      ,28000000.0
+Romania,production,aggregates_primary,Sand and gravel                                   ,60000000.0
+Slovakia,production,aggregates_primary,Crushed rock                                      ,10823895.0
+Slovakia,production,aggregates_primary,Sand and gravel                                   ,1785727.0
+Slovenia,production,aggregates_primary,Crushed rock                                      ,8983918.0
+Slovenia,production,aggregates_primary,Sand and gravel                                   ,1869851.0
+Spain,production,aggregates_primary,Crushed rock                                      ,75000000.0
+Spain,production,aggregates_primary,Sand and gravel                                   ,42000000.0
+Sweden,production,aggregates_primary,Crushed rock                                      ,91730897.0
+Sweden,production,aggregates_primary,Sand and gravel                                   ,9290761.0
+Switzerland,production,aggregates_primary,Crushed rock                                      ,2390000.0
+Switzerland,production,aggregates_primary,Sand and gravel                                   ,34550000.0
+United Kingdom,production,aggregates_primary,Crushed rock                                      ,225011000.0
+United Kingdom,production,aggregates_primary,Sand and gravel                                   ,57702000.0

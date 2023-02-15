@@ -1,0 +1,9 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Austria,production,germanium_metal,,5.0,0.0,,,,,,,,
+Belgium,production,germanium_metal,,,,,,,,22.0,23.0,,
+China,production,germanium_metal,,10.0,12.0,8.0,1.0,1.0,10.0,11.0,,14.0,14.0
+Japan,production,germanium_metal,,3.0,3.0,3.0,3.0,2.0,2.0,2.0,1.0,0.0,1.0
+Soviet Union,production,germanium_metal,,12.0,15.0,12.0,,,,,,,
+Spain,production,germanium_metal,,,,6.0,6.0,,,,,,
+USA,production,germanium_metal,,18.0,15.0,13.0,10.0,10.0,10.0,18.0,20.0,22.0,20.0
+Ukraine,production,germanium_metal,,,,,,,,0.0,0.0,1.0,1.0

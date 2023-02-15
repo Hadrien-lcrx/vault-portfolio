@@ -1,0 +1,15 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Brazil,production,arsenic_white,,298.0,148.0,164.0,77.0,18.0,13.0,,,,
+Canada,production,arsenic_white,,64.0,45.0,,,,,,,,
+France,production,arsenic_white,,10239.0,10000.0,6930.0,6925.0,6848.0,5495.0,7276.0,6042.0,5280.0,5500.0
+German Federal Republic,production,arsenic_white,,,,,,364.0,320.0,360.0,360.0,360.0,0.0
+Japan,production,arsenic_white,,1086.0,956.0,427.0,450.0,193.0,60.0,60.0,119.0,91.0,182.0
+Korea (Rep. of),production,arsenic_white,,,,,,,100.0,706.0,491.0,548.0,590.0
+Mexico,production,arsenic_white,,9137.0,11506.0,5916.0,5085.0,9503.0,6156.0,5498.0,5742.0,6244.0,6535.0
+Namibia,production,arsenic_white,,4062.0,3701.0,2370.0,8147.0,6640.0,6663.0,5122.0,2615.0,2401.0,2221.0
+Peru,production,arsenic_white,,772.0,656.0,1019.0,1386.0,1973.0,1260.0,789.0,1367.0,1257.0,2440.0
+Portugal,production,arsenic_white,,197.0,186.0,261.0,362.0,263.0,256.0,278.0,222.0,253.0,155.0
+Soviet Union,production,arsenic_white,,7000.0,7100.0,7200.0,7250.0,7250.0,7350.0,7400.0,7500.0,7600.0,7700.0
+Spain,production,arsenic_white,,248.0,361.0,,,166.0,12.0,,,,
+Sweden,production,arsenic_white,,16300.0,17500.0,16200.0,15200.0,14687.0,11688.0,6990.0,6000.0,6100.0,5100.0
+Zimbabwe,production,arsenic_white,,,,,,,,139.0,201.0,129.0,0.0

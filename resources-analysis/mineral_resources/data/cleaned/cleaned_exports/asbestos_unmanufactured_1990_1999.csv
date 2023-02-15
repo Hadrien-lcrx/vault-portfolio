@@ -1,0 +1,35 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Austria,exports,asbestos_unmanufactured,Unmanufactured,675.0,48.0,35.0,320.0,,,,,,
+Belarus,exports,asbestos_unmanufactured,Unmanufactured,,,,,,2000.0,3000.0,3000.0,3604.0,4334.0
+Belgium-Luxembourg,exports,asbestos_unmanufactured,Unmanufactured,310.0,103.0,57.0,1290.0,136.0,94.0,11.0,263.0,685.0,1.0
+Brazil,exports,asbestos_unmanufactured,Unmanufactured,53142.0,67765.0,67428.0,76062.0,75631.0,71747.0,78294.0,63165.0,51239.0,49419.0
+Canada,exports,asbestos_unmanufactured,Unmanufactured,649485.0,686053.0,600577.0,510386.0,530394.0,509575.0,504069.0,430288.0,319430.0,332406.0
+China,exports,asbestos_unmanufactured,Unmanufactured,7135.0,612.0,2303.0,3049.0,3402.0,3465.0,9392.0,13553.0,18591.0,10720.0
+Cyprus,exports,asbestos_unmanufactured,Unmanufactured,0.0,0.0,1.0,,,,,,,
+Czech Republic,exports,asbestos_unmanufactured,Unmanufactured,,,,,400.0,100.0,27100.0,0.0,51.0,
+Estonia,exports,asbestos_unmanufactured,Unmanufactured,,,,,,9037.0,300.0,,,
+Eswatini (Swaziland),exports,asbestos_unmanufactured,Unmanufactured,19292.0,,,19000.0,19000.0,19000.0,20000.0,20000.0,19000.0,20000.0
+France,exports,asbestos_unmanufactured,Unmanufactured,101.0,386.0,535.0,17.0,83.0,224.0,14053.0,164.0,0.0,
+German Federal Republic,exports,asbestos_unmanufactured,Unmanufactured,608.0,,,,,,,,,
+Germany,exports,asbestos_unmanufactured,Unmanufactured,,2184.0,523.0,140.0,,,,,,
+Greece,exports,asbestos_unmanufactured,Unmanufactured,56963.0,27728.0,22554.0,47309.0,58156.0,67991.0,74043.0,51720.0,35185.0,28360.0
+Hungary,exports,asbestos_unmanufactured,Unmanufactured,5784.0,2300.0,,,,,,,,
+India,exports,asbestos_unmanufactured,Unmanufactured,,,100.0,216.0,1215.0,14.0,275.0,282.0,348.0,172.0
+Italy,exports,asbestos_unmanufactured,Unmanufactured,4893.0,1156.0,1686.0,156.0,8.0,22.0,51.0,42.0,,
+Japan,exports,asbestos_unmanufactured,Unmanufactured,142.0,147.0,116.0,142.0,108.0,74.0,133.0,160.0,32.0,20.0
+Kazakhstan,exports,asbestos_unmanufactured,Unmanufactured,,,,,36000.0,115400.0,139100.0,60429.0,123906.0,107428.0
+Kyrgyzstan,exports,asbestos_unmanufactured,Unmanufactured,,,,500.0,1700.0,793.0,,,,
+Lithuania,exports,asbestos_unmanufactured,Unmanufactured,,,2900.0,,3600.0,5173.0,4656.0,7113.0,2982.0,3967.0
+Poland,exports,asbestos_unmanufactured,Unmanufactured,,,2960.0,1996.0,529.0,948.0,200.0,300.0,300.0,1.0
+Russia,exports,asbestos_unmanufactured,Unmanufactured,,194540.0,87299.0,74926.0,80268.0,76820.0,33411.0,98832.0,241681.0,261138.0
+Saudi Arabia,exports,asbestos_unmanufactured,Unmanufactured,422.0,47.0,5092.0,4000.0,4515.0,8400.0,11530.0,6440.0,8608.0,17970.0
+Singapore,exports,asbestos_unmanufactured,Unmanufactured,2181.0,700.0,387.0,405.0,,,,,,
+Slovakia,exports,asbestos_unmanufactured,Unmanufactured,,,,,200.0,100.0,201.0,328.0,,
+South Africa,exports,asbestos_unmanufactured,Unmanufactured,178750.0,147504.0,131109.0,110080.0,95500.0,92100.0,60829.0,38209.0,24875.0,20314.0
+Soviet Union,exports,asbestos_unmanufactured,Unmanufactured,245100.0,,,,,,,,,
+Spain,exports,asbestos_unmanufactured,Unmanufactured,127.0,86.0,187.0,4.0,,142.0,625.0,19.0,15.0,5.0
+USA,exports,asbestos_unmanufactured,Unmanufactured,28875.0,25694.0,25463.0,27356.0,19558.0,16556.0,24231.0,23061.0,18896.0,21997.0
+United Kingdom,exports,asbestos_unmanufactured,Unmanufactured,291.0,111.0,,,,,,,,
+United Kingdom,exports,asbestos_unmanufactured,Waste,,,53.0,14.0,3.0,3.0,964.0,,4.0,0.0
+Yugoslavia,exports,asbestos_unmanufactured,Unmanufactured,73.0,1.0,,,,,,,,
+Zimbabwe,exports,asbestos_unmanufactured,Unmanufactured,172206.0,138838.0,128811.0,105407.0,129289.0,174558.0,152091.0,143169.0,113008.0,204575.0

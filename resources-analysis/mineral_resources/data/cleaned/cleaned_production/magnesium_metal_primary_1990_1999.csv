@@ -1,0 +1,17 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Brazil,production,magnesium_metal_primary,,8700.0,7800.0,7300.0,9700.0,9700.0,9700.0,9000.0,9000.0,9000.0,7968.0
+Canada,production,magnesium_metal_primary,,26726.0,35500.0,25800.0,23000.0,30000.0,46000.0,46000.0,49000.0,60000.0,64000.0
+China,production,magnesium_metal_primary,,5900.0,6000.0,10500.0,13200.0,24000.0,93600.0,73200.0,75985.0,70464.0,120700.0
+France,production,magnesium_metal_primary,,14600.0,14000.0,13600.0,10980.0,12500.0,14450.0,14000.0,13800.0,14700.0,16200.0
+India,production,magnesium_metal_primary,,,,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1500.0,1000.0
+Israel,production,magnesium_metal_primary,,,,,,,,100.0,7400.0,24500.0,24300.0
+Italy,production,magnesium_metal_primary,,5937.0,3919.0,1211.0,,,,,,,
+Japan,production,magnesium_metal_primary,,12843.0,11559.0,7119.0,7471.0,3000.0,,,,,
+Kazakhstan,production,magnesium_metal_primary,,,,3000.0,2000.0,2967.0,8972.0,13431.0,17900.0,20907.0,11031.0
+Norway,production,magnesium_metal_primary,,48222.0,44300.0,30400.0,27300.0,27600.0,32000.0,37790.0,34200.0,35400.0,40800.0
+Russia,production,magnesium_metal_primary,,,,40000.0,30000.0,35400.0,37500.0,31500.0,33000.0,34100.0,35200.0
+Serbia and Montenegro,production,magnesium_metal_primary,,,,4055.0,0.0,0.0,2560.0,3090.0,3942.0,3965.0,1203.0
+Soviet Union,production,magnesium_metal_primary,,88000.0,80000.0,,,,,,,,
+USA,production,magnesium_metal_primary,,139333.0,131288.0,136947.0,132144.0,128475.0,142100.0,133100.0,124800.0,106100.0,75000.0
+Ukraine,production,magnesium_metal_primary,,,,15000.0,14900.0,12000.0,13000.0,12896.0,7654.0,5040.0,0.0
+Yugoslavia,production,magnesium_metal_primary,,5788.0,5360.0,,,,,,,,

@@ -1,0 +1,12 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,production,lithium_minerals,,7343.0,4512.0,5635.0,7550.0,11006.0,15704.0,16564.0,17691.0,17691.0,17570.0
+Australia,production,lithium_minerals,Spodumene                                         ,65504.0,79859.0,79085.0,124410.0,110256.0,173635.0,222101.0,245279.0,239528.0,197482.0
+Brazil,production,lithium_minerals,Petalite                                          ,1077.0,187.0,,,,,,,,
+Brazil,production,lithium_minerals,Spodumene                                         ,9796.0,8897.0,12046.0,9755.0,9064.0,8924.0,8585.0,7991.0,14460.0,15929.0
+Canada,production,lithium_minerals,,22500.0,22500.0,22500.0,22500.0,22500.0,22500.0,22500.0,23000.0,22000.0,10000.0
+Chile,production,lithium_minerals,,35869.0,31320.0,35242.0,41667.0,43971.0,43595.0,50035.0,59637.0,56881.0,30538.0
+China,production,lithium_minerals,,31967.0,34276.0,34000.0,35000.0,36000.0,37000.0,37000.0,42000.0,46000.0,53000.0
+Portugal,production,lithium_minerals,Lepidolite                                        ,9352.0,11571.0,16325.0,24606.0,28696.0,26185.0,28497.0,34755.0,34888.0,37359.0
+Spain,production,lithium_minerals,Lepidolite                                        ,,,6800.0,6333.0,3226.0,4008.0,8339.0,10326.0,9342.0,4270.0
+USA,production,lithium_minerals,,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0
+Zimbabwe,production,lithium_minerals,,37914.0,36103.0,29320.0,12131.0,13710.0,37499.0,,,,50000.0

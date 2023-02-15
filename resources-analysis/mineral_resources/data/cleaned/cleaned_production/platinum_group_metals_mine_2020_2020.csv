@@ -1,0 +1,27 @@
+Country,Activity,Commodity,Sub-commodity,2020
+Australia,production,platinum_group_metals_mine,Palladium                                         ,522.0
+Canada,production,platinum_group_metals_mine,Other platinum metals                             ,1200.0
+Canada,production,platinum_group_metals_mine,Palladium                                         ,18600.0
+Canada,production,platinum_group_metals_mine,Platinum                                          ,10700.0
+China,production,platinum_group_metals_mine,Palladium                                         ,1300.0
+China,production,platinum_group_metals_mine,Platinum                                          ,2500.0
+Colombia,production,platinum_group_metals_mine,,410.0
+Ethiopia,production,platinum_group_metals_mine,Platinum                                          ,2.0
+Finland,production,platinum_group_metals_mine,Palladium                                         ,858.0
+Finland,production,platinum_group_metals_mine,Platinum                                          ,1276.0
+Poland,production,platinum_group_metals_mine,Palladium                                         ,7.0
+Poland,production,platinum_group_metals_mine,Platinum                                          ,8.0
+Russia,production,platinum_group_metals_mine,Other platinum metals                             ,2000.0
+Russia,production,platinum_group_metals_mine,Palladium                                         ,92300.0
+Russia,production,platinum_group_metals_mine,Platinum                                          ,23500.0
+Serbia,production,platinum_group_metals_mine,Palladium                                         ,100.0
+Serbia,production,platinum_group_metals_mine,Platinum                                          ,20.0
+South Africa,production,platinum_group_metals_mine,Other platinum metals                             ,46835.0
+South Africa,production,platinum_group_metals_mine,Palladium                                         ,66264.0
+South Africa,production,platinum_group_metals_mine,Platinum                                          ,111993.0
+USA,production,platinum_group_metals_mine,Other platinum metals                             ,100.0
+USA,production,platinum_group_metals_mine,Palladium                                         ,14600.0
+USA,production,platinum_group_metals_mine,Platinum                                          ,4200.0
+Zimbabwe,production,platinum_group_metals_mine,Other platinum metals                             ,3230.0
+Zimbabwe,production,platinum_group_metals_mine,Palladium                                         ,12890.0
+Zimbabwe,production,platinum_group_metals_mine,Platinum                                          ,15004.0

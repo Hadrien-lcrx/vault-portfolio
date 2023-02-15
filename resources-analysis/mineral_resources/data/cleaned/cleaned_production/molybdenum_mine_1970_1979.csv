@@ -1,0 +1,17 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Australia,production,molybdenum_mine,,98.0,23.0,7.0,7.0,,,,,,
+Bulgaria,production,molybdenum_mine,,200.0,200.0,230.0,230.0,230.0,230.0,230.0,150.0,150.0,150.0
+Canada,production,molybdenum_mine,,25532.0,17133.0,21540.0,22975.0,23237.0,21712.0,24365.0,16568.0,13943.0,11175.0
+Chile,production,molybdenum_mine,,9500.0,10535.0,9808.0,8072.0,16274.0,15152.0,18165.0,10938.0,13196.0,13560.0
+China,production,molybdenum_mine,,2500.0,2500.0,2500.0,2500.0,2500.0,2500.0,2500.0,1500.0,2000.0,2000.0
+Japan,production,molybdenum_mine,,441.0,464.0,374.0,274.0,177.0,234.0,408.0,182.0,74.0,70.0
+Korea (Rep. of),production,molybdenum_mine,,192.0,177.0,84.0,85.0,126.0,126.0,200.0,102.0,221.0,190.0
+Mexico,production,molybdenum_mine,,235.0,131.0,130.0,68.0,72.0,28.0,27.0,1.0,11.0,48.0
+Mongolia,production,molybdenum_mine,,,,,,,,,,,222.0
+Niger,production,molybdenum_mine,,,,,,,,,,,10.0
+Norway,production,molybdenum_mine,,505.0,549.0,522.0,188.0,,,,,,
+Peru,production,molybdenum_mine,,1012.0,1337.0,1278.0,1056.0,1085.0,739.0,755.0,456.0,734.0,1152.0
+Philippines,production,molybdenum_mine,,54.0,6.0,,,,,0.0,0.0,55.0,141.0
+Soviet Union,production,molybdenum_mine,,12900.0,13300.0,13700.0,14200.0,14600.0,15100.0,15600.0,9700.0,9900.0,10200.0
+Turkey,production,molybdenum_mine,,,,,,,,24365.0,0.0,25.0,65.0
+USA,production,molybdenum_mine,,84248.0,82916.0,84800.0,87600.0,84700.0,80100.0,85603.0,55523.0,59803.0,65302.0

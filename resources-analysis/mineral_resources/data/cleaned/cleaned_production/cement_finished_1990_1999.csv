@@ -1,0 +1,30 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Austria,production,cement_finished,"Cement, finished",,,,,,,,,3850000.0,3817000.0
+Belgium,production,cement_finished,"Cement, finished",,,,,,,,,6803000.0,7277000.0
+Bulgaria,production,cement_finished,"Cement, finished",,,,,,,,,1742000.0,2060000.0
+Cyprus,production,cement_finished,"Cement, finished",,,,,,,,,1207000.0,1157000.0
+Czech Republic,production,cement_finished,"Cement, finished",,,,,,,,,4599348.0,4241298.0
+Denmark,production,cement_finished,"Cement, finished",,,,,,,,,2547702.0,2422153.0
+Estonia,production,cement_finished,"Cement, finished",,,,,,,,,321000.0,357700.0
+Finland,production,cement_finished,"Cement, finished",,,,,,,,,1232000.0,1299769.0
+France,production,cement_finished,"Cement, finished",,,,,,,,,,19527000.0
+Germany,production,cement_finished,"Cement, finished",,,,,,,,,34943000.0,36206000.0
+Greece,production,cement_finished,"Cement, finished",,,,,,,,,14042602.0,13941821.0
+Hungary,production,cement_finished,"Cement, finished",,,,,,,,,2999000.0,2979000.0
+"Ireland, Republic of",production,cement_finished,"Cement, finished",,,,,,,,,2000000.0,2466000.0
+Italy,production,cement_finished,"Cement, finished",,,,,,,,,35511975.0,36704781.0
+Latvia,production,cement_finished,"Cement, finished",,,,,,,,,366000.0,300000.0
+Lithuania,production,cement_finished,"Cement, finished",,,,,,,,,788300.0,666000.0
+Luxembourg,production,cement_finished,"Cement, finished",,,,,,,,,699254.0,742040.0
+Netherlands,production,cement_finished,"Cement, finished",,,,,,,,,3200000.0,3480000.0
+Norway,production,cement_finished,"Cement, finished",,,,,,,,,1676000.0,1827000.0
+Poland,production,cement_finished,"Cement, finished",,,,,,,,,14970000.0,15555000.0
+Portugal,production,cement_finished,"Cement, finished",,,,,,,,,9784058.0,10078694.0
+Romania,production,cement_finished,"Cement, finished",,,,,,,,,6577000.0,5580000.0
+Slovakia,production,cement_finished,"Cement, finished",,,,,,,,,4705000.0,4718000.0
+Slovenia,production,cement_finished,"Cement, finished",,,,,,,,,1149000.0,1224000.0
+Spain,production,cement_finished,"Cement, finished",,,,,,,,,32449065.0,35781978.0
+Sweden,production,cement_finished,"Cement, finished",2374200.0,2393900.0,2288300.0,2098900.0,2163500.0,2545300.0,2458000.0,2272000.0,2372554.0,2292653.0
+Switzerland,production,cement_finished,"Cement, finished",,,,,,,,,3600000.0,3548000.0
+Turkey,production,cement_finished,"Cement, finished",,,,,,,,,38200000.0,34258000.0
+United Kingdom,production,cement_finished,"Cement, finished",,,11006000.0,11039000.0,12307000.0,11805000.0,12214000.0,12638000.0,12409000.0,12697000.0

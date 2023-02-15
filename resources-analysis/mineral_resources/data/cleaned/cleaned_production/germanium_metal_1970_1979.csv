@@ -1,0 +1,9 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Austria,production,germanium_metal,,,,,,,,5.0,4.0,4.0,5.0
+Canada,production,germanium_metal,,,5.0,,,,,,,,
+France,production,germanium_metal,,,,,,,,,,,0.0
+Japan,production,germanium_metal,,28.0,19.0,22.0,28.0,17.0,15.0,16.0,13.0,11.0,10.0
+Namibia,production,germanium_metal,,,5.0,5.0,9.0,9.0,9.0,,,,
+Soviet Union,production,germanium_metal,,,,7.0,9.0,9.0,10.0,14.0,14.0,14.0,14.0
+USA,production,germanium_metal,,13.0,12.0,15.0,17.0,16.0,14.0,16.0,16.0,19.0,23.0
+Zaire,production,germanium_metal,,21.0,53.0,23.0,25.0,62.0,12.0,,,,

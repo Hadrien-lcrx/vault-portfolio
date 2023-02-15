@@ -1,0 +1,84 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Albania,imports,petroleum_crude,,,,,,,,,,,60131.0
+Argentina,imports,petroleum_crude,,1568986.0,,,,,,,,,
+Australia,imports,petroleum_crude,,19998051.0,21979223.0,19100000.0,,,,,,,
+Austria,imports,petroleum_crude,,7314935.0,7858165.0,8128843.0,7819276.0,7539310.0,7836688.0,7698169.0,7645010.0,7945639.0,7428183.0
+Belarus,imports,petroleum_crude,,11924686.0,11913300.0,14024264.0,,,,,,,
+Belgium,imports,petroleum_crude,,,,,,,,33843960.0,34847065.0,35556835.0,32376828.0
+Belgium-Luxembourg,imports,petroleum_crude,,32114347.0,38628736.0,37490772.0,42731484.0,34210727.0,32376844.0,,,,
+Brazil,imports,petroleum_crude,,15123678.0,17070639.0,17918759.0,,,,,,,
+Bulgaria,imports,petroleum_crude,,,,,489151.0,2664000.0,3752000.0,4866000.0,7162499.0,7262658.0,5770397.0
+Cameroon,imports,petroleum_crude,,1354423.0,1508646.0,,,,,,,,
+Canada,imports,petroleum_crude,,45603695.0,48152591.0,41372713.0,,,,,,,
+Chile,imports,petroleum_crude,,10120519.0,10352030.0,9381000.0,,,,,,,
+China,imports,petroleum_crude,,70134276.0,60255355.0,69407720.0,,,,,,,
+Colombia,imports,petroleum_crude,,246990.0,320233.0,169598.0,,,,,,,
+Costa Rica,imports,petroleum_crude,,49343.0,258399.0,517414.0,,,,,,,
+Croatia,imports,petroleum_crude,,3835167.0,4012709.0,4009452.0,3776305.0,4197554.0,3855070.0,3778918.0,4285565.0,3476266.0,4044874.0
+Cuba,imports,petroleum_crude,,800000.0,800000.0,800000.0,,,,,,,
+Cyprus,imports,petroleum_crude,,1154746.0,1048256.0,1143649.0,838280.0,417475.0,,,,,
+Czech Republic,imports,petroleum_crude,,5819443.0,6004685.0,5548002.0,7380375.0,6530733.0,7674771.0,7752356.0,7179766.0,8141759.0,7451765.0
+Denmark,imports,petroleum_crude,,5664799.0,2853538.0,3193530.0,3517270.0,3725978.0,2666384.0,2576191.0,2136643.0,2240240.0,3320486.0
+El Salvador,imports,petroleum_crude,,758191.0,970282.0,1035679.0,,,,,,,
+Estonia,imports,petroleum_crude,,,,,,,,,18375.0,,
+Finland,imports,petroleum_crude,,11616731.0,10951956.0,11745754.0,12019477.0,12249366.0,10603534.0,12176669.0,12221330.0,11908304.0,11516562.0
+France,imports,petroleum_crude,,83394974.0,85259764.0,80589846.0,84181898.0,86416072.0,84951337.0,83411036.0,81011061.0,81854226.0,70343956.0
+Germany,imports,petroleum_crude,,105292890.0,104631624.0,104331841.0,107268878.0,112096299.0,113067864.0,113960654.0,105162534.0,105835665.0,97648203.0
+Ghana,imports,petroleum_crude,,1264283.0,1394364.0,,,,,,,,
+Greece,imports,petroleum_crude,,18301453.0,20112238.0,18653052.0,18976807.0,18390500.0,18926138.0,18370720.0,16938841.0,6422841.0,2437424.0
+Guatemala,imports,petroleum_crude,,726348.0,785233.0,596390.0,,,,,,,
+Hungary,imports,petroleum_crude,,,,5029814.0,,5001714.0,6320762.0,7667000.0,6064641.0,6959000.0,6241000.0
+India,imports,petroleum_crude,,74120000.0,79420000.0,83677000.0,,,,,,,
+Indonesia,imports,petroleum_crude,,11473486.0,14174862.0,15880010.0,,,,,,,
+"Ireland, Republic of",imports,petroleum_crude,,2128504.0,2475545.0,1112511.0,1378494.0,2128991.0,3226383.0,3082372.0,3595537.0,2878397.0,2792968.0
+Italy,imports,petroleum_crude,,83272202.0,83971514.0,81043087.0,84724010.0,87208954.0,89007151.0,86807240.0,89130022.0,82998642.0,76301866.0
+Jamaica,imports,petroleum_crude,,1101786.0,,,,,,,,,
+Japan,imports,petroleum_crude,,211981493.0,208103752.0,199412982.0,,,,,,,
+Jordan,imports,petroleum_crude,,3763383.0,3875111.0,3869005.0,,,,,,,
+Kazakhstan,imports,petroleum_crude,,1009641.0,2336904.0,2631094.0,,,,,,,
+Kenya,imports,petroleum_crude,,1251637.0,,1500000.0,,,,,,,
+Korea (Rep. of),imports,petroleum_crude,,120651683.0,116156262.0,106876904.0,,,,,,,
+"Korea, Dem. P.R. of",imports,petroleum_crude,,899000.0,657000.0,575000.0,,,,,,,
+Kyrgyzstan,imports,petroleum_crude,,20672.0,0.0,10393.0,,,,,,,
+Lithuania,imports,petroleum_crude,,4690000.0,6117000.0,6219137.0,7075694.0,8375777.0,9746806.0,7994367.0,4869858.0,9325904.0,8413067.0
+Madagascar,imports,petroleum_crude,,460755.0,,,,,,,,,
+Malaysia,imports,petroleum_crude,,6962773.0,8623424.0,,,,,,,,
+Martinique,imports,petroleum_crude,,261105.0,604407.0,,,,,,,,
+Morocco,imports,petroleum_crude,,6852525.0,6621677.0,,,,,,,,
+Netherlands,imports,petroleum_crude,,55718885.0,60427836.0,54968223.0,56463347.0,61377494.0,62152486.0,61548064.0,57027374.0,58484561.0,35086584.0
+Netherlands Antilles,imports,petroleum_crude,,11052368.0,10790921.0,8017699.0,,,,,,,
+New Zealand,imports,petroleum_crude,,4555000.0,4106824.0,4915746.0,,,,,,,
+Nicaragua,imports,petroleum_crude,,871380.0,987131.0,840900.0,,,,,,,
+North Macedonia,imports,petroleum_crude,,,,538562.0,880062.0,781438.0,950742.0,1081738.0,1063614.0,1057671.0,992672.0
+Norway,imports,petroleum_crude,,915314.0,956019.0,590064.0,562851.0,440346.0,983848.0,440374.0,1446918.0,828709.0,1225514.0
+Pakistan,imports,petroleum_crude,,4453104.0,6854446.0,7140384.0,,,,,,,
+Panama,imports,petroleum_crude,,2213732.0,2736972.0,1385569.0,,,,,,,
+Paraguay,imports,petroleum_crude,,37613.0,82946.0,92731.0,,,,,,,
+Peru,imports,petroleum_crude,,3110004.0,3817224.0,3753710.0,,,,,,,
+Philippines,imports,petroleum_crude,,15349139.0,15374510.0,,,,,,,,
+Poland,imports,petroleum_crude,,18039804.0,17558327.0,16400000.0,17448290.0,17316135.0,17639489.0,19479284.0,20778118.0,20949949.0,19959321.0
+Portugal,imports,petroleum_crude,,11422174.0,12517253.0,11635480.0,12544785.0,13081242.0,12941851.0,13479579.0,12386104.0,12050226.0,10193366.0
+Romania,imports,petroleum_crude,,4641598.0,5543644.0,5690063.0,5216636.0,7314284.0,8688818.0,8678466.0,8533821.0,8419364.0,6893956.0
+Russia,imports,petroleum_crude,,5891728.0,4700000.0,5700000.0,,,,,,,
+Senegal,imports,petroleum_crude,,931353.0,776286.0,900000.0,,,,,,,
+Serbia,imports,petroleum_crude,,,,,,,,,2586011.0,2585294.0,2280658.0
+Serbia and Montenegro,imports,petroleum_crude,,157823.0,1846787.0,2678238.0,,,,,,,
+Singapore,imports,petroleum_crude,,,40800287.0,37091415.0,,,,,,,
+Slovakia,imports,petroleum_crude,,5329492.0,5408523.0,5554324.0,5603952.0,5858911.0,5421866.0,5878819.0,6141203.0,5778688.0,5787725.0
+Slovenia,imports,petroleum_crude,,128439.0,,,,,,,,,
+South Africa,imports,petroleum_crude,,18319949.0,18766918.0,16382665.0,,,,,,,
+Spain,imports,petroleum_crude,,57954412.0,56824754.0,57489130.0,57578507.0,59343873.0,59510408.0,59203359.0,57773847.0,59444410.0,52331324.0
+Sri Lanka,imports,petroleum_crude,,2115001.0,1361936.0,1700000.0,,,,,,,
+Sweden,imports,petroleum_crude,,20723480.0,18262971.0,18665040.0,20436192.0,20873087.0,19770639.0,19170472.0,17719046.0,19184387.0,16818080.0
+Switzerland,imports,petroleum_crude,,4578217.0,4773040.0,4869479.0,4551511.0,5086184.0,4744965.0,5413010.0,4595181.0,5141634.0,4755189.0
+Taiwan,imports,petroleum_crude,,38909906.0,37613630.0,38016005.0,,,,,,,
+Tanzania,imports,petroleum_crude,,140.0,174.0,,,,,,,,
+Thailand,imports,petroleum_crude,,27946040.0,29794610.0,30807688.0,,,,,,,
+Trinidad & Tobago,imports,petroleum_crude,,5309036.0,4938380.0,5656480.0,,,,,,,
+Tunisia,imports,petroleum_crude,,1196154.0,1016178.0,,,,,,,,
+Turkey,imports,petroleum_crude,,,23141640.0,21626643.0,24028666.0,23917019.0,23389647.0,23786875.0,23445764.0,21833471.0,14219427.0
+USA,imports,petroleum_crude,,463553662.0,480600638.0,437579618.0,,,,,,,
+Ukraine,imports,petroleum_crude,,5986426.0,,,,,,,,,
+United Kingdom,imports,petroleum_crude,,36552593.0,38542685.0,40838161.0,44511352.0,56128686.0,54067943.0,55735570.0,44129689.0,52103843.0,50656965.0
+Uruguay,imports,petroleum_crude,,1761659.0,1775801.0,994203.0,,,,,,,
+Venezuela,imports,petroleum_crude,,0.0,783887425.0,144880.0,,,,,,,

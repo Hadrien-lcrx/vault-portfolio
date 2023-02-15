@@ -1,0 +1,25 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Australia,production,titanium_minerals,Ilmenite                                          ,886452.0,813800.0,707413.0,719601.0,816746.0,991433.0,959203.0,1033358.0,1254994.0,1181010.0
+Australia,production,titanium_minerals,Leucoxene                                         ,10593.0,14560.0,10730.0,11097.0,14782.0,16871.0,12223.0,10621.0,16103.0,22470.0
+Australia,production,titanium_minerals,Rutile                                            ,370867.0,374705.0,313139.0,335231.0,318702.0,348350.0,389750.0,325281.0,257075.0,274533.0
+Brazil,production,titanium_minerals,Ilmenite                                          ,20644.0,11198.0,3791.0,6400.0,6743.0,4596.0,14615.0,13268.0,20077.0,13191.0
+Brazil,production,titanium_minerals,Rutile                                            ,1.0,,316.0,178.0,146.0,104.0,51.0,128.0,365.0,439.0
+Canada,production,titanium_minerals,Ilmenite                                          ,1892286.0,1893302.0,2048879.0,2082206.0,,,,1442280.0,1809990.0,1004260.0
+Canada,production,titanium_minerals,Titanium slag,,,,,844750.0,749850.0,814060.0,,,
+Finland,production,titanium_minerals,Ilmenite                                          ,151000.0,139500.0,149500.0,159000.0,152000.0,122600.0,122600.0,124700.0,131900.0,131500.0
+India,production,titanium_minerals,Ilmenite                                          ,78900.0,90700.0,91069.0,77191.0,132000.0,82000.0,175492.0,153979.0,172541.0,162909.0
+India,production,titanium_minerals,Rutile                                            ,2500.0,2900.0,3065.0,3400.0,5800.0,3600.0,7005.0,7058.0,7107.0,6642.0
+Japan,production,titanium_minerals,Ilmenite                                          ,3145.0,2376.0,2115.0,1506.0,,,,,,
+Malaysia,production,titanium_minerals,Ilmenite                                          ,,,,,,,180004.0,153679.0,165984.0,212837.0
+Norway,production,titanium_minerals,Ilmenite                                          ,578961.0,641604.0,608477.0,752934.0,848138.0,526666.0,766664.0,828503.0,766990.0,819815.0
+Portugal,production,titanium_minerals,Ilmenite                                          ,238.0,890.0,752.0,610.0,274.0,212.0,367.0,229.0,251.0,268.0
+Sierra Leone,production,titanium_minerals,Rutile                                            ,44056.0,11932.0,,,,,0.0,0.0,0.0,7500.0
+South Africa,production,titanium_minerals,Ilmenite                                          ,,,,,,,,0.0,154000.0,487300.0
+South Africa,production,titanium_minerals,Rutile                                            ,,,,,,,,4500.0,18000.0,42000.0
+Soviet Union,production,titanium_minerals,Ilmenite                                          ,,,,,,327000.0,380000.0,399000.0,410000.0,410000.0
+Soviet Union,production,titanium_minerals,Rutile                                            ,,,,,,,9000.0,9000.0,9000.0,10000.0
+Soviet Union,production,titanium_minerals,,,,,,307000.0,,,,,
+Spain,production,titanium_minerals,Ilmenite                                          ,27126.0,24349.0,22483.0,5416.0,,,,,,
+Sri Lanka,production,titanium_minerals,Ilmenite                                          ,84562.0,92892.0,82503.0,93482.0,81098.0,64010.0,64654.0,33946.0,35904.0,55370.0
+Sri Lanka,production,titanium_minerals,Rutile                                            ,2395.0,2586.0,2151.0,2252.0,3051.0,3111.0,1019.0,950.0,11497.0,14675.0
+USA,production,titanium_minerals,Ilmenite                                          ,787396.0,619675.0,615021.0,703987.0,675464.0,650706.0,591851.0,579240.0,535013.0,579956.0

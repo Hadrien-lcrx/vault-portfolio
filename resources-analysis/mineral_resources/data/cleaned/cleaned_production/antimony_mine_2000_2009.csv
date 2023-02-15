@@ -1,0 +1,19 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Australia,production,antimony_mine,,2200.0,1800.0,1838.0,900.0,157.0,192.0,231.0,767.0,1688.0,1794.0
+Bolivia,production,antimony_mine,,1907.0,2072.0,2343.0,2432.0,3036.0,5204.0,5460.0,3881.0,3905.0,2990.0
+Canada,production,antimony_mine,,433.0,278.0,173.0,153.0,105.0,79.0,269.0,193.0,132.0,64.0
+China,production,antimony_mine,,99300.0,97000.0,121547.0,100000.0,125433.0,151457.0,156200.0,163000.0,100230.0,112000.0
+Guatemala,production,antimony_mine,,0.0,8162.0,4000.0,2000.0,2686.0,1007.0,0.0,365.0,0.0,0.0
+Kazakhstan,production,antimony_mine,,,,,,,,,952.0,890.0,597.0
+Kyrgyzstan,production,antimony_mine,,977.0,340.0,315.0,363.0,486.0,28.0,203.0,1702.0,0.0,918.0
+Laos,production,antimony_mine,,,,,,,,,,,887.0
+Mexico,production,antimony_mine,,52.0,81.0,155.0,434.0,503.0,565.0,778.0,414.0,380.0,74.0
+Pakistan,production,antimony_mine,,,,37.0,,0.0,5.0,91.0,119.0,245.0,75.0
+Peru,production,antimony_mine,,461.0,274.0,352.0,616.0,465.0,807.0,691.0,590.0,531.0,145.0
+Russia,production,antimony_mine,,4500.0,4152.0,3000.0,3000.0,3000.0,3000.0,3000.0,1400.0,900.0,1100.0
+South Africa,production,antimony_mine,,5064.0,5476.0,5746.0,5291.0,4967.0,6098.0,4443.0,3436.0,3674.0,2090.0
+Tajikistan,production,antimony_mine,,2000.0,2500.0,3000.0,3000.0,4069.0,4073.0,3480.0,3500.0,3700.0,4200.0
+Thailand,production,antimony_mine,,98.0,50.0,13.0,46.0,61.0,415.0,544.0,271.0,422.0,555.0
+Turkey,production,antimony_mine,,200.0,200.0,150.0,400.0,700.0,1200.0,1100.0,1200.0,1300.0,1346.0
+USA,production,antimony_mine,,340.0,,,,,,,,,
+Vietnam,production,antimony_mine,,,,,,,,,110.0,216.0,266.0

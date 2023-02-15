@@ -1,0 +1,6 @@
+Country,Activity,Commodity,Sub-commodity,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+China,production,germanium_metal,,100.0,100.0,100.0,110.0,110.0,94.0,82.0,79.0,95.0,86.0
+Finland,production,germanium_metal,,12.0,12.0,16.0,17.0,17.0,13.0,0.0,0.0,0.0,0.0
+Japan,production,germanium_metal,,2.0,2.0,2.0,,,,,,,
+Russia,production,germanium_metal,,5.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,5.0
+USA,production,germanium_metal,,3.0,3.0,3.0,3.0,3.0,3.0,2.0,3.0,3.0,3.0

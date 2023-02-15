@@ -1,0 +1,14 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Argentina,production,uranium,,42.0,42.0,38.0,39.0,32.0,32.0,174.0,185.0,143.0,745.0
+Australia,production,uranium,,,,,,,,359.0,356.0,516.0,706.0
+Canada,production,uranium,,3157.0,3160.0,3755.0,3661.0,3689.0,4679.0,5438.0,5787.0,6800.0,6530.0
+France,production,uranium,,1295.0,1280.0,1427.0,1578.0,1716.0,1730.0,1871.0,2048.0,2911.0,3332.0
+Gabon,production,uranium,,377.0,446.0,444.0,650.0,770.0,930.0,965.0,907.0,1022.0,1100.0
+German Federal Republic,production,uranium,,,,,,,57.0,38.0,15.0,41.0,29.0
+India,production,uranium,,,,,,,,,,,150.0
+Namibia,production,uranium,,,,,,,0.0,593.0,2340.0,2693.0,3831.0
+Niger,production,uranium,,46.0,431.0,737.0,949.0,1120.0,1305.0,1460.0,1441.0,2062.0,3615.0
+Portugal,production,uranium,,80.0,80.0,81.0,73.0,92.0,115.0,86.0,94.0,86.0,102.0
+South Africa,production,uranium,,3168.0,3200.0,3077.0,2623.0,2712.0,2488.0,2788.0,3368.0,3975.0,4780.0
+Spain,production,uranium,,71.0,125.0,116.0,79.0,62.0,147.0,192.0,163.0,153.0,162.0
+USA,production,uranium,,9825.0,9932.0,9924.0,10182.0,8868.0,8900.0,9750.0,11360.0,14250.0,14400.0

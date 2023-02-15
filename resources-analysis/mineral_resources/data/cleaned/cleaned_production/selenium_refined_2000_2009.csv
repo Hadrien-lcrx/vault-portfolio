@@ -1,0 +1,20 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Belgium,production,selenium_refined,,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0,200.0
+Canada,production,selenium_refined,,335.0,238.0,175.0,253.0,277.0,107.0,117.0,144.0,191.0,173.0
+Chile,production,selenium_refined,,47.0,84.0,,,,,,,,
+China,production,selenium_refined,,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0
+Finland,production,selenium_refined,,37.0,42.0,37.0,52.0,65.0,66.0,70.0,52.0,65.0,59.0
+Germany,production,selenium_refined,,100.0,100.0,16.0,250.0,250.0,250.0,250.0,250.0,250.0,230.0
+India,production,selenium_refined,,10.0,10.0,6.0,2.0,0.0,8.0,,,,
+Japan,production,selenium_refined,,612.0,735.0,752.0,734.0,599.0,625.0,730.0,806.0,754.0,709.0
+Kazakhstan,production,selenium_refined,,40.0,40.0,40.0,40.0,100.0,60.0,70.0,155.0,130.0,120.0
+Mexico,production,selenium_refined,,,,,,,,,0.0,0.0,0.0
+Peru,production,selenium_refined,,63.0,61.0,70.0,72.0,76.0,70.0,75.0,59.0,60.0,61.0
+Philippines,production,selenium_refined,,38.0,43.0,55.0,45.0,48.0,68.0,65.0,65.0,65.0,65.0
+Poland,production,selenium_refined,,65.0,65.0,68.0,78.0,83.0,82.0,87.0,85.0,82.0,80.0
+Russia,production,selenium_refined,,41.0,48.0,60.0,81.0,85.0,100.0,145.0,130.0,170.0,91.0
+Serbia and Montenegro,production,selenium_refined,,21.0,14.0,17.0,7.0,,,,,,
+Sweden,production,selenium_refined,,104.0,88.0,118.0,107.0,131.0,122.0,135.0,126.0,139.0,129.0
+USA,production,selenium_refined,,,,,,,,,,,
+Uzbekistan,production,selenium_refined,,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+Zambia,production,selenium_refined,,10.0,13.0,11.0,,,,,,,

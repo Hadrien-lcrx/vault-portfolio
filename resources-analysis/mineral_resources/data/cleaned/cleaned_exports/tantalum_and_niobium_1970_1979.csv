@@ -1,0 +1,45 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Australia,exports,tantalum_and_niobium,Columbite-tantalite                               ,108.0,123.0,253.0,199.0,128.0,132.0,124.0,158.0,125.0,312.0
+Austria,exports,tantalum_and_niobium,Tantalum                                          ,6.0,31.0,12.0,10.0,12.0,7.0,28.0,10.0,10.0,15.0
+Brazil,exports,tantalum_and_niobium,Columbite                                         ,41.0,63.0,4.0,26.0,,,,,,
+Brazil,exports,tantalum_and_niobium,Columbite-tantalite                               ,209.0,290.0,164.0,130.0,147.0,125.0,130.0,169.0,132.0,328.0
+Brazil,exports,tantalum_and_niobium,Pyrochlore,8500.0,1640.0,4884.0,6445.0,4342.0,2895.0,4381.0,3310.0,,1660.0
+Canada,exports,tantalum_and_niobium,Columbite-tantalite                               ,,,,,370.0,250.0,210.0,,400.0,
+Canada,exports,tantalum_and_niobium,Niobium & tantalum ores                           ,,,,,,,,,,3600.0
+Canada,exports,tantalum_and_niobium,Pyrochlore,,,,,3500.0,2500.0,2100.0,3700.0,3600.0,
+Canada,exports,tantalum_and_niobium,Tantalum                                          ,,,,,,,,300.0,,
+Canada,exports,tantalum_and_niobium,,3500.0,1500.0,3000.0,3000.0,,,,,,
+France,exports,tantalum_and_niobium,Niobium & tantalum ores                           ,,0.0,10.0,61.0,,0.0,356.0,10.0,0.0,12.0
+France,exports,tantalum_and_niobium,Tantalum                                          ,4.0,5.0,13.0,11.0,12.0,7.0,19.0,19.0,12.0,22.0
+German Federal Republic,exports,tantalum_and_niobium,Niobium                                           ,2.0,2.0,5.0,8.0,6.0,16.0,22.0,11.0,19.0,41.0
+German Federal Republic,exports,tantalum_and_niobium,Niobium & tantalum ores                           ,,,,,,776.0,356.0,940.0,1041.0,1276.0
+German Federal Republic,exports,tantalum_and_niobium,Tantalum                                          ,62.0,35.0,38.0,36.0,58.0,29.0,61.0,61.0,48.0,81.0
+Italy,exports,tantalum_and_niobium,Niobium                                           ,,,0.0,4.0,1.0,3.0,1.0,1.0,,
+Italy,exports,tantalum_and_niobium,Niobium & tantalum ores                           ,0.0,6.0,40.0,63.0,70.0,,,,,
+Italy,exports,tantalum_and_niobium,Tantalum                                          ,0.0,0.0,21.0,6.0,3.0,6.0,4.0,3.0,10.0,5.0
+Japan,exports,tantalum_and_niobium,Tantalum                                          ,2.0,1.0,2.0,1.0,25.0,9.0,15.0,45.0,42.0,30.0
+Malaysia,exports,tantalum_and_niobium,Columbite                                         ,24.0,30.0,69.0,69.0,,,,,,
+Malaysia,exports,tantalum_and_niobium,Columbite & tantalite                             ,,,,,160.0,82.0,116.0,,,
+Malaysia,exports,tantalum_and_niobium,Columbite-tantalite                               ,,,,,,,,263.0,34.0,79.0
+Malaysia,exports,tantalum_and_niobium,Tin slags                                         ,984.0,1180.0,8277.0,11382.0,9330.0,12398.0,19402.0,5792.0,6331.0,10824.0
+Mozambique,exports,tantalum_and_niobium,Columbite                                         ,97.0,67.0,1.0,46.0,95.0,,,,,
+Mozambique,exports,tantalum_and_niobium,Columbite & tantalite                             ,,,,,,140.0,92.0,45.0,,
+Mozambique,exports,tantalum_and_niobium,Tantalum ores & concentrates                      ,91.0,86.0,,78.0,103.0,,,,,
+Netherlands,exports,tantalum_and_niobium,Tantalum                                          ,10.0,5.0,9.0,10.0,2.0,1.0,6.0,7.0,7.0,8.0
+Nigeria,exports,tantalum_and_niobium,Columbite                                         ,1792.0,1218.0,1486.0,1143.0,2277.0,977.0,1036.0,377.0,757.0,1970.0
+Nigeria,exports,tantalum_and_niobium,Columbite-tantalite                               ,4.0,2.0,,2.0,,,,,,
+Portugal,exports,tantalum_and_niobium,Columbite                                         ,12.0,12.0,10.0,22.0,4.0,11.0,4.0,,,
+Rwanda,exports,tantalum_and_niobium,Columbite-tantalite                               ,28.0,23.0,30.0,32.0,35.0,,,,28.0,75.0
+Singapore,exports,tantalum_and_niobium,Tantalum ores & concentrates                      ,,,,,,,,55.0,21.0,31.0
+Singapore,exports,tantalum_and_niobium,Tin slags                                         ,,,,,,,,152.0,93.0,1194.0
+South Africa,exports,tantalum_and_niobium,Columbite-tantalite                               ,32.0,0.0,,,,,,,,
+Taiwan,exports,tantalum_and_niobium,Tantalum                                          ,,,,,,,,,,4.0
+Thailand,exports,tantalum_and_niobium,Columbite & tantalite                             ,18.0,2.0,15.0,44.0,65.0,30.0,103.0,230.0,112.0,432.0
+Thailand,exports,tantalum_and_niobium,Tin slags                                         ,,,,2879.0,5052.0,1733.0,1890.0,2575.0,2736.0,3507.0
+USA,exports,tantalum_and_niobium,Niobium                                           ,21.0,10.0,14.0,44.0,15.0,24.0,30.0,35.0,40.0,45.0
+USA,exports,tantalum_and_niobium,Tantalum                                          ,353.0,127.0,144.0,248.0,335.0,287.0,266.0,320.0,411.0,334.0
+USA,exports,tantalum_and_niobium,Tantalum ores & concentrates                      ,55.0,22.0,16.0,36.0,91.0,27.0,27.0,67.0,29.0,149.0
+Uganda,exports,tantalum_and_niobium,Columbite-tantalite                               ,8.0,5.0,8.0,3.0,10.0,,,,,
+United Kingdom,exports,tantalum_and_niobium,Niobium & tantalum ores                           ,204.0,292.0,410.0,603.0,469.0,384.0,117.0,44.0,86.0,144.0
+United Kingdom,exports,tantalum_and_niobium,Tantalum                                          ,24.0,10.0,8.0,11.0,31.0,62.0,5.0,24.0,36.0,43.0
+Zaire,exports,tantalum_and_niobium,Columbite-tantalite                               ,170.0,150.0,87.0,48.0,,50.0,40.0,60.0,98.0,51.0

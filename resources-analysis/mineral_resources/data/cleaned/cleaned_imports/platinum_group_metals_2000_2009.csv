@@ -1,0 +1,95 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Australia,imports,platinum_group_metals,Platinum & platinum metals                        ,2489.0,1388.0,2319.0,,,,,,,
+Austria,imports,platinum_group_metals,Platinum & platinum metals                        ,1600.0,600.0,2900.0,9400.0,9400.0,7200.0,8400.0,1100.0,700.0,1600.0
+Austria,imports,platinum_group_metals,Waste & scrap                                     ,,,,,,,,,100.0,0.0
+Belgium,imports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,6337.0,500.0,300.0,1200.0
+Belgium-Luxembourg,imports,platinum_group_metals,Platinum                                          ,,,3044.0,2481.0,20865.0,88976.0,,,,
+Belgium-Luxembourg,imports,platinum_group_metals,Platinum metals                                   ,,,7545.0,11324.0,2080.0,2873.0,,,,
+Belgium-Luxembourg,imports,platinum_group_metals,Waste & scrap                                     ,,129469000.0,,,,,,,,
+Brazil,imports,platinum_group_metals,Other platinum metals                             ,854.0,731.0,650.0,,,,,,,
+Brazil,imports,platinum_group_metals,Palladium                                         ,3451.0,3047.0,2542.0,,,,,,,
+Brazil,imports,platinum_group_metals,Platinum                                          ,6645.0,13327.0,2850.0,,,,,,,
+Brazil,imports,platinum_group_metals,Waste & scrap                                     ,,,176.0,,,,,,,
+Bulgaria,imports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,366.0,31.0,82367.0,613.0,
+Canada,imports,platinum_group_metals,Platinum & platinum metals                        ,,15497.0,11754.0,,,,,,,
+Canada,imports,platinum_group_metals,Waste & scrap                                     ,,,2486665.0,,,,,,,
+China,imports,platinum_group_metals,Platinum & platinum metals                        ,7041.0,10586.0,10678.0,,,,,,,
+China,imports,platinum_group_metals,Waste & scrap                                     ,,,0.0,,,,,,,
+Croatia,imports,platinum_group_metals,Platinum & platinum metals                        ,649.0,2989.0,604.0,,17184.0,12320.0,,,,
+Cyprus,imports,platinum_group_metals,Platinum & platinum metals                        ,415.0,110.0,40.0,35.0,78.0,97.0,900.0,700.0,400.0,
+Czech Republic,imports,platinum_group_metals,Platinum                                          ,,,,,,,4326.0,99.0,42358.0,81500.0
+Czech Republic,imports,platinum_group_metals,Platinum & platinum metals                        ,,,1147.0,5249.0,51832.0,1289.0,,,,
+Czech Republic,imports,platinum_group_metals,Platinum metals                                   ,,,,,,,273.0,477.0,47932.0,600.0
+Czech Republic,imports,platinum_group_metals,Waste & scrap                                     ,,,,15.0,506.0,55.0,86.0,913.0,4414.0,772.0
+Denmark,imports,platinum_group_metals,Platinum & platinum metals                        ,740.0,381.0,530.0,859.0,1443.0,2076.0,2962.0,6952.0,6448.0,4699.0
+Denmark,imports,platinum_group_metals,Waste & scrap                                     ,4.0,,,,,,,,,
+Estonia,imports,platinum_group_metals,Waste & scrap                                     ,5040.0,8171.0,8790.0,7264.0,,,,,,
+Finland,imports,platinum_group_metals,Platinum & platinum metals                        ,425.0,248.0,296.0,773.0,231.0,495.0,,,,284.0
+France,imports,platinum_group_metals,Other platinum metals                             ,,,,,,,,,,171.0
+France,imports,platinum_group_metals,Palladium                                         ,,,,,,,,,,5177.0
+France,imports,platinum_group_metals,Platinum                                          ,11400.0,12600.0,8500.0,5341.0,6416.0,5390.0,4455.0,6263.0,8471.0,3633.0
+France,imports,platinum_group_metals,Platinum metals                                   ,27300.0,22800.0,12100.0,4219.0,4268.0,3500.0,3711.0,3631.0,4404.0,
+France,imports,platinum_group_metals,Waste & scrap                                     ,28800.0,104000.0,200100.0,334300.0,40700.0,55600.0,370600.0,114300.0,241200.0,359138.0
+Germany,imports,platinum_group_metals,Other platinum metals                             ,5100.0,4600.0,5600.0,6100.0,6400.0,9100.0,8700.0,9700.0,6400.0,12120.0
+Germany,imports,platinum_group_metals,Palladium                                         ,34400.0,25200.0,45000.0,31600.0,20700.0,56000.0,42000.0,54700.0,55100.0,47092.0
+Germany,imports,platinum_group_metals,Platinum                                          ,38900.0,39800.0,34300.0,44800.0,39600.0,58400.0,46900.0,51500.0,47100.0,42452.0
+Germany,imports,platinum_group_metals,Waste & scrap                                     ,3957300.0,5274800.0,4500100.0,3837500.0,3713700.0,6574600.0,9332700.0,11442800.0,10983600.0,6224314.0
+Greece,imports,platinum_group_metals,Platinum & platinum metals                        ,372.0,1001.0,449.0,156.0,179.0,181.0,248.0,7400.0,300.0,100.0
+Hong Kong,imports,platinum_group_metals,Platinum & platinum metals                        ,43200.0,53436.0,64982.0,,,,,,,
+Hong Kong,imports,platinum_group_metals,Waste & scrap                                     ,1036.0,1232.0,1079.0,,,,,,,
+Hungary,imports,platinum_group_metals,Platinum & platinum metals                        ,88.0,117.0,140.0,245.0,184.0,985.0,91.0,126.0,453.0,26.0
+Iceland,imports,platinum_group_metals,Platinum & platinum metals                        ,,,,247.0,216.0,371.0,70.0,960.0,162.0,158.0
+India,imports,platinum_group_metals,Platinum & platinum metals                        ,4970.0,2532.0,,,,,,,,
+Indonesia,imports,platinum_group_metals,Platinum & platinum metals                        ,426.0,13644.0,20358.0,,,,,,,
+"Ireland, Republic of",imports,platinum_group_metals,Platinum & platinum metals                        ,1410.0,3694.0,2342.0,1829.0,2620.0,4934.0,3999.0,10425.0,2185.0,121381.0
+Israel,imports,platinum_group_metals,Platinum & platinum metals                        ,2933000.0,,,,,,,,,
+Italy,imports,platinum_group_metals,Other platinum metals                             ,,,,,2826.0,3005.0,3077.0,1811.0,2426.0,1909.0
+Italy,imports,platinum_group_metals,Palladium                                         ,,,,,18604.0,16178.0,15943.0,18880.0,20593.0,13047.0
+Italy,imports,platinum_group_metals,Platinum                                          ,10925.0,9394.0,17518.0,10551.0,12087.0,15586.0,17279.0,20491.0,16570.0,13627.0
+Italy,imports,platinum_group_metals,Platinum metals                                   ,34483.0,30150.0,26602.0,20085.0,,,,,,
+Italy,imports,platinum_group_metals,Waste & scrap                                     ,255.0,988.0,5.0,39.0,278.0,2085.0,431.0,447.0,7646.0,8178.0
+Japan,imports,platinum_group_metals,Other platinum metals                             ,8174.0,6991.0,8015.0,,,,,,,
+Japan,imports,platinum_group_metals,Palladium                                         ,87189.0,54162.0,48524.0,,,,,,,
+Japan,imports,platinum_group_metals,Platinum                                          ,56059.0,53031.0,53802.0,,,,,,,
+Japan,imports,platinum_group_metals,Rhodium                                           ,6118.0,4759.0,6081.0,,,,,,,
+Japan,imports,platinum_group_metals,Waste & scrap                                     ,480021.0,345828.0,1859403.0,,,,,,,
+Korea (Rep. of),imports,platinum_group_metals,Platinum & platinum metals                        ,17234.0,20178.0,20897.0,,,,,,,
+Korea (Rep. of),imports,platinum_group_metals,Waste & scrap                                     ,740.0,22099.0,13957.0,,,,,,,
+Latvia,imports,platinum_group_metals,Waste & scrap                                     ,,,,,,,,1842.0,2842.0,3900.0
+Lithuania,imports,platinum_group_metals,Waste & scrap                                     ,,,,,1100.0,5403.0,26700.0,65900.0,40800.0,22700.0
+Luxembourg,imports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,4145.0,9322.0,1410.0,1702.0
+Netherlands,imports,platinum_group_metals,Platinum metals                                   ,,,,5635000.0,,,,,,
+Netherlands,imports,platinum_group_metals,Waste & scrap                                     ,300.0,,,,,,,12.0,40.0,111.0
+North Macedonia,imports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,,,0.0,0.0
+Norway,imports,platinum_group_metals,Platinum & platinum metals                        ,1138.0,1231.0,984.0,747.0,973.0,1076.0,922.0,1057.0,1072.0,1005.0
+Norway,imports,platinum_group_metals,Waste & scrap                                     ,1327.0,641.0,840.0,87.0,59.0,998.0,1102.0,846.0,1093.0,930.0
+Poland,imports,platinum_group_metals,Platinum & platinum metals                        ,1550.0,293.0,208.0,402.0,235.0,3560.0,15500.0,16400.0,16900.0,31300.0
+Poland,imports,platinum_group_metals,Waste & scrap                                     ,2609.0,,,,,,,,,36.0
+Portugal,imports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,77.0,57.0,308.0,146.0
+Portugal,imports,platinum_group_metals,Waste & scrap                                     ,1804.0,,,,,,,,,
+Singapore,imports,platinum_group_metals,Platinum & platinum metals                        ,21114.0,15637.0,15695.0,,,,,,,
+Slovakia,imports,platinum_group_metals,Palladium                                         ,,,,,,,113.0,35.0,58.0,1191.0
+Slovakia,imports,platinum_group_metals,Platinum                                          ,,,,,394.0,60.0,23016.0,348975.0,1573351.0,1533869.0
+Slovakia,imports,platinum_group_metals,Platinum & platinum metals                        ,,,231.0,61.0,,,,,,
+Slovenia,imports,platinum_group_metals,Platinum & platinum metals                        ,656.0,1411.0,1018.0,1033.0,438.0,120.0,449.0,,,
+South Africa,imports,platinum_group_metals,Waste & scrap                                     ,9321.0,800.0,350785.0,,,,,,,
+Spain,imports,platinum_group_metals,Platinum & platinum metals                        ,4186.0,4830.0,3311.0,1612.0,1402.0,6000.0,5600.0,4500.0,3900.0,3000.0
+Spain,imports,platinum_group_metals,Waste & scrap                                     ,2742.0,166.0,32.0,31.0,298.0,122.0,526.0,4111.0,8947.0,29448.0
+Sweden,imports,platinum_group_metals,Platinum & platinum metals                        ,,5430000.0,,,,,,,,
+Sweden,imports,platinum_group_metals,Waste & scrap                                     ,6000.0,1000.0,265.0,339000.0,273000.0,577000.0,618000.0,731700.0,13800.0,80200.0
+Switzerland,imports,platinum_group_metals,Other platinum metals                             ,521.0,538.0,1063.0,816.0,3725.0,780.0,1078.0,913.0,1255.0,1319.0
+Switzerland,imports,platinum_group_metals,Palladium                                         ,87714.0,94074.0,106412.0,54805.0,96530.0,46565.0,126416.0,46744.0,60666.0,50258.0
+Switzerland,imports,platinum_group_metals,Platinum                                          ,59331.0,68461.0,56039.0,69111.0,47742.0,51377.0,76842.0,43113.0,67022.0,91048.0
+Switzerland,imports,platinum_group_metals,Waste & scrap                                     ,34405.0,19435.0,49569.0,129698.0,161433.0,156229.0,172679.0,267258.0,494962.0,688973.0
+Taiwan,imports,platinum_group_metals,Platinum & platinum metals                        ,4608.0,4277.0,5060.0,,,,,,,
+Thailand,imports,platinum_group_metals,Platinum & platinum metals                        ,16008.0,7151.0,1472.0,,,,,,,
+Turkey,imports,platinum_group_metals,Platinum & platinum metals                        ,259.0,321.0,393.0,378.0,231.0,188.0,212.0,316.0,463.0,235.0
+USA,imports,platinum_group_metals,Other platinum metals                             ,23611.0,11357.0,12620.0,,,,,,,
+USA,imports,platinum_group_metals,Palladium                                         ,172796.0,159600.0,116562.0,,,,,,,
+USA,imports,platinum_group_metals,Platinum                                          ,77211.0,80170.0,82913.0,,,,,,,
+USA,imports,platinum_group_metals,Rhodium                                           ,13137.0,12400.0,8623.0,,,,,,,
+USA,imports,platinum_group_metals,Waste & scrap                                     ,7654.0,3960.0,,,,,,,,
+United Kingdom,imports,platinum_group_metals,Other platinum metals                             ,9725.0,5608.0,4772.0,8636.0,8267.0,7134.0,9127.0,6507.0,5409.0,6713.0
+United Kingdom,imports,platinum_group_metals,Palladium                                         ,34056.0,19744.0,22072.0,48106.0,24666.0,30576.0,37226.0,42395.0,32806.0,36652.0
+United Kingdom,imports,platinum_group_metals,Platinum                                          ,36004.0,17843.0,12030.0,13827.0,47735.0,51553.0,23472.0,26015.0,29943.0,30339.0
+United Kingdom,imports,platinum_group_metals,Waste & scrap                                     ,593801.0,729979.0,775673.0,367327.0,617417.0,1271315.0,1148802.0,1456413.0,1416905.0,1100117.0

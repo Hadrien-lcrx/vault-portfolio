@@ -1,0 +1,9 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Chile,production,vanadium_mine,,550.0,600.0,650.0,960.0,580.0,600.0,1100.0,860.0,690.0,460.0
+China,production,vanadium_mine,,,,,,,,0.0,0.0,2000.0,3600.0
+Finland,production,vanadium_mine,,1315.0,1109.0,1190.0,1260.0,1480.0,1275.0,2214.0,2898.0,3431.0,3632.0
+Namibia,production,vanadium_mine,,420.0,800.0,550.0,650.0,820.0,562.0,1896.0,775.0,462.0,
+Norway,production,vanadium_mine,,1080.0,1050.0,960.0,720.0,450.0,460.0,530.0,540.0,460.0,570.0
+South Africa,production,vanadium_mine,,7230.0,6200.0,7320.0,8210.0,8155.0,10645.0,9872.0,11243.0,11250.0,12300.0
+Soviet Union,production,vanadium_mine,,3400.0,2600.0,3400.0,3800.0,2930.0,8000.0,9000.0,9000.0,9100.0,9100.0
+USA,production,vanadium_mine,,4825.0,4764.0,4433.0,3971.0,4418.0,4303.0,6691.0,5900.0,3875.0,5008.0

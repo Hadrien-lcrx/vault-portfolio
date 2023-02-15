@@ -1,0 +1,776 @@
+Country,Activity,Commodity,Sub-commodity,Measure,Year,Amount
+Russia,exports,natural_gas,nan,tonnes (metric),1990,
+Austria,exports,natural_gas,nan,tonnes (metric),1990,
+Belgium,exports,natural_gas,nan,tonnes (metric),1990,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1990,
+Croatia,exports,natural_gas,nan,tonnes (metric),1990,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1990,
+Denmark,exports,natural_gas,nan,tonnes (metric),1990,
+Finland,exports,natural_gas,nan,tonnes (metric),1990,
+France,exports,natural_gas,nan,tonnes (metric),1990,
+Germany,exports,natural_gas,nan,tonnes (metric),1990,
+Hungary,exports,natural_gas,nan,tonnes (metric),1990,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1990,
+Italy,exports,natural_gas,nan,tonnes (metric),1990,
+Norway,exports,natural_gas,nan,tonnes (metric),1990,
+Poland,exports,natural_gas,nan,tonnes (metric),1990,
+Portugal,exports,natural_gas,nan,tonnes (metric),1990,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1990,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1990,
+Spain,exports,natural_gas,nan,tonnes (metric),1990,
+Sweden,exports,natural_gas,nan,tonnes (metric),1990,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1990,
+Turkey,exports,natural_gas,nan,tonnes (metric),1990,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1990,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1990,
+Greece,exports,natural_gas,nan,tonnes (metric),1990,
+Russia,exports,natural_gas,nan,tonnes (metric),1991,
+Austria,exports,natural_gas,nan,tonnes (metric),1991,
+Belgium,exports,natural_gas,nan,tonnes (metric),1991,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1991,
+Croatia,exports,natural_gas,nan,tonnes (metric),1991,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1991,
+Denmark,exports,natural_gas,nan,tonnes (metric),1991,
+Finland,exports,natural_gas,nan,tonnes (metric),1991,
+France,exports,natural_gas,nan,tonnes (metric),1991,
+Germany,exports,natural_gas,nan,tonnes (metric),1991,
+Hungary,exports,natural_gas,nan,tonnes (metric),1991,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1991,
+Italy,exports,natural_gas,nan,tonnes (metric),1991,
+Norway,exports,natural_gas,nan,tonnes (metric),1991,
+Poland,exports,natural_gas,nan,tonnes (metric),1991,
+Portugal,exports,natural_gas,nan,tonnes (metric),1991,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1991,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1991,
+Spain,exports,natural_gas,nan,tonnes (metric),1991,
+Sweden,exports,natural_gas,nan,tonnes (metric),1991,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1991,
+Turkey,exports,natural_gas,nan,tonnes (metric),1991,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1991,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1991,
+Greece,exports,natural_gas,nan,tonnes (metric),1991,
+Russia,exports,natural_gas,nan,tonnes (metric),1992,
+Austria,exports,natural_gas,nan,tonnes (metric),1992,
+Belgium,exports,natural_gas,nan,tonnes (metric),1992,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1992,
+Croatia,exports,natural_gas,nan,tonnes (metric),1992,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1992,
+Denmark,exports,natural_gas,nan,tonnes (metric),1992,
+Finland,exports,natural_gas,nan,tonnes (metric),1992,
+France,exports,natural_gas,nan,tonnes (metric),1992,
+Germany,exports,natural_gas,nan,tonnes (metric),1992,
+Hungary,exports,natural_gas,nan,tonnes (metric),1992,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1992,
+Italy,exports,natural_gas,nan,tonnes (metric),1992,
+Norway,exports,natural_gas,nan,tonnes (metric),1992,
+Poland,exports,natural_gas,nan,tonnes (metric),1992,
+Portugal,exports,natural_gas,nan,tonnes (metric),1992,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1992,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1992,
+Spain,exports,natural_gas,nan,tonnes (metric),1992,
+Sweden,exports,natural_gas,nan,tonnes (metric),1992,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1992,
+Turkey,exports,natural_gas,nan,tonnes (metric),1992,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1992,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1992,
+Greece,exports,natural_gas,nan,tonnes (metric),1992,
+Russia,exports,natural_gas,nan,tonnes (metric),1993,
+Austria,exports,natural_gas,nan,tonnes (metric),1993,
+Belgium,exports,natural_gas,nan,tonnes (metric),1993,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1993,
+Croatia,exports,natural_gas,nan,tonnes (metric),1993,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1993,
+Denmark,exports,natural_gas,nan,tonnes (metric),1993,
+Finland,exports,natural_gas,nan,tonnes (metric),1993,
+France,exports,natural_gas,nan,tonnes (metric),1993,
+Germany,exports,natural_gas,nan,tonnes (metric),1993,
+Hungary,exports,natural_gas,nan,tonnes (metric),1993,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1993,
+Italy,exports,natural_gas,nan,tonnes (metric),1993,
+Norway,exports,natural_gas,nan,tonnes (metric),1993,
+Poland,exports,natural_gas,nan,tonnes (metric),1993,
+Portugal,exports,natural_gas,nan,tonnes (metric),1993,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1993,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1993,
+Spain,exports,natural_gas,nan,tonnes (metric),1993,
+Sweden,exports,natural_gas,nan,tonnes (metric),1993,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1993,
+Turkey,exports,natural_gas,nan,tonnes (metric),1993,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1993,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1993,
+Greece,exports,natural_gas,nan,tonnes (metric),1993,
+Russia,exports,natural_gas,nan,tonnes (metric),1994,
+Austria,exports,natural_gas,nan,tonnes (metric),1994,
+Belgium,exports,natural_gas,nan,tonnes (metric),1994,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1994,
+Croatia,exports,natural_gas,nan,tonnes (metric),1994,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1994,
+Denmark,exports,natural_gas,nan,tonnes (metric),1994,
+Finland,exports,natural_gas,nan,tonnes (metric),1994,
+France,exports,natural_gas,nan,tonnes (metric),1994,
+Germany,exports,natural_gas,nan,tonnes (metric),1994,
+Hungary,exports,natural_gas,nan,tonnes (metric),1994,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1994,
+Italy,exports,natural_gas,nan,tonnes (metric),1994,
+Norway,exports,natural_gas,nan,tonnes (metric),1994,
+Poland,exports,natural_gas,nan,tonnes (metric),1994,
+Portugal,exports,natural_gas,nan,tonnes (metric),1994,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1994,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1994,
+Spain,exports,natural_gas,nan,tonnes (metric),1994,
+Sweden,exports,natural_gas,nan,tonnes (metric),1994,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1994,
+Turkey,exports,natural_gas,nan,tonnes (metric),1994,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1994,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1994,
+Greece,exports,natural_gas,nan,tonnes (metric),1994,
+Russia,exports,natural_gas,nan,tonnes (metric),1995,
+Austria,exports,natural_gas,nan,tonnes (metric),1995,
+Belgium,exports,natural_gas,nan,tonnes (metric),1995,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1995,
+Croatia,exports,natural_gas,nan,tonnes (metric),1995,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1995,
+Denmark,exports,natural_gas,nan,tonnes (metric),1995,
+Finland,exports,natural_gas,nan,tonnes (metric),1995,
+France,exports,natural_gas,nan,tonnes (metric),1995,
+Germany,exports,natural_gas,nan,tonnes (metric),1995,
+Hungary,exports,natural_gas,nan,tonnes (metric),1995,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1995,
+Italy,exports,natural_gas,nan,tonnes (metric),1995,
+Norway,exports,natural_gas,nan,tonnes (metric),1995,
+Poland,exports,natural_gas,nan,tonnes (metric),1995,
+Portugal,exports,natural_gas,nan,tonnes (metric),1995,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1995,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1995,
+Spain,exports,natural_gas,nan,tonnes (metric),1995,
+Sweden,exports,natural_gas,nan,tonnes (metric),1995,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1995,
+Turkey,exports,natural_gas,nan,tonnes (metric),1995,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1995,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1995,
+Greece,exports,natural_gas,nan,tonnes (metric),1995,
+Russia,exports,natural_gas,nan,tonnes (metric),1996,
+Austria,exports,natural_gas,nan,tonnes (metric),1996,
+Belgium,exports,natural_gas,nan,tonnes (metric),1996,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1996,
+Croatia,exports,natural_gas,nan,tonnes (metric),1996,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1996,
+Denmark,exports,natural_gas,nan,tonnes (metric),1996,
+Finland,exports,natural_gas,nan,tonnes (metric),1996,
+France,exports,natural_gas,nan,tonnes (metric),1996,
+Germany,exports,natural_gas,nan,tonnes (metric),1996,
+Hungary,exports,natural_gas,nan,tonnes (metric),1996,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1996,
+Italy,exports,natural_gas,nan,tonnes (metric),1996,
+Norway,exports,natural_gas,nan,tonnes (metric),1996,
+Poland,exports,natural_gas,nan,tonnes (metric),1996,
+Portugal,exports,natural_gas,nan,tonnes (metric),1996,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1996,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1996,
+Spain,exports,natural_gas,nan,tonnes (metric),1996,
+Sweden,exports,natural_gas,nan,tonnes (metric),1996,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1996,
+Turkey,exports,natural_gas,nan,tonnes (metric),1996,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1996,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1996,
+Greece,exports,natural_gas,nan,tonnes (metric),1996,
+Russia,exports,natural_gas,nan,tonnes (metric),1997,
+Austria,exports,natural_gas,nan,tonnes (metric),1997,
+Belgium,exports,natural_gas,nan,tonnes (metric),1997,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1997,
+Croatia,exports,natural_gas,nan,tonnes (metric),1997,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1997,
+Denmark,exports,natural_gas,nan,tonnes (metric),1997,
+Finland,exports,natural_gas,nan,tonnes (metric),1997,
+France,exports,natural_gas,nan,tonnes (metric),1997,
+Germany,exports,natural_gas,nan,tonnes (metric),1997,
+Hungary,exports,natural_gas,nan,tonnes (metric),1997,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1997,
+Italy,exports,natural_gas,nan,tonnes (metric),1997,
+Norway,exports,natural_gas,nan,tonnes (metric),1997,
+Poland,exports,natural_gas,nan,tonnes (metric),1997,
+Portugal,exports,natural_gas,nan,tonnes (metric),1997,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1997,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1997,
+Spain,exports,natural_gas,nan,tonnes (metric),1997,
+Sweden,exports,natural_gas,nan,tonnes (metric),1997,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1997,
+Turkey,exports,natural_gas,nan,tonnes (metric),1997,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1997,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1997,
+Greece,exports,natural_gas,nan,tonnes (metric),1997,
+Russia,exports,natural_gas,nan,tonnes (metric),1998,
+Austria,exports,natural_gas,nan,tonnes (metric),1998,
+Belgium,exports,natural_gas,nan,tonnes (metric),1998,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1998,
+Croatia,exports,natural_gas,nan,tonnes (metric),1998,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1998,
+Denmark,exports,natural_gas,nan,tonnes (metric),1998,
+Finland,exports,natural_gas,nan,tonnes (metric),1998,
+France,exports,natural_gas,nan,tonnes (metric),1998,
+Germany,exports,natural_gas,nan,tonnes (metric),1998,
+Hungary,exports,natural_gas,nan,tonnes (metric),1998,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1998,
+Italy,exports,natural_gas,nan,tonnes (metric),1998,
+Norway,exports,natural_gas,nan,tonnes (metric),1998,
+Poland,exports,natural_gas,nan,tonnes (metric),1998,
+Portugal,exports,natural_gas,nan,tonnes (metric),1998,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1998,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1998,
+Spain,exports,natural_gas,nan,tonnes (metric),1998,
+Sweden,exports,natural_gas,nan,tonnes (metric),1998,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1998,
+Turkey,exports,natural_gas,nan,tonnes (metric),1998,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1998,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1998,
+Greece,exports,natural_gas,nan,tonnes (metric),1998,
+Russia,exports,natural_gas,nan,tonnes (metric),1999,328327817.0
+Austria,exports,natural_gas,nan,tonnes (metric),1999,
+Belgium,exports,natural_gas,nan,tonnes (metric),1999,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),1999,
+Croatia,exports,natural_gas,nan,tonnes (metric),1999,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),1999,
+Denmark,exports,natural_gas,nan,tonnes (metric),1999,
+Finland,exports,natural_gas,nan,tonnes (metric),1999,
+France,exports,natural_gas,nan,tonnes (metric),1999,
+Germany,exports,natural_gas,nan,tonnes (metric),1999,
+Hungary,exports,natural_gas,nan,tonnes (metric),1999,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),1999,
+Italy,exports,natural_gas,nan,tonnes (metric),1999,
+Norway,exports,natural_gas,nan,tonnes (metric),1999,
+Poland,exports,natural_gas,nan,tonnes (metric),1999,
+Portugal,exports,natural_gas,nan,tonnes (metric),1999,
+Slovakia,exports,natural_gas,nan,tonnes (metric),1999,
+Slovenia,exports,natural_gas,nan,tonnes (metric),1999,
+Spain,exports,natural_gas,nan,tonnes (metric),1999,
+Sweden,exports,natural_gas,nan,tonnes (metric),1999,
+Switzerland,exports,natural_gas,nan,tonnes (metric),1999,
+Turkey,exports,natural_gas,nan,tonnes (metric),1999,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),1999,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),1999,
+Greece,exports,natural_gas,nan,tonnes (metric),1999,
+Russia,exports,natural_gas,nan,tonnes (metric),2000,129176998.0
+Austria,exports,natural_gas,nan,tonnes (metric),2000,
+Belgium,exports,natural_gas,nan,tonnes (metric),2000,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2000,
+Croatia,exports,natural_gas,nan,tonnes (metric),2000,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2000,
+Denmark,exports,natural_gas,nan,tonnes (metric),2000,
+Finland,exports,natural_gas,nan,tonnes (metric),2000,
+France,exports,natural_gas,nan,tonnes (metric),2000,
+Germany,exports,natural_gas,nan,tonnes (metric),2000,
+Hungary,exports,natural_gas,nan,tonnes (metric),2000,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2000,
+Italy,exports,natural_gas,nan,tonnes (metric),2000,
+Norway,exports,natural_gas,nan,tonnes (metric),2000,
+Poland,exports,natural_gas,nan,tonnes (metric),2000,
+Portugal,exports,natural_gas,nan,tonnes (metric),2000,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2000,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2000,
+Spain,exports,natural_gas,nan,tonnes (metric),2000,
+Sweden,exports,natural_gas,nan,tonnes (metric),2000,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2000,
+Turkey,exports,natural_gas,nan,tonnes (metric),2000,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2000,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2000,
+Greece,exports,natural_gas,nan,tonnes (metric),2000,
+Russia,exports,natural_gas,nan,tonnes (metric),2001,125600000.0
+Austria,exports,natural_gas,nan,tonnes (metric),2001,
+Belgium,exports,natural_gas,nan,tonnes (metric),2001,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2001,
+Croatia,exports,natural_gas,nan,tonnes (metric),2001,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2001,
+Denmark,exports,natural_gas,nan,tonnes (metric),2001,
+Finland,exports,natural_gas,nan,tonnes (metric),2001,
+France,exports,natural_gas,nan,tonnes (metric),2001,
+Germany,exports,natural_gas,nan,tonnes (metric),2001,
+Hungary,exports,natural_gas,nan,tonnes (metric),2001,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2001,
+Italy,exports,natural_gas,nan,tonnes (metric),2001,
+Norway,exports,natural_gas,nan,tonnes (metric),2001,
+Poland,exports,natural_gas,nan,tonnes (metric),2001,
+Portugal,exports,natural_gas,nan,tonnes (metric),2001,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2001,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2001,
+Spain,exports,natural_gas,nan,tonnes (metric),2001,
+Sweden,exports,natural_gas,nan,tonnes (metric),2001,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2001,
+Turkey,exports,natural_gas,nan,tonnes (metric),2001,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2001,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2001,
+Greece,exports,natural_gas,nan,tonnes (metric),2001,
+Russia,exports,natural_gas,nan,tonnes (metric),2002,102530071.0
+Austria,exports,natural_gas,nan,tonnes (metric),2002,
+Belgium,exports,natural_gas,nan,tonnes (metric),2002,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2002,
+Croatia,exports,natural_gas,nan,tonnes (metric),2002,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2002,
+Denmark,exports,natural_gas,nan,tonnes (metric),2002,
+Finland,exports,natural_gas,nan,tonnes (metric),2002,
+France,exports,natural_gas,nan,tonnes (metric),2002,
+Germany,exports,natural_gas,nan,tonnes (metric),2002,
+Hungary,exports,natural_gas,nan,tonnes (metric),2002,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2002,
+Italy,exports,natural_gas,nan,tonnes (metric),2002,
+Norway,exports,natural_gas,nan,tonnes (metric),2002,
+Poland,exports,natural_gas,nan,tonnes (metric),2002,
+Portugal,exports,natural_gas,nan,tonnes (metric),2002,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2002,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2002,
+Spain,exports,natural_gas,nan,tonnes (metric),2002,
+Sweden,exports,natural_gas,nan,tonnes (metric),2002,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2002,
+Turkey,exports,natural_gas,nan,tonnes (metric),2002,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2002,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2002,
+Greece,exports,natural_gas,nan,tonnes (metric),2002,
+Russia,exports,natural_gas,nan,tonnes (metric),2003,
+Austria,exports,natural_gas,nan,tonnes (metric),2003,
+Belgium,exports,natural_gas,nan,tonnes (metric),2003,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2003,
+Croatia,exports,natural_gas,nan,tonnes (metric),2003,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2003,
+Denmark,exports,natural_gas,nan,tonnes (metric),2003,
+Finland,exports,natural_gas,nan,tonnes (metric),2003,
+France,exports,natural_gas,nan,tonnes (metric),2003,
+Germany,exports,natural_gas,nan,tonnes (metric),2003,
+Hungary,exports,natural_gas,nan,tonnes (metric),2003,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2003,
+Italy,exports,natural_gas,nan,tonnes (metric),2003,
+Norway,exports,natural_gas,nan,tonnes (metric),2003,
+Poland,exports,natural_gas,nan,tonnes (metric),2003,
+Portugal,exports,natural_gas,nan,tonnes (metric),2003,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2003,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2003,
+Spain,exports,natural_gas,nan,tonnes (metric),2003,
+Sweden,exports,natural_gas,nan,tonnes (metric),2003,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2003,
+Turkey,exports,natural_gas,nan,tonnes (metric),2003,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2003,
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2003,
+Greece,exports,natural_gas,nan,tonnes (metric),2003,
+Russia,exports,natural_gas,nan,tonnes (metric),2004,
+Austria,exports,natural_gas,nan,tonnes (metric),2004,979540.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2004,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2004,19331793.0
+Croatia,exports,natural_gas,nan,tonnes (metric),2004,469325.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2004,62751.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2004,3151483.0
+Finland,exports,natural_gas,nan,tonnes (metric),2004,276.0
+France,exports,natural_gas,nan,tonnes (metric),2004,2728650.0
+Germany,exports,natural_gas,nan,tonnes (metric),2004,
+Hungary,exports,natural_gas,nan,tonnes (metric),2004,0.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2004,0.0
+Italy,exports,natural_gas,nan,tonnes (metric),2004,686700.0
+Norway,exports,natural_gas,nan,tonnes (metric),2004,57013142.0
+Poland,exports,natural_gas,nan,tonnes (metric),2004,12367.0
+Portugal,exports,natural_gas,nan,tonnes (metric),2004,0.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2004,500.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2004,0.0
+Spain,exports,natural_gas,nan,tonnes (metric),2004,2223089.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2004,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2004,1.0
+Turkey,exports,natural_gas,nan,tonnes (metric),2004,0.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2004,52315.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2004,
+Greece,exports,natural_gas,nan,tonnes (metric),2004,
+Russia,exports,natural_gas,nan,tonnes (metric),2005,
+Austria,exports,natural_gas,nan,tonnes (metric),2005,1082286.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2005,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2005,17889507.0
+Croatia,exports,natural_gas,nan,tonnes (metric),2005,601267.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2005,58767.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2005,3466835.0
+Finland,exports,natural_gas,nan,tonnes (metric),2005,328.0
+France,exports,natural_gas,nan,tonnes (metric),2005,9107475.0
+Germany,exports,natural_gas,nan,tonnes (metric),2005,
+Hungary,exports,natural_gas,nan,tonnes (metric),2005,11560.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2005,0.0
+Italy,exports,natural_gas,nan,tonnes (metric),2005,649706.0
+Norway,exports,natural_gas,nan,tonnes (metric),2005,61351894.0
+Poland,exports,natural_gas,nan,tonnes (metric),2005,26501.0
+Portugal,exports,natural_gas,nan,tonnes (metric),2005,0.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2005,257026.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2005,72043.0
+Spain,exports,natural_gas,nan,tonnes (metric),2005,778037.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2005,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2005,3244.0
+Turkey,exports,natural_gas,nan,tonnes (metric),2005,0.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2005,8270123.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2005,
+Greece,exports,natural_gas,nan,tonnes (metric),2005,
+Russia,exports,natural_gas,nan,tonnes (metric),2006,
+Austria,exports,natural_gas,nan,tonnes (metric),2006,1645995.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2006,39448874.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2006,
+Croatia,exports,natural_gas,nan,tonnes (metric),2006,871768.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2006,0.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2006,3818822.0
+Finland,exports,natural_gas,nan,tonnes (metric),2006,0.0
+France,exports,natural_gas,nan,tonnes (metric),2006,11501866.0
+Germany,exports,natural_gas,nan,tonnes (metric),2006,36880000.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2006,0.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2006,642980.0
+Italy,exports,natural_gas,nan,tonnes (metric),2006,331234.0
+Norway,exports,natural_gas,nan,tonnes (metric),2006,63323422.0
+Poland,exports,natural_gas,nan,tonnes (metric),2006,
+Portugal,exports,natural_gas,nan,tonnes (metric),2006,0.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2006,221885.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2006,54579.0
+Spain,exports,natural_gas,nan,tonnes (metric),2006,1546.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2006,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2006,
+Turkey,exports,natural_gas,nan,tonnes (metric),2006,2974.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2006,9528256.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2006,
+Greece,exports,natural_gas,nan,tonnes (metric),2006,
+Russia,exports,natural_gas,nan,tonnes (metric),2007,
+Austria,exports,natural_gas,nan,tonnes (metric),2007,2688210.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2007,20807227.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2007,
+Croatia,exports,natural_gas,nan,tonnes (metric),2007,540782.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2007,0.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2007,3786580.0
+Finland,exports,natural_gas,nan,tonnes (metric),2007,1218.0
+France,exports,natural_gas,nan,tonnes (metric),2007,10247611.0
+Germany,exports,natural_gas,nan,tonnes (metric),2007,17703000.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2007,127853.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2007,5447.0
+Italy,exports,natural_gas,nan,tonnes (metric),2007,585818.0
+Norway,exports,natural_gas,nan,tonnes (metric),2007,63999250.0
+Poland,exports,natural_gas,nan,tonnes (metric),2007,
+Portugal,exports,natural_gas,nan,tonnes (metric),2007,0.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2007,124820.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2007,34212.0
+Spain,exports,natural_gas,nan,tonnes (metric),2007,31159.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2007,51.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2007,
+Turkey,exports,natural_gas,nan,tonnes (metric),2007,5392.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2007,9361445.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2007,
+Greece,exports,natural_gas,nan,tonnes (metric),2007,
+Russia,exports,natural_gas,nan,tonnes (metric),2008,
+Austria,exports,natural_gas,nan,tonnes (metric),2008,2812303.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2008,59248950.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2008,
+Croatia,exports,natural_gas,nan,tonnes (metric),2008,457192.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2008,0.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2008,4023305.0
+Finland,exports,natural_gas,nan,tonnes (metric),2008,1420.0
+France,exports,natural_gas,nan,tonnes (metric),2008,22087224.0
+Germany,exports,natural_gas,nan,tonnes (metric),2008,19648000.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2008,0.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2008,
+Italy,exports,natural_gas,nan,tonnes (metric),2008,1749247.0
+Norway,exports,natural_gas,nan,tonnes (metric),2008,71394708.0
+Poland,exports,natural_gas,nan,tonnes (metric),2008,
+Portugal,exports,natural_gas,nan,tonnes (metric),2008,890688.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2008,112328.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2008,24368.0
+Spain,exports,natural_gas,nan,tonnes (metric),2008,0.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2008,0.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2008,
+Turkey,exports,natural_gas,nan,tonnes (metric),2008,412655.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2008,9543217.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2008,
+Greece,exports,natural_gas,nan,tonnes (metric),2008,
+Russia,exports,natural_gas,nan,tonnes (metric),2009,
+Austria,exports,natural_gas,nan,tonnes (metric),2009,2164960.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2009,10085049.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2009,
+Croatia,exports,natural_gas,nan,tonnes (metric),2009,570296.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2009,834462.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2009,2906339.0
+Finland,exports,natural_gas,nan,tonnes (metric),2009,4557.0
+France,exports,natural_gas,nan,tonnes (metric),2009,3469724.0
+Germany,exports,natural_gas,nan,tonnes (metric),2009,11354000.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2009,323537.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2009,
+Italy,exports,natural_gas,nan,tonnes (metric),2009,1620776.0
+Norway,exports,natural_gas,nan,tonnes (metric),2009,74357298.0
+Poland,exports,natural_gas,nan,tonnes (metric),2009,
+Portugal,exports,natural_gas,nan,tonnes (metric),2009,254997.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2009,334205.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2009,
+Spain,exports,natural_gas,nan,tonnes (metric),2009,61433.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2009,961.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2009,
+Turkey,exports,natural_gas,nan,tonnes (metric),2009,665247.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2009,11160939.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2009,
+Greece,exports,natural_gas,nan,tonnes (metric),2009,
+Russia,exports,natural_gas,nan,tonnes (metric),2010,
+Austria,exports,natural_gas,nan,tonnes (metric),2010,2645056.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2010,12091105.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2010,
+Croatia,exports,natural_gas,nan,tonnes (metric),2010,347567.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2010,1318872.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2010,1044000.0
+Finland,exports,natural_gas,nan,tonnes (metric),2010,9052.0
+France,exports,natural_gas,nan,tonnes (metric),2010,2908272.0
+Germany,exports,natural_gas,nan,tonnes (metric),2010,11720448.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2010,0.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2010,
+Italy,exports,natural_gas,nan,tonnes (metric),2010,1427161.0
+Norway,exports,natural_gas,nan,tonnes (metric),2010,75626277.0
+Poland,exports,natural_gas,nan,tonnes (metric),2010,
+Portugal,exports,natural_gas,nan,tonnes (metric),2010,389309.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2010,1153269.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2010,0.0
+Spain,exports,natural_gas,nan,tonnes (metric),2010,200027.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2010,21.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2010,
+Turkey,exports,natural_gas,nan,tonnes (metric),2010,590182.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2010,14461473.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2010,13.0
+Greece,exports,natural_gas,nan,tonnes (metric),2010,
+Russia,exports,natural_gas,nan,tonnes (metric),2011,
+Austria,exports,natural_gas,nan,tonnes (metric),2011,2945349.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2011,24078554.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2011,
+Croatia,exports,natural_gas,nan,tonnes (metric),2011,180323.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2011,1115748.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2011,836000.0
+Finland,exports,natural_gas,nan,tonnes (metric),2011,4729.0
+France,exports,natural_gas,nan,tonnes (metric),2011,8017462.0
+Germany,exports,natural_gas,nan,tonnes (metric),2011,19128385.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2011,0.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2011,
+Italy,exports,natural_gas,nan,tonnes (metric),2011,159619.0
+Norway,exports,natural_gas,nan,tonnes (metric),2011,74356856.0
+Poland,exports,natural_gas,nan,tonnes (metric),2011,
+Portugal,exports,natural_gas,nan,tonnes (metric),2011,875.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2011,1439467.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2011,0.0
+Spain,exports,natural_gas,nan,tonnes (metric),2011,555012.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2011,6159.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2011,
+Turkey,exports,natural_gas,nan,tonnes (metric),2011,653000.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2011,15239637.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2011,5.0
+Greece,exports,natural_gas,nan,tonnes (metric),2011,2871.0
+Russia,exports,natural_gas,nan,tonnes (metric),2012,
+Austria,exports,natural_gas,nan,tonnes (metric),2012,1995157.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2012,14990395.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2012,
+Croatia,exports,natural_gas,nan,tonnes (metric),2012,174291.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2012,1034568.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2012,729000.0
+Finland,exports,natural_gas,nan,tonnes (metric),2012,34.0
+France,exports,natural_gas,nan,tonnes (metric),2012,5800000.0
+Germany,exports,natural_gas,nan,tonnes (metric),2012,24489252.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2012,417151.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2012,
+Italy,exports,natural_gas,nan,tonnes (metric),2012,143244.0
+Norway,exports,natural_gas,nan,tonnes (metric),2012,84557156.0
+Poland,exports,natural_gas,nan,tonnes (metric),2012,
+Portugal,exports,natural_gas,nan,tonnes (metric),2012,58753.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2012,1366942.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2012,0.0
+Spain,exports,natural_gas,nan,tonnes (metric),2012,1325072.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2012,475.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2012,
+Turkey,exports,natural_gas,nan,tonnes (metric),2012,589000.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2012,11325170.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2012,539.0
+Greece,exports,natural_gas,nan,tonnes (metric),2012,6027.0
+Russia,exports,natural_gas,nan,tonnes (metric),2013,
+Austria,exports,natural_gas,nan,tonnes (metric),2013,992867.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2013,21292092.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2013,
+Croatia,exports,natural_gas,nan,tonnes (metric),2013,260560.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2013,965421.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2013,1527000.0
+Finland,exports,natural_gas,nan,tonnes (metric),2013,34.0
+France,exports,natural_gas,nan,tonnes (metric),2013,4729143.0
+Germany,exports,natural_gas,nan,tonnes (metric),2013,28752629.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2013,829105.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2013,
+Italy,exports,natural_gas,nan,tonnes (metric),2013,190849.0
+Norway,exports,natural_gas,nan,tonnes (metric),2013,81107905.0
+Poland,exports,natural_gas,nan,tonnes (metric),2013,
+Portugal,exports,natural_gas,nan,tonnes (metric),2013,243548.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2013,1052157.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2013,71993.0
+Spain,exports,natural_gas,nan,tonnes (metric),2013,2483109.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2013,13416.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2013,
+Turkey,exports,natural_gas,nan,tonnes (metric),2013,498000.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2013,8562558.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2013,864.0
+Greece,exports,natural_gas,nan,tonnes (metric),2013,2807.0
+Russia,exports,natural_gas,nan,tonnes (metric),2014,
+Austria,exports,natural_gas,nan,tonnes (metric),2014,942452.0
+Belgium,exports,natural_gas,nan,tonnes (metric),2014,11318364.0
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2014,
+Croatia,exports,natural_gas,nan,tonnes (metric),2014,247564.0
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2014,1578834.0
+Denmark,exports,natural_gas,nan,tonnes (metric),2014,905000.0
+Finland,exports,natural_gas,nan,tonnes (metric),2014,0.0
+France,exports,natural_gas,nan,tonnes (metric),2014,4697219.0
+Germany,exports,natural_gas,nan,tonnes (metric),2014,32479383.0
+Hungary,exports,natural_gas,nan,tonnes (metric),2014,756154.0
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2014,
+Italy,exports,natural_gas,nan,tonnes (metric),2014,155899.0
+Norway,exports,natural_gas,nan,tonnes (metric),2014,82413956.0
+Poland,exports,natural_gas,nan,tonnes (metric),2014,
+Portugal,exports,natural_gas,nan,tonnes (metric),2014,49632.0
+Slovakia,exports,natural_gas,nan,tonnes (metric),2014,1518006.0
+Slovenia,exports,natural_gas,nan,tonnes (metric),2014,258652.0
+Spain,exports,natural_gas,nan,tonnes (metric),2014,3779768.0
+Sweden,exports,natural_gas,nan,tonnes (metric),2014,25221.0
+Switzerland,exports,natural_gas,nan,tonnes (metric),2014,
+Turkey,exports,natural_gas,nan,tonnes (metric),2014,450000.0
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2014,9968929.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2014,1416.0
+Greece,exports,natural_gas,nan,tonnes (metric),2014,0.0
+Russia,exports,natural_gas,nan,tonnes (metric),2015,
+Austria,exports,natural_gas,nan,tonnes (metric),2015,
+Belgium,exports,natural_gas,nan,tonnes (metric),2015,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2015,
+Croatia,exports,natural_gas,nan,tonnes (metric),2015,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2015,
+Denmark,exports,natural_gas,nan,tonnes (metric),2015,
+Finland,exports,natural_gas,nan,tonnes (metric),2015,
+France,exports,natural_gas,nan,tonnes (metric),2015,
+Germany,exports,natural_gas,nan,tonnes (metric),2015,
+Hungary,exports,natural_gas,nan,tonnes (metric),2015,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2015,
+Italy,exports,natural_gas,nan,tonnes (metric),2015,
+Norway,exports,natural_gas,nan,tonnes (metric),2015,
+Poland,exports,natural_gas,nan,tonnes (metric),2015,
+Portugal,exports,natural_gas,nan,tonnes (metric),2015,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2015,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2015,
+Spain,exports,natural_gas,nan,tonnes (metric),2015,
+Sweden,exports,natural_gas,nan,tonnes (metric),2015,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2015,
+Turkey,exports,natural_gas,nan,tonnes (metric),2015,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2015,13444013.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2015,
+Greece,exports,natural_gas,nan,tonnes (metric),2015,
+Russia,exports,natural_gas,nan,tonnes (metric),2016,
+Austria,exports,natural_gas,nan,tonnes (metric),2016,
+Belgium,exports,natural_gas,nan,tonnes (metric),2016,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2016,
+Croatia,exports,natural_gas,nan,tonnes (metric),2016,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2016,
+Denmark,exports,natural_gas,nan,tonnes (metric),2016,
+Finland,exports,natural_gas,nan,tonnes (metric),2016,
+France,exports,natural_gas,nan,tonnes (metric),2016,
+Germany,exports,natural_gas,nan,tonnes (metric),2016,
+Hungary,exports,natural_gas,nan,tonnes (metric),2016,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2016,
+Italy,exports,natural_gas,nan,tonnes (metric),2016,
+Norway,exports,natural_gas,nan,tonnes (metric),2016,
+Poland,exports,natural_gas,nan,tonnes (metric),2016,
+Portugal,exports,natural_gas,nan,tonnes (metric),2016,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2016,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2016,
+Spain,exports,natural_gas,nan,tonnes (metric),2016,
+Sweden,exports,natural_gas,nan,tonnes (metric),2016,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2016,
+Turkey,exports,natural_gas,nan,tonnes (metric),2016,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2016,9843177.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2016,
+Greece,exports,natural_gas,nan,tonnes (metric),2016,
+Russia,exports,natural_gas,nan,tonnes (metric),2017,
+Austria,exports,natural_gas,nan,tonnes (metric),2017,
+Belgium,exports,natural_gas,nan,tonnes (metric),2017,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2017,
+Croatia,exports,natural_gas,nan,tonnes (metric),2017,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2017,
+Denmark,exports,natural_gas,nan,tonnes (metric),2017,
+Finland,exports,natural_gas,nan,tonnes (metric),2017,
+France,exports,natural_gas,nan,tonnes (metric),2017,
+Germany,exports,natural_gas,nan,tonnes (metric),2017,
+Hungary,exports,natural_gas,nan,tonnes (metric),2017,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2017,
+Italy,exports,natural_gas,nan,tonnes (metric),2017,
+Norway,exports,natural_gas,nan,tonnes (metric),2017,
+Poland,exports,natural_gas,nan,tonnes (metric),2017,
+Portugal,exports,natural_gas,nan,tonnes (metric),2017,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2017,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2017,
+Spain,exports,natural_gas,nan,tonnes (metric),2017,
+Sweden,exports,natural_gas,nan,tonnes (metric),2017,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2017,
+Turkey,exports,natural_gas,nan,tonnes (metric),2017,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2017,10699176.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2017,
+Greece,exports,natural_gas,nan,tonnes (metric),2017,
+Russia,exports,natural_gas,nan,tonnes (metric),2018,
+Austria,exports,natural_gas,nan,tonnes (metric),2018,
+Belgium,exports,natural_gas,nan,tonnes (metric),2018,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2018,
+Croatia,exports,natural_gas,nan,tonnes (metric),2018,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2018,
+Denmark,exports,natural_gas,nan,tonnes (metric),2018,
+Finland,exports,natural_gas,nan,tonnes (metric),2018,
+France,exports,natural_gas,nan,tonnes (metric),2018,
+Germany,exports,natural_gas,nan,tonnes (metric),2018,
+Hungary,exports,natural_gas,nan,tonnes (metric),2018,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2018,
+Italy,exports,natural_gas,nan,tonnes (metric),2018,
+Norway,exports,natural_gas,nan,tonnes (metric),2018,
+Poland,exports,natural_gas,nan,tonnes (metric),2018,
+Portugal,exports,natural_gas,nan,tonnes (metric),2018,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2018,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2018,
+Spain,exports,natural_gas,nan,tonnes (metric),2018,
+Sweden,exports,natural_gas,nan,tonnes (metric),2018,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2018,
+Turkey,exports,natural_gas,nan,tonnes (metric),2018,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2018,7127236.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2018,
+Greece,exports,natural_gas,nan,tonnes (metric),2018,
+Russia,exports,natural_gas,nan,tonnes (metric),2019,
+Austria,exports,natural_gas,nan,tonnes (metric),2019,
+Belgium,exports,natural_gas,nan,tonnes (metric),2019,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2019,
+Croatia,exports,natural_gas,nan,tonnes (metric),2019,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2019,
+Denmark,exports,natural_gas,nan,tonnes (metric),2019,
+Finland,exports,natural_gas,nan,tonnes (metric),2019,
+France,exports,natural_gas,nan,tonnes (metric),2019,
+Germany,exports,natural_gas,nan,tonnes (metric),2019,
+Hungary,exports,natural_gas,nan,tonnes (metric),2019,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2019,
+Italy,exports,natural_gas,nan,tonnes (metric),2019,
+Norway,exports,natural_gas,nan,tonnes (metric),2019,
+Poland,exports,natural_gas,nan,tonnes (metric),2019,
+Portugal,exports,natural_gas,nan,tonnes (metric),2019,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2019,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2019,
+Spain,exports,natural_gas,nan,tonnes (metric),2019,
+Sweden,exports,natural_gas,nan,tonnes (metric),2019,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2019,
+Turkey,exports,natural_gas,nan,tonnes (metric),2019,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2019,7772528.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2019,
+Greece,exports,natural_gas,nan,tonnes (metric),2019,
+Russia,exports,natural_gas,nan,tonnes (metric),2020,
+Austria,exports,natural_gas,nan,tonnes (metric),2020,
+Belgium,exports,natural_gas,nan,tonnes (metric),2020,
+Belgium-Luxembourg,exports,natural_gas,nan,tonnes (metric),2020,
+Croatia,exports,natural_gas,nan,tonnes (metric),2020,
+Czech Republic,exports,natural_gas,nan,tonnes (metric),2020,
+Denmark,exports,natural_gas,nan,tonnes (metric),2020,
+Finland,exports,natural_gas,nan,tonnes (metric),2020,
+France,exports,natural_gas,nan,tonnes (metric),2020,
+Germany,exports,natural_gas,nan,tonnes (metric),2020,
+Hungary,exports,natural_gas,nan,tonnes (metric),2020,
+"Ireland, Republic of",exports,natural_gas,nan,tonnes (metric),2020,
+Italy,exports,natural_gas,nan,tonnes (metric),2020,
+Norway,exports,natural_gas,nan,tonnes (metric),2020,
+Poland,exports,natural_gas,nan,tonnes (metric),2020,
+Portugal,exports,natural_gas,nan,tonnes (metric),2020,
+Slovakia,exports,natural_gas,nan,tonnes (metric),2020,
+Slovenia,exports,natural_gas,nan,tonnes (metric),2020,
+Spain,exports,natural_gas,nan,tonnes (metric),2020,
+Sweden,exports,natural_gas,nan,tonnes (metric),2020,
+Switzerland,exports,natural_gas,nan,tonnes (metric),2020,
+Turkey,exports,natural_gas,nan,tonnes (metric),2020,
+United Kingdom,exports,natural_gas,nan,tonnes (metric),2020,9106069.0
+Bulgaria,exports,natural_gas,nan,tonnes (metric),2020,
+Greece,exports,natural_gas,nan,tonnes (metric),2020,

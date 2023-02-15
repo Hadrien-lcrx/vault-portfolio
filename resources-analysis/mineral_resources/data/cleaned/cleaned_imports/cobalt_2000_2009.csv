@@ -1,0 +1,102 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,imports,cobalt,Metal & refined,,48.0,60.0,,,,,,,
+Argentina,imports,cobalt,Oxides                                            ,,36.0,37.0,,,,,,,
+Australia,imports,cobalt,Metal & refined,76.0,97.0,59.0,,,,,,,
+Australia,imports,cobalt,Ore                                               ,,19.0,0.0,,,,,,,
+Australia,imports,cobalt,Oxides,,,,,,,,,,
+Australia,imports,cobalt,Oxides                                            ,75.0,93.0,105.0,,,,,,,
+Austria,imports,cobalt,Metal & refined,537.0,415.0,345.0,30.0,585.0,694.0,438.0,631.0,740.0,331.0
+Austria,imports,cobalt,Oxides                                            ,,,,,11.0,5.0,7.0,4.0,40.0,5.0
+Belgium,imports,cobalt,Metal & refined,,,,,,,1374.0,275.0,255.0,249.0
+Belgium,imports,cobalt,Ore                                               ,,,,,,,107.0,121.0,185.0,272.0
+Belgium-Luxembourg,imports,cobalt,Metal & refined,5700.0,4600.0,4700.0,8400.0,7000.0,4700.0,,,,
+Belgium-Luxembourg,imports,cobalt,Ore                                               ,89.0,50.0,0.0,67.0,455.0,263.0,,,,
+Belgium-Luxembourg,imports,cobalt,Oxides                                            ,476.0,667.0,644.0,800.0,1103.0,1300.0,,,,
+Brazil,imports,cobalt,Metal & refined,325.0,332.0,301.0,,,,,,,
+Brazil,imports,cobalt,Ore                                               ,84.0,169.0,140.0,,,,,,,
+Brazil,imports,cobalt,Oxides                                            ,135.0,173.0,110.0,,,,,,,
+Canada,imports,cobalt,Metal & refined,825.0,1561.0,1426.0,,,,,,,
+China,imports,cobalt,Metal & refined,2077.0,3107.0,4380.0,,,,,,,
+China,imports,cobalt,Ore                                               ,16038.0,29222.0,41123.0,,,,,,,
+China,imports,cobalt,Oxides                                            ,87.0,221.0,888.0,,,,,,,
+Czech Republic,imports,cobalt,Metal & refined,34.0,41.0,35.0,54.0,81.0,75.0,84.0,108.0,199.0,220.0
+Czech Republic,imports,cobalt,Oxides                                            ,32.0,37.0,32.0,25.0,33.0,,,,,17.0
+Denmark,imports,cobalt,Oxides                                            ,,,,,,,,5.0,8.0,15.0
+Estonia,imports,cobalt,Metal & refined,42.0,30.0,0.0,138.0,,,,,,
+Finland,imports,cobalt,Metal & refined,,,400.0,100.0,700.0,13611.0,26928.0,27590.0,36405.0,24002.0
+Finland,imports,cobalt,Ore                                               ,66618.0,61785.0,64274.0,41707.0,80202.0,54794.0,31186.0,26449.0,26500.0,15146.0
+Finland,imports,cobalt,Oxides                                            ,0.0,1.0,4.0,45.0,126.0,336.0,186.0,346.0,167.0,46.0
+France,imports,cobalt,Metal & refined,1618.0,1723.0,1654.0,1813.0,1681.0,2038.0,2117.0,3137.0,2251.0,1203.0
+France,imports,cobalt,Ore                                               ,65.0,69.0,45.0,,,,,,,
+France,imports,cobalt,Oxides                                            ,566.0,471.0,370.0,533.0,522.0,474.0,562.0,658.0,574.0,578.0
+Germany,imports,cobalt,Metal & refined,2289.0,2408.0,2349.0,2568.0,2602.0,2990.0,3532.0,3150.0,2921.0,2017.0
+Germany,imports,cobalt,Ore                                               ,,,,,,,,12.0,15.0,42.0
+Germany,imports,cobalt,Oxides                                            ,385.0,301.0,346.0,439.0,448.0,542.0,759.0,898.0,1057.0,902.0
+Greece,imports,cobalt,Metal & refined,108.0,33.0,34.0,30.0,89.0,31.0,30.0,42.0,123.0,14.0
+Hong Kong,imports,cobalt,Metal & refined,3608.0,1233.0,1568.0,,,,,,,
+Hong Kong,imports,cobalt,Ore                                               ,787.0,1144.0,1592.0,,,,,,,
+Hong Kong,imports,cobalt,Oxides,,,,,,,,,,
+Hong Kong,imports,cobalt,Oxides                                            ,122.0,80.0,99.0,,,,,,,
+India,imports,cobalt,Metal & refined,352.0,502.0,438.0,,,,,,,
+India,imports,cobalt,Ore                                               ,4030.0,2125.0,4181.0,,,,,,,
+India,imports,cobalt,Oxides                                            ,18.0,37.0,43.0,,,,,,,
+Indonesia,imports,cobalt,Metal & refined,154.0,12.0,5.0,,,,,,,
+Indonesia,imports,cobalt,Ore                                               ,8142.0,624.0,136.0,,,,,,,
+Indonesia,imports,cobalt,Oxides                                            ,239.0,137.0,190.0,,,,,,,
+Iran,imports,cobalt,Metal & refined,15.0,14.0,17.0,,,,,,,
+Iran,imports,cobalt,Oxides,78.0,78.0,115.0,,,,,,,
+"Ireland, Republic of",imports,cobalt,Metal & refined,207.0,527.0,398.0,282.0,273.0,390.0,464.0,298.0,622.0,777.0
+"Ireland, Republic of",imports,cobalt,Ore                                               ,,,2.0,18.0,30.0,28.0,35.0,571.0,,
+"Ireland, Republic of",imports,cobalt,Oxides                                            ,101.0,45.0,6.0,3.0,5.0,13.0,43.0,,,
+Italy,imports,cobalt,Metal & refined,539.0,624.0,649.0,449.0,440.0,468.0,587.0,626.0,703.0,632.0
+Italy,imports,cobalt,Ore                                               ,0.0,1.0,41.0,495.0,122.0,,,,,
+Italy,imports,cobalt,Oxides                                            ,1089.0,1004.0,1256.0,966.0,1004.0,1128.0,1161.0,1682.0,561.0,473.0
+Japan,imports,cobalt,Metal & refined,9337.0,7973.0,9827.0,,,,,,,
+Japan,imports,cobalt,Oxides,,,,,,,,,,
+Japan,imports,cobalt,Oxides                                            ,3354.0,1484.0,2505.0,,,,,,,
+Korea (Rep. of),imports,cobalt,Metal & refined,1020.0,888.0,1678.0,,,,,,,
+Korea (Rep. of),imports,cobalt,Oxides                                            ,511.0,712.0,657.0,,,,,,,
+Luxembourg,imports,cobalt,Metal & refined,,,,,,,120.0,212.0,243.0,11.0
+Malaysia,imports,cobalt,Metal & refined,761.0,1004.0,,,,,,,,
+Malaysia,imports,cobalt,Oxides                                            ,198.0,,,,,,,,,
+Mexico,imports,cobalt,Metal & refined,92.0,95.0,51.0,,,,,,,
+Mexico,imports,cobalt,Oxides                                            ,318.0,147.0,247.0,,,,,,,
+Netherlands,imports,cobalt,Metal & refined,781.0,1451.0,478.0,551.0,1340.0,1532.0,1511.0,1270.0,1124.0,491.0
+Netherlands,imports,cobalt,Oxides                                            ,624.0,510.0,570.0,215.0,369.0,351.0,269.0,489.0,244.0,54.0
+Norway,imports,cobalt,Metal & refined,1717.0,2196.0,3131.0,4773.0,9629.0,5775.0,6362.0,3871.0,3131.0,3012.0
+Norway,imports,cobalt,Oxides                                            ,642.0,113.0,41.0,,,9.0,2.0,,0.0,155.0
+Philippines,imports,cobalt,Metal & refined,99.0,86.0,,,,,,,,
+Poland,imports,cobalt,Metal & refined,46.0,53.0,44.0,49.0,44.0,35.0,52.0,69.0,51.0,53.0
+Poland,imports,cobalt,Oxides,38.0,,,,,,,,,
+Poland,imports,cobalt,Oxides                                            ,,38.0,33.0,16.0,37.0,121.0,63.0,18.0,30.0,15.0
+Romania,imports,cobalt,Oxides                                            ,,,,,,,14.0,29.0,6.0,37.0
+Russia,imports,cobalt,Metal & refined,158.0,179.0,105.0,,,,,,,
+Russia,imports,cobalt,Oxides                                            ,109.0,86.0,12.0,,,,,,,
+Saudi Arabia,imports,cobalt,Oxides                                            ,287.0,65.0,204.0,,,,,,,
+Singapore,imports,cobalt,Metal & refined,827.0,898.0,795.0,,,,,,,
+Singapore,imports,cobalt,Oxides,275.0,291.0,340.0,,,,,,,
+Slovakia,imports,cobalt,Metal & refined,,,,,38.0,5.0,13.0,37.0,1020.0,
+Slovakia,imports,cobalt,Oxides                                            ,,,,,,4.0,,0.0,0.0,5327.0
+Slovenia,imports,cobalt,Metal & refined,180.0,214.0,141.0,198.0,162.0,209.0,209.0,96.0,93.0,149.0
+South Africa,imports,cobalt,Metal & refined,729.0,1145.0,791.0,,,,,,,
+South Africa,imports,cobalt,Ore                                               ,1993.0,3670.0,6194.0,,,,,,,
+South Africa,imports,cobalt,Oxides                                            ,10.0,42.0,262.0,,,,,,,
+Spain,imports,cobalt,Metal & refined,287.0,228.0,131.0,171.0,181.0,158.0,180.0,121.0,131.0,135.0
+Spain,imports,cobalt,Oxides                                            ,1223.0,1336.0,1436.0,1401.0,1249.0,1352.0,1254.0,1187.0,1038.0,1035.0
+Sweden,imports,cobalt,Metal & refined,764.0,813.0,599.0,663.0,711.0,660.0,743.0,676.0,698.0,189.0
+Switzerland,imports,cobalt,Metal & refined,380.0,394.0,342.0,291.0,361.0,423.0,408.0,454.0,386.0,243.0
+Taiwan,imports,cobalt,Metal & refined,1035.0,932.0,1225.0,,,,,,,
+Taiwan,imports,cobalt,Oxides                                            ,210.0,228.0,392.0,,,,,,,
+Thailand,imports,cobalt,Metal & refined,204.0,100.0,83.0,,,,,,,
+Thailand,imports,cobalt,Oxides,,,,,,,,,,
+Thailand,imports,cobalt,Oxides                                            ,126.0,146.0,177.0,,,,,,,
+Turkey,imports,cobalt,Metal & refined,75.0,62.0,88.0,157.0,170.0,167.0,186.0,176.0,148.0,125.0
+Turkey,imports,cobalt,Oxides                                            ,59.0,60.0,84.0,108.0,134.0,139.0,165.0,142.0,152.0,150.0
+USA,imports,cobalt,Metal & refined,8324.0,8753.0,7330.0,,,,,,,
+USA,imports,cobalt,Oxides,,,,,,,,,,
+USA,imports,cobalt,Oxides                                            ,1513.0,1279.0,1300.0,,,,,,,
+United Kingdom,imports,cobalt,Metal & refined,3886.0,4187.0,4036.0,3356.0,3862.0,3888.0,4427.0,5422.0,5395.0,3928.0
+United Kingdom,imports,cobalt,Ore                                               ,,,,,,6.0,24.0,0.0,72.0,200.0
+United Kingdom,imports,cobalt,Oxides                                            ,496.0,641.0,487.0,582.0,525.0,107.0,195.0,180.0,138.0,168.0
+Venezuela,imports,cobalt,Oxides                                            ,44.0,23.0,11.0,,,,,,,
+"Yemen, Republic of",imports,cobalt,Metal & refined,,60.0,506.0,,,,,,,

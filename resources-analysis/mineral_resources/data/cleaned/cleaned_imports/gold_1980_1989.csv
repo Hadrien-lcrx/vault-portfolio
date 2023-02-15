@@ -1,0 +1,76 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Algeria,imports,gold,Metal,1285.0,1947.0,3681.0,4520.0,2254.0,2751.0,16.0,,,
+Argentina,imports,gold,Metal,813.0,334.0,,,,,,,,
+Australia,imports,gold,Metal,1798.0,397.0,2231.0,3161.0,3527.0,7972.0,,,,
+Austria,imports,gold,Metal,1559.0,2949.0,3623.0,4419.0,3275.0,3345.0,4522.0,3105.0,13459.0,3482.0
+Belgium-Luxembourg,imports,gold,Metal,57725.0,237233.0,263610.0,240784.0,61809.0,65353.0,53012.0,45014.0,53114.0,22536.0
+Bermuda,imports,gold,Metal,4723.0,448.0,432.0,780.0,847.0,1704.0,,160.0,,
+Brazil,imports,gold,Metal,868.0,333.0,606.0,1109.0,55.0,78.0,58.0,61.0,4.0,535.0
+Brunei,imports,gold,Metal,0.0,115.0,342.0,84.0,113.0,429.0,673.0,183.0,,
+Canada,imports,gold,Metal,69949.0,69110.0,51656.0,65467.0,67873.0,95872.0,115148.0,,51525.0,52627.0
+Canada,imports,gold,Ores & concentrates,1894.0,2278.0,445.0,951.0,553.0,475.0,704.0,1060.0,1976.0,1220.0
+China,imports,gold,Metal,,,,,,700.0,650.0,2700.0,9900.0,5500.0
+Cyprus,imports,gold,Metal,382.0,563.0,704.0,843.0,1102.0,1307.0,1480.0,1555.0,1661.0,2892.0
+Czechoslovakia,imports,gold,Metal,,,,,,,,300.0,600.0,400.0
+Denmark,imports,gold,Metal,622.0,613.0,602.0,687.0,763.0,824.0,1128.0,1054.0,1017.0,1024.0
+Denmark,imports,gold,Waste & scrap,,,100.0,45.0,439.0,634.0,597.0,8211.0,534.0,1062.0
+Ecuador,imports,gold,Metal,312.0,728.0,2138.0,377.0,10.0,,,,,
+Finland,imports,gold,Metal,953.0,895.0,1048.0,1019.0,910.0,892.0,756.0,745.0,753.0,1133.0
+France,imports,gold,Metal,58246.0,60254.0,32290.0,56211.0,92973.0,31426.0,51030.0,92643.0,134364.0,124270.0
+France,imports,gold,Waste & scrap,8629.0,9652.0,4584.0,2269.0,1242.0,1604.0,27107.0,1548.0,64789.0,255308.0
+German Federal Republic,imports,gold,Metal,126569.0,82714.0,120639.0,61113.0,73145.0,83125.0,100310.0,78855.0,165884.0,123074.0
+German Federal Republic,imports,gold,Waste & scrap,156827.0,125474.0,126366.0,176898.0,97997.0,176469.0,187094.0,158364.0,783171.0,286692.0
+Germany,imports,gold,Metal,,,,,,,,,,
+Germany,imports,gold,Waste & scrap,,,,,,,,,,
+Greece,imports,gold,Metal,,1653.0,915.0,1992.0,1530.0,2572.0,2643.0,1635.0,2413.0,2160.0
+Hong Kong,imports,gold,Metal,35872.0,101325.0,122370.0,30173.0,165427.0,162627.0,51259.0,157268.0,464257.0,439173.0
+Hong Kong,imports,gold,Waste & scrap,,,,,,,,459.0,287.0,609.0
+Indonesia,imports,gold,Metal,0.0,22278.0,29650.0,450.0,1500.0,340.0,20.0,0.0,,
+Iran,imports,gold,Metal,595.0,14.0,,296.0,70.0,,,,,
+Italy,imports,gold,Metal,69785.0,140193.0,201966.0,151015.0,202487.0,231954.0,217097.0,199393.0,350224.0,284821.0
+Italy,imports,gold,Waste & scrap,,,,,,,,1200.0,2000.0,7855.0
+Japan,imports,gold,Metal,31837.0,167325.0,139778.0,104418.0,191984.0,196815.0,607830.0,239217.0,293784.0,284272.0
+Japan,imports,gold,Waste & scrap,712.0,1451.0,1071.0,5449.0,1329.0,1011.0,1666.0,1821.0,2246.0,2260.0
+Jordan,imports,gold,Metal,0.0,208.0,2357.0,1074.0,25168.0,13664.0,3647.0,1042.0,3304.0,1527.0
+Kenya,imports,gold,Metal,1221.0,442.0,,,,,,,,
+Korea (Rep. of),imports,gold,Metal,3994.0,797.0,1221.0,1786.0,1954.0,11545.0,5895.0,24467.0,7396.0,13755.0
+Korea (Rep. of),imports,gold,Ores & concentrates,,,,,,0.0,4783444.0,4007468.0,417259.0,5292311.0
+Libya,imports,gold,Metal,,,,,,,,3550.0,4725.0,
+Macao,imports,gold,Metal,,0.0,0.0,247.0,876.0,2600.0,17.0,93.0,1680.0,1927.0
+Malaysia,imports,gold,Metal,2304.0,3219.0,3042.0,2779.0,7366.0,7721.0,7507.0,6324.0,22592.0,71274.0
+Malta,imports,gold,Metal,,,495.0,162.0,1913.0,1263.0,2355.0,3424.0,1792.0,720.0
+Malta,imports,gold,Waste & scrap,123.0,221.0,,,,,,,,
+Netherlands,imports,gold,Metal,23690.0,29775.0,28018.0,6947.0,4711.0,5869.0,5040.0,3621.0,3936.0,3858.0
+Netherlands,imports,gold,Waste & scrap,,1000.0,2000.0,2000.0,3000.0,6000.0,10000.0,7000.0,1000.0,1000.0
+New Zealand,imports,gold,Metal,190.0,223.0,358.0,553.0,1062.0,1745.0,549.0,141.0,51.0,388.0
+Norway,imports,gold,Metal,1096.0,741.0,854.0,621.0,582.0,632.0,753.0,554.0,702.0,566.0
+Norway,imports,gold,Waste & scrap,805.0,539.0,16.0,547.0,2.0,15.0,61.0,175.0,240.0,519.0
+Oman,imports,gold,Metal,,,,,,,,,,
+Philippines,imports,gold,Metal,,,33.0,71.0,309.0,267.0,298.0,103.0,117.0,133.0
+Portugal,imports,gold,Metal,256.0,309.0,1462.0,105.0,188.0,228.0,649.0,348.0,900.0,2100.0
+Reunion,imports,gold,Metal,,,,,52.0,52.0,375.0,217.0,2973.0,3500.0
+Saudi Arabia,imports,gold,Metal,14873.0,13274.0,15055.0,22960.0,18675.0,18140.0,3458.0,13534.0,13400.0,70299.0
+Singapore,imports,gold,Metal,,0.0,0.0,0.0,4433.0,3295.0,3878.0,4850.0,6466.0,7817.0
+Singapore,imports,gold,Waste & scrap,,,,,29.0,241.0,561.0,800.0,398.0,411.0
+South Africa,imports,gold,Metal,191.0,274.0,108.0,267.0,3410.0,420.0,200.0,150.0,184.0,96.0
+South Africa,imports,gold,Waste & scrap,33799.0,774.0,86.0,11.0,1685.0,0.0,0.0,,0.0,496.0
+Spain,imports,gold,Metal,1143.0,652.0,2269.0,1212.0,248.0,1723.0,3769.0,5932.0,9436.0,11957.0
+Spain,imports,gold,Waste & scrap,,,145000.0,33400.0,35603.0,72501.0,2000.0,25.0,406.0,1000.0
+Sri Lanka,imports,gold,Metal,,,,,,,,,,
+Sweden,imports,gold,Metal,,,,,,,,,2000.0,2000.0
+Sweden,imports,gold,Waste & scrap,6000.0,,,,,,,,,
+Switzerland,imports,gold,Metal,632534.0,820894.0,1017543.0,753593.0,766297.0,883081.0,1195002.0,909709.0,968810.0,1202144.0
+Switzerland,imports,gold,Waste & scrap,,,,,,,,,64199.0,35840.0
+Syria,imports,gold,Metal,332.0,,,,,,,,,
+Taiwan,imports,gold,Metal,10579.0,22456.0,36667.0,33844.0,52165.0,34496.0,27565.0,87575.0,362686.0,156605.0
+Thailand,imports,gold,Metal,395.0,374.0,13228.0,4535.0,2379.0,4360.0,4063.0,6648.0,11211.0,16375.0
+Tunisia,imports,gold,Metal,768.0,,882.0,,449.0,387.0,290.0,115.0,0.0,183.0
+USA,imports,gold,"Metal, refined",127232.0,129533.0,131809.0,111950.0,195827.0,197853.0,429252.0,75367.0,57597.0,96967.0
+USA,imports,gold,"Metal, unrefined",12056.0,13126.0,15027.0,23582.0,52033.0,56969.0,59731.0,43058.0,32672.0,54818.0
+USA,imports,gold,Ores & concentrates,4524.0,5907.0,10579.0,8819.0,7446.0,2489.0,2288.0,2259.0,3976.0,2427.0
+United Kingdom,imports,gold,"Metal, other",5489.0,11942.0,8609.0,6193.0,8455.0,19228.0,28075.0,33060.0,23709.0,
+United Kingdom,imports,gold,"Metal, refined",550862.0,624751.0,527311.0,509162.0,436670.0,347880.0,487986.0,354971.0,571458.0,
+United Kingdom,imports,gold,"Metal, unrefined",60822.0,5407.0,6400.0,18323.0,3450.0,4786.0,9654.0,19751.0,8455.0,
+United Kingdom,imports,gold,Ores & concentrates,2139.0,14013.0,30945.0,334.0,11544.0,852.0,1930.0,2879.0,12892.0,2031.0
+United Kingdom,imports,gold,Waste & scrap,19564.0,28206.0,156360.0,108517.0,175111.0,162774.0,161604.0,205799.0,165158.0,282175.0
+Venezuela,imports,gold,Metal,,,237.0,,,,,,,

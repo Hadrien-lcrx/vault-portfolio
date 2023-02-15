@@ -1,0 +1,77 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Austria,exports,rare_earths,Cerium compounds                                  ,1420.0,,2500.0,1750.0,1564.0,1980.0,1569.0,2596.0,2702.0,2035.0
+Austria,exports,rare_earths,Metals                                            ,558.0,,,417.0,456.0,421.0,333.0,359.0,373.0,244.0
+Austria,exports,rare_earths,Other rare earth compounds                        ,5714.0,,7000.0,6144.0,6415.0,6449.0,5911.0,9039.0,8508.0,8437.0
+Belgium,exports,rare_earths,Metals                                            ,,,,,,,444.0,253.0,299.0,273.0
+Belgium,exports,rare_earths,Rare earth compounds                              ,,,,,,,302.0,802.0,408.0,335.0
+Belgium-Luxembourg,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,37.0,9.0,7.0,,,,,,,
+Belgium-Luxembourg,exports,rare_earths,Metals                                            ,264.0,265.0,160.0,158.0,237.0,187.0,,,,
+Belgium-Luxembourg,exports,rare_earths,Rare earth compounds                              ,260.0,1060.0,452.0,743.0,721.0,413.0,,,,
+China,exports,rare_earths,Cerium compounds                                  ,19861.0,20987.0,22823.0,,,,,,,
+China,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,166.0,,186.0,,,,,,,
+China,exports,rare_earths,Metals                                            ,12537.0,8090.0,8982.0,,,,,,,
+China,exports,rare_earths,Other rare earth compounds                        ,36648.0,28522.0,26890.0,,,,,,,
+Czech Republic,exports,rare_earths,Cerium compounds                                  ,,,,,6.0,8.0,8.0,6.0,,
+Czech Republic,exports,rare_earths,Other rare earth compounds                        ,,,,,2.0,4.0,5.0,6.0,,
+Czech Republic,exports,rare_earths,Rare earth compounds                              ,,,,,,,,,8.0,3.0
+Denmark,exports,rare_earths,Metals                                            ,,,,,0.0,0.0,0.0,,,
+Estonia,exports,rare_earths,Metals                                            ,,5.0,,30.0,14.0,3.0,1.0,,1.0,1.0
+Estonia,exports,rare_earths,Rare earth compounds                              ,27.0,784.0,4156.0,2129.0,1064.0,2319.0,6819.0,3183.0,2916.0,2679.0
+Finland,exports,rare_earths,Metals                                            ,,,,,,,,104.0,,
+Finland,exports,rare_earths,Rare earth compounds                              ,,,,1.0,1.0,2.0,1.0,1.0,103.0,0.0
+France,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,129.0,105.0,94.0,109.0,125.0,32.0,85.0,133.0,,
+France,exports,rare_earths,Metals                                            ,33.0,26.0,231.0,58.0,65.0,7.0,24.0,11.0,11.0,3.0
+France,exports,rare_earths,Rare earth compounds                              ,1151.0,638.0,314.0,1660.0,8588.0,2007.0,2185.0,2545.0,1854.0,1244.0
+Germany,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,4.0,,,,,,,,,
+Germany,exports,rare_earths,Metals                                            ,31.0,16.0,8.0,10.0,4.0,1.0,1.0,8.0,3.0,19.0
+Germany,exports,rare_earths,Rare earth compounds                              ,106.0,225.0,102.0,115.0,108.0,123.0,145.0,217.0,188.0,652.0
+Hong Kong,exports,rare_earths,Cerium compounds                                  ,96.0,158.0,132.0,,,,,,,
+Hungary,exports,rare_earths,Other rare earth compounds                        ,,,,,,0.0,,,,
+India,exports,rare_earths,Rare earth compounds                              ,964.0,1728.0,0.0,,,,,,,
+"Ireland, Republic of",exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,100.0,142.0,,362.0,,,,,,
+"Ireland, Republic of",exports,rare_earths,Rare earth compounds                              ,87.0,182.0,64.0,107.0,85.0,14.0,73.0,8.0,9.0,7.0
+Italy,exports,rare_earths,Metals                                            ,11.0,18.0,19.0,15.0,81.0,168.0,56.0,177.0,112.0,78.0
+Italy,exports,rare_earths,Rare earth compounds                              ,,,26.0,39.0,20.0,13.0,43.0,38.0,153.0,167.0
+Japan,exports,rare_earths,Cerium compounds                                  ,1429.0,1743.0,2371.0,,,,,,,
+Japan,exports,rare_earths,Metals                                            ,199.0,197.0,177.0,,,,,,,
+Japan,exports,rare_earths,Other rare earth compounds                        ,1038.0,2507.0,937.0,,,,,,,
+Jordan,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,82.0,0.0,49.0,,,,,,,
+Kazakhstan,exports,rare_earths,Metals                                            ,8.0,4.0,7.0,,,,,,,
+Korea (Rep. of),exports,rare_earths,Metals                                            ,,,39.0,,,,,,,
+Korea (Rep. of),exports,rare_earths,Rare earth compounds                              ,193.0,191.0,218.0,,,,,,,
+Lithuania,exports,rare_earths,Cerium compounds                                  ,,,,,0.0,1.0,3.0,4.0,3.0,8.0
+Malaysia,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,532.0,844.0,,,,,,,,
+Malaysia,exports,rare_earths,Metals                                            ,85.0,,,,,,,,,
+Malaysia,exports,rare_earths,Ores & concentrates                               ,1225.0,700.0,,,,,,,,
+Netherlands,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,34.0,2.0,14.0,,,,,4.0,19.0,44.0
+Netherlands,exports,rare_earths,Metals                                            ,63.0,15.0,17.0,58.0,124.0,13.0,16.0,64.0,202.0,135.0
+Netherlands,exports,rare_earths,Rare earth compounds                              ,,68.0,53.0,95.0,87.0,171.0,157.0,77.0,131.0,150.0
+Norway,exports,rare_earths,Metals                                            ,,,27.0,,,11.0,59.0,0.0,1.0,105.0
+Norway,exports,rare_earths,Other rare earth compounds                        ,,,,,1.0,,,1.0,21.0,
+Norway,exports,rare_earths,Rare earth compounds                              ,,,,,,,,,,21.0
+Poland,exports,rare_earths,Cerium compounds                                  ,,,,,0.0,0.0,0.0,15.0,8.0,4.0
+Poland,exports,rare_earths,Other rare earth compounds                        ,,,,,0.0,0.0,0.0,33.0,22.0,0.0
+Portugal,exports,rare_earths,Other rare earth compounds                        ,,,,,,,,,,20.0
+Russia,exports,rare_earths,Rare earth compounds                              ,2495.0,1330.0,1765.0,,,,,,,
+Singapore,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,170.0,107.0,,,,,,,,
+Singapore,exports,rare_earths,Metals                                            ,156.0,151.0,109.0,,,,,,,
+Singapore,exports,rare_earths,Rare earth compounds                              ,460.0,460.0,527.0,,,,,,,
+Spain,exports,rare_earths,Cerium compounds                                  ,,,,30.0,12.0,17.0,45.0,63.0,8.0,13.0
+Spain,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,13.0,56.0,85.0,1.0,2.0,3.0,,,,
+Spain,exports,rare_earths,Metals                                            ,,,,,,,,,50.0,0.0
+Spain,exports,rare_earths,Other rare earth compounds                        ,,,,3.0,80.0,20.0,18.0,2.0,17.0,5.0
+Sweden,exports,rare_earths,Cerium compounds                                  ,,,,,,,,,,1.0
+Switzerland,exports,rare_earths,Cerium compounds                                  ,,,,,1.0,1.0,2.0,2.0,1.0,1.0
+Switzerland,exports,rare_earths,Other rare earth compounds                        ,,,,,2.0,3.0,7.0,3.0,1.0,26.0
+Taiwan,exports,rare_earths,Metals                                            ,4.0,0.0,8.0,,,,,,,
+Taiwan,exports,rare_earths,Rare earth compounds                              ,305.0,69.0,142.0,,,,,,,
+Thailand,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,1721.0,2004.0,1966.0,,,,,,,
+Thailand,exports,rare_earths,Ores & concentrates                               ,60.0,1196.0,1577.0,,,,,,,
+Turkey,exports,rare_earths,Cerium compounds                                  ,,,,,,,,,27.0,8.0
+USA,exports,rare_earths,Cerium compounds                                  ,3962.0,4490.0,3173.0,,,,,,,
+USA,exports,rare_earths,Metals                                            ,1372.0,742.0,1100.0,,,,,,,
+USA,exports,rare_earths,Other rare earth compounds                        ,1759.0,1680.0,1516.0,,,,,,,
+United Kingdom,exports,rare_earths,Cerium compounds                                  ,317.0,415.0,88.0,118.0,47.0,121.0,111.0,37.0,73.0,105.0
+United Kingdom,exports,rare_earths,Ferro-cerium & other pyrophoric alloys            ,26.0,9.0,19.0,768.0,197.0,2.0,76.0,80.0,7.0,6.0
+United Kingdom,exports,rare_earths,Metals                                            ,60.0,51.0,148.0,16.0,10.0,26.0,29.0,143.0,237.0,54.0
+United Kingdom,exports,rare_earths,Other rare earth compounds                        ,354.0,329.0,1128.0,1105.0,1157.0,1189.0,954.0,1089.0,622.0,459.0

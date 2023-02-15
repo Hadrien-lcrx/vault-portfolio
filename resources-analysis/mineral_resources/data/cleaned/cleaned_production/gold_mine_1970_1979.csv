@@ -1,0 +1,69 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Angola,production,gold_mine,,,,1.0,62.0,62.0,31.0,31.0,,,
+Argentina,production,gold_mine,,,,,,,,181.0,171.0,174.0,315.0
+Australia,production,gold_mine,,19282.0,20918.0,23361.0,17174.0,15944.0,16386.0,15637.0,19417.0,20142.0,18566.0
+Bolivia,production,gold_mine,,952.0,690.0,674.0,1152.0,1309.0,1649.0,896.0,431.0,770.0,948.0
+Brazil,production,gold_mine,,5830.0,5115.0,7188.0,6358.0,5861.0,5351.0,4922.0,5355.0,9359.0,4460.0
+Burundi,production,gold_mine,,,,,,11.0,11.0,13.0,17.0,10.0,4.0
+Cambodia,production,gold_mine,,120.0,124.0,124.0,124.0,124.0,15.0,30.0,30.0,,
+Cameroon,production,gold_mine,,7.0,3.0,3.0,2.0,2.0,3.0,8.0,6.0,6.0,5.0
+Canada,production,gold_mine,,74917.0,70318.0,64652.0,60788.0,52826.0,51433.0,52621.0,53921.0,53967.0,51142.0
+Central African Republic,production,gold_mine,,,,,,,,,3.0,30.0,68.0
+Chile,production,gold_mine,,1578.0,1996.0,2942.0,3048.0,3696.0,3997.0,4017.0,3620.0,3182.0,3465.0
+China,production,gold_mine,,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,2500.0,28000.0,34000.0,40000.0
+Colombia,production,gold_mine,,6268.0,5874.0,5811.0,6726.0,8244.0,9624.0,9274.0,7996.0,7666.0,8379.0
+Congo,production,gold_mine,,82.0,92.0,65.0,39.0,19.0,216.0,218.0,18.0,6.0,3.0
+Costa Rica,production,gold_mine,,16.0,156.0,311.0,482.0,560.0,560.0,300.0,400.0,500.0,520.0
+Dominican Republic,production,gold_mine,,,,,,0.0,6080.0,12871.0,10661.0,10663.0,10979.0
+Ecuador,production,gold_mine,,265.0,344.0,393.0,324.0,241.0,254.0,343.0,244.0,80.0,70.0
+El Salvador,production,gold_mine,,72.0,109.0,89.0,163.0,190.0,271.0,95.0,67.0,113.0,85.0
+Ethiopia,production,gold_mine,,849.0,660.0,646.0,780.0,525.0,621.0,842.0,290.0,240.0,248.0
+Fiji,production,gold_mine,,3228.0,2772.0,2537.0,2686.0,2144.0,2138.0,2045.0,1519.0,872.0,907.0
+Finland,production,gold_mine,,633.0,544.0,548.0,615.0,645.0,690.0,820.0,852.0,905.0,881.0
+France,production,gold_mine,,1951.0,2041.0,1808.0,2694.0,1521.0,1556.0,1898.0,1569.0,1855.0,1263.0
+France (French Guiana),production,gold_mine,,73.0,72.0,31.0,42.0,35.0,76.0,88.0,150.0,90.0,62.0
+Gabon,production,gold_mine,,501.0,427.0,355.0,349.0,327.0,130.0,96.0,73.0,30.0,30.0
+German Federal Republic,production,gold_mine,,30.0,53.0,84.0,65.0,41.0,66.0,76.0,74.0,66.0,73.0
+Ghana,production,gold_mine,,22240.0,21695.0,22529.0,22669.0,19098.0,16326.0,16561.0,14957.0,12505.0,11094.0
+Guinea,production,gold_mine,,120.0,120.0,120.0,120.0,,,,,,
+Guyana,production,gold_mine,,138.0,44.0,125.0,235.0,381.0,562.0,487.0,370.0,479.0,329.0
+Haiti,production,gold_mine,,90.0,90.0,,,,,,,,
+Honduras,production,gold_mine,,104.0,84.0,63.0,25.0,31.0,78.0,71.0,77.0,71.0,62.0
+India,production,gold_mine,,3241.0,3668.0,3290.0,3278.0,3145.0,2825.0,3132.0,3014.0,2774.0,2637.0
+Indonesia,production,gold_mine,,237.0,329.0,339.0,352.0,265.0,329.0,355.0,256.0,254.0,170.0
+Japan,production,gold_mine,,7937.0,7928.0,7559.0,5838.0,4346.0,4464.0,4282.0,4635.0,4516.0,4033.0
+Kenya,production,gold_mine,,,,,,,,1.0,4.0,6.0,8.0
+Korea (Rep. of),production,gold_mine,,1597.0,894.0,531.0,506.0,740.0,415.0,583.0,665.0,852.0,749.0
+"Korea, Dem. P.R. of",production,gold_mine,,5000.0,5000.0,5000.0,5000.0,5000.0,5000.0,5000.0,5000.0,5000.0,5000.0
+Liberia,production,gold_mine,,34.0,79.0,41.0,0.0,93.0,140.0,140.0,2.0,0.0,34.0
+Madagascar,production,gold_mine,,17.0,13.0,6.0,2.0,2.0,5.0,2.0,2.0,4.0,1.0
+Malaysia,production,gold_mine,,161.0,228.0,220.0,145.0,166.0,114.0,141.0,153.0,210.0,197.0
+Mali,production,gold_mine,,,,,,,,28.0,29.0,30.0,31.0
+Mauritania,production,gold_mine,,,,,1740.0,1620.0,1305.0,690.0,870.0,250.0,
+Mexico,production,gold_mine,,6166.0,4694.0,4543.0,4123.0,4182.0,4501.0,5064.0,6616.0,6283.0,5911.0
+New Zealand,production,gold_mine,,319.0,266.0,382.0,344.0,146.0,85.0,102.0,223.0,219.0,218.0
+Nicaragua,production,gold_mine,,3402.0,3375.0,2650.0,2458.0,2570.0,2186.0,2359.0,2046.0,2300.0,1900.0
+Nigeria,production,gold_mine,,4.0,1.0,,,,,,,,
+Papua New Guinea,production,gold_mine,,740.0,728.0,11939.0,20545.0,21093.0,19827.0,20759.0,22839.0,23885.0,20172.0
+Peru,production,gold_mine,,3349.0,2605.0,3966.0,2949.0,3123.0,3135.0,2470.0,3247.0,3504.0,4155.0
+Philippines,production,gold_mine,,18747.0,19814.0,18872.0,17802.0,16682.0,15632.0,15589.0,17373.0,18243.0,16646.0
+Portugal,production,gold_mine,,373.0,426.0,520.0,456.0,357.0,356.0,312.0,275.0,284.0,320.0
+Rhodesia,production,gold_mine,,15600.0,15600.0,15800.0,16000.0,25000.0,10999.0,12086.0,12506.0,12414.0,12063.0
+Romania,production,gold_mine,,1900.0,1900.0,1900.0,1900.0,1900.0,1900.0,1900.0,2000.0,2000.0,2000.0
+Rwanda,production,gold_mine,,,,,,,,29.0,56.0,35.0,15.0
+Sierra Leone,production,gold_mine,,,,,,,,,,,0.0
+Solomon Islands,production,gold_mine,,9.0,14.0,20.0,30.0,27.0,25.0,24.0,14.0,18.0,22.0
+South Africa,production,gold_mine,,1000417.0,976297.0,909631.0,855179.0,758559.0,713447.0,713390.0,699887.0,704449.0,703473.0
+Soviet Union,production,gold_mine,,346700.0,359800.0,378900.0,398200.0,300000.0,250000.0,250000.0,250000.0,250000.0,255000.0
+Spain,production,gold_mine,,0.0,4748.0,5629.0,5864.0,4140.0,3361.0,4317.0,293.0,344.0,352.0
+Sudan,production,gold_mine,,,,,,,,,,,10.0
+Suriname,production,gold_mine,,36.0,20.0,17.0,2.0,10.0,5.0,1.0,12.0,9.0,6.0
+Sweden,production,gold_mine,,1375.0,1696.0,1790.0,2517.0,2126.0,1965.0,1934.0,2113.0,2373.0,2308.0
+Taiwan,production,gold_mine,,700.0,606.0,556.0,702.0,710.0,688.0,838.0,466.0,417.0,443.0
+Tanzania,production,gold_mine,,244.0,5.0,7.0,2.0,2.0,,,0.0,4.0,9.0
+USA,production,gold_mine,,54223.0,46504.0,45099.0,36571.0,35051.0,32729.0,32598.0,34225.0,31068.0,29997.0
+Uganda,production,gold_mine,,,,,,,,,,,62.0
+Venezuela,production,gold_mine,,694.0,578.0,633.0,592.0,515.0,570.0,513.0,541.0,416.0,466.0
+Yugoslavia,production,gold_mine,,3029.0,3850.0,3920.0,4619.0,4041.0,3856.0,4427.0,5108.0,4434.0,4323.0
+Zaire,production,gold_mine,,5617.0,5340.0,2539.0,4157.0,4064.0,3826.0,2746.0,2715.0,2286.0,1836.0
+Zambia,production,gold_mine,,170.0,301.0,355.0,265.0,265.0,265.0,341.0,207.0,259.0,247.0

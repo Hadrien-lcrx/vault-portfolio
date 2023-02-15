@@ -1,0 +1,33 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Austria,imports,aggregates_primary,,,,,,,,,,2022360.0,2243210.0
+Belgium-Luxembourg,imports,aggregates_primary,,,,,,,,,,18906084.0,23207578.0
+Brazil,imports,aggregates_primary,,,,,,,,,,,2351.0
+Bulgaria,imports,aggregates_primary,,,,,,,,,,2708.0,4902.0
+China,imports,aggregates_primary,,,,,,,,,,,13704.0
+Cyprus,imports,aggregates_primary,,,,,,,,,,5448.0,4711.0
+Czech Republic,imports,aggregates_primary,,,,,,,,,,339046.0,331033.0
+Denmark,imports,aggregates_primary,,,,,,,,,,3220186.0,2438489.0
+Estonia,imports,aggregates_primary,,,,,,,,,,466739.0,629542.0
+Finland,imports,aggregates_primary,,,,,,,,,,136759.0,29103.0
+France,imports,aggregates_primary,,,,,,,,,,7605785.0,8864501.0
+Germany,imports,aggregates_primary,,,,,,,,,,17523651.0,17459036.0
+Greece,imports,aggregates_primary,,,,,,,,,,69347.0,95576.0
+Hungary,imports,aggregates_primary,,,,,,,,,,182472.0,211039.0
+India,imports,aggregates_primary,,,,,,,,,,,3601.0
+"Ireland, Republic of",imports,aggregates_primary,,,,,,,,,,985117.0,1040242.0
+Italy,imports,aggregates_primary,,,,,,,,,,1498182.0,2058999.0
+Latvia,imports,aggregates_primary,,,,,,,,,,433746.0,622012.0
+Lithuania,imports,aggregates_primary,,,,,,,,,,794297.0,701909.0
+Netherlands,imports,aggregates_primary,,,,,,,,,,21079329.0,17610905.0
+Norway,imports,aggregates_primary,,,,,,,,,,133127.0,111459.0
+Poland,imports,aggregates_primary,,,,,,,,,,729713.0,710730.0
+Portugal,imports,aggregates_primary,,,,,,,,,,321460.0,774845.0
+Romania,imports,aggregates_primary,,,,,,,,,,11811.0,11199.0
+Russia,imports,aggregates_primary,,,,,,,,,,,402430.0
+Slovakia,imports,aggregates_primary,,,,,,,,,,99400.0,109285.0
+Slovenia,imports,aggregates_primary,,,,,,,,,,363704.0,560804.0
+Spain,imports,aggregates_primary,,,,,,,,,,1023270.0,1108764.0
+Sweden,imports,aggregates_primary,,,,,,,,,,364228.0,532456.0
+Switzerland,imports,aggregates_primary,,,,,,,,,,5664030.0,4851428.0
+Turkey,imports,aggregates_primary,,,,,,,,,,3867.0,4419.0
+United Kingdom,imports,aggregates_primary,,,,,,,,,,822088.0,680272.0

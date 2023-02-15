@@ -1,0 +1,99 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Australia,imports,mica,Ground                                            ,621.0,562.0,,,,,,,,
+Australia,imports,mica,Mica                                              ,,,474.0,335.0,204.0,395.0,599.0,655.0,641.0,
+Australia,imports,mica,Unmanufactured                                    ,338.0,243.0,,,,,,,,
+Australia,imports,mica,,,,,,,,,,,1546.0
+Austria,imports,mica,Mica                                              ,318.0,231.0,222.0,203.0,205.0,321.0,183.0,221.0,426.0,
+Austria,imports,mica,,,,,,,,,,,401.0
+Belgium-Luxembourg,imports,mica,Ground                                            ,1250.0,1202.0,1054.0,882.0,2866.0,962.0,779.0,939.0,1169.0,1374.0
+Belgium-Luxembourg,imports,mica,Unmanufactured                                    ,3755.0,410.0,750.0,890.0,1138.0,3600.0,6568.0,5023.0,,
+Brazil,imports,mica,Mica                                              ,153.0,170.0,76.0,109.0,0.0,1.0,25.0,,,
+Brunei,imports,mica,Mica                                              ,58.0,25.0,13.0,24.0,0.0,1.0,,,,
+Canada,imports,mica,Mica                                              ,2597.0,3133.0,2860.0,2791.0,2396.0,2311.0,2174.0,2204.0,1815.0,
+Canada,imports,mica,,,,,,,,,,,2512.0
+Colombia,imports,mica,Mica                                              ,49.0,80.0,980.0,105.0,150.0,113.0,53.0,82.0,112.0,
+Colombia,imports,mica,,,,,,,,,,,132.0
+Czechoslovakia,imports,mica,Mica                                              ,,,,,,,1100.0,1500.0,1500.0,1200.0
+Denmark,imports,mica,Mica                                              ,175.0,179.0,167.0,223.0,254.0,272.0,258.0,206.0,238.0,
+Denmark,imports,mica,,,,,,,,,,,197.0
+Egypt,imports,mica,Mica                                              ,83.0,180.0,205.0,27.0,80.0,258.0,28.0,14.0,95.0,22.0
+Finland,imports,mica,Mica                                              ,253.0,177.0,187.0,239.0,198.0,248.0,276.0,304.0,590.0,
+Finland,imports,mica,,,,,,,,,,,244.0
+France,imports,mica,Ground                                            ,1013.0,989.0,1124.0,1097.0,1025.0,633.0,631.0,876.0,919.0,1416.0
+France,imports,mica,Unmanufactured                                    ,5943.0,3930.0,4340.0,1156.0,3022.0,3676.0,4214.0,3989.0,3306.0,4440.0
+German Democratic Rep,imports,mica,Mica                                              ,1424.0,1224.0,1616.0,1350.0,1042.0,1124.0,1212.0,820.0,628.0,920.0
+German Federal Republic,imports,mica,Ground                                            ,3233.0,4030.0,4661.0,5381.0,6222.0,7034.0,7343.0,11911.0,13919.0,15000.0
+German Federal Republic,imports,mica,Unmanufactured                                    ,7098.0,5044.0,6684.0,5133.0,4620.0,4912.0,4124.0,2860.0,1698.0,1541.0
+Germany,imports,mica,Ground                                            ,,,,,,,,,,
+Germany,imports,mica,Unmanufactured                                    ,,,,,,,,,,
+Greece,imports,mica,Mica                                              ,271.0,192.0,211.0,140.0,263.0,474.0,514.0,597.0,522.0,
+Greece,imports,mica,,,,,,,,,,,590.0
+Hong Kong,imports,mica,Mica                                              ,31.0,33.0,42.0,19.0,48.0,32.0,48.0,57.0,68.0,
+Hong Kong,imports,mica,,,,,,,,,,,317.0
+Indonesia,imports,mica,Mica                                              ,260.0,389.0,587.0,547.0,704.0,909.0,599.0,237.0,440.0,
+Indonesia,imports,mica,,,,,,,,,,,493.0
+Iran,imports,mica,Mica                                              ,113.0,253.0,0.0,51.0,15.0,8.0,11.0,150.0,755.0,
+"Ireland, Republic of",imports,mica,Mica                                              ,358.0,313.0,375.0,168.0,241.0,135.0,222.0,127.0,207.0,
+"Ireland, Republic of",imports,mica,,,,,,,,,,,686.0
+Italy,imports,mica,Ground                                            ,654.0,786.0,698.0,628.0,985.0,1111.0,986.0,863.0,1577.0,1383.0
+Italy,imports,mica,Unmanufactured                                    ,437.0,495.0,283.0,269.0,313.0,400.0,109.0,265.0,204.0,95.0
+Jamaica,imports,mica,Mica                                              ,37.0,73.0,77.0,134.0,59.0,119.0,103.0,162.0,108.0,
+Jamaica,imports,mica,,,,,,,,,,,162.0
+Japan,imports,mica,Block                                             ,2620.0,1344.0,886.0,783.0,2963.0,2163.0,1965.0,3648.0,90.0,248.0
+Japan,imports,mica,Other unmanufactured                              ,4830.0,5905.0,9017.0,3226.0,3873.0,3711.0,6118.0,7251.0,9819.0,13107.0
+Japan,imports,mica,Splittings                                        ,708.0,516.0,598.0,1301.0,2611.0,1903.0,1457.0,2824.0,4944.0,6333.0
+Japan,imports,mica,Waste                                             ,3502.0,4833.0,4008.0,4395.0,3554.0,3088.0,5603.0,3504.0,6269.0,4565.0
+Kenya,imports,mica,Mica                                              ,40.0,119.0,,,,,,,,
+Korea (Rep. of),imports,mica,Mica                                              ,134.0,121.0,185.0,434.0,569.0,1023.0,987.0,1084.0,1926.0,
+Korea (Rep. of),imports,mica,,,,,,,,,,,2122.0
+Malaysia,imports,mica,Mica                                              ,111.0,73.0,83.0,114.0,67.0,118.0,87.0,352.0,3114.0,
+Malaysia,imports,mica,,,,,,,,,,,329.0
+Mexico,imports,mica,Mica                                              ,99.0,153.0,129.0,47.0,161.0,132.0,154.0,57.0,154.0,
+Mexico,imports,mica,,,,,,,,,,,207.0
+Netherlands,imports,mica,Ground                                            ,1930.0,3865.0,3782.0,3704.0,1589.0,1724.0,893.0,1181.0,1357.0,1888.0
+Netherlands,imports,mica,Unmanufactured                                    ,69.0,49.0,203.0,348.0,330.0,876.0,987.0,1594.0,785.0,726.0
+Norway,imports,mica,Unmanufactured                                    ,657.0,283.0,214.0,190.0,178.0,165.0,179.0,347.0,130.0,123.0
+Norway,imports,mica,Waste                                             ,1512.0,1588.0,1932.0,1763.0,2113.0,3878.0,1115.0,1535.0,3097.0,2398.0
+Peru,imports,mica,Mica                                              ,42.0,160.0,,,,,,,,
+Philippines,imports,mica,Mica                                              ,109.0,77.0,173.0,84.0,67.0,26.0,109.0,134.0,139.0,
+Philippines,imports,mica,,,,,,,,,,,204.0
+Poland,imports,mica,Mica                                              ,1844.0,1442.0,1066.0,779.0,1750.0,1241.0,1357.0,729.0,1643.0,
+Poland,imports,mica,,,,,,,,,,,893.0
+Portugal,imports,mica,Mica                                              ,347.0,466.0,375.0,320.0,283.0,382.0,168.0,160.0,156.0,
+Portugal,imports,mica,,,,,,,,,,,218.0
+Saudi Arabia,imports,mica,Mica                                              ,1038.0,908.0,1584.0,1032.0,670.0,608.0,0.0,654.0,0.0,
+Saudi Arabia,imports,mica,,,,,,,,,,,302.0
+Singapore,imports,mica,Mica                                              ,1415.0,1250.0,1392.0,1553.0,2027.0,1220.0,496.0,382.0,1010.0,
+Singapore,imports,mica,,,,,,,,,,,951.0
+South Africa,imports,mica,Mica                                              ,1187.0,948.0,545.0,486.0,1073.0,586.0,500.0,493.0,687.0,
+South Africa,imports,mica,,,,,,,,,,,1283.0
+Soviet Union,imports,mica,Mica                                              ,550.0,550.0,2300.0,1400.0,1300.0,1600.0,1500.0,2300.0,300.0,2800.0
+Spain,imports,mica,Mica                                              ,1421.0,1343.0,1136.0,1300.0,1244.0,3963.0,2567.0,1506.0,1550.0,
+Spain,imports,mica,,,,,,,,,,,1555.0
+Sweden,imports,mica,Mica                                              ,408.0,337.0,422.0,438.0,422.0,447.0,399.0,434.0,398.0,
+Sweden,imports,mica,,,,,,,,,,,510.0
+Switzerland,imports,mica,Mica                                              ,546.0,655.0,682.0,480.0,753.0,611.0,585.0,726.0,856.0,
+Switzerland,imports,mica,,,,,,,,,,,925.0
+Taiwan,imports,mica,Ground                                            ,245.0,258.0,224.0,174.0,243.0,160.0,391.0,572.0,680.0,843.0
+Taiwan,imports,mica,Unmanufactured                                    ,92.0,34.0,33.0,50.0,51.0,33.0,54.0,251.0,208.0,149.0
+Thailand,imports,mica,Mica                                              ,119.0,82.0,91.0,172.0,319.0,153.0,177.0,274.0,319.0,
+Thailand,imports,mica,,,,,,,,,,,542.0
+Trinidad & Tobago,imports,mica,Mica                                              ,181.0,176.0,184.0,197.0,176.0,117.0,129.0,,,
+Tunisia,imports,mica,Mica                                              ,94.0,107.0,166.0,167.0,106.0,12.0,13.0,,,
+Turkey,imports,mica,Mica                                              ,52.0,22.0,23.0,39.0,25.0,20.0,326.0,9.0,7.0,
+Turkey,imports,mica,,,,,,,,,,,6.0
+USA,imports,mica,Block                                             ,32.0,14.0,58.0,8.0,76.0,296.0,105.0,42.0,183.0,158.0
+USA,imports,mica,Ground                                            ,5046.0,6064.0,4910.0,4673.0,5812.0,5487.0,5451.0,5673.0,7780.0,8904.0
+USA,imports,mica,Other unmanufactured                              ,3439.0,3946.0,2392.0,1889.0,4730.0,3426.0,2140.0,4195.0,4431.0,4266.0
+USA,imports,mica,Splittings                                        ,1916.0,1097.0,809.0,164.0,559.0,483.0,899.0,786.0,1317.0,1380.0
+USA,imports,mica,Waste                                             ,33.0,186.0,450.0,518.0,,0.0,10.0,,,
+United Arab Emirates,imports,mica,Mica                                              ,,431.0,196.0,532.0,269.0,309.0,43.0,,,
+United Kingdom,imports,mica,Block                                             ,89.0,19.0,72.0,,,,,,,
+United Kingdom,imports,mica,Ground                                            ,6824.0,2180.0,2117.0,3323.0,6334.0,3185.0,1925.0,5524.0,3471.0,4245.0
+United Kingdom,imports,mica,Splittings                                        ,475.0,200.0,262.0,,,,,,,
+United Kingdom,imports,mica,Unmanufactured                                    ,,,,144.0,169.0,82.0,570.0,515.0,57.0,42.0
+United Kingdom,imports,mica,Waste                                             ,13835.0,11495.0,11622.0,12941.0,12391.0,12587.0,17519.0,13904.0,10186.0,16357.0
+Uruguay,imports,mica,Mica                                              ,184.0,71.0,,,,,,,,
+Venezuela,imports,mica,Mica                                              ,1338.0,1316.0,1969.0,656.0,1061.0,1033.0,704.0,429.0,492.0,
+Venezuela,imports,mica,,,,,,,,,,,420.0
+Yugoslavia,imports,mica,Mica                                              ,686.0,539.0,243.0,977.0,133.0,253.0,297.0,336.0,101.0,72.0

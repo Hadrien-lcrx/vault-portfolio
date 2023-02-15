@@ -1,0 +1,58 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Austria,production,aggregates_primary,Crushed rock                                      ,23818614.0,22404109.0,22438122.0,26333481.0,27687041.0,25093602.0,26536938.0,25248136.0,33867686.0,29784794.0
+Austria,production,aggregates_primary,Sand and gravel                                   ,25712457.0,23102333.0,28758261.0,27287331.0,29395685.0,29065350.0,27281864.0,29230545.0,32440624.0,30120263.0
+Belgium,production,aggregates_primary,Crushed rock                                      ,39577921.0,39270358.0,40137452.0,36772879.0,36980382.0,38826735.0,39937651.0,43000000.0,42000000.0,43000000.0
+Belgium,production,aggregates_primary,Sand and gravel                                   ,11461961.0,11064638.0,10374974.0,9245757.0,8787817.0,8330239.0,8636966.0,8600000.0,15000000.0,19000000.0
+Bulgaria,production,aggregates_primary,Crushed rock                                      ,,,3911441.0,3986616.0,5447430.0,8121646.0,8889017.0,12199339.0,21094047.0,15667880.0
+Bulgaria,production,aggregates_primary,Sand and gravel                                   ,3500000.0,3500000.0,5897773.0,7072776.0,9719350.0,12835622.0,15289051.0,17607212.0,19697937.0,12882651.0
+Croatia,production,aggregates_primary,Sand and gravel                                   ,,,,,,,,,7275077.0,6583880.0
+Cyprus,production,aggregates_primary,Crushed rock                                      ,8800000.0,9300000.0,10500000.0,10700000.0,11600000.0,12064112.0,12198513.0,13129470.0,14174480.0,11467987.0
+Czech Republic,production,aggregates_primary,Crushed rock                                      ,18304260.0,20301407.0,23643644.0,27934515.0,34900000.0,38048000.0,41561000.0,43214000.0,44277000.0,41302000.0
+Czech Republic,production,aggregates_primary,Sand and gravel                                   ,12218945.0,11916192.0,12248595.0,15267650.0,24766000.0,25515000.0,27198000.0,28233000.0,27216000.0,23974000.0
+Denmark,production,aggregates_primary,Crushed rock                                      ,400000.0,330000.0,390000.0,380000.0,372000.0,378000.0,310000.0,341667.0,320000.0,260000.0
+Denmark,production,aggregates_primary,Sand and gravel                                   ,59000000.0,55200000.0,53300000.0,50800000.0,57300000.0,69500000.0,63218000.0,60443000.0,53318000.0,36240000.0
+Estonia,production,aggregates_primary,Crushed rock                                      ,2300000.0,1800000.0,4571100.0,4082700.0,5426600.0,6828600.0,8298400.0,8855800.0,7945900.0,6034500.0
+Estonia,production,aggregates_primary,Sand and gravel                                   ,2100000.0,2300000.0,1650400.0,1973740.0,2341620.0,3459760.0,4209080.0,6531740.0,3635700.0,3911980.0
+Finland,production,aggregates_primary,Crushed rock                                      ,36000000.0,38000000.0,39000000.0,40000000.0,43000000.0,45000000.0,49000000.0,54000000.0,60000000.0,47000000.0
+Finland,production,aggregates_primary,Sand and gravel                                   ,11186871.0,53000000.0,51000000.0,55000000.0,57000000.0,53000000.0,56000000.0,59000000.0,53000000.0,37000000.0
+France,production,aggregates_primary,Crushed rock                                      ,218670000.0,221600000.0,215290000.0,217400000.0,223170000.0,222780000.0,233090000.0,242950000.0,236770000.0,209440000.0
+France,production,aggregates_primary,Sand and gravel                                   ,180570000.0,175150000.0,167970000.0,165470000.0,168080000.0,168640000.0,174360000.0,180450000.0,171610000.0,146290000.0
+Germany,production,aggregates_primary,Crushed rock                                      ,144805000.0,136788000.0,130693000.0,124047000.0,125600000.0,122244000.0,138700000.0,215000000.0,215000000.0,217000000.0
+Germany,production,aggregates_primary,Sand and gravel                                   ,343200000.0,312700000.0,292100000.0,285500000.0,267300000.0,252000000.0,266000000.0,263300000.0,260000000.0,245000000.0
+Greece,production,aggregates_primary,,,,,,90000000.0,90000000.0,90000000.0,90000000.0,85000000.0,65000000.0
+Hungary,production,aggregates_primary,Crushed rock                                      ,8136900.0,8621080.0,9792782.0,10090547.0,13037471.0,15078440.0,17944036.0,13046962.0,17030760.0,15808088.0
+Hungary,production,aggregates_primary,Sand and gravel                                   ,29793000.0,32252000.0,35407000.0,40530145.0,46354829.0,69027609.0,46458296.0,34815891.0,36647400.0,35591131.0
+Iceland,production,aggregates_primary,Sand and gravel                                   ,2297064.0,1903920.0,1378104.0,1848776.0,2259888.0,2014651.0,2005542.0,1832624.0,1473600.0,599816.0
+"Ireland, Republic of",production,aggregates_primary,Crushed rock                                      ,68000000.0,77000000.0,78000000.0,60000000.0,60000000.0,94000000.0,96000000.0,90000000.0,60000000.0,50000000.0
+"Ireland, Republic of",production,aggregates_primary,Sand and gravel                                   ,29000000.0,33000000.0,34000000.0,40000000.0,40000000.0,40000000.0,64000000.0,40000000.0,25000000.0,15000000.0
+Italy,production,aggregates_primary,Crushed rock                                      ,38025365.0,39894517.0,46512344.0,48534613.0,54663207.0,69164106.0,91397876.0,97463072.0,91373378.0,84717579.0
+Italy,production,aggregates_primary,Sand and gravel                                   ,169145709.0,188026170.0,200776836.0,177031670.0,200836237.0,183908475.0,185382004.0,170071749.0,174779712.0,164218753.0
+Latvia,production,aggregates_primary,Crushed rock                                      ,,,,,414305.0,586607.0,582081.0,937030.0,1413395.0,818390.0
+Latvia,production,aggregates_primary,Sand and gravel                                   ,,2283102.0,2534837.0,3577604.0,4946204.0,6059487.0,5957744.0,9998863.0,8905937.0,6520363.0
+Lithuania,production,aggregates_primary,Crushed rock                                      ,,1576587.0,2145727.0,2896045.0,3683266.0,4757023.0,5259535.0,6424791.0,6913160.0,2849122.0
+Lithuania,production,aggregates_primary,Sand and gravel                                   ,4203206.0,4018341.0,5770428.0,4793670.0,5835729.0,7034402.0,7633311.0,9181552.0,9469411.0,5029476.0
+Montenegro,production,aggregates_primary,Crushed rock                                      ,,,,,,,,355416.0,462331.0,186221.0
+Montenegro,production,aggregates_primary,Sand and gravel                                   ,,,,,,,,132662.0,234210.0,183235.0
+Netherlands,production,aggregates_primary,Sand and gravel                                   ,108299000.0,113917000.0,81490000.0,74200000.0,66200000.0,63579000.0,72146650.0,69436800.0,70409000.0,63350000.0
+Norway,production,aggregates_primary,Crushed rock                                      ,34000000.0,36000000.0,36000000.0,36000000.0,37000000.0,38000000.0,45947000.0,51533000.0,52338000.0,51378000.0
+Norway,production,aggregates_primary,Sand and gravel                                   ,19000000.0,15000000.0,14000000.0,15000000.0,15000000.0,15000000.0,13418000.0,14855000.0,14817000.0,13047000.0
+Poland,production,aggregates_primary,Crushed rock                                      ,27661000.0,25593000.0,25875000.0,29403264.0,29271189.0,33098360.0,38835618.0,46854829.0,49475400.0,58245900.0
+Poland,production,aggregates_primary,Sand and gravel                                   ,73107000.0,60039000.0,60186000.0,76515000.0,81426000.0,99648000.0,116561000.0,139388000.0,149312000.0,141114000.0
+Portugal,production,aggregates_primary,Crushed rock                                      ,63610282.0,61453129.0,84107486.0,70994473.0,73264403.0,73343159.0,65428239.0,61391192.0,59506753.0,56509630.0
+Portugal,production,aggregates_primary,Sand and gravel                                   ,6876470.0,9852769.0,8075609.0,7417636.0,9405437.0,8284238.0,9764029.0,10664828.0,11689816.0,10191339.0
+Romania,production,aggregates_primary,Crushed rock                                      ,,,,,2585894.0,2328165.0,3373384.0,5905842.0,4635010.0,4835584.0
+Romania,production,aggregates_primary,Sand and gravel                                   ,813941.0,1075191.0,1568994.0,1013386.0,14567501.0,17030886.0,21817372.0,26276857.0,31377110.0,23199337.0
+Slovakia,production,aggregates_primary,Crushed rock                                      ,7700000.0,8067600.0,8847900.0,9212400.0,9717300.0,13834800.0,14088600.0,13338000.0,16345800.0,15233400.0
+Slovakia,production,aggregates_primary,Sand and gravel                                   ,2000000.0,2033600.0,2238400.0,3453058.0,4892089.0,6807116.0,7522034.0,6470725.0,7517655.0,6919826.0
+Slovenia,production,aggregates_primary,Crushed rock                                      ,13916820.0,12200746.0,13049675.0,15040340.0,13719888.0,12223182.0,14213319.0,14279253.0,14982560.0,13609728.0
+Slovenia,production,aggregates_primary,Sand and gravel                                   ,1254600.0,1166100.0,1127700.0,1101200.0,1237300.0,1243200.0,1787300.0,2154800.0,4506076.0,3001291.0
+Spain,production,aggregates_primary,Crushed rock                                      ,192655157.0,200000000.0,237379504.0,254100000.0,273555490.0,340000000.0,355000000.0,280000000.0,275219997.0,219872609.0
+Spain,production,aggregates_primary,Sand and gravel                                   ,81688475.0,85000000.0,97857003.0,118746034.0,113947729.0,125299480.0,130000000.0,143000000.0,119989756.0,97100992.0
+Sweden,production,aggregates_primary,Crushed rock                                      ,44753483.0,45992625.0,46771631.0,49326880.0,54737031.0,62313089.0,70517845.0,64047058.0,66757671.0,57500000.0
+Sweden,production,aggregates_primary,Sand and gravel                                   ,26469878.0,25549623.0,24537500.0,21650322.0,22647111.0,21755752.0,21488963.0,20036785.0,18804343.0,14400000.0
+Switzerland,production,aggregates_primary,Crushed rock                                      ,,,,,3000000.0,5300000.0,5700000.0,5700000.0,5000000.0,5000000.0
+Switzerland,production,aggregates_primary,Sand and gravel                                   ,33000000.0,,,,26000000.0,46500000.0,50000000.0,50000000.0,37000000.0,37000000.0
+Turkey,production,aggregates_primary,Crushed rock                                      ,,,,,,,,,,
+Turkey,production,aggregates_primary,Sand and gravel                                   ,,,,,,,,,,
+United Kingdom,production,aggregates_primary,Crushed rock                                      ,146169000.0,153023000.0,144337000.0,140417000.0,147067000.0,141636000.0,145578000.0,148534000.0,127996000.0,104626000.0
+United Kingdom,production,aggregates_primary,Sand and gravel                                   ,101622000.0,101397000.0,94424000.0,91211000.0,97333000.0,94666000.0,92107000.0,93236000.0,85472000.0,66226000.0

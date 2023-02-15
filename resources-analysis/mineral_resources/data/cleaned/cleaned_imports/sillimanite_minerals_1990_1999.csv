@@ -1,0 +1,51 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,imports,sillimanite_minerals,Mullite                                           ,,,,,9114.0,117.0,86.0,,,
+Australia,imports,sillimanite_minerals,,4168.0,5822.0,13890.0,26226.0,4484.0,8420.0,6696.0,6778.0,4406.0,2553.0
+Austria,imports,sillimanite_minerals,,2534.0,2230.0,2775.0,2409.0,3346.0,3486.0,3256.0,2414.0,11483.0,2447.0
+Belgium-Luxembourg,imports,sillimanite_minerals,,9712.0,7057.0,10613.0,8003.0,7439.0,7915.0,8830.0,6430.0,9199.0,10059.0
+Brazil,imports,sillimanite_minerals,,,,,,,,,,,479.0
+Canada,imports,sillimanite_minerals,,6245.0,6358.0,8252.0,9014.0,8809.0,12180.0,15103.0,20000.0,22181.0,19057.0
+China,imports,sillimanite_minerals,Mullite                                           ,,,,,,,,,,3724.0
+China,imports,sillimanite_minerals,Sillimanite minerals,,,,,,,,,,391.0
+China,imports,sillimanite_minerals,,,,,,336.0,492.0,861.0,1643.0,1096.0,
+Czech Republic,imports,sillimanite_minerals,,,,,,,,,2767.0,3281.0,2557.0
+Denmark,imports,sillimanite_minerals,,2143.0,1677.0,1595.0,2351.0,1234.0,2497.0,1235.0,1658.0,3306.0,1250.0
+Finland,imports,sillimanite_minerals,,1623.0,1091.0,1420.0,2081.0,1134.0,826.0,165.0,108.0,62.0,62.0
+France,imports,sillimanite_minerals,,8098.0,7333.0,7347.0,2902.0,7161.0,7950.0,5141.0,3286.0,3091.0,3339.0
+German Federal Republic,imports,sillimanite_minerals,,126436.0,,,,,,,,,
+Germany,imports,sillimanite_minerals,,,98358.0,101634.0,72224.0,89765.0,80570.0,47939.0,43196.0,58525.0,52924.0
+Hong Kong,imports,sillimanite_minerals,,,,157360.0,97381.0,28151.0,65704.0,20918.0,27304.0,15770.0,44695.0
+India,imports,sillimanite_minerals,Mullite                                           ,,,,,,,,,,4.0
+India,imports,sillimanite_minerals,Sillimanite minerals,,,,,,,,,,3337.0
+India,imports,sillimanite_minerals,,,,,,5.0,1100.0,1585.0,1364.0,1424.0,
+Indonesia,imports,sillimanite_minerals,,,,,,,,1248.0,240.0,1742.0,379.0
+"Ireland, Republic of",imports,sillimanite_minerals,,,,0.0,3426.0,2504.0,7414.0,6622.0,1800.0,3809.0,3820.0
+Italy,imports,sillimanite_minerals,,26792.0,22554.0,21897.0,21728.0,20631.0,,,50912.0,70741.0,77567.0
+Japan,imports,sillimanite_minerals,Mullite                                           ,9489.0,12336.0,8595.0,6304.0,6148.0,2746.0,4049.0,6464.0,4826.0,5041.0
+Japan,imports,sillimanite_minerals,,34825.0,27351.0,32146.0,26606.0,27067.0,21765.0,25316.0,27722.0,24879.0,12590.0
+Korea (Rep. of),imports,sillimanite_minerals,Mullite                                           ,4919.0,5944.0,9354.0,6720.0,4895.0,10664.0,7098.0,5462.0,2670.0,3489.0
+Korea (Rep. of),imports,sillimanite_minerals,,12994.0,11768.0,6356.0,9120.0,10582.0,13611.0,11646.0,12160.0,10784.0,10470.0
+Mexico,imports,sillimanite_minerals,Mullite                                           ,2231.0,2201.0,2615.0,2569.0,2521.0,2433.0,2666.0,3207.0,3785.0,4714.0
+Mexico,imports,sillimanite_minerals,,1747.0,2383.0,2521.0,2825.0,2396.0,2356.0,2962.0,2810.0,2300.0,2003.0
+Netherlands,imports,sillimanite_minerals,,6278.0,6988.0,6650.0,6632.0,17542.0,7625.0,,7622.0,28365.0,17799.0
+Norway,imports,sillimanite_minerals,,450.0,2452.0,2523.0,2849.0,2660.0,3359.0,3598.0,3017.0,2314.0,2542.0
+Poland,imports,sillimanite_minerals,Mullite                                           ,,,,,,,,,,536.0
+Poland,imports,sillimanite_minerals,,,,9424.0,10485.0,13297.0,19827.0,16461.0,15643.0,14519.0,7760.0
+Portugal,imports,sillimanite_minerals,,,,,,,,631.0,616.0,716.0,491.0
+Russia,imports,sillimanite_minerals,,,,,,,,,,,189.0
+Saudi Arabia,imports,sillimanite_minerals,,,,,,,,,,470.0,1284.0
+Slovakia,imports,sillimanite_minerals,,,,0.0,500.0,400.0,900.0,,1785.0,,2910.0
+Spain,imports,sillimanite_minerals,,17857.0,12287.0,12916.0,19170.0,17115.0,15224.0,,14865.0,17956.0,16687.0
+Sweden,imports,sillimanite_minerals,,965.0,962.0,1978.0,2806.0,2713.0,,,7557.0,7363.0,4334.0
+Switzerland,imports,sillimanite_minerals,,754.0,379.0,402.0,475.0,363.0,359.0,452.0,352.0,440.0,366.0
+Taiwan,imports,sillimanite_minerals,Mullite                                           ,15788.0,16101.0,1418.0,2232.0,1071.0,1021.0,684.0,547.0,538.0,879.0
+Taiwan,imports,sillimanite_minerals,,4229.0,4594.0,4953.0,5077.0,6580.0,5613.0,7539.0,8400.0,7810.0,5782.0
+Thailand,imports,sillimanite_minerals,Mullite                                           ,,,,,54.0,12784.0,,7177.0,832.0,1370.0
+Thailand,imports,sillimanite_minerals,,,,,,,,,,496.0,299.0
+Turkey,imports,sillimanite_minerals,,,,,5426.0,7101.0,8161.0,2063.0,3523.0,,2622.0
+USA,imports,sillimanite_minerals,,18104.0,5601.0,7550.0,12992.0,7872.0,8298.0,18682.0,14006.0,15596.0,11877.0
+United Kingdom,imports,sillimanite_minerals,Mullite                                           ,,,18206.0,15943.0,22133.0,28921.0,17765.0,12922.0,8417.0,7432.0
+United Kingdom,imports,sillimanite_minerals,Sillimanite minerals,,,35391.0,38050.0,39487.0,56289.0,52229.0,53877.0,47985.0,37870.0
+United Kingdom,imports,sillimanite_minerals,,58219.0,51390.0,,,,,,,,
+Yugoslavia,imports,sillimanite_minerals,,1485.0,463.0,,,,,,,,
+Zimbabwe,imports,sillimanite_minerals,,,,,,,,,,,3807.0

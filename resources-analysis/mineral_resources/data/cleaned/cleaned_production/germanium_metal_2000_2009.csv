@@ -1,0 +1,8 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Belgium,production,germanium_metal,,,,,,,,,,,
+Canada,production,germanium_metal,,,,,,,,,,,
+China,production,germanium_metal,,14.0,21.0,20.0,30.0,30.0,35.0,100.0,100.0,100.0,100.0
+Finland,production,germanium_metal,,,,,,,,,,0.0,0.0
+Japan,production,germanium_metal,,2.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0
+Russia,production,germanium_metal,,,,,,,,,,,
+USA,production,germanium_metal,,23.0,5.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0

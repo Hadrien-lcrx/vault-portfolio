@@ -1,0 +1,29 @@
+Country,Activity,Commodity,Sub-commodity,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+Australia,production,platinum_group_metals_mine,Palladium                                         ,781.0,445.0,706.0,786.0,766.0,533.0,762.0,765.0,541.0,483.0
+Botswana,production,platinum_group_metals_mine,Palladium                                         ,2830.0,2115.0,2582.0,1337.0,560.0,156.0,,,,
+Botswana,production,platinum_group_metals_mine,Platinum                                          ,498.0,373.0,435.0,218.0,124.0,31.0,,,,
+Canada,production,platinum_group_metals_mine,Other platinum metals                             ,400.0,900.0,900.0,1100.0,1400.0,1400.0,1300.0,1100.0,1300.0,1200.0
+Canada,production,platinum_group_metals_mine,Palladium                                         ,6100.0,14400.0,14400.0,19800.0,21000.0,20800.0,19700.0,17100.0,19200.0,17900.0
+Canada,production,platinum_group_metals_mine,Platinum                                          ,3500.0,8300.0,8200.0,9700.0,12000.0,11900.0,11300.0,9800.0,11000.0,10300.0
+China,production,platinum_group_metals_mine,Palladium                                         ,700.0,850.0,750.0,850.0,1000.0,1200.0,1400.0,1400.0,1300.0,1300.0
+China,production,platinum_group_metals_mine,Platinum                                          ,1400.0,1600.0,1400.0,1600.0,1600.0,2300.0,2900.0,2500.0,2500.0,2500.0
+Colombia,production,platinum_group_metals_mine,,997.0,1231.0,1460.0,1520.0,1142.0,861.0,917.0,567.0,270.0,176.0
+Ethiopia,production,platinum_group_metals_mine,Platinum                                          ,1.0,1.0,,,0.0,5.0,5.0,4.0,4.0,2.0
+Finland,production,platinum_group_metals_mine,Palladium                                         ,0.0,0.0,379.0,766.0,808.0,784.0,883.0,1021.0,1157.0,699.0
+Finland,production,platinum_group_metals_mine,Platinum                                          ,0.0,0.0,429.0,946.0,1060.0,992.0,1154.0,1418.0,1576.0,953.0
+Poland,production,platinum_group_metals_mine,Palladium                                         ,20.0,13.0,23.0,30.0,25.0,20.0,30.0,7.0,7.0,7.0
+Poland,production,platinum_group_metals_mine,Platinum                                          ,30.0,23.0,39.0,51.0,40.0,40.0,50.0,11.0,8.0,8.0
+Russia,production,platinum_group_metals_mine,Other platinum metals                             ,2200.0,2100.0,2800.0,2600.0,2800.0,2500.0,2600.0,2400.0,2100.0,2100.0
+Russia,production,platinum_group_metals_mine,Palladium                                         ,115700.0,107500.0,89900.0,84000.0,81300.0,75500.0,78300.0,86300.0,85300.0,86600.0
+Russia,production,platinum_group_metals_mine,Platinum                                          ,26500.0,26500.0,24900.0,25000.0,22000.0,20800.0,20500.0,22100.0,23800.0,22100.0
+Serbia,production,platinum_group_metals_mine,Palladium                                         ,22.0,4.0,22.0,25.0,23.0,22.0,31.0,38.0,55.0,100.0
+Serbia,production,platinum_group_metals_mine,Platinum                                          ,0.0,6.0,3.0,2.0,3.0,2.0,4.0,2.0,5.0,10.0
+South Africa,production,platinum_group_metals_mine,Other platinum metals                             ,57292.0,58111.0,51010.0,51156.0,36043.0,53699.0,54139.0,48895.0,52964.0,54395.0
+South Africa,production,platinum_group_metals_mine,Palladium                                         ,82222.0,82731.0,74738.0,76008.0,58410.0,82691.0,76273.0,80134.0,80629.0,80684.0
+South Africa,production,platinum_group_metals_mine,Platinum                                          ,147790.0,148008.0,128590.0,137024.0,93991.0,139125.0,133241.0,131247.0,137053.0,132989.0
+USA,production,platinum_group_metals_mine,Other platinum metals                             ,,,,,124.0,96.0,103.0,100.0,100.0,100.0
+USA,production,platinum_group_metals_mine,Palladium                                         ,11600.0,12400.0,12300.0,12600.0,12488.0,12532.0,13070.0,13600.0,14300.0,14300.0
+USA,production,platinum_group_metals_mine,Platinum                                          ,3450.0,3700.0,3670.0,3720.0,3660.0,3670.0,3890.0,3980.0,4160.0,4150.0
+Zimbabwe,production,platinum_group_metals_mine,Other platinum metals                             ,1536.0,2162.0,2090.0,2677.0,2667.0,2612.0,3093.0,3005.0,3076.0,2800.0
+Zimbabwe,production,platinum_group_metals_mine,Palladium                                         ,6916.0,8422.0,10524.0,10153.0,10138.0,10055.0,12222.0,11822.0,12094.0,11639.0
+Zimbabwe,production,platinum_group_metals_mine,Platinum                                          ,8639.0,10827.0,10524.0,13066.0,12483.0,12564.0,15110.0,14257.0,14703.0,13857.0

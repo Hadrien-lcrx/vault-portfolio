@@ -1,0 +1,18 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,production,sillimanite_minerals,Kyanite                                           ,750.0,800.0,800.0,800.0,800.0,800.0,800.0,,,
+Australia,production,sillimanite_minerals,Sillimanite                                       ,100.0,100.0,100.0,100.0,100.0,0.0,20.0,0.0,26.0,274.0
+Brazil,production,sillimanite_minerals,Kyanite                                           ,642.0,265.0,440.0,640.0,664.0,758.0,705.0,,47.0,171.0
+China,production,sillimanite_minerals,Sillimanite                                       ,,,,,,,,,113000.0,
+China,production,sillimanite_minerals,,2500.0,2500.0,9721.0,7564.0,7036.0,,,,,
+Czechoslovakia,production,sillimanite_minerals,,75000.0,75000.0,70000.0,,,,,,,
+France,production,sillimanite_minerals,Andalusite                                        ,50000.0,50000.0,50000.0,45000.0,57000.0,71000.0,81000.0,67200.0,79000.0,57000.0
+India,production,sillimanite_minerals,Kyanite                                           ,38851.0,30020.0,9716.0,10736.0,4564.0,8944.0,7055.0,6068.0,6134.0,6191.0
+India,production,sillimanite_minerals,Sillimanite                                       ,18240.0,11757.0,20394.0,12287.0,9982.0,9086.0,8528.0,12458.0,12123.0,14933.0
+Romania,production,sillimanite_minerals,,70000.0,70000.0,,,,,,,,
+South Africa,production,sillimanite_minerals,Andalusite                                        ,283677.0,209824.0,230333.0,187708.0,206291.0,206378.0,233728.0,236990.0,232646.0,136949.0
+South Africa,production,sillimanite_minerals,Sillimanite                                       ,256.0,422.0,632.0,569.0,525.0,317.0,497.0,,,
+Soviet Union,production,sillimanite_minerals,Kyanite                                           ,100000.0,100000.0,,,,,,,,
+Spain,production,sillimanite_minerals,Andalusite                                        ,3600.0,3600.0,2000.0,1000.0,1000.0,1200.0,250.0,220.0,250.0,240.0
+Sweden,production,sillimanite_minerals,Kyanite                                           ,,6000.0,,,,,,,,
+USA,production,sillimanite_minerals,Kyanite                                           ,100000.0,85000.0,85000.0,85000.0,90000.0,90000.0,90000.0,90000.0,90000.0,90000.0
+Zimbabwe,production,sillimanite_minerals,Kyanite                                           ,160.0,2463.0,1990.0,875.0,567.0,875.0,140.0,1113.0,3780.0,5038.0

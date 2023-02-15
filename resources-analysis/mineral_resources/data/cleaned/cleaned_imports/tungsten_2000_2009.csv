@@ -1,0 +1,78 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,imports,tungsten,Metal                                             ,,19.0,25.0,,,,,,,
+Australia,imports,tungsten,Metal                                             ,115.0,97.0,97.0,,,,,,,
+Austria,imports,tungsten,Carbide                                           ,449.0,703.0,428.0,148.0,136.0,,,,,568.0
+Austria,imports,tungsten,Metal                                             ,358.0,399.0,235.0,271.0,400.0,825.0,670.0,548.0,435.0,369.0
+Belgium,imports,tungsten,Carbide                                           ,,,,,,,64.0,72.0,,35.0
+Belgium,imports,tungsten,Metal                                             ,,,,,,,454.0,510.0,401.0,326.0
+Belgium,imports,tungsten,Ores & concentrates                               ,,,,,,,0.0,,,2.0
+Belgium-Luxembourg,imports,tungsten,Carbide                                           ,36.0,39.0,70.0,51.0,42.0,42.0,,,,
+Belgium-Luxembourg,imports,tungsten,Metal                                             ,384.0,405.0,279.0,404.0,372.0,340.0,,,,
+Brazil,imports,tungsten,Metal                                             ,294.0,244.0,188.0,,,,,,,
+Bulgaria,imports,tungsten,Metal                                             ,,,,,,,,50.0,9.0,26.0
+Canada,imports,tungsten,Metal                                             ,215.0,186.0,188.0,,,,,,,
+China,imports,tungsten,Metal                                             ,404.0,411.0,598.0,,,,,,,
+China,imports,tungsten,Ores & concentrates                               ,563.0,791.0,1853.0,,,,,,,
+Czech Republic,imports,tungsten,Metal                                             ,184.0,136.0,65.0,73.0,116.0,173.0,197.0,837.0,206.0,4184.0
+Denmark,imports,tungsten,Metal                                             ,109.0,5.0,15.0,5.0,103.0,307.0,523.0,113.0,110.0,105.0
+Estonia,imports,tungsten,Metal                                             ,277.0,408.0,,,,,,,,
+Estonia,imports,tungsten,Ores & concentrates                               ,132.0,68.0,12.0,121.0,,,,,,
+Finland,imports,tungsten,Metal                                             ,100.0,119.0,113.0,169.0,119.0,121.0,21.0,130.0,296.0,205.0
+France,imports,tungsten,Carbide                                           ,534.0,628.0,604.0,695.0,692.0,592.0,898.0,866.0,859.0,311.0
+France,imports,tungsten,Metal                                             ,744.0,889.0,422.0,448.0,568.0,784.0,925.0,823.0,898.0,547.0
+France,imports,tungsten,Ores & concentrates                               ,,,,,,,,,353.0,1.0
+Germany,imports,tungsten,Carbide                                           ,1182.0,1664.0,1103.0,1419.0,1520.0,1802.0,1366.0,2678.0,2526.0,1333.0
+Germany,imports,tungsten,Metal                                             ,4392.0,4914.0,3024.0,4874.0,4976.0,5515.0,4450.0,4791.0,5184.0,3313.0
+Germany,imports,tungsten,Ores & concentrates                               ,77.0,378.0,129.0,195.0,389.0,493.0,512.0,604.0,967.0,821.0
+Hong Kong,imports,tungsten,Metal                                             ,67.0,142.0,141.0,,,,,,,
+Hong Kong,imports,tungsten,Ores & concentrates                               ,62.0,269.0,41.0,,,,,,,
+Hungary,imports,tungsten,Metal                                             ,,,,,,165.0,,41.0,54.0,31.0
+India,imports,tungsten,Metal                                             ,315.0,693.0,518.0,,,,,,,
+India,imports,tungsten,Ores & concentrates                               ,44.0,145.0,241.0,,,,,,,
+Indonesia,imports,tungsten,Metal                                             ,128.0,100.0,47.0,,,,,,,
+"Ireland, Republic of",imports,tungsten,Carbide                                           ,,,,33.0,,,53.0,184.0,158.0,108.0
+"Ireland, Republic of",imports,tungsten,Metal                                             ,79.0,45.0,152.0,331.0,177.0,292.0,173.0,277.0,215.0,68.0
+Italy,imports,tungsten,Carbide                                           ,360.0,363.0,324.0,318.0,299.0,337.0,365.0,361.0,350.0,103.0
+Italy,imports,tungsten,Metal                                             ,292.0,301.0,236.0,258.0,321.0,257.0,236.0,280.0,255.0,147.0
+Japan,imports,tungsten,Metal                                             ,1578.0,1418.0,1057.0,,,,,,,
+Japan,imports,tungsten,Ores & concentrates                               ,1514.0,951.0,887.0,,,,,,,
+Korea (Rep. of),imports,tungsten,Metal                                             ,266.0,275.0,243.0,,,,,,,
+Kyrgyzstan,imports,tungsten,Metal                                             ,25.0,22.0,18.0,,,,,,,
+Lithuania,imports,tungsten,Metal                                             ,,,,,,,,38.0,1.0,0.0
+Luxembourg,imports,tungsten,Carbide                                           ,,,,,,,,1110.0,983.0,465.0
+Luxembourg,imports,tungsten,Metal                                             ,,,,,,,120.0,,,
+Malaysia,imports,tungsten,Metal                                             ,260.0,,,,,,,,,
+Mexico,imports,tungsten,Metal                                             ,,,,,,,,,,
+Netherlands,imports,tungsten,Carbide                                           ,74.0,77.0,44.0,18.0,56.0,99.0,49.0,36.0,94.0,
+Netherlands,imports,tungsten,Metal                                             ,247.0,584.0,80.0,217.0,210.0,204.0,330.0,284.0,329.0,71.0
+Netherlands,imports,tungsten,Ores & concentrates                               ,397.0,144.0,195.0,342.0,222.0,110.0,1532.0,875.0,457.0,900.0
+Nigeria,imports,tungsten,Metal                                             ,5.0,,,,,,,,,
+Philippines,imports,tungsten,Metal                                             ,,,,,,,,,,
+Poland,imports,tungsten,Metal                                             ,178.0,276.0,68.0,42.0,46.0,108.0,111.0,108.0,103.0,87.0
+Portugal,imports,tungsten,Carbide                                           ,75.0,82.0,79.0,96.0,109.0,105.0,97.0,119.0,169.0,46.0
+Portugal,imports,tungsten,Metal                                             ,,,28.0,103.0,153.0,179.0,106.0,122.0,251.0,193.0
+Romania,imports,tungsten,Metal                                             ,,,,,8.0,7.0,7.0,59.0,1122.0,22.0
+Russia,imports,tungsten,Metal                                             ,87.0,293.0,201.0,,,,,,,
+Russia,imports,tungsten,Ores & concentrates                               ,229.0,740.0,142.0,,,,,,,
+Singapore,imports,tungsten,Metal                                             ,229.0,349.0,194.0,,,,,,,
+Singapore,imports,tungsten,Ores & concentrates                               ,29.0,211.0,3.0,,,,,,,
+Slovakia,imports,tungsten,Metal                                             ,,,,,,,17.0,17.0,55.0,43.0
+Slovenia,imports,tungsten,Carbide                                           ,,,,,,,,,,
+South Africa,imports,tungsten,Metal                                             ,159.0,66.0,115.0,,,,,,,
+Spain,imports,tungsten,Carbide                                           ,39.0,77.0,64.0,48.0,59.0,,,41.0,31.0,13.0
+Spain,imports,tungsten,Metal                                             ,556.0,68.0,83.0,179.0,259.0,134.0,556.0,914.0,731.0,681.0
+Spain,imports,tungsten,Ores & concentrates                               ,,,,,,,,1.0,11.0,147.0
+Sweden,imports,tungsten,Carbide                                           ,1036.0,1239.0,688.0,665.0,747.0,925.0,738.0,876.0,904.0,233.0
+Sweden,imports,tungsten,Metal                                             ,356.0,990.0,136.0,470.0,559.0,502.0,563.0,546.0,588.0,175.0
+Switzerland,imports,tungsten,Metal                                             ,113.0,220.0,152.0,139.0,170.0,235.0,146.0,257.0,272.0,105.0
+Taiwan,imports,tungsten,Metal                                             ,340.0,519.0,691.0,,,,,,,
+Thailand,imports,tungsten,Metal                                             ,234.0,80.0,97.0,,,,,,,
+Turkey,imports,tungsten,Carbide                                           ,,,,,,,,,,
+Turkey,imports,tungsten,Metal                                             ,,,,,,,,13.0,34.0,34.0
+USA,imports,tungsten,Ammonium paratungstate                            ,2270.0,2720.0,2400.0,,,,,,,
+USA,imports,tungsten,Carbide                                           ,1064.0,1002.0,960.0,,,,,,,
+USA,imports,tungsten,Metal                                             ,2002.0,2432.0,2067.0,,,,,,,
+USA,imports,tungsten,Ores & concentrates                               ,3632.0,4295.0,6274.0,,,,,,,
+United Kingdom,imports,tungsten,Carbide                                           ,829.0,1381.0,759.0,1232.0,838.0,974.0,913.0,1409.0,1023.0,614.0
+United Kingdom,imports,tungsten,Metal                                             ,2176.0,2538.0,2121.0,1932.0,1903.0,3204.0,4607.0,2925.0,1865.0,1477.0
+United Kingdom,imports,tungsten,Ores & concentrates                               ,,,,190.0,0.0,4914.0,34.0,2.0,11.0,35.0

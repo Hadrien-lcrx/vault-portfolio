@@ -1,0 +1,54 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,imports,vanadium,Metal                                             ,,,,,106.0,135.0,152.0,123.0,10.0,
+Australia,imports,vanadium,Pentoxide                                         ,,,,,7.0,17.0,23.0,232.0,31.0,31.0
+Austria,imports,vanadium,Metal                                             ,,,,,110.0,379.0,0.0,45.0,88.0,6.0
+Austria,imports,vanadium,Ores & concentrates                               ,,,,,,,,,50.0,873.0
+Austria,imports,vanadium,Pentoxide                                         ,972.0,804.0,734.0,3269.0,1603.0,2324.0,3174.0,3110.0,2030.0,2752.0
+Austria,imports,vanadium,Vanadiferous residues                             ,18908.0,26058.0,11349.0,25000.0,25000.0,25000.0,26000.0,27000.0,27000.0,29000.0
+Belgium-Luxembourg,imports,vanadium,Metal                                             ,,,,,,,,,,9.0
+Belgium-Luxembourg,imports,vanadium,Pentoxide                                         ,5657.0,3329.0,3551.0,2853.0,6295.0,4741.0,3330.0,3342.0,1389.0,1707.0
+Belgium-Luxembourg,imports,vanadium,Vanadiferous residues                             ,,,,,,,11.0,15.0,,314.0
+Brazil,imports,vanadium,Pentoxide                                         ,740.0,657.0,445.0,597.0,602.0,318.0,405.0,58.0,58.0,84.0
+Canada,imports,vanadium,Pentoxide                                         ,838.0,851.0,1305.0,1325.0,1532.0,2250.0,1986.0,2316.0,2332.0,1308.0
+China,imports,vanadium,Metal                                             ,,,1002.0,0.0,3205.0,0.0,1022.0,30.0,1.0,37.0
+China,imports,vanadium,Pentoxide                                         ,,,,,,,283.0,9.0,35.0,143.0
+China,imports,vanadium,Vanadiferous residues                             ,,,27302.0,13560.0,20434.0,18671.0,2001.0,3001.0,10123.0,
+Czech Republic,imports,vanadium,Metal                                             ,,,,,,,,1.0,26.0,70.0
+Czech Republic,imports,vanadium,Pentoxide                                         ,,,,,,,,,360.0,3641.0
+France,imports,vanadium,Metal                                             ,85.0,15.0,65.0,91.0,30.0,36.0,,875.0,114.0,264.0
+France,imports,vanadium,Ores & concentrates                               ,,,,,29.0,183.0,427.0,509.0,374.0,156.0
+France,imports,vanadium,Pentoxide                                         ,282.0,178.0,183.0,130.0,231.0,335.0,246.0,406.0,476.0,362.0
+France,imports,vanadium,Vanadium-titanium pig iron                        ,0.0,1.0,1.0,,,,,,,
+German Federal Republic,imports,vanadium,Metal                                             ,19.0,,,,,,,,,
+German Federal Republic,imports,vanadium,Pentoxide                                         ,597.0,,,,,,,,,
+German Federal Republic,imports,vanadium,Vanadiferous residues                             ,25923.0,,,,,,,,,
+Germany,imports,vanadium,Metal                                             ,,46.0,139.0,2.0,7.0,5.0,32.0,24.0,47.0,18.0
+Germany,imports,vanadium,Pentoxide                                         ,,260.0,896.0,3744.0,1874.0,1496.0,730.0,926.0,918.0,828.0
+Germany,imports,vanadium,Vanadiferous residues                             ,,23624.0,13734.0,80.0,14.0,0.0,133.0,43.0,133.0,903.0
+India,imports,vanadium,Metal                                             ,,,,,,,,,,2.0
+India,imports,vanadium,Pentoxide                                         ,,,,,,,,,,54.0
+Italy,imports,vanadium,Pentoxide                                         ,40.0,74.0,128.0,115.0,124.0,,,373.0,447.0,166.0
+Italy,imports,vanadium,Vanadiferous residues                             ,184.0,478.0,822.0,201.0,,,,,,
+Japan,imports,vanadium,Metal                                             ,104.0,136.0,110.0,74.0,134.0,166.0,148.0,226.0,190.0,103.0
+Japan,imports,vanadium,Pentoxide                                         ,4796.0,4613.0,3538.0,4559.0,4501.0,4920.0,4675.0,5322.0,5043.0,3700.0
+Korea (Rep. of),imports,vanadium,Pentoxide                                         ,113.0,151.0,201.0,228.0,297.0,714.0,1332.0,2259.0,1705.0,2535.0
+Korea (Rep. of),imports,vanadium,Vanadiferous residues                             ,,,,,,,,,,400.0
+Netherlands,imports,vanadium,Metal                                             ,,,,,81.0,,,,,
+Netherlands,imports,vanadium,Pentoxide                                         ,,,,,11.0,1078.0,,640.0,2983.0,1198.0
+Netherlands,imports,vanadium,Vanadiferous residues                             ,,,,,,,,,345.0,225.0
+New Zealand,imports,vanadium,Metal                                             ,,,,,,,,,,12.0
+Norway,imports,vanadium,Metal                                             ,,,,,,,0.0,,17.0,39.0
+Russia,imports,vanadium,Metal                                             ,,,,,,,158.0,534.0,316.0,132.0
+Russia,imports,vanadium,Pentoxide                                         ,,,,,,,,204.0,232.0,1718.0
+Slovakia,imports,vanadium,Pentoxide                                         ,,,0.0,200.0,380.0,,,,,
+South Africa,imports,vanadium,Pentoxide                                         ,,,,,,,,91.0,116.0,34.0
+Spain,imports,vanadium,Vanadiferous residues                             ,,,,,236.0,,,122.0,181.0,
+Sweden,imports,vanadium,Metal                                             ,,,,,69.0,45.0,71.0,58.0,96.0,59.0
+Taiwan,imports,vanadium,Metal                                             ,,,,,28.0,44.0,19.0,63.0,27.0,8.0
+Taiwan,imports,vanadium,Vanadiferous residues                             ,,,,,,47.0,168.0,171.0,336.0,444.0
+Tunisia,imports,vanadium,Pentoxide                                         ,,,,,134.0,,134.0,334.0,92.0,181.0
+USA,imports,vanadium,Metal                                             ,115.0,102.0,734.0,817.0,713.0,847.0,96.0,525.0,11.0,22.0
+USA,imports,vanadium,Pentoxide                                         ,1004.0,352.0,467.0,138.0,442.0,1036.0,873.0,1425.0,1381.0,351.0
+USA,imports,vanadium,Vanadiferous residues                             ,50464.0,4793.0,3578.0,5303.0,4754.0,7713.0,5593.0,9543.0,24069.0,13840.0
+United Kingdom,imports,vanadium,Metal                                             ,257.0,193.0,256.0,253.0,61.0,236.0,368.0,628.0,690.0,373.0
+United Kingdom,imports,vanadium,Pentoxide                                         ,226.0,135.0,46.0,98.0,139.0,116.0,73.0,161.0,156.0,306.0

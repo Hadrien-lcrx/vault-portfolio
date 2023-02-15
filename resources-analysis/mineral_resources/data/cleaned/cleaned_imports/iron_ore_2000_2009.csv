@@ -1,0 +1,80 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,imports,iron_ore,,5323026.0,4639345.0,5225500.0,,,,,,,
+Australia,imports,iron_ore,,4426997.0,3997806.0,4607347.0,,,,,,,
+Austria,imports,iron_ore,,5425923.0,,,5691360.0,5783671.0,7423189.0,8412038.0,9061870.0,7996632.0,6095762.0
+Bahrain,imports,iron_ore,,3077934.0,1835903.0,3501042.0,,,,,,,
+Belgium,imports,iron_ore,Burnt pyrites                                     ,,,,,,,,51.0,431.0,23648.0
+Belgium,imports,iron_ore,,,,,,,,11387178.0,9583765.0,12329299.0,3254834.0
+Belgium-Luxembourg,imports,iron_ore,,11830358.0,11223322.0,12204732.0,11577845.0,10655764.0,9384885.0,,,,
+Brazil,imports,iron_ore,,44956.0,53.0,0.0,,,,,,,
+Bulgaria,imports,iron_ore,Burnt pyrites                                     ,,2666.0,1307.0,128640.0,357898.0,437710.0,450004.0,464580.0,188923.0,15831.0
+Bulgaria,imports,iron_ore,,1552620.0,1359466.0,1302809.0,1850563.0,1570605.0,1050925.0,1305110.0,919785.0,208559.0,3110.0
+Canada,imports,iron_ore,,6566054.0,5905931.0,6844672.0,,,,,,,
+China,imports,iron_ore,Burnt pyrites                                     ,63.0,84.0,70371.0,,,,,,,
+China,imports,iron_ore,,69970779.0,92392677.0,111423424.0,,,,,,,
+Croatia,imports,iron_ore,Burnt pyrites                                     ,,,,14098.0,,,,,,
+Croatia,imports,iron_ore,,,,,,10758.0,12605.0,12604.0,14444.0,17177.0,12057.0
+Czech Republic,imports,iron_ore,,6932742.0,6891369.0,6811707.0,8221566.0,7636968.0,6576885.0,7984718.0,6578116.0,6799756.0,4803009.0
+Denmark,imports,iron_ore,Burnt pyrites                                     ,59326.0,47038.0,60659.0,53136.0,80853.0,86399.0,81341.0,9231.0,0.0,0.0
+Denmark,imports,iron_ore,,,,,4908.0,4356.0,8450.0,3404.0,72805.0,111604.0,69990.0
+Egypt,imports,iron_ore,,3400000.0,3300000.0,,,,,,,,
+Finland,imports,iron_ore,Burnt pyrites                                     ,0.0,56.0,13132.0,26163.0,,,,,,
+Finland,imports,iron_ore,,3917135.0,3916207.0,3791710.0,4212158.0,3921570.0,4215633.0,3481019.0,3156096.0,3121303.0,2204018.0
+France,imports,iron_ore,Burnt pyrites                                     ,4228.0,24758.0,0.0,3348.0,65.0,160.0,3451.0,2107.0,4948.0,5375.0
+France,imports,iron_ore,,19688773.0,16707431.0,19069088.0,18890174.0,20777700.0,19506894.0,19463057.0,20065037.0,18220893.0,10014901.0
+Germany,imports,iron_ore,Burnt pyrites                                     ,76415.0,55380.0,44838.0,56249.0,37194.0,20496.0,36299.0,,0.0,7087.0
+Germany,imports,iron_ore,,47502511.0,40094653.0,44297518.0,33876167.0,43317039.0,39061160.0,44850286.0,46194946.0,44339072.0,28812134.0
+Greece,imports,iron_ore,Burnt pyrites                                     ,156876.0,125242.0,58666.0,132.0,,,,,,
+Greece,imports,iron_ore,,,,,,4714.0,55529.0,9755.0,,,
+Hungary,imports,iron_ore,,2098145.0,1702510.0,1718394.0,1864033.0,1063931.0,996277.0,987543.0,968033.0,616684.0,876109.0
+Iceland,imports,iron_ore,,33104.0,41499.0,35962.0,32283.0,40858.0,38058.0,38509.0,43452.0,44167.0,34404.0
+India,imports,iron_ore,Burnt pyrites                                     ,0.0,272.0,455.0,,,,,,,
+India,imports,iron_ore,,486106.0,395557.0,520950.0,,,,,,,
+Indonesia,imports,iron_ore,,2156360.0,1292369.0,1319329.0,,,,,,,
+Iran,imports,iron_ore,,2403899.0,2400000.0,1900000.0,,,,,,,
+"Ireland, Republic of",imports,iron_ore,,,,,,10306.0,580.0,1161.0,4594.0,4721.0,31488.0
+Italy,imports,iron_ore,Burnt pyrites                                     ,,55502623.0,5614311.0,6445903.0,,,,,,
+Italy,imports,iron_ore,,17619370.0,10263020.0,9283941.0,8842872.0,16714771.0,17551785.0,17776812.0,17013076.0,16313184.0,8159741.0
+Japan,imports,iron_ore,,131732578.0,126297011.0,129096968.0,,,,,,,
+Kazakhstan,imports,iron_ore,,135000.0,,,,,,,,,
+Korea (Rep. of),imports,iron_ore,Burnt pyrites                                     ,,,,,,,,,,
+Korea (Rep. of),imports,iron_ore,,38980349.0,45875365.0,43311003.0,,,,,,,
+Latvia,imports,iron_ore,,,,,,,,3919.0,46109.0,,
+Lebanon,imports,iron_ore,,18878.0,9163.0,,,,,,,,
+Libya,imports,iron_ore,,2100000.0,1600000.0,,,,,,,,
+Malaysia,imports,iron_ore,,1736221.0,1568261.0,,,,,,,,
+Mexico,imports,iron_ore,,3065077.0,2291505.0,2708641.0,,,,,,,
+Netherlands,imports,iron_ore,Burnt pyrites                                     ,47175.0,106277.0,23596.0,22545.0,,,,,,
+Netherlands,imports,iron_ore,,7560788.0,6310886.0,7369802.0,8740391.0,12649345.0,12285177.0,10833565.0,12693210.0,10831769.0,4585303.0
+Norway,imports,iron_ore,,187630.0,224442.0,206650.0,178025.0,495047.0,526738.0,216372.0,179727.0,151503.0,134167.0
+Oman,imports,iron_ore,,160070.0,177270.0,481817.0,,,,,,,
+Pakistan,imports,iron_ore,,1566032.0,1630569.0,1487745.0,,,,,,,
+Paraguay,imports,iron_ore,,101460.0,157931.0,,,,,,,,
+Philippines,imports,iron_ore,,4026071.0,3222911.0,2965375.0,,,,,,,
+Poland,imports,iron_ore,Burnt pyrites                                     ,,1322662.0,1273170.0,1764657.0,,,,,,
+Poland,imports,iron_ore,,9736781.0,6378630.0,5674667.0,6817467.0,10933453.0,6788655.0,9607629.0,8746836.0,7784529.0,3752010.0
+Portugal,imports,iron_ore,,580178.0,141064.0,,,,,,,,
+Qatar,imports,iron_ore,,,519886.0,335635.0,,,,,,,
+Romania,imports,iron_ore,Burnt pyrites                                     ,,,,,0.0,,62505.0,2824.0,17770.0,11572.0
+Romania,imports,iron_ore,,5049180.0,3874940.0,6198085.0,6977977.0,6609026.0,6601393.0,6054765.0,6259705.0,5003811.0,1597033.0
+Russia,imports,iron_ore,,9188913.0,8799202.0,9330839.0,,,,,,,
+Saudi Arabia,imports,iron_ore,,2919767.0,3461097.0,682125.0,,,,,,,
+Serbia,imports,iron_ore,,,,,,,,,2093317.0,2092208.0,1397755.0
+Serbia and Montenegro,imports,iron_ore,,302312.0,78808.0,252884.0,,,,,,,
+Slovakia,imports,iron_ore,,4741501.0,3269165.0,4990546.0,5704522.0,6109379.0,5513902.0,6406019.0,5853880.0,4802516.0,4499385.0
+Spain,imports,iron_ore,,6265454.0,6641053.0,6158325.0,5765648.0,6119146.0,6248771.0,5511248.0,6117047.0,6479890.0,3951206.0
+Sweden,imports,iron_ore,Burnt pyrites                                     ,17442.0,15763.0,41970.0,29658.0,,,,26.0,0.0,2919.0
+Sweden,imports,iron_ore,,94483.0,108597.0,115528.0,110920.0,110157.0,104570.0,82211.0,69911.0,71441.0,41087.0
+Switzerland,imports,iron_ore,Burnt pyrites                                     ,14821.0,15897.0,,9157.0,,,,7826.0,12559.0,15045.0
+Switzerland,imports,iron_ore,,,,,7342.0,5660.0,15145.0,16019.0,7800.0,6145.0,1445.0
+Taiwan,imports,iron_ore,Burnt pyrites                                     ,74190.0,,,,,,,,,
+Taiwan,imports,iron_ore,,14859677.0,15571077.0,15242142.0,,,,,,,
+Trinidad & Tobago,imports,iron_ore,,421690.0,82534.0,1585005.0,,,,,,,
+Tunisia,imports,iron_ore,Burnt pyrites                                     ,,,,,,,,,,
+Tunisia,imports,iron_ore,,167469.0,257189.0,,,,,,,,
+Turkey,imports,iron_ore,Burnt pyrites                                     ,,893595.0,2499655.0,3048337.0,22047.0,63666.0,11596.0,,17092.0,14097.0
+Turkey,imports,iron_ore,,4140103.0,1726891.0,2879135.0,2144607.0,4573864.0,4621446.0,7197305.0,6925163.0,5004508.0,7757561.0
+USA,imports,iron_ore,,15658001.0,10652289.0,12464346.0,,,,,,,
+Ukraine,imports,iron_ore,,7413440.0,5000000.0,,,,,,,,
+United Kingdom,imports,iron_ore,Burnt pyrites                                     ,29446.0,17130.0,,19230.0,2436.0,1911.0,1282.0,131230.0,693.0,232.0
+United Kingdom,imports,iron_ore,,16778947.0,15351877.0,13316026.0,16121350.0,15298713.0,16204615.0,16370705.0,17435472.0,15282786.0,9185919.0

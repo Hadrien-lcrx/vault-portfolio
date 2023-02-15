@@ -1,0 +1,33 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Argentina,production,tin_smelter,,90.0,100.0,130.0,,,,,,,
+Australia,production,tin_smelter,,312.0,268.0,240.0,222.0,320.0,570.0,460.0,605.0,684.0,586.0
+Belgium,production,tin_smelter,,,,,,7800.0,6300.0,8200.0,8000.0,8000.0,8100.0
+Bolivia,production,tin_smelter,,13364.0,14659.0,14393.0,18551.0,20019.0,17709.0,16733.0,16853.0,11102.0,11166.0
+Brazil,production,tin_smelter,,37580.0,29500.0,27000.0,26900.0,20400.0,16787.0,18361.0,17525.0,14342.0,12787.0
+Burma,production,tin_smelter,,286.0,157.0,189.0,170.0,200.0,190.0,,,,
+China,production,tin_smelter,,35800.0,36000.0,39600.0,51600.0,67800.0,67700.0,71500.0,67700.0,79300.0,90800.0
+Czechoslovakia,production,tin_smelter,,613.0,118.0,,,,,,,,
+German Democratic Rep,production,tin_smelter,,2862.0,,,,,,,,,
+Greece,production,tin_smelter,,,200.0,,,,,,,,
+India,production,tin_smelter,,,,,,,,,3700.0,3700.0,3600.0
+Indonesia,production,tin_smelter,,30389.0,30415.0,28151.0,28585.0,39000.0,44218.0,48960.0,52577.0,53997.0,48340.0
+Japan,production,tin_smelter,,816.0,716.0,821.0,804.0,,,,,,
+Kazakhstan,production,tin_smelter,,,,,,13900.0,3600.0,,,,
+Korea (Rep. of),production,tin_smelter,,2500.0,2300.0,400.0,400.0,,,,,,
+Malaysia,production,tin_smelter,,49002.0,42722.0,45598.0,40079.0,37990.0,39443.0,38051.0,34823.0,27201.0,28913.0
+Mexico,production,tin_smelter,,5004.0,2262.0,2594.0,1644.0,771.0,415.0,1234.0,1188.0,1083.0,1262.0
+Netherlands,production,tin_smelter,,6100.0,5000.0,,,,,,,,
+Nigeria,production,tin_smelter,,320.0,400.0,,169.0,316.0,259.0,56.0,2475.0,1920.0,2208.0
+Peru,production,tin_smelter,,,,,,,,800.0,8759.0,13928.0,17342.0
+Portugal,production,tin_smelter,,100.0,100.0,100.0,100.0,100.0,100.0,,,,
+Russia,production,tin_smelter,,,,25800.0,14500.0,12200.0,12000.0,12400.0,9200.0,4100.0,4000.0
+Singapore,production,tin_smelter,,600.0,200.0,,,,,,,,
+South Africa,production,tin_smelter,,2100.0,1600.0,600.0,500.0,100.0,,,,,
+Soviet Union,production,tin_smelter,,14000.0,18000.0,,,,,,,,
+Spain,production,tin_smelter,,1349.0,1700.0,2400.0,2000.0,200.0,,,,,
+Thailand,production,tin_smelter,,15512.0,11255.0,10679.0,8099.0,7759.0,8243.0,10981.0,11984.0,15353.0,17306.0
+USA,production,tin_smelter,,0.0,,,,,,,,,
+United Kingdom,production,tin_smelter,,6122.0,1661.0,,,,,,,,
+Vietnam,production,tin_smelter,,1808.0,3440.0,3727.0,2345.0,2300.0,2300.0,3008.0,2790.0,2320.0,1693.0
+Zaire,production,tin_smelter,,,,,,,,,,,
+Zimbabwe,production,tin_smelter,,839.0,797.0,716.0,658.0,82.0,,,,,

@@ -1,0 +1,68 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Argentina,exports,mica,Mica                                              ,846.0,71.0,,,,,,,,
+Austria,exports,mica,Mica                                              ,230.0,448.0,602.0,829.0,829.0,316.0,1659.0,371.0,651.0,
+Austria,exports,mica,,,,,,,,,,,616.0
+Belgium-Luxembourg,exports,mica,Mica                                              ,64.0,38.0,18.0,32.0,26.0,225.0,82.0,12.0,928.0,
+Belgium-Luxembourg,exports,mica,,,,,,,,,,,521.0
+Brazil,exports,mica,Mica                                              ,4818.0,1950.0,1077.0,3408.0,3265.0,931.0,1662.0,1484.0,1734.0,
+Brazil,exports,mica,,,,,,,,,,,1202.0
+Canada,exports,mica,Mica                                              ,,,,,,6659.0,7913.0,7947.0,8775.0,
+Canada,exports,mica,,,,,,,,,,,12859.0
+China,exports,mica,Mica                                              ,10700.0,10200.0,11800.0,13100.0,16000.0,16800.0,20200.0,18800.0,12200.0,
+China,exports,mica,,,,,,,,,,,20200.0
+Denmark,exports,mica,Ground                                            ,30.0,,,,,,,,,
+Finland,exports,mica,Ground                                            ,,,,,,,,,1976.0,2875.0
+Finland,exports,mica,Mica                                              ,,1.0,,814.0,548.0,566.0,274.0,,,
+Finland,exports,mica,Unmanufactured                                    ,,,132.0,,,,,1315.0,0.0,674.0
+France,exports,mica,Ground                                            ,3462.0,3895.0,3608.0,3969.0,4548.0,4842.0,4310.0,4492.0,6651.0,6827.0
+France,exports,mica,Unmanufactured                                    ,354.0,2119.0,1473.0,1832.0,5050.0,2887.0,2591.0,2542.0,763.0,1578.0
+German Federal Republic,exports,mica,Ground                                            ,640.0,1020.0,859.0,906.0,1203.0,1411.0,1364.0,1327.0,1232.0,1327.0
+German Federal Republic,exports,mica,Unmanufactured                                    ,20.0,71.0,20.0,13.0,52.0,36.0,0.0,15.0,55.0,4.0
+Germany,exports,mica,Ground                                            ,,,,,,,,,,
+Germany,exports,mica,Unmanufactured                                    ,,,,,,,,,,
+Hong Kong,exports,mica,Mica                                              ,,,,,,,,,751.0,
+Hong Kong,exports,mica,,,,,,,,,,,1135.0
+India,exports,mica,Block                                             ,1153.0,1349.0,956.0,808.0,678.0,717.0,578.0,383.0,407.0,355.0
+India,exports,mica,Condenser films                                   ,117.0,93.0,9.0,4.0,48.0,3.0,8.0,14.0,28.0,75.0
+India,exports,mica,Splittings,4468.0,4353.0,2087.0,2219.0,2476.0,2708.0,2695.0,2842.0,3731.0,2538.0
+India,exports,mica,Waste                                             ,12494.0,7721.0,7769.0,9344.0,13151.0,14520.0,16581.0,10288.0,15151.0,11647.0
+Italy,exports,mica,Ground                                            ,687.0,423.0,677.0,271.0,364.0,113.0,79.0,134.0,649.0,
+Italy,exports,mica,Unmanufactured                                    ,440.0,324.0,580.0,227.0,194.0,116.0,43.0,107.0,134.0,430.0
+Japan,exports,mica,Mica                                              ,326.0,373.0,149.0,158.0,455.0,290.0,366.0,318.0,529.0,
+Japan,exports,mica,,,,,,,,,,,577.0
+Madagascar,exports,mica,Mica                                              ,1148.0,998.0,1408.0,900.0,874.0,779.0,1874.0,653.0,,
+Madagascar,exports,mica,,,,,,,,,,,684.0
+Malaysia,exports,mica,Mica                                              ,,0.0,110.0,325.0,246.0,862.0,1765.0,1797.0,2422.0,
+Malaysia,exports,mica,,,,,,,,,,,2650.0
+Morocco,exports,mica,Mica                                              ,485.0,1353.0,1570.0,0.0,1434.0,1330.0,1508.0,2230.0,1862.0,
+Morocco,exports,mica,,,,,,,,,,,1121.0
+Mozambique,exports,mica,Mica                                              ,127.0,275.0,62.0,,286.0,,,,,
+Netherlands,exports,mica,Ground                                            ,906.0,2407.0,2521.0,2451.0,458.0,475.0,222.0,655.0,524.0,819.0
+Netherlands,exports,mica,Unmanufactured                                    ,75.0,676.0,589.0,383.0,315.0,983.0,779.0,1016.0,473.0,464.0
+Norway,exports,mica,Mica                                              ,2112.0,2298.0,1820.0,2009.0,2009.0,1934.0,1422.0,1916.0,1946.0,
+Norway,exports,mica,,,,,,,,,,,2241.0
+Portugal,exports,mica,Mica                                              ,0.0,189.0,145.0,206.0,823.0,440.0,484.0,160.0,,
+Singapore,exports,mica,Mica                                              ,272.0,351.0,200.0,363.0,396.0,222.0,51.0,298.0,377.0,
+Singapore,exports,mica,,,,,,,,,,,350.0
+South Africa,exports,mica,Ground                                            ,1091.0,,,,,,,,,
+South Africa,exports,mica,Mica                                              ,,900.0,1150.0,873.0,884.0,1076.0,720.0,1105.0,851.0,
+South Africa,exports,mica,Waste                                             ,0.0,,,,,,,,,
+South Africa,exports,mica,,,,,,,,,,,884.0
+Spain,exports,mica,Mica                                              ,6059.0,2683.0,2021.0,465.0,49.0,60.0,22.0,21.0,529.0,
+Spain,exports,mica,,,,,,,,,,,751.0
+Sri Lanka,exports,mica,Mica                                              ,628.0,1393.0,1007.0,1043.0,631.0,534.0,889.0,1309.0,1805.0,
+Sri Lanka,exports,mica,,,,,,,,,,,2691.0
+Sweden,exports,mica,Mica                                              ,11.0,7.0,1.0,58.0,28.0,20.0,46.0,38.0,60.0,
+Sweden,exports,mica,,,,,,,,,,,15.0
+Switzerland,exports,mica,Mica                                              ,117.0,27.0,115.0,75.0,75.0,130.0,77.0,89.0,142.0,
+Switzerland,exports,mica,,,,,,,,,,,133.0
+Taiwan,exports,mica,Mica                                              ,85.0,121.0,50.0,413.0,295.0,248.0,198.0,394.0,183.0,
+Taiwan,exports,mica,,,,,,,,,,,307.0
+Turkey,exports,mica,Mica                                              ,,,,,,32.0,20.0,121.0,34.0,
+Turkey,exports,mica,,,,,,,,,,,118.0
+USA,exports,mica,Ground                                            ,7427.0,6364.0,7619.0,7453.0,5236.0,6559.0,5313.0,4301.0,5412.0,3745.0
+USA,exports,mica,Unmanufactured                                    ,6103.0,3892.0,2584.0,2185.0,1909.0,1361.0,1503.0,913.0,1181.0,1351.0
+United Kingdom,exports,mica,Ground                                            ,2647.0,1871.0,1243.0,1169.0,754.0,1310.0,1101.0,2560.0,4262.0,4951.0
+United Kingdom,exports,mica,Unmanufactured                                    ,966.0,412.0,508.0,105.0,89.0,112.0,95.0,23.0,50.0,68.0
+United Kingdom,exports,mica,Waste                                             ,162.0,643.0,1697.0,2403.0,2563.0,1668.0,1940.0,1727.0,80.0,103.0
+Zimbabwe,exports,mica,Ground                                            ,759.0,758.0,518.0,111.0,259.0,396.0,845.0,468.0,814.0,

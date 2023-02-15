@@ -1,0 +1,64 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Argentina,imports,molybdenum,Oxides                                            ,296.0,250.0,509.0,473.0,519.0,357.0,479.0,677.0,805.0,841.0
+Australia,imports,molybdenum,Metal                                             ,,,,,,,6.0,7.0,42.0,128.0
+Australia,imports,molybdenum,Ores & concentrates                               ,326.0,155.0,116.0,63.0,138.0,174.0,151.0,88.0,,
+Australia,imports,molybdenum,Oxides                                            ,,,,,,,,0.0,190.0,127.0
+Austria,imports,molybdenum,Metal                                             ,366.0,188.0,38.0,143.0,109.0,97.0,117.0,121.0,130.0,256.0
+Austria,imports,molybdenum,Ores & concentrates                               ,,,,,,,,,9542.0,9969.0
+Austria,imports,molybdenum,Oxides                                            ,1527.0,1493.0,1896.0,1748.0,2063.0,2241.0,2066.0,1706.0,2852.0,2486.0
+Belgium-Luxembourg,imports,molybdenum,Metal                                             ,149.0,126.0,162.0,278.0,173.0,223.0,211.0,480.0,292.0,339.0
+Belgium-Luxembourg,imports,molybdenum,Ores & concentrates                               ,15922.0,20772.0,20469.0,22976.0,21952.0,22150.0,21874.0,24787.0,28512.0,31950.0
+Belgium-Luxembourg,imports,molybdenum,Oxides                                            ,17.0,120.0,192.0,298.0,282.0,39.0,147.0,180.0,190.0,122.0
+Brazil,imports,molybdenum,Metal                                             ,115.0,44.0,42.0,28.0,51.0,56.0,75.0,60.0,68.0,75.0
+Brazil,imports,molybdenum,Ores & concentrates                               ,2123.0,2240.0,1303.0,1465.0,2590.0,2893.0,2493.0,3093.0,3094.0,3784.0
+Brazil,imports,molybdenum,Oxides                                            ,,,,0.0,519.0,542.0,484.0,740.0,615.0,731.0
+Canada,imports,molybdenum,Metal                                             ,,,,,,30.0,52.0,161.0,159.0,59.0
+Canada,imports,molybdenum,Oxides                                            ,362.0,423.0,193.0,141.0,238.0,187.0,202.0,193.0,188.0,124.0
+Chile,imports,molybdenum,Ores & concentrates                               ,,,,,,,,,,
+Czechoslovakia,imports,molybdenum,Ores & concentrates                               ,,700.0,400.0,800.0,600.0,600.0,900.0,800.0,1900.0,2000.0
+Finland,imports,molybdenum,Metal                                             ,5.0,4.0,6.0,3.0,6.0,6.0,1.0,4.0,,
+Finland,imports,molybdenum,Ores & concentrates                               ,675.0,454.0,488.0,558.0,671.0,1121.0,326.0,1074.0,1245.0,1256.0
+France,imports,molybdenum,Metal                                             ,263.0,117.0,166.0,225.0,243.0,260.0,248.0,233.0,391.0,408.0
+France,imports,molybdenum,Ores & concentrates                               ,7094.0,9078.0,7713.0,5650.0,6246.0,5677.0,7446.0,8632.0,9614.0,9406.0
+France,imports,molybdenum,Oxides                                            ,227.0,62.0,29.0,35.0,77.0,144.0,124.0,157.0,140.0,152.0
+German Federal Republic,imports,molybdenum,Metal                                             ,1102.0,984.0,766.0,749.0,964.0,1146.0,1033.0,828.0,1272.0,1375.0
+German Federal Republic,imports,molybdenum,Ores & concentrates                               ,18087.0,18138.0,21524.0,19061.0,18597.0,17600.0,17817.0,16305.0,17329.0,16450.0
+German Federal Republic,imports,molybdenum,Oxides                                            ,453.0,502.0,265.0,274.0,192.0,174.0,120.0,107.0,544.0,448.0
+Germany,imports,molybdenum,Metal                                             ,,,,,,,,,,
+Germany,imports,molybdenum,Ores & concentrates                               ,,,,,,,,,,
+Germany,imports,molybdenum,Oxides                                            ,,,,,,,,,,
+India,imports,molybdenum,Metal                                             ,17.0,,,,,,,,21.0,40.0
+India,imports,molybdenum,Ores & concentrates                               ,,,,,,,,,1413.0,1551.0
+Italy,imports,molybdenum,Metal                                             ,163.0,120.0,110.0,175.0,189.0,142.0,218.0,195.0,182.0,194.0
+Italy,imports,molybdenum,Ores & concentrates                               ,6039.0,4522.0,2768.0,2360.0,4438.0,4810.0,2742.0,2870.0,2789.0,2631.0
+Italy,imports,molybdenum,Oxides                                            ,158.0,68.0,232.0,47.0,86.0,65.0,65.0,32.0,173.0,76.0
+Japan,imports,molybdenum,Metal                                             ,146.0,219.0,296.0,203.0,423.0,428.0,290.0,380.0,662.0,606.0
+Japan,imports,molybdenum,Ores & concentrates                               ,20388.0,16290.0,17245.0,18737.0,18246.0,21138.0,18024.0,17115.0,22987.0,23106.0
+Japan,imports,molybdenum,Oxides                                            ,826.0,660.0,635.0,549.0,578.0,384.0,414.0,468.0,351.0,352.0
+Korea (Rep. of),imports,molybdenum,Metal                                             ,20.0,7.0,11.0,67.0,15.0,21.0,28.0,32.0,58.0,182.0
+Korea (Rep. of),imports,molybdenum,Ores & concentrates                               ,,,,151.0,179.0,115.0,263.0,522.0,13520.0,559.0
+Malaysia,imports,molybdenum,Metal                                             ,,,,,,,,9.0,61.0,263.0
+Mexico,imports,molybdenum,Metal                                             ,151.0,204.0,52.0,,,,,,,
+Mexico,imports,molybdenum,Ores & concentrates                               ,289.0,927.0,240.0,,,,,,,
+Netherlands,imports,molybdenum,Metal                                             ,175.0,148.0,172.0,235.0,178.0,186.0,116.0,202.0,163.0,260.0
+Netherlands,imports,molybdenum,Ores & concentrates                               ,28247.0,21501.0,19677.0,13816.0,20741.0,24061.0,22961.0,15985.0,17697.0,25577.0
+Netherlands,imports,molybdenum,Oxides                                            ,107.0,83.0,19.0,29.0,9.0,24.0,30.0,27.0,10.0,18.0
+Philippines,imports,molybdenum,Metal                                             ,4.0,127.0,13.0,30.0,20.0,20.0,2.0,4.0,9.0,35.0
+Singapore,imports,molybdenum,Metal                                             ,1.0,1.0,9.0,19.0,11.0,4.0,1.0,4.0,7.0,164.0
+South Africa,imports,molybdenum,Metal                                             ,19.0,11.0,11.0,26.0,23.0,23.0,13.0,15.0,19.0,12.0
+South Africa,imports,molybdenum,Oxides                                            ,312.0,170.0,138.0,10.0,188.0,414.0,361.0,481.0,518.0,355.0
+Soviet Union,imports,molybdenum,Ores & concentrates                               ,300.0,1000.0,,1000.0,300.0,100.0,,,,
+Spain,imports,molybdenum,Metal                                             ,33.0,17.0,36.0,24.0,38.0,25.0,52.0,43.0,56.0,53.0
+Spain,imports,molybdenum,Ores & concentrates                               ,,1817.0,2283.0,2787.0,3446.0,4600.0,5236.0,4991.0,2720.0,2609.0
+Sweden,imports,molybdenum,Metal                                             ,73.0,43.0,59.0,33.0,71.0,138.0,186.0,262.0,274.0,372.0
+Sweden,imports,molybdenum,Ores & concentrates                               ,6034.0,5618.0,6397.0,5254.0,6357.0,6479.0,7246.0,7402.0,7870.0,7577.0
+Sweden,imports,molybdenum,Oxides                                            ,44.0,169.0,483.0,232.0,138.0,125.0,96.0,236.0,234.0,243.0
+Switzerland,imports,molybdenum,Metal                                             ,24.0,20.0,29.0,9.0,21.0,22.0,20.0,23.0,17.0,17.0
+Taiwan,imports,molybdenum,Metal                                             ,44.0,44.0,45.0,70.0,90.0,60.0,85.0,105.0,127.0,134.0
+USA,imports,molybdenum,Metal                                             ,305.0,247.0,183.0,271.0,323.0,338.0,373.0,444.0,473.0,512.0
+USA,imports,molybdenum,Ores & concentrates                               ,2050.0,2672.0,2488.0,924.0,21.0,83.0,789.0,1784.0,668.0,620.0
+USA,imports,molybdenum,Oxides                                            ,1481.0,1191.0,2087.0,3548.0,3992.0,1893.0,810.0,4142.0,721.0,422.0
+United Kingdom,imports,molybdenum,Metal                                             ,237.0,176.0,178.0,308.0,489.0,358.0,278.0,315.0,337.0,295.0
+United Kingdom,imports,molybdenum,Ores & concentrates                               ,13672.0,15149.0,17738.0,14419.0,18042.0,19057.0,19248.0,15756.0,19882.0,23196.0
+United Kingdom,imports,molybdenum,Oxides                                            ,296.0,432.0,195.0,191.0,102.0,304.0,237.0,135.0,256.0,146.0
+Yugoslavia,imports,molybdenum,Metal                                             ,15.0,15.0,15.0,23.0,29.0,14.0,24.0,20.0,20.0,26.0

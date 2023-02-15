@@ -1,0 +1,10 @@
+Country,Activity,Commodity,Sub-commodity,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+Belgium,production,arsenic_white,,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Bolivia,production,arsenic_white,,155.0,99.0,104.0,120.0,52.0,38.0,38.0,20.0,238.0,130.0
+China,production,arsenic_white,,25000.0,25000.0,26000.0,25000.0,25000.0,25000.0,25000.0,24000.0,24000.0,24000.0
+Japan,production,arsenic_white,,40.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0,45.0
+Morocco,production,arsenic_white,,13731.0,8154.0,8820.0,8968.0,6863.0,7567.0,6122.0,6879.0,5578.0,5055.0
+Namibia,production,arsenic_white,,,1750.0,1590.0,1520.0,1980.0,1960.0,1900.0,700.0,0.0,0.0
+Peru,production,arsenic_white,,,,,0.0,0.0,0.0,23252.0,22319.0,20408.0,24915.0
+Portugal,production,arsenic_white,,15.0,15.0,15.0,,,,,,,
+Russia,production,arsenic_white,,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0,1500.0

@@ -1,0 +1,36 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Belgium-Luxembourg,exports,cobalt,Metal & refined,,,,,,2100.0,3800.0,4500.0,4000.0,3300.0
+Belgium-Luxembourg,exports,cobalt,Oxides                                            ,,,2100.0,2600.0,3100.0,1200.0,1700.0,1600.0,2200.0,1700.0
+Belgium-Luxembourg,exports,cobalt,,1322.0,1580.0,3300.0,3800.0,4100.0,,,,,
+Canada,exports,cobalt,Metal & refined,,,,,,659.0,1040.0,687.0,827.0,302.0
+Canada,exports,cobalt,Oxides                                            ,837.0,1119.0,735.0,512.0,673.0,561.0,471.0,605.0,748.0,559.0
+Canada,exports,cobalt,,381.0,340.0,1263.0,1035.0,968.0,,,,,
+Finland,exports,cobalt,Metal & refined,,,,,,810.0,811.0,999.0,,
+Finland,exports,cobalt,Oxides                                            ,,,24.0,0.0,0.0,33.0,19.0,,,
+Finland,exports,cobalt,,703.0,1036.0,860.0,991.0,808.0,,,,853.0,1069.0
+France,exports,cobalt,Metal & refined,,,,,,461.0,943.0,1066.0,1100.0,797.0
+France,exports,cobalt,Oxides                                            ,108.0,66.0,199.0,207.0,178.0,120.0,201.0,209.0,192.0,118.0
+France,exports,cobalt,Scrap,275.0,340.0,465.0,763.0,552.0,,,,,
+German Federal Republic,exports,cobalt,Metal & refined,,,,,,221.0,322.0,340.0,796.0,847.0
+German Federal Republic,exports,cobalt,Oxides                                            ,14.0,13.0,14.0,27.0,56.0,44.0,67.0,41.0,86.0,45.0
+German Federal Republic,exports,cobalt,,197.0,231.0,282.0,205.0,287.0,,,,,
+Italy,exports,cobalt,,,,,,,37.0,44.0,29.0,72.0,107.0
+Japan,exports,cobalt,Oxides                                            ,,,5.0,16.0,12.0,12.0,11.0,10.0,87.0,41.0
+Morocco,exports,cobalt,Ore                                               ,8750.0,4750.0,12606.0,10549.0,14547.0,13144.0,8550.0,9076.0,8922.0,7530.0
+Netherlands,exports,cobalt,Metal & refined,,,,,,,124.0,95.0,100.0,254.0
+Netherlands,exports,cobalt,Oxides                                            ,,,,,,,39.0,26.0,62.0,78.0
+Netherlands,exports,cobalt,,372.0,29.0,97.0,155.0,142.0,117.0,,,,
+Norway,exports,cobalt,,720.0,762.0,492.0,723.0,1172.0,601.0,936.0,677.0,559.0,885.0
+Sweden,exports,cobalt,Metal & refined,,,,,,82.0,23.0,40.0,63.0,221.0
+Sweden,exports,cobalt,Oxides                                            ,,,2.0,0.0,0.0,0.0,0.0,2.0,0.0,85.0
+Sweden,exports,cobalt,,,,2.0,8.0,36.0,,,,,
+Switzerland,exports,cobalt,Oxides                                            ,,,0.0,0.0,0.0,2.0,7.0,7.0,,
+USA,exports,cobalt,Metal & refined,,,,,,1965.0,1967.0,1228.0,1436.0,1170.0
+USA,exports,cobalt,Oxides                                            ,69.0,69.0,75.0,807.0,414.0,105.0,161.0,639.0,816.0,1357.0
+USA,exports,cobalt,Unwrought,969.0,401.0,,,,,,,,
+USA,exports,cobalt,,,,1219.0,1816.0,1747.0,,,,,
+United Kingdom,exports,cobalt,Metal & refined,,,,,,502.0,1428.0,624.0,885.0,962.0
+United Kingdom,exports,cobalt,Oxides                                            ,346.0,381.0,342.0,185.0,156.0,148.0,634.0,316.0,411.0,244.0
+United Kingdom,exports,cobalt,,555.0,263.0,371.0,499.0,283.0,,,,,
+Zaire,exports,cobalt,,14100.0,14551.0,11375.0,17144.0,17540.0,12121.0,8129.0,8845.0,9567.0,15500.0
+Zambia,exports,cobalt,,1814.0,1189.0,2329.0,1145.0,1894.0,1344.0,2312.0,1682.0,1793.0,3060.0

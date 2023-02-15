@@ -1,0 +1,12 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Algeria,production,strontium_minerals,,5400.0,5400.0,5400.0,5400.0,5400.0,5400.0,,,,
+Argentina,production,strontium_minerals,,3112.0,3176.0,2237.0,4806.0,8484.0,9325.0,3775.0,3049.0,2416.0,2141.0
+China,production,strontium_minerals,,,,,,,,,35000.0,35000.0,35000.0
+Iran,production,strontium_minerals,,34140.0,28500.0,13138.0,17082.0,20000.0,12225.0,7835.0,5900.0,,
+Mexico,production,strontium_minerals,,66254.0,62180.0,61097.0,71903.0,111485.0,138342.0,141142.0,134707.0,118230.0,164682.0
+Morocco,production,strontium_minerals,,,,,,,,,,,0.0
+Pakistan,production,strontium_minerals,,1786.0,1472.0,1448.0,2417.0,1342.0,1427.0,1221.0,706.0,598.0,634.0
+Spain,production,strontium_minerals,,80352.0,75000.0,72295.0,104000.0,102046.0,105866.0,114829.0,95162.0,119077.0,123457.0
+Turkey,production,strontium_minerals,,73790.0,70000.0,37940.0,43700.0,,,30000.0,30000.0,30000.0,60540.0
+Turkmenistan,production,strontium_minerals,,,,,,,,20000.0,,,
+United Kingdom,production,strontium_minerals,,24734.0,2000.0,2000.0,2000.0,,,,,,

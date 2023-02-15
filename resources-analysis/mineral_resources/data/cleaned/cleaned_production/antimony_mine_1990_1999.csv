@@ -1,0 +1,24 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Australia,production,antimony_mine,,1300.0,1500.0,1701.0,1700.0,1135.0,1700.0,2000.0,2500.0,2400.0,2500.0
+Austria,production,antimony_mine,,469.0,0.0,,,,,,,,
+Bolivia,production,antimony_mine,,8454.0,7287.0,6022.0,5556.0,7050.0,6426.0,6488.0,5999.0,4735.0,2790.0
+Canada,production,antimony_mine,,658.0,469.0,948.0,673.0,643.0,684.0,1773.0,630.0,428.0,425.0
+China,production,antimony_mine,,54800.0,58300.0,59400.0,60000.0,91000.0,125000.0,128900.0,131100.0,97400.0,89600.0
+Czechoslovakia,production,antimony_mine,,917.0,297.0,,,,,,,,
+Guatemala,production,antimony_mine,,840.0,557.0,323.0,90.0,219.0,674.0,1066.0,752.0,420.0,0.0
+Honduras,production,antimony_mine,,0.0,0.0,,,,,,,,
+Kyrgyzstan,production,antimony_mine,,,,13810.0,9778.0,9588.0,4778.0,6002.0,3062.0,1298.0,1320.0
+Mexico,production,antimony_mine,,2614.0,2753.0,1064.0,1494.0,1758.0,1783.0,983.0,1909.0,1301.0,273.0
+Morocco,production,antimony_mine,,172.0,157.0,184.0,168.0,175.0,198.0,152.0,160.0,160.0,250.0
+Pakistan,production,antimony_mine,,38.0,0.0,,,,,,,,
+Peru,production,antimony_mine,,307.0,278.0,339.0,219.0,385.0,230.0,305.0,242.0,364.0,255.0
+Romania,production,antimony_mine,,400.0,300.0,,,,,,,,
+Russia,production,antimony_mine,,,,10000.0,7120.0,7000.0,6000.0,6000.0,6000.0,4000.0,4356.0
+South Africa,production,antimony_mine,,5258.0,4176.0,3951.0,4111.0,4534.0,5537.0,5137.0,3415.0,4243.0,5278.0
+Soviet Union,production,antimony_mine,,18000.0,16000.0,,,,,,,,
+Tajikistan,production,antimony_mine,,,,1500.0,2000.0,2000.0,1000.0,1000.0,1200.0,1500.0,1800.0
+Thailand,production,antimony_mine,,326.0,60.0,348.0,800.0,700.0,300.0,90.0,80.0,260.0,70.0
+Turkey,production,antimony_mine,,552.0,288.0,131.0,59.0,55.0,291.0,175.0,19.0,20.0,100.0
+USA,production,antimony_mine,,500.0,500.0,500.0,266.0,215.0,262.0,242.0,356.0,489.0,450.0
+Yugoslavia,production,antimony_mine,,409.0,400.0,,,,,,,,
+Zimbabwe,production,antimony_mine,,55.0,86.0,137.0,51.0,35.0,20.0,,,,

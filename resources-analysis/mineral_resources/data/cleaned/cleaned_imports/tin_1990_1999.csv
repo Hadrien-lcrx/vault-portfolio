@@ -1,0 +1,126 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Algeria,imports,tin,Unwrought                                         ,138.0,250.0,185.0,300.0,,,,,,
+Argentina,imports,tin,Unwrought                                         ,544.0,689.0,775.0,972.0,1162.0,1042.0,1135.0,1280.0,1159.0,1100.0
+Australia,imports,tin,Unwrought                                         ,905.0,772.0,798.0,922.0,809.0,825.0,945.0,2476.0,2750.0,2544.0
+Austria,imports,tin,Scrap                                             ,,,,,,39.0,52.0,44.0,86.0,114.0
+Austria,imports,tin,Unwrought                                         ,560.0,686.0,831.0,945.0,855.0,970.0,822.0,806.0,641.0,820.0
+Belarus,imports,tin,Unwrought                                         ,,,,,,,,,101.0,168.0
+Belgium-Luxembourg,imports,tin,Concentrates                                      ,755.0,170.0,,,,,,,,
+Belgium-Luxembourg,imports,tin,Scrap                                             ,652.0,1248.0,1552.0,1498.0,1604.0,2464.0,1420.0,2259.0,3953.0,3006.0
+Belgium-Luxembourg,imports,tin,Unwrought                                         ,2122.0,2558.0,2513.0,1803.0,1508.0,636.0,1544.0,1833.0,1579.0,1063.0
+Belgium-Luxembourg,imports,tin,Unwrought alloys                                  ,209.0,184.0,347.0,602.0,1067.0,1087.0,968.0,584.0,1062.0,1227.0
+Bolivia,imports,tin,Concentrates                                      ,,,,5268.0,11340.0,12015.0,11479.0,8550.0,0.0,26.0
+Brazil,imports,tin,Unwrought                                         ,,,,,,,,,,669.0
+Canada,imports,tin,Scrap                                             ,,,,,305.0,319.0,489.0,701.0,451.0,576.0
+Canada,imports,tin,Unwrought                                         ,3760.0,3337.0,3587.0,4510.0,4677.0,4493.0,4462.0,4659.0,4223.0,7663.0
+Chile,imports,tin,Unwrought                                         ,298.0,537.0,474.0,513.0,546.0,591.0,790.0,797.0,552.0,439.0
+China,imports,tin,Concentrates                                      ,,,,,39.0,44.0,434.0,509.0,692.0,871.0
+China,imports,tin,Unwrought                                         ,,,,,1120.0,685.0,741.0,1138.0,1040.0,1291.0
+China,imports,tin,Unwrought alloys                                  ,,,,,969.0,1569.0,1320.0,1512.0,1948.0,2498.0
+Colombia,imports,tin,Unwrought                                         ,397.0,319.0,276.0,366.0,440.0,301.0,293.0,291.0,336.0,234.0
+Croatia,imports,tin,Unwrought                                         ,,,224.0,148.0,100.0,123.0,117.0,105.0,74.0,73.0
+Czech Republic,imports,tin,Unwrought                                         ,,,,,584.0,415.0,526.0,587.0,436.0,483.0
+Czechoslovakia,imports,tin,Unwrought                                         ,2424.0,2100.0,800.0,,,,,,,
+Denmark,imports,tin,Scrap                                             ,,,,,,,,,,
+Denmark,imports,tin,Unwrought                                         ,121.0,69.0,,,,,,,,
+Denmark,imports,tin,Unwrought alloys                                  ,,,,,,,,,,
+Dubai,imports,tin,Concentrates                                      ,,,,,,,673.0,706.0,40.0,0.0
+Dubai,imports,tin,Scrap                                             ,,,,,,,,,,682.0
+Dubai,imports,tin,Unwrought                                         ,,,,,,,550.0,735.0,938.0,505.0
+Egypt,imports,tin,Unwrought                                         ,,,206.0,209.0,190.0,209.0,4024.0,209.0,380.0,232.0
+Egypt,imports,tin,Unwrought & scrap                                 ,300.0,129.0,,,,,,,,
+Ethiopia,imports,tin,Unwrought                                         ,,,,,,,,971.0,1400.0,
+Finland,imports,tin,Unwrought                                         ,63.0,42.0,,,97.0,261.0,241.0,352.0,377.0,111.0
+France,imports,tin,Concentrates                                      ,,,,,3.0,12.0,451.0,230.0,1008.0,203.0
+France,imports,tin,Scrap                                             ,,,,,211.0,172.0,536.0,1740.0,1957.0,1163.0
+France,imports,tin,Unwrought                                         ,8290.0,8195.0,8549.0,7697.0,9154.0,8695.0,8191.0,8104.0,8505.0,7596.0
+France,imports,tin,Unwrought alloys                                  ,490.0,381.0,470.0,506.0,656.0,1059.0,608.0,386.0,905.0,686.0
+German Federal Republic,imports,tin,Concentrates                                      ,115.0,,,,,,,,,
+German Federal Republic,imports,tin,Scrap                                             ,485.0,,,,,,,,,
+German Federal Republic,imports,tin,Unwrought                                         ,19777.0,,,,,,,,,
+German Federal Republic,imports,tin,Unwrought alloys                                  ,1808.0,,,,,,,,,
+Germany,imports,tin,Concentrates                                      ,,45.0,,,,,,,,
+Germany,imports,tin,Scrap                                             ,,653.0,659.0,1213.0,731.0,278.0,248.0,400.0,416.0,572.0
+Germany,imports,tin,Unwrought                                         ,,19650.0,21856.0,18382.0,19950.0,21343.0,19685.0,20735.0,21195.0,18620.0
+Germany,imports,tin,Unwrought alloys                                  ,,1511.0,1105.0,725.0,808.0,916.0,702.0,782.0,768.0,473.0
+Greece,imports,tin,Unwrought                                         ,676.0,597.0,299.0,249.0,360.0,454.0,491.0,502.0,296.0,153.0
+Hong Kong,imports,tin,Concentrates                                      ,8710.0,8367.0,9505.0,3166.0,969.0,849.0,100.0,1699.0,82.0,0.0
+Hong Kong,imports,tin,Scrap                                             ,,,,,7.0,50.0,200.0,232.0,226.0,144.0
+Hong Kong,imports,tin,Unwrought                                         ,7022.0,9425.0,16684.0,19008.0,11391.0,12224.0,11135.0,5619.0,8991.0,4765.0
+Hong Kong,imports,tin,Unwrought alloys                                  ,,,,,2868.0,3670.0,2758.0,1435.0,6240.0,5308.0
+Hungary,imports,tin,Unwrought                                         ,,,430.0,176.0,346.0,346.0,464.0,332.0,314.0,443.0
+Hungary,imports,tin,Unwrought & semi-manufactures                     ,372.0,550.0,,,,,,,,
+India,imports,tin,Concentrates                                      ,,,,,1149.0,1441.0,2478.0,5016.0,144.0,0.0
+India,imports,tin,Scrap                                             ,2163.0,972.0,102.0,285.0,475.0,1318.0,1779.0,26.0,76.0,0.0
+India,imports,tin,Unwrought                                         ,2089.0,1540.0,1485.0,2972.0,4224.0,3172.0,5049.0,4203.0,3655.0,3366.0
+Iran,imports,tin,Unwrought                                         ,410.0,663.0,558.0,247.0,142.0,347.0,,545.0,231.0,574.0
+"Ireland, Republic of",imports,tin,Unwrought                                         ,153.0,69.0,95.0,197.0,265.0,317.0,343.0,363.0,288.0,869.0
+Israel,imports,tin,Unwrought                                         ,,,,,200.0,200.0,250.0,300.0,320.0,230.0
+Italy,imports,tin,Scrap                                             ,,,,,42.0,46.0,120.0,,,
+Italy,imports,tin,Unwrought                                         ,6974.0,5392.0,5520.0,5436.0,5143.0,5824.0,6317.0,5206.0,6335.0,5726.0
+Italy,imports,tin,Unwrought alloys                                  ,190.0,85.0,110.0,224.0,220.0,196.0,258.0,590.0,437.0,313.0
+Japan,imports,tin,Scrap                                             ,,,,,131.0,75.0,96.0,49.0,143.0,89.0
+Japan,imports,tin,Unwrought                                         ,32771.0,34349.0,27539.0,27665.0,27577.0,28019.0,25272.0,28133.0,23624.0,25993.0
+Japan,imports,tin,Unwrought alloys                                  ,3526.0,4329.0,3613.0,1766.0,3226.0,2958.0,2294.0,2488.0,2480.0,2901.0
+Kazakhstan,imports,tin,Unwrought                                         ,,,,,,250.0,260.0,710.0,912.0,1082.0
+Korea (Rep. of),imports,tin,Concentrates                                      ,4228.0,2535.0,,,,,,,,
+Korea (Rep. of),imports,tin,Unwrought                                         ,6050.0,6606.0,7394.0,9364.0,10574.0,11244.0,11118.0,12054.0,11771.0,12125.0
+Korea (Rep. of),imports,tin,Unwrought alloys                                  ,,,,,113.0,275.0,733.0,198.0,257.0,390.0
+Malaysia,imports,tin,Concentrates                                      ,38511.0,51038.0,56014.0,42540.0,59569.0,57754.0,32343.0,30454.0,21961.0,20110.0
+Malaysia,imports,tin,Unwrought                                         ,1936.0,4689.0,4998.0,5252.0,5265.0,7210.0,3639.0,3225.0,2608.0,2618.0
+Malaysia,imports,tin,Unwrought alloys                                  ,,,,,,,4222.0,3907.0,6627.0,3699.0
+Mexico,imports,tin,Concentrates                                      ,8732.0,6764.0,3739.0,4044.0,1098.0,705.0,1760.0,1746.0,1541.0,1798.0
+Mexico,imports,tin,Scrap                                             ,265.0,277.0,88.0,61.0,91.0,56.0,31.0,12.0,55.0,227.0
+Mexico,imports,tin,Unwrought                                         ,506.0,719.0,549.0,540.0,1255.0,1183.0,1537.0,1534.0,2772.0,2647.0
+Morocco,imports,tin,Unwrought                                         ,170.0,127.0,175.0,116.0,89.0,159.0,142.0,120.0,113.0,76.0
+Netherlands,imports,tin,Concentrates                                      ,10586.0,6180.0,,,,,,,,
+Netherlands,imports,tin,Scrap                                             ,393.0,476.0,236.0,455.0,390.0,230.0,203.0,370.0,793.0,508.0
+Netherlands,imports,tin,Unwrought                                         ,2358.0,2263.0,3763.0,3908.0,8953.0,8990.0,10180.0,12945.0,13345.0,10042.0
+Netherlands,imports,tin,Unwrought alloys                                  ,697.0,463.0,222.0,1433.0,1039.0,1032.0,1073.0,989.0,1116.0,1094.0
+New Zealand,imports,tin,Unwrought                                         ,103.0,96.0,53.0,78.0,133.0,93.0,446.0,57.0,99.0,107.0
+Norway,imports,tin,Unwrought                                         ,420.0,434.0,421.0,433.0,398.0,541.0,553.0,477.0,402.0,387.0
+Norway,imports,tin,Unwrought alloys                                  ,102.0,80.0,70.0,81.0,70.0,93.0,90.0,81.0,104.0,130.0
+Pakistan,imports,tin,Scrap                                             ,,,,27.0,658.0,1472.0,765.0,138.0,341.0,173.0
+Peru,imports,tin,Unwrought                                         ,152.0,130.0,29.0,162.0,185.0,182.0,128.0,154.0,147.0,88.0
+Philippines,imports,tin,Unwrought                                         ,850.0,975.0,730.0,508.0,648.0,794.0,874.0,750.0,557.0,1388.0
+Poland,imports,tin,Unwrought                                         ,890.0,767.0,1010.0,869.0,987.0,1338.0,1229.0,1298.0,1090.0,957.0
+Portugal,imports,tin,Unwrought                                         ,536.0,748.0,938.0,649.0,726.0,622.0,725.0,748.0,940.0,834.0
+Portugal,imports,tin,Unwrought alloys                                  ,,,,,239.0,416.0,458.0,276.0,411.0,92.0
+Romania,imports,tin,Unwrought                                         ,,,524.0,615.0,536.0,569.0,511.0,434.0,412.0,204.0
+Russia,imports,tin,Concentrates                                      ,,,,182.0,2548.0,,13218.0,3870.0,310.0,390.0
+Russia,imports,tin,Unwrought                                         ,,,3300.0,13900.0,7500.0,,125.0,181.0,410.0,1538.0
+Saudi Arabia,imports,tin,Unwrought                                         ,,,,,,42.0,62.0,62.0,51.0,207.0
+Serbia and Montenegro,imports,tin,Unwrought                                         ,,,217.0,50.0,50.0,50.0,107.0,206.0,123.0,28.0
+Singapore,imports,tin,Concentrates                                      ,4214.0,1350.0,667.0,1008.0,1551.0,1103.0,820.0,917.0,289.0,578.0
+Singapore,imports,tin,Scrap                                             ,365.0,376.0,212.0,756.0,551.0,856.0,684.0,652.0,589.0,540.0
+Singapore,imports,tin,Unwrought                                         ,3846.0,5272.0,5473.0,4006.0,3010.0,3976.0,2108.0,3930.0,1879.0,5007.0
+Slovakia,imports,tin,Unwrought                                         ,,,0.0,478.0,588.0,414.0,607.0,8.0,746.0,836.0
+South Africa,imports,tin,Unwrought                                         ,47.0,2631.0,1359.0,2118.0,2425.0,2219.0,2425.0,2391.0,1823.0,2316.0
+Soviet Union,imports,tin,Concentrates                                      ,,,,,,,,,,
+Soviet Union,imports,tin,Unwrought                                         ,,,,,,,,,,
+Spain,imports,tin,Concentrates                                      ,1989.0,1878.0,2739.0,2466.0,215.0,25.0,66.0,15.0,2.0,358.0
+Spain,imports,tin,Scrap                                             ,,,,,51.0,136.0,81.0,97.0,42.0,47.0
+Spain,imports,tin,Unwrought                                         ,2752.0,3224.0,3194.0,6127.0,4798.0,5238.0,24354.0,4429.0,4109.0,3458.0
+Spain,imports,tin,Unwrought alloys                                  ,,,,,135.0,889.0,1516.0,719.0,497.0,435.0
+Sweden,imports,tin,Scrap                                             ,167.0,164.0,100.0,82.0,196.0,198.0,93.0,112.0,164.0,95.0
+Sweden,imports,tin,Unwrought                                         ,433.0,311.0,237.0,425.0,514.0,489.0,495.0,549.0,663.0,634.0
+Sweden,imports,tin,Unwrought alloys                                  ,381.0,221.0,266.0,161.0,166.0,240.0,62.0,276.0,308.0,271.0
+Switzerland,imports,tin,Unwrought                                         ,1220.0,941.0,720.0,943.0,676.0,779.0,636.0,851.0,864.0,814.0
+Taiwan,imports,tin,Scrap                                             ,,,,,106.0,263.0,461.0,437.0,551.0,229.0
+Taiwan,imports,tin,Unwrought                                         ,5165.0,7349.0,7447.0,7683.0,7927.0,7254.0,7280.0,9857.0,9088.0,11052.0
+Taiwan,imports,tin,Unwrought alloys                                  ,,,,,1762.0,2445.0,2656.0,2862.0,3026.0,2489.0
+Thailand,imports,tin,Concentrates                                      ,,,,,,,17269.0,22031.0,26451.0,30675.0
+Thailand,imports,tin,Unwrought                                         ,,,,,4.0,1438.0,209.0,87.0,69.0,195.0
+Turkey,imports,tin,Unwrought                                         ,1436.0,1174.0,855.0,898.0,835.0,1095.0,1409.0,1234.0,1335.0,1267.0
+USA,imports,tin,Concentrates                                      ,0.0,2.0,0.0,,,,,,,
+USA,imports,tin,Scrap                                             ,1114.0,1055.0,872.0,2553.0,1922.0,15928.0,6744.0,1961.0,4187.0,2736.0
+USA,imports,tin,Unwrought                                         ,33810.0,29102.0,27367.0,33989.0,32112.0,33347.0,30004.0,40580.0,44105.0,48012.0
+USA,imports,tin,Unwrought alloys                                  ,6335.0,8430.0,10070.0,7072.0,8744.0,11321.0,11828.0,3869.0,1319.0,3090.0
+Ukraine,imports,tin,Unwrought                                         ,,,,1244.0,1062.0,1100.0,368.0,288.0,48.0,33.0
+United Kingdom,imports,tin,Concentrates                                      ,13443.0,3616.0,11.0,5.0,3.0,11.0,19.0,11.0,11.0,
+United Kingdom,imports,tin,Scrap                                             ,720.0,2153.0,1384.0,322.0,1035.0,562.0,557.0,456.0,477.0,393.0
+United Kingdom,imports,tin,Unwrought                                         ,3824.0,4714.0,8932.0,13004.0,13067.0,9767.0,10010.0,14768.0,10753.0,9120.0
+United Kingdom,imports,tin,Unwrought alloys                                  ,2272.0,2166.0,1443.0,1538.0,1635.0,1695.0,1901.0,1303.0,1220.0,952.0
+Venezuela,imports,tin,Unwrought                                         ,343.0,628.0,701.0,449.0,328.0,875.0,669.0,353.0,738.0,323.0
+Yugoslavia,imports,tin,Unwrought                                         ,1110.0,206.0,,,,,,,,
+Zimbabwe,imports,tin,Unwrought                                         ,,,,,,,52.0,76.0,110.0,111.0

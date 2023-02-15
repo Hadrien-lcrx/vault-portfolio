@@ -1,0 +1,40 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,imports,bismuth,Metal                                             ,,6.0,6.0,,,,,,,
+Australia,imports,bismuth,Metal                                             ,4.0,7.0,20.0,,,,,,,
+Austria,imports,bismuth,Metal                                             ,18.0,67.0,105.0,128.0,114.0,62.0,114.0,42.0,148.0,80.0
+Belgium,imports,bismuth,Metal                                             ,,,,,,,109.0,111.0,190.0,9.0
+Belgium-Luxembourg,imports,bismuth,Metal                                             ,17.0,1.0,4.0,4.0,20.0,27.0,,,,
+Brazil,imports,bismuth,Metal                                             ,128.0,104.0,115.0,,,,,,,
+Canada,imports,bismuth,Metal                                             ,139.0,185.0,93.0,,,,,,,
+China,imports,bismuth,Metal                                             ,78.0,214.0,220.0,,,,,,,
+Croatia,imports,bismuth,Metal                                             ,,,,,3.0,10.0,5.0,10.0,,
+Czech Republic,imports,bismuth,Metal                                             ,35.0,26.0,42.0,56.0,64.0,50.0,77.0,70.0,78.0,53.0
+France,imports,bismuth,Compounds                                         ,226.0,101.0,,,,,,,,
+France,imports,bismuth,Metal                                             ,446.0,420.0,728.0,629.0,830.0,1029.0,547.0,382.0,219.0,102.0
+Germany,imports,bismuth,Compounds                                         ,1383.0,1295.0,,,,,,,,
+Germany,imports,bismuth,Metal                                             ,1810.0,2038.0,1517.0,1689.0,1693.0,1508.0,1337.0,1130.0,1262.0,881.0
+Greece,imports,bismuth,Metal                                             ,9.0,8.0,3.0,17.0,23.0,6.0,6.0,11.0,3.0,0.0
+Hong Kong,imports,bismuth,Metal                                             ,72.0,8.0,7.0,,,,,,,
+Hungary,imports,bismuth,Metal                                             ,,,,,,2.0,3.0,3.0,13.0,84.0
+India,imports,bismuth,Metal                                             ,20.0,28.0,55.0,,,,,,,
+Indonesia,imports,bismuth,Compounds                                         ,43.0,0.0,43.0,,,,,,,
+"Ireland, Republic of",imports,bismuth,Metal                                             ,54.0,30.0,33.0,54.0,2.0,6.0,8.0,12.0,38.0,14.0
+Italy,imports,bismuth,Metal                                             ,190.0,391.0,301.0,151.0,175.0,203.0,251.0,316.0,269.0,152.0
+Japan,imports,bismuth,Metal                                             ,361.0,241.0,474.0,,,,,,,
+Korea (Rep. of),imports,bismuth,Metal                                             ,43.0,31.0,32.0,,,,,,,
+Netherlands,imports,bismuth,Compounds                                         ,393.0,360.0,,,,,,,,
+Netherlands,imports,bismuth,Metal                                             ,1107.0,278.0,108.0,274.0,166.0,85.0,168.0,127.0,120.0,42.0
+Poland,imports,bismuth,Metal                                             ,9.0,8.0,4.0,4.0,6.0,14.0,14.0,15.0,25.0,20.0
+Russia,imports,bismuth,Metal                                             ,30.0,40.0,15.0,,,,,,,
+Slovenia,imports,bismuth,Metal                                             ,39.0,35.0,54.0,42.0,43.0,69.0,66.0,90.0,60.0,24.0
+South Africa,imports,bismuth,Compounds                                         ,819.0,9.0,,,,,,,,
+Spain,imports,bismuth,Metal                                             ,167.0,125.0,139.0,188.0,206.0,179.0,297.0,190.0,212.0,52.0
+Sweden,imports,bismuth,Metal                                             ,41.0,16.0,12.0,8.0,13.0,11.0,8.0,5.0,12.0,6.0
+Switzerland,imports,bismuth,Metal                                             ,27.0,18.0,15.0,15.0,6.0,15.0,6.0,8.0,12.0,12.0
+Taiwan,imports,bismuth,Compounds                                         ,29.0,20.0,24.0,,,,,,,
+Taiwan,imports,bismuth,Metal                                             ,19.0,43.0,23.0,,,,,,,
+Thailand,imports,bismuth,Metal                                             ,8.0,11.0,14.0,,,,,,,
+Turkey,imports,bismuth,Metal                                             ,4.0,3.0,4.0,4.0,6.0,7.0,11.0,14.0,21.0,15.0
+USA,imports,bismuth,Compounds                                         ,,,,,,,,,,
+USA,imports,bismuth,Metal                                             ,2412.0,2204.0,1932.0,,,,,,,
+United Kingdom,imports,bismuth,Metal                                             ,1379.0,1515.0,1513.0,2237.0,2205.0,2858.0,2347.0,1908.0,1582.0,310.0

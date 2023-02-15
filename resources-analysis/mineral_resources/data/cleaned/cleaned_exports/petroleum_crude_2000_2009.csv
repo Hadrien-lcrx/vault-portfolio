@@ -1,0 +1,74 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Albania,exports,petroleum_crude,,,,,,,,,,,342581.0
+Algeria,exports,petroleum_crude,,21200000.0,20300000.0,18300000.0,,,,,,,
+Argentina,exports,petroleum_crude,,14580444.0,14922104.0,14339271.0,,,,,,,
+Australia,exports,petroleum_crude,,20424257.0,19021019.0,17093347.0,,,,,,,
+Austria,exports,petroleum_crude,,57085.0,60151.0,,,,,,,,
+Azerbaijan,exports,petroleum_crude,,5511642.0,9142508.0,8021735.0,,,,,,,
+Barbados,exports,petroleum_crude,,77624.0,60146.0,58705.0,,,,,,,
+Belarus,exports,petroleum_crude,,350600.0,450000.0,600000.0,,,,,,,
+Belgium,exports,petroleum_crude,,,,,,,,2833897.0,2422211.0,2496349.0,2390390.0
+Belgium-Luxembourg,exports,petroleum_crude,,359206.0,328893.0,2319755.0,2263897.0,2967608.0,2616977.0,,,,
+Bolivia,exports,petroleum_crude,,181752.0,243388.0,369440.0,,,,,,,
+Brazil,exports,petroleum_crude,,964852.0,5721476.0,12135264.0,,,,,,,
+Brunei,exports,petroleum_crude,,8026203.0,,,,,,,,,
+Cameroon,exports,petroleum_crude,,5383313.0,4895890.0,,,,,,,,
+Canada,exports,petroleum_crude,,72703029.0,70960455.0,64880600.0,,,,,,,
+China,exports,petroleum_crude,,10437779.0,7550605.0,7208063.0,,,,,,,
+Colombia,exports,petroleum_crude,,20648539.0,15945431.0,14344996.0,,,,,,,
+Congo,exports,petroleum_crude,,11224260.0,,,,,,,,,
+Croatia,exports,petroleum_crude,,5685.0,15001.0,,,,,,,,
+Czech Republic,exports,petroleum_crude,,110672.0,118714.0,129275.0,155258.0,64315.0,57522.0,41794.0,16573.0,18130.0,21600.0
+Denmark,exports,petroleum_crude,,11393325.0,11645846.0,13073624.0,13015898.0,14324704.0,13567566.0,11456257.0,9493573.0,8593198.0,8520980.0
+Ecuador,exports,petroleum_crude,,12055515.0,12574475.0,11785030.0,,,,,,,
+Egypt,exports,petroleum_crude,,,2408900.0,2377000.0,,,,,,,
+Estonia,exports,petroleum_crude,,555000.0,1031000.0,648000.0,,,,,,,0.0
+France,exports,petroleum_crude,,134324.0,55631.0,90903.0,91091.0,39.0,20374.0,2675.0,190.0,65.0,1689.0
+Georgia,exports,petroleum_crude,,437000.0,501000.0,476000.0,,,,,,,
+Germany,exports,petroleum_crude,,313476.0,907924.0,656861.0,1741465.0,1253391.0,1257658.0,344965.0,196926.0,40011.0,265799.0
+Greece,exports,petroleum_crude,,695163.0,596613.0,,,,,,,,
+Guatemala,exports,petroleum_crude,,1116994.0,1058583.0,1285052.0,,,,,,,
+India,exports,petroleum_crude,,0.0,50000.0,2200.0,,,,,,,
+Indonesia,exports,petroleum_crude,,29225946.0,32857030.0,29054356.0,,,,,,,
+Iran,exports,petroleum_crude,,124900000.0,109500000.0,104900000.0,,,,,,,
+Iraq,exports,petroleum_crude,,100400000.0,84200000.0,73600000.0,,,,,,,
+"Ireland, Republic of",exports,petroleum_crude,,,,,,63.0,7.0,11.0,55635.0,0.0,11.0
+Italy,exports,petroleum_crude,,167922.0,250353.0,871391.0,802524.0,824206.0,986121.0,937813.0,1442498.0,1195500.0,619630.0
+Japan,exports,petroleum_crude,,16.0,75653.0,0.0,,,,,,,
+Kazakhstan,exports,petroleum_crude,,29348808.0,32400362.0,39133765.0,,,,,,,
+Kuwait,exports,petroleum_crude,,61900000.0,61100000.0,57200000.0,,,,,,,
+Latvia,exports,petroleum_crude,,,10999.0,10477.0,10162.0,19892.0,6085.0,12099.0,0.0,,93.0
+Libya,exports,petroleum_crude,,47800000.0,46900000.0,43800000.0,,,,,,,
+Lithuania,exports,petroleum_crude,,311983.0,349491.0,134180.0,273187.0,197709.0,148031.0,115075.0,155416.0,128838.0,113172.0
+Malaysia,exports,petroleum_crude,,17344570.0,15393955.0,,,,,,,,
+Mexico,exports,petroleum_crude,,85648851.0,88400000.0,86000000.0,,,,,,,
+Netherlands,exports,petroleum_crude,,17545.0,177964.0,849.0,54938.0,136202.0,145541.0,309456.0,207858.0,328795.0,184860.0
+New Zealand,exports,petroleum_crude,,932552.0,1067027.0,1072252.0,,,,,,,
+Nigeria,exports,petroleum_crude,,97800000.0,102900000.0,88600000.0,,,,,,,
+Norway,exports,petroleum_crude,,139954502.0,146645926.0,139103257.0,135201186.0,129935579.0,119119538.0,105110521.0,99245180.0,91299591.0,87982743.0
+Oman,exports,petroleum_crude,,44590000.0,45328762.0,,,,,,,,
+Pakistan,exports,petroleum_crude,,295746.0,418783.0,421472.0,,,,,,,
+Papua New Guinea,exports,petroleum_crude,,3243542.0,3200000.0,2500000.0,,,,,,,
+Peru,exports,petroleum_crude,,700000.0,900000.0,1166067.0,,,,,,,
+Poland,exports,petroleum_crude,,128931.0,439625.0,450000.0,161074.0,138253.0,216256.0,243699.0,287684.0,34871.0,17227.0
+Qatar,exports,petroleum_crude,,30100000.0,29500000.0,28245000.0,,,,,,,
+Russia,exports,petroleum_crude,,144414000.0,147900000.0,159100000.0,,,,,,,
+Saudi Arabia,exports,petroleum_crude,,313300000.0,302400000.0,265300000.0,,,,,,,
+Senegal,exports,petroleum_crude,,,76048.0,90000.0,,,,,,,
+Slovakia,exports,petroleum_crude,,14668.0,16895.0,13013.0,16699.0,113305.0,30887.0,27686.0,22172.0,18159.0,14932.0
+Spain,exports,petroleum_crude,,,,,25000.0,3000.0,28000.0,53000.0,2400.0,24000.0,400.0
+Suriname,exports,petroleum_crude,,166000.0,113000.0,90000.0,,,,,,,
+Sweden,exports,petroleum_crude,,,,,,,,,,3.0,45.0
+Syria,exports,petroleum_crude,,16584322.0,22734816.0,22169000.0,,,,,,,
+Thailand,exports,petroleum_crude,,11134798.0,1672327.0,2464563.0,,,,,,,
+Trinidad & Tobago,exports,petroleum_crude,,2483262.0,2437507.0,3024721.0,,,,,,,
+Tunisia,exports,petroleum_crude,,3017853.0,2382395.0,,,,,,,,
+Turkey,exports,petroleum_crude,,,,15310.0,54000.0,29000.0,75000.0,545000.0,3584000.0,4115000.0,2956000.0
+Turkmenistan,exports,petroleum_crude,,175000.0,388000.0,583000.0,,,,,,,
+USA,exports,petroleum_crude,,2555849.0,1177134.0,430613.0,,,,,,,
+Ukraine,exports,petroleum_crude,,272606.0,1028000.0,1127000.0,,,,,,,
+United Arab Emirates,exports,petroleum_crude,,87700000.0,86300000.0,78000000.0,,,,,,,
+United Kingdom,exports,petroleum_crude,,78022274.0,82057946.0,79943787.0,69617507.0,60743679.0,50619044.0,47864601.0,47058702.0,43354245.0,43550953.0
+Venezuela,exports,petroleum_crude,,104890000.0,108125000.0,110000000.0,,,,,,,
+Vietnam,exports,petroleum_crude,,15500000.0,,,,,,,,,
+"Yemen, Republic of",exports,petroleum_crude,,17698509.0,16938473.0,137229.0,,,,,,,

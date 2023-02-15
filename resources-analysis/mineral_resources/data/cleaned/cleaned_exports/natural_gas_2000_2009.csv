@@ -1,0 +1,24 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Austria,exports,natural_gas,,,,,,979540.0,1082286.0,1645995.0,2688210.0,2812303.0,2164960.0
+Belgium,exports,natural_gas,,,,,,,,39448874.0,20807227.0,59248950.0,10085049.0
+Belgium-Luxembourg,exports,natural_gas,,,,,,19331793.0,17889507.0,,,,
+Croatia,exports,natural_gas,,,,,,469325.0,601267.0,871768.0,540782.0,457192.0,570296.0
+Czech Republic,exports,natural_gas,,,,,,62751.0,58767.0,0.0,0.0,0.0,834462.0
+Denmark,exports,natural_gas,,,,,,3151483.0,3466835.0,3818822.0,3786580.0,4023305.0,2906339.0
+Finland,exports,natural_gas,,,,,,276.0,328.0,0.0,1218.0,1420.0,4557.0
+France,exports,natural_gas,,,,,,2728650.0,9107475.0,11501866.0,10247611.0,22087224.0,3469724.0
+Germany,exports,natural_gas,,,,,,,,36880000.0,17703000.0,19648000.0,11354000.0
+Hungary,exports,natural_gas,,,,,,0.0,11560.0,0.0,127853.0,0.0,323537.0
+"Ireland, Republic of",exports,natural_gas,,,,,,0.0,0.0,642980.0,5447.0,,
+Italy,exports,natural_gas,,,,,,686700.0,649706.0,331234.0,585818.0,1749247.0,1620776.0
+Norway,exports,natural_gas,,,,,,57013142.0,61351894.0,63323422.0,63999250.0,71394708.0,74357298.0
+Poland,exports,natural_gas,,,,,,12367.0,26501.0,,,,
+Portugal,exports,natural_gas,,,,,,0.0,0.0,0.0,0.0,890688.0,254997.0
+Russia,exports,natural_gas,,129176998.0,125600000.0,102530071.0,,,,,,,
+Slovakia,exports,natural_gas,,,,,,500.0,257026.0,221885.0,124820.0,112328.0,334205.0
+Slovenia,exports,natural_gas,,,,,,0.0,72043.0,54579.0,34212.0,24368.0,
+Spain,exports,natural_gas,,,,,,2223089.0,778037.0,1546.0,31159.0,0.0,61433.0
+Sweden,exports,natural_gas,,,,,,,,,51.0,0.0,961.0
+Switzerland,exports,natural_gas,,,,,,1.0,3244.0,,,,
+Turkey,exports,natural_gas,,,,,,0.0,0.0,2974.0,5392.0,412655.0,665247.0
+United Kingdom,exports,natural_gas,,,,,,52315.0,8270123.0,9528256.0,9361445.0,9543217.0,11160939.0

@@ -1,0 +1,16 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Australia,production,rare_earth_minerals,Monazite                                          ,,,,,,4507.0,5310.0,9379.0,14992.0,16340.0
+Australia,production,rare_earth_minerals,Xenotime                                          ,,,,,,20.0,7.0,12.0,23.0,19.0
+Brazil,production,rare_earth_minerals,Monazite                                          ,,,,,,,1610.0,2441.0,2541.0,2318.0
+Burundi,production,rare_earth_minerals,Bastnaesite                                       ,,,,,,82.0,139.0,165.0,40.0,
+India,production,rare_earth_minerals,Monazite                                          ,,,,,,3000.0,2994.0,2734.0,3303.0,3254.0
+Madagascar,production,rare_earth_minerals,Bastnaesite                                       ,,,,,,,,,,22.0
+Malaysia,production,rare_earth_minerals,Monazite                                          ,,,,,,3285.0,1879.0,1976.0,1607.0,466.0
+Malaysia,production,rare_earth_minerals,Xenotime                                          ,,,,,,25.0,79.0,35.0,0.0,0.0
+Nigeria,production,rare_earth_minerals,Monazite                                          ,,,,,,20.0,20.0,20.0,20.0,20.0
+Sri Lanka,production,rare_earth_minerals,Monazite                                          ,,,,,,6.0,1.0,0.0,18.0,4.0
+Thailand,production,rare_earth_minerals,Monazite                                          ,,,,,,367.0,0.0,0.0,0.0,32.0
+Thailand,production,rare_earth_minerals,Xenotime                                          ,,,,,,0.0,0.0,50.0,0.0,6.0
+USA,production,rare_earth_minerals,Bastnaesite                                       ,,,,,,14940.0,13039.0,15359.0,14148.0,16515.0
+USA,production,rare_earth_minerals,Monazite                                          ,,,,,,750.0,600.0,600.0,1250.0,1200.0
+Zaire,production,rare_earth_minerals,Monazite                                          ,,,,,,298.0,125.0,96.0,77.0,92.0

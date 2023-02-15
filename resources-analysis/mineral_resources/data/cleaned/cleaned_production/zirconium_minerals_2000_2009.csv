@@ -1,0 +1,18 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Australia,production,zirconium_minerals,,374000.0,393000.0,413000.0,462000.0,441000.0,426000.0,491000.0,600000.0,528000.0,400000.0
+Brazil,production,zirconium_minerals,,28335.0,17031.0,20000.0,27198.0,25263.0,25657.0,25120.0,26739.0,25300.0,34248.0
+China,production,zirconium_minerals,,29898.0,25594.0,20000.0,20000.0,20000.0,26000.0,28000.0,25000.0,38000.0,31500.0
+Gambia,production,zirconium_minerals,,,,,12500.0,12000.0,0.0,410.0,355.0,,
+India,production,zirconium_minerals,,19000.0,19000.0,23219.0,25263.0,25432.0,27133.0,20535.0,35977.0,29158.0,28049.0
+Indonesia,production,zirconium_minerals,,250.0,250.0,250.0,250.0,500.0,2600.0,65000.0,111000.0,65000.0,63000.0
+Madagascar,production,zirconium_minerals,,,,,,,,0.0,0.0,0.0,3300.0
+Malaysia,production,zirconium_minerals,,3642.0,3768.0,5293.0,3456.0,6686.0,4954.0,1690.0,7393.0,984.0,1145.0
+Mozambique,production,zirconium_minerals,,,,,,,,,26347.0,32985.0,21100.0
+Russia,production,zirconium_minerals,,6300.0,6500.0,6500.0,6600.0,5500.0,6700.0,7500.0,7562.0,7094.0,8249.0
+Sierra Leone,production,zirconium_minerals,,,,,,,,,,0.0,5560.0
+South Africa,production,zirconium_minerals,,325000.0,262000.0,420000.0,370000.0,379000.0,314000.0,414400.0,388800.0,404000.0,392000.0
+Sri Lanka,production,zirconium_minerals,,,0.0,0.0,0.0,12826.0,23587.0,8321.0,381.0,1447.0,10267.0
+Thailand,production,zirconium_minerals,,,,,0.0,0.0,0.0,0.0,1023.0,,
+USA,production,zirconium_minerals,,180000.0,170000.0,132000.0,144000.0,172000.0,164000.0,143000.0,121000.0,122000.0,100000.0
+Ukraine,production,zirconium_minerals,,30000.0,33600.0,34300.0,35000.0,35000.0,35000.0,35000.0,35000.0,36000.0,31000.0
+Vietnam,production,zirconium_minerals,,7200.0,8000.0,10800.0,21300.0,40000.0,29100.0,23900.0,24300.0,25303.0,19368.0

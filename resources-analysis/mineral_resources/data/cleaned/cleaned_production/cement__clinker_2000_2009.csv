@@ -1,0 +1,26 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Austria,production,cement__clinker,"Cement, clinker",,,,,,90053.0,188588.0,221684.0,287911.0,160223.0
+Belgium,production,cement__clinker,"Cement, clinker",1138528.0,1121656.0,1301790.0,,,,,,,1123722.0
+Bulgaria,production,cement__clinker,"Cement, clinker",,,,,,,,,3509817.0,1858850.0
+Cyprus,production,cement__clinker,"Cement, clinker",,,212459.0,56034.0,68865.0,37891.0,97846.0,0.0,0.0,30286.0
+Czech Republic,production,cement__clinker,"Cement, clinker",3540600.0,2441353.0,2102275.0,,3017698.0,3045055.0,3287744.0,3837020.0,3758652.0,2923203.0
+Denmark,production,cement__clinker,"Cement, clinker",102719.0,102571.0,152636.0,61909.0,52758.0,42691.0,5499.0,21209.0,16092.0,122.0
+Estonia,production,cement__clinker,"Cement, clinker",,,590500.0,559500.0,622900.0,635500.0,704700.0,1042800.0,1040000.0,448500.0
+France,production,cement__clinker,"Cement, clinker",16323000.0,16503000.0,16479000.0,16313000.0,17157000.0,17332000.0,17731000.0,18046000.0,16885000.0,14568000.0
+Germany,production,cement__clinker,"Cement, clinker",27679000.0,24523000.0,20120000.0,21513000.0,26281000.0,24315000.0,24921000.0,26992000.0,25366000.0,23232000.0
+Greece,production,cement__clinker,"Cement, clinker",13169136.0,13210781.0,8947394.0,15016562.0,12185001.0,12442361.0,10852453.0,12035077.0,11361397.0,8649322.0
+Hungary,production,cement__clinker,"Cement, clinker",,,,,,,2533076.0,2500698.0,2500000.0,2200000.0
+Italy,production,cement__clinker,"Cement, clinker",29816013.0,30893082.0,30770167.0,32077055.0,33048546.0,,1319046.0,1088402.0,957371.0,22440612.0
+Latvia,production,cement__clinker,"Cement, clinker",200000.0,200000.0,200000.0,200000.0,250000.0,,,,,
+Lithuania,production,cement__clinker,"Cement, clinker",,,,,,,,0.0,0.0,233292.0
+Luxembourg,production,cement__clinker,"Cement, clinker",965000.0,844000.0,895000.0,770000.0,847000.0,834000.0,816000.0,817000.0,761800.0,706426.0
+Netherlands,production,cement__clinker,"Cement, clinker",,,900000.0,800000.0,825000.0,,,,,
+Norway,production,cement__clinker,"Cement, clinker",,,,,,,,,1534132.0,1528300.0
+Poland,production,cement__clinker,"Cement, clinker",11558467.0,9335062.0,8811639.0,8647397.0,9620601.0,9468410.0,11219940.0,13167950.0,12443103.0,10659214.0
+Portugal,production,cement__clinker,"Cement, clinker",47295.0,42429.0,114524.0,845594.0,1082678.0,1450646.0,1484856.0,1513487.0,1749406.0,6484970.0
+Romania,production,cement__clinker,"Cement, clinker",,,,432011.0,788836.0,464613.0,606088.0,222699.0,111719.0,5841143.0
+Slovakia,production,cement__clinker,"Cement, clinker",,,,,,,,,,1822820.0
+Spain,production,cement__clinker,"Cement, clinker",,,,,,482536.0,540482.0,32045543.0,27304551.0,21594604.0
+Sweden,production,cement__clinker,"Cement, clinker",2382462.0,2471804.0,2359501.0,2234987.0,2385491.0,2457301.0,2660045.0,2809023.0,2643720.0,2336140.0
+Turkey,production,cement__clinker,"Cement, clinker",,,,,,31355180.0,32824687.0,39363683.0,41652824.0,41084368.0
+United Kingdom,production,cement__clinker,"Cement, clinker",11456000.0,10183000.0,10327000.0,10146000.0,10402000.0,10074000.0,10069000.0,10227000.0,8700000.0,6421000.0

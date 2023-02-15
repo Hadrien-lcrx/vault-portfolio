@@ -1,0 +1,41 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Albania,production,copper_refined,,,,,,,,,7000.0,7000.0,7000.0
+Australia,production,copper_refined,,,,,,,,,183068.0,178942.0,171959.0
+Austria,production,copper_refined,,,,,,,,28589.0,31707.0,31485.0,32812.0
+Belgium,production,copper_refined,,,,,,,,,563281.0,504867.0,519944.0
+Brazil,production,copper_refined,,,,,,,,,45847.0,45000.0,53100.0
+Bulgaria,production,copper_refined,,,,,,,,,58000.0,62000.0,62000.0
+Canada,production,copper_refined,,,,,,,,,508767.0,446278.0,397263.0
+Chile,production,copper_refined,,,,,,,,,676000.0,748200.0,780100.0
+China,production,copper_refined,,,,,,,,,260000.0,290000.0,290000.0
+Czechoslovakia,production,copper_refined,,,,,,,,,23067.0,23810.0,24587.0
+Egypt,production,copper_refined,,,,,,,,,2000.0,2000.0,2000.0
+Finland,production,copper_refined,,,,,,,,,42755.0,42719.0,43027.0
+France,production,copper_refined,,,,,,,,,45045.0,41345.0,45258.0
+German Democratic Rep,production,copper_refined,,,,,,,,,51000.0,49000.0,51000.0
+German Federal Republic,production,copper_refined,,,,,,,,,440200.0,404500.0,381095.0
+Hungary,production,copper_refined,,,,,,,,,14670.0,16752.0,27674.0
+India,production,copper_refined,,,,,,,,,22400.0,11682.0,19300.0
+Iran,production,copper_refined,,,,,,,,,7000.0,6000.0,3000.0
+Italy,production,copper_refined,,,,,,,,,20000.0,17500.0,15600.0
+Japan,production,copper_refined,,,,,,,,,933703.0,959070.0,983700.0
+Korea (Rep. of),production,copper_refined,,,,,,,,30911.0,42880.0,52442.0,85134.0
+"Korea, Dem. P.R. of",production,copper_refined,,,,,,,,,25000.0,25000.0,22000.0
+Mexico,production,copper_refined,,,,,,,,,73062.0,74990.0,91781.0
+Norway,production,copper_refined,,,,,,,,,21237.0,15674.0,21980.0
+Peru,production,copper_refined,,,,,,,,,188100.0,185400.0,230300.0
+Poland,production,copper_refined,,,,,,,,,306600.0,332216.0,335814.0
+Portugal,production,copper_refined,,,,,,,,,3392.0,2839.0,3373.0
+Romania,production,copper_refined,,,,,,,,,48200.0,66700.0,66300.0
+South Africa,production,copper_refined,,,,,,,,,145900.0,152500.0,152300.0
+Soviet Union,production,copper_refined,,,,,,,,,1440000.0,1460000.0,1480000.0
+Spain,production,copper_refined,,,,,,,,,159000.0,147000.0,140600.0
+Sweden,production,copper_refined,,,,,,,,,61720.0,64438.0,61676.0
+Taiwan,production,copper_refined,,,,,,,,,11669.0,14353.0,15305.0
+Turkey,production,copper_refined,,,,,,,,,17863.0,12585.0,22251.0
+USA,production,copper_refined,,,,,,,,,1706900.0,1869200.0,2015100.0
+United Kingdom,production,copper_refined,,,,,,,,,122200.0,125561.0,121697.0
+Yugoslavia,production,copper_refined,,,,,,,,,143516.0,150828.0,137504.0
+Zaire,production,copper_refined,,,,,,,,,98700.0,102900.0,103243.0
+Zambia,production,copper_refined,,,,,,,,,649000.0,629000.0,558400.0
+Zimbabwe,production,copper_refined,,,,,,,,,12000.0,11200.0,8400.0

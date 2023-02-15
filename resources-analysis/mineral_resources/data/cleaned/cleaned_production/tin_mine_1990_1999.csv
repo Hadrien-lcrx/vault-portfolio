@@ -1,0 +1,35 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Argentina,production,tin_mine,,123.0,0.0,,,,,,,,
+Australia,production,tin_mine,,7425.0,5380.0,6609.0,8057.0,7400.0,8656.0,8824.0,10168.0,10306.0,10040.0
+Bolivia,production,tin_mine,,17249.0,16830.0,16516.0,18634.0,16027.0,14419.0,14802.0,12898.0,11308.0,12417.0
+Brazil,production,tin_mine,,39149.0,29253.0,27500.0,27000.0,22500.0,20767.0,20568.0,19065.0,14607.0,13200.0
+Burma,production,tin_mine,,500.0,500.0,649.0,689.0,814.0,747.0,459.0,335.0,90.0,130.0
+Burundi,production,tin_mine,,,,,,,10.0,4.0,15.0,,
+Canada,production,tin_mine,,4035.0,4500.0,,,,,,,,
+China,production,tin_mine,,35800.0,42000.0,43800.0,46600.0,54100.0,61900.0,69700.0,67500.0,70100.0,80100.0
+"Congo, Democratic Republic",production,tin_mine,,,,700.0,700.0,1000.0,1000.0,,,,
+Czechoslovakia,production,tin_mine,,336.0,10.0,,,,,,,,
+German Democratic Rep,production,tin_mine,,1806.0,,,,,,,,,
+Indonesia,production,tin_mine,,31290.0,33418.0,29389.0,28585.0,30610.0,38378.0,51024.0,55174.0,53959.0,47754.0
+Kazakhstan,production,tin_mine,,,,100.0,100.0,14.0,,,500.0,500.0,500.0
+Laos,production,tin_mine,,400.0,300.0,580.0,660.0,1280.0,1170.0,1508.0,750.0,595.0,540.0
+Malaysia,production,tin_mine,,28468.0,20710.0,14339.0,10384.0,6459.0,6402.0,5174.0,5065.0,5754.0,7339.0
+Mexico,production,tin_mine,,5.0,12.0,,,,,,,,
+Mongolia,production,tin_mine,,200.0,300.0,100.0,100.0,53.0,59.0,18.0,10.0,,
+Namibia,production,tin_mine,,921.0,17.0,,,,,,,,
+Niger,production,tin_mine,,38.0,19.0,,,,,,,,
+Nigeria,production,tin_mine,,338.0,400.0,990.0,120.0,150.0,280.0,2817.0,3116.0,2082.0,2752.0
+Peru,production,tin_mine,,5134.0,6559.0,10195.0,13687.0,20275.0,22331.0,27004.0,27953.0,25907.0,30618.0
+Portugal,production,tin_mine,,1381.0,3133.0,3011.0,5334.0,4330.0,4627.0,4637.0,3566.0,2958.0,2163.0
+Russia,production,tin_mine,,,,15200.0,13100.0,10500.0,9000.0,9000.0,7500.0,7000.0,5200.0
+Rwanda,production,tin_mine,,734.0,898.0,735.0,600.0,20.0,198.0,209.0,155.0,440.0,359.0
+South Africa,production,tin_mine,,1140.0,1042.0,592.0,452.0,43.0,,,,,
+Soviet Union,production,tin_mine,,13000.0,12000.0,,,,,,,,
+Spain,production,tin_mine,,49.0,19.0,,,,,,,,
+Thailand,production,tin_mine,,14385.0,10755.0,8277.0,4586.0,2830.0,1590.0,1050.0,550.0,1460.0,2450.0
+USA,production,tin_mine,,100.0,100.0,100.0,100.0,,,,,,
+Uganda,production,tin_mine,,20.0,47.0,,,,,,,,
+United Kingdom,production,tin_mine,,3389.0,2326.0,2044.0,2232.0,1922.0,1972.0,2103.0,2396.0,448.0,
+Vietnam,production,tin_mine,,800.0,800.0,3400.0,3500.0,4000.0,4500.0,4500.0,4800.0,4500.0,4500.0
+Zaire,production,tin_mine,,1555.0,1200.0,,,,,,,,
+Zimbabwe,production,tin_mine,,839.0,797.0,716.0,657.0,82.0,,,,,

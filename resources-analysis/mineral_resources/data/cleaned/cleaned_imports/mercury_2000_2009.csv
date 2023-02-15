@@ -1,0 +1,60 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,imports,mercury,,48681.0,56027.0,14152.0,,,,,,,
+Australia,imports,mercury,,34439.0,57863.0,46937.0,,,,,,,
+Austria,imports,mercury,,300.0,2400.0,5700.0,4000.0,3900.0,1600.0,2662.0,5322.0,587.0,
+Azerbaijan,imports,mercury,,15000.0,,,,,,,,,
+Belgium,imports,mercury,,,,,,,,44809.0,7800.0,133100.0,15700.0
+Belgium-Luxembourg,imports,mercury,,21000.0,18000.0,22600.0,29200.0,54682.0,18658.0,,,,
+Bolivia,imports,mercury,,,160.0,20.0,,,,,,,
+Botswana,imports,mercury,,165000.0,72000.0,,,,,,,,
+Brazil,imports,mercury,,40537.0,62545.0,66885.0,,,,,,,
+Canada,imports,mercury,,12000.0,7419.0,8340.0,,,,,,,
+Chile,imports,mercury,,1043.0,730.0,,,,,,,,
+China,imports,mercury,,774820.0,488679.0,224560.0,,,,,,,
+Colombia,imports,mercury,,68000.0,57000.0,52760.0,,,,,,,
+Czech Republic,imports,mercury,,3000.0,1000.0,1875.0,2531.0,7300.0,1100.0,4000.0,3200.0,3700.0,4400.0
+Denmark,imports,mercury,,587.0,1276.0,796.0,260.0,403.0,2901.0,,,,
+Ecuador,imports,mercury,,8200.0,9888.0,6100.0,,,,,,,
+Egypt,imports,mercury,,,2000.0,,,,,,,,
+Finland,imports,mercury,,77.0,177.0,158.0,214.0,554.0,28.0,38.0,200.0,209.0,2136.0
+France,imports,mercury,,31400.0,23100.0,25200.0,57900.0,299200.0,202600.0,138100.0,190000.0,105300.0,222224.0
+Germany,imports,mercury,,59300.0,68300.0,19900.0,39500.0,80600.0,36200.0,70600.0,84100.0,19700.0,28678.0
+Greece,imports,mercury,,20940.0,125335.0,291.0,11617.0,187.0,954.0,933.0,338.0,2628.0,668.0
+Hong Kong,imports,mercury,,73816.0,64688.0,86287.0,,,,,,,
+Hungary,imports,mercury,,,,,3875.0,4426.0,4607.0,3529.0,3300.0,4293.0,4800.0
+India,imports,mercury,,285644.0,260440.0,531187.0,,,,,,,
+Indonesia,imports,mercury,,48686.0,1286.0,466.0,,,,,,,
+Iran,imports,mercury,,181000.0,130709.0,103603.0,,,,,,,
+"Ireland, Republic of",imports,mercury,,1298.0,2401.0,1008.0,11604.0,61.0,72.0,11804.0,1019.0,979.0,1182.0
+Italy,imports,mercury,,48484.0,32672.0,15389.0,27140.0,135119.0,32471.0,49335.0,9491.0,21754.0,19992.0
+Japan,imports,mercury,,6901.0,11045.0,6902.0,,,,,,,
+Kenya,imports,mercury,,,,21239.0,,,,,,,
+Korea (Rep. of),imports,mercury,,11459.0,14204.0,27919.0,,,,,,,
+Malaysia,imports,mercury,,3000.0,5000.0,,,,,,,,
+Mexico,imports,mercury,,9584.0,52057.0,43844.0,,,,,,,
+Netherlands,imports,mercury,,560000.0,908200.0,517600.0,143200.0,616057.0,665865.0,888164.0,674888.0,293481.0,101000.0
+Norway,imports,mercury,,180.0,347.0,99.0,,,,,,,
+Pakistan,imports,mercury,,79832.0,33859.0,48965.0,,,,,,,
+Peru,imports,mercury,,31000.0,73000.0,63396.0,,,,,,,
+Philippines,imports,mercury,,30000.0,20000.0,,,,,,,,
+Poland,imports,mercury,,5287.0,7000.0,21976.0,3875.0,4489.0,15700.0,9200.0,15700.0,13300.0,10900.0
+Portugal,imports,mercury,,749.0,7546.0,533.0,523.0,291.0,0.0,0.0,0.0,7500.0,25100.0
+Romania,imports,mercury,,,,0.0,72.0,24287.0,20288.0,49623.0,80054.0,2325.0,415.0
+Russia,imports,mercury,,110000.0,54964.0,47250.0,,,,,,,
+Serbia and Montenegro,imports,mercury,,0.0,3000.0,0.0,,,,,,,
+Singapore,imports,mercury,,129542.0,143444.0,238251.0,,,,,,,
+Slovakia,imports,mercury,,8022.0,4000.0,3677.0,2230.0,2738.0,3457.0,3100.0,3400.0,5200.0,4500.0
+Slovenia,imports,mercury,,,,,,,,,,,
+South Africa,imports,mercury,,12528.0,12424.0,12044.0,,,,,,,
+Spain,imports,mercury,,143032.0,734351.0,318263.0,350266.0,301097.0,601700.0,628737.0,817000.0,417900.0,467614.0
+Sri Lanka,imports,mercury,,1788.0,921.0,1543.0,,,,,,,
+Sweden,imports,mercury,,,2096.0,4004.0,3022.0,4000.0,3000.0,6000.0,10600.0,13800.0,21300.0
+Switzerland,imports,mercury,,27379.0,24309.0,18901.0,9354.0,9704.0,5846.0,5333.0,6687.0,3557.0,801.0
+Taiwan,imports,mercury,,4500.0,3393.0,6420.0,,,,,,,
+Thailand,imports,mercury,,12077.0,17170.0,10711.0,,,,,,,
+Togo,imports,mercury,,4125.0,6187.0,6187.0,,,,,,,
+Turkey,imports,mercury,,3981.0,10602.0,5358.0,8152.0,6024.0,1440.0,2052.0,9.0,3069.0,1635.0
+USA,imports,mercury,,135695.0,99000.0,209616.0,,,,,,,
+United Kingdom,imports,mercury,,18719.0,5042.0,23302.0,29673.0,27875.0,32306.0,2128.0,2668.0,2387.0,1121.0
+Uruguay,imports,mercury,,3500.0,,,,,,,,,
+Venezuela,imports,mercury,,7000.0,1000.0,1.0,,,,,,,

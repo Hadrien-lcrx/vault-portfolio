@@ -1,0 +1,784 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Abu Dhabi,imports,iron_steel_and_ferro-alloys,Scrap,,,,10861.0,12937.0,,,,,
+Albania,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,3420.0,1306.0,2261.0,4570.0
+Albania,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,,,,,
+Algeria,imports,iron_steel_and_ferro-alloys,Ferro-chrome,200.0,,,,,,,,,
+Algeria,imports,iron_steel_and_ferro-alloys,Ferro-manganese,464.0,,1598.0,1500.0,1992.0,1000.0,402.0,1931.0,1951.0,1786.0
+Algeria,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,29.0,,,,,,,,,
+Algeria,imports,iron_steel_and_ferro-alloys,Ferro-silicon,6861.0,4323.0,,,,,,,,
+Algeria,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,18.0,,,,,,,,,
+Algeria,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",2588.0,23379.0,18633.0,28000.0,,,,,,
+Algeria,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,144.0,1853.0,2428.0,,2089.0,,262.0,1758.0,3202.0,1740.0
+Algeria,imports,iron_steel_and_ferro-alloys,Pig iron,3768.0,7454.0,2801.0,,,,,,,
+Argentina,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,2746.0,2702.0,2872.0,3026.0,3339.0,3164.0,3715.0,2097.0
+Argentina,imports,iron_steel_and_ferro-alloys,Ferro-manganese,2109.0,985.0,1881.0,2230.0,3344.0,5448.0,5571.0,6289.0,8649.0,8212.0
+Argentina,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,542.0,21.0,371.0,7064.0,21550.0,4344.0,17187.0
+Argentina,imports,iron_steel_and_ferro-alloys,Ferro-silicon,62.0,64.0,417.0,237.0,1977.0,2356.0,161.0,974.0,3174.0,3196.0
+Argentina,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,45860.0,170382.0,181100.0,499392.0,396876.0,270655.0,528367.0,413903.0,151337.0
+Argentina,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2466.0,3287.0,1360.0,574.0,964.0,1166.0,1357.0,1632.0,2226.0,1897.0
+Argentina,imports,iron_steel_and_ferro-alloys,Pig iron,250.0,20031.0,8678.0,11970.0,9036.0,2650.0,2900.0,1322.0,1580.0,975.0
+Argentina,imports,iron_steel_and_ferro-alloys,Scrap,19286.0,25126.0,23525.0,7524.0,4590.0,6491.0,12831.0,7743.0,9827.0,943.0
+Argentina,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,2151.0,2718.0,5119.0,4214.0,5292.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-chrome,4748.0,5446.0,6692.0,7280.0,9486.0,11703.0,7616.0,11707.0,8438.0,11871.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-manganese,5058.0,4611.0,7054.0,12268.0,,,,,,
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-manganese & Fe-Si-Mn,,,,,10880.0,10948.0,15084.0,8075.0,11933.0,6600.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,18453.0,228.0,318.0,157.0,316.0,320.0,262.0,334.0,294.0,283.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,,170.0,94.0,364.0,150.0,100.0,91.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,205.0,232.0,914.0,932.0,,,,,,
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-silicon,21508.0,19331.0,13232.0,24738.0,34294.0,37565.0,49999.0,35825.0,33952.0,32604.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,,440.0,327.0,363.0,356.0,361.0,412.0
+Australia,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,,,132.0,77.0,31.0,700.0,232.0,295.0
+Australia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",94000.0,241000.0,16000.0,6000.0,96959.0,19158.0,34423.0,124113.0,37217.0,
+Australia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2022.0,1457.0,1371.0,5057.0,1532.0,1454.0,1441.0,1934.0,1629.0,8790.0
+Australia,imports,iron_steel_and_ferro-alloys,Pig iron,26571.0,,4576.0,4000.0,13169.0,51949.0,5579.0,26729.0,97178.0,41115.0
+Australia,imports,iron_steel_and_ferro-alloys,Scrap,2019.0,2208.0,1382.0,2000.0,48960.0,2657.0,28094.0,2216.0,10363.0,5000.0
+Australia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,3611.0,3131.0,3316.0,4804.0,2948.0,3771.0,4076.0
+Australia,imports,iron_steel_and_ferro-alloys,Sponge & powder,4702.0,3352.0,3631.0,3682.0,37550.0,72202.0,4095.0,13388.0,9257.0,4539.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-chrome,19428.0,13073.0,15013.0,14553.0,22695.0,19760.0,22895.0,26550.0,24032.0,19629.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-manganese,22182.0,16651.0,13917.0,15567.0,19260.0,14753.0,15596.0,20357.0,21744.0,20115.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,354.0,130.0,270.0,529.0,610.0,705.0,1000.0,1068.0,942.0,683.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-nickel,1456.0,7.0,0.0,89.0,85.0,103.0,,,,
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-niobium & ferro-niobium-tantalum,46.0,120.0,192.0,151.0,197.0,229.0,305.0,369.0,620.0,388.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,,,6.0,728.0,952.0,817.0,964.0,955.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,401.0,187.0,417.0,311.0,421.0,479.0,639.0,748.0,1012.0,340.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,,,0.0,706.0,860.0,968.0,1248.0,1239.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,5419.0,11475.0,10153.0,12010.0,13493.0,10318.0,16051.0,16505.0,17155.0,8933.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-silicon,19642.0,13928.0,11204.0,12356.0,26859.0,11942.0,12317.0,16575.0,21433.0,17623.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,311.0,344.0,295.0,277.0,478.0,237.0,492.0,684.0,1156.0,681.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,795.0,203.0,175.0,293.0,528.0,583.0,443.0,422.0,589.0,483.0
+Austria,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,137.0,168.0,118.0,173.0,372.0,438.0,536.0,612.0,1025.0,1285.0
+Austria,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",328694.0,309605.0,329314.0,110106.0,123303.0,183140.0,121689.0,110803.0,272943.0,167328.0
+Austria,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1733.0,1755.0,1871.0,2111.0,2665.0,1444.0,1340.0,1187.0,3504.0,1371.0
+Austria,imports,iron_steel_and_ferro-alloys,Pig iron,49187.0,34710.0,25984.0,26026.0,24045.0,24764.0,18614.0,17428.0,24618.0,22503.0
+Austria,imports,iron_steel_and_ferro-alloys,Scrap,54561.0,49791.0,165043.0,417507.0,408011.0,529245.0,400628.0,682250.0,685810.0,578309.0
+Austria,imports,iron_steel_and_ferro-alloys,Silicon metal,4924.0,4585.0,5871.0,3890.0,13271.0,2878.0,6771.0,16749.0,6728.0,6298.0
+Austria,imports,iron_steel_and_ferro-alloys,Sponge & powder,6909.0,6380.0,6606.0,4759.0,7421.0,6487.0,8001.0,10066.0,10648.0,10519.0
+Bahrain,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",42772.0,52490.0,57408.0,74586.0,,,,,,
+Bangladesh,imports,iron_steel_and_ferro-alloys,Ferro-alloys,28272.0,12403.0,1190.0,902.0,,,3400.0,103635.0,,
+Bangladesh,imports,iron_steel_and_ferro-alloys,Pig iron,79222.0,25565.0,13687.0,24022.0,,,43934.0,15493.0,,
+Bangladesh,imports,iron_steel_and_ferro-alloys,Scrap,76111.0,,12808.0,9483.0,,,405.0,13127.0,,
+Belarus,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,15000.0,49809.0,48239.0,33474.0,31815.0
+Belarus,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,21579.0,19835.0
+Belarus,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,129000.0,98000.0,89261.0,159502.0,132842.0,128122.0
+Belarus,imports,iron_steel_and_ferro-alloys,Scrap,,,46000.0,32000.0,11000.0,262000.0,400804.0,724923.0,767280.0,732835.0
+Belarus,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,,,2625.0,26040.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-chrome,95093.0,92456.0,93212.0,355814.0,115712.0,126545.0,112788.0,113044.0,146391.0,146100.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-manganese,47496.0,64373.0,53594.0,57239.0,54021.0,65080.0,46646.0,43122.0,47039.0,52600.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,2882.0,1408.0,957.0,1560.0,1991.0,2215.0,2150.0,2264.0,3248.0,2850.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-nickel,20934.0,23235.0,38134.0,26733.0,33151.0,22507.0,23775.0,24508.0,32099.0,28692.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-niobium,530.0,604.0,564.0,10437.0,13978.0,601.0,693.0,656.0,719.0,535.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,518.0,1082.0,1687.0,153.0,19636.0,526.0,277.0,246.0,613.0,691.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,2806.0,4153.0,2121.0,2150.0,1646.0,3280.0,3240.0,3335.0,4032.0,4296.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,,,,,818.0,927.0,2310.0,2782.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,44363.0,46312.0,45400.0,49027.0,47909.0,53724.0,52007.0,36909.0,57422.0,52669.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-silicon,36955.0,36944.0,38880.0,40908.0,36302.0,54053.0,51024.0,44760.0,69163.0,60179.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,402.0,424.0,347.0,193.0,606.0,697.0,604.0,1019.0,1323.0,1347.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,487.0,398.0,248.0,890.0,738.0,493.0,154.0,236.0,310.0,198.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",909382.0,1146454.0,1019594.0,822788.0,1485125.0,1688815.0,1767032.0,2881218.0,2809762.0,2905305.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,5354.0,4799.0,2301.0,2374.0,2304.0,2199.0,2280.0,1281.0,9478.0,1710.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Pig iron,106529.0,89511.0,111888.0,125737.0,250676.0,101121.0,70321.0,91304.0,203699.0,200890.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Scrap,1885114.0,2003383.0,2082995.0,2429355.0,2992215.0,3744666.0,3960595.0,4024388.0,3938147.0,2474180.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,3017.0,3254.0,2591.0,1985.0,13901.0,16559.0
+Belgium-Luxembourg,imports,iron_steel_and_ferro-alloys,Sponge & powder,8742.0,7290.0,5969.0,3254.0,65496.0,59795.0,31882.0,30765.0,4778.0,31988.0
+Botswana,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,7752.0,5571.0,
+Botswana,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,,,4299.0,5294.0,
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-chrome,11210.0,10170.0,9131.0,11336.0,15568.0,6096.0,6890.0,6842.0,5676.0,4970.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,3881.0,13984.0,8683.0,9346.0,10131.0,28453.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,,,,,,,,,117.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-nickel,,,,,,,,,,161.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,,,,,,524.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,,,,,,,,147.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,,,,,,,1539.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,,,,,,,,,,419.0
+Brazil,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,,,,,,,,748.0
+Brazil,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,,2476.0
+Brazil,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,4761.0,14841.0,7599.0,2573.0,2572.0,6027.0,8817.0,7428.0,7277.0,941.0
+Brazil,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,,,,,0.0
+Brazil,imports,iron_steel_and_ferro-alloys,Scrap,113236.0,88553.0,211000.0,114759.0,148666.0,,,,,17473.0
+Brazil,imports,iron_steel_and_ferro-alloys,Sponge & powder,2799.0,1694.0,3191.0,3556.0,3928.0,9760.0,10345.0,8491.0,5430.0,4463.0
+Bulgaria,imports,iron_steel_and_ferro-alloys,Ferro-manganese,8200.0,4600.0,3400.0,3700.0,1100.0,2530.0,3596.0,5744.0,4999.0,1420.0
+Bulgaria,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",46000.0,20000.0,49400.0,107200.0,88700.0,63398.0,7693.0,65045.0,,
+Bulgaria,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,28400.0,3400.0,1500.0,6900.0,13600.0,12024.0,8708.0,10916.0,5210.0,2630.0
+Bulgaria,imports,iron_steel_and_ferro-alloys,Pig iron,309000.0,35300.0,20500.0,11900.0,10300.0,14420.0,16016.0,16577.0,21600.0,23145.0
+Bulgaria,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,1415.0,18564.0,66152.0,143321.0,54440.0
+Cameroon,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,,10756.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-Si-manganese & silico-speigeleisen,,,,,,,,,,
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-calcium-silicon,1707.0,1896.0,1714.0,2039.0,1900.0,2111.0,1785.0,2042.0,1918.0,1944.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-chrome,43202.0,46255.0,34855.0,45268.0,55144.0,62706.0,64545.0,58333.0,50502.0,45329.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-manganese,29358.0,46087.0,49920.0,61322.0,67500.0,52877.0,83002.0,70568.0,70021.0,73045.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-manganese & spiegeleisen,,,,,,,,,,
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,581.0,544.0,493.0,699.0,886.0,1414.0,1283.0,1664.0,1846.0,1838.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-nickel,2524.0,1521.0,1437.0,606.0,9.0,631.0,64.0,,,
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-niobium,1108.0,1466.0,1120.0,1570.0,1594.0,1646.0,1266.0,1683.0,1885.0,1855.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,576.0,1208.0,672.0,980.0,1151.0,1394.0,1067.0,1247.0,1270.0,1175.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,1192.0,895.0,546.0,1020.0,1473.0,885.0,665.0,594.0,487.0,697.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,17143.0,15525.0,24137.0,38905.0,34005.0,41494.0,54426.0,43979.0,52200.0,37156.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-silicon,20504.0,21944.0,30169.0,24848.0,25264.0,26699.0,42477.0,43877.0,50924.0,46795.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,533.0,302.0,328.0,361.0,855.0,759.0,902.0,1134.0,1465.0,1439.0
+Canada,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,300.0,187.0,362.0,336.0,631.0,598.0,576.0,793.0,1018.0,696.0
+Canada,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",277327.0,147468.0,270890.0,1271687.0,1064085.0,1481839.0,1053550.0,821685.0,835063.0,392208.0
+Canada,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2340.0,1705.0,1578.0,1744.0,1963.0,1776.0,1869.0,2536.0,2219.0,2665.0
+Canada,imports,iron_steel_and_ferro-alloys,Pig iron,3673.0,23199.0,26565.0,30328.0,59368.0,18533.0,32245.0,130002.0,124430.0,168225.0
+Canada,imports,iron_steel_and_ferro-alloys,Scrap,1002519.0,809349.0,1231467.0,1456809.0,1725588.0,1632583.0,1264712.0,1531652.0,1482266.0,1568817.0
+Canada,imports,iron_steel_and_ferro-alloys,Silicon metal,,,5448.0,8490.0,12429.0,17451.0,25465.0,20106.0,19522.0,20873.0
+Canada,imports,iron_steel_and_ferro-alloys,Sponge & powder,5752.0,6225.0,13752.0,26403.0,10443.0,76822.0,32498.0,52411.0,35831.0,15050.0
+Chile,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,5280.0,5701.0,11542.0,11921.0,12044.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-alloys,373.0,6890.0,8710.0,36077.0,31339.0,6901.0,6234.0,28999.0,6975.0,
+China,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,,,,,,,,1075.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,,,,,,1580.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,,,,,,,,,108.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-nickel,,,,,,,,,,354.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,,,,,,,980.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,,,,,,95.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,,,,,,,,3256.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,,,,,,,240.0
+China,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,,,,,,,,274.0
+China,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",446694.0,324768.0,1808986.0,6379277.0,2633002.0,645232.0,398005.0,394774.0,690829.0,2134955.0
+China,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,,,,,,,,1041.0
+China,imports,iron_steel_and_ferro-alloys,Pig iron,1307132.0,363037.0,153501.0,810367.0,311938.0,80084.0,42491.0,24013.0,23972.0,58811.0
+China,imports,iron_steel_and_ferro-alloys,Scrap,183353.0,238924.0,1243143.0,2980288.0,2121759.0,1334519.0,1283322.0,1828759.0,2018655.0,3339073.0
+China,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,531.0,405.0,1876.0,2468.0,924.0
+China,imports,iron_steel_and_ferro-alloys,Sponge & powder,316.0,501.0,39908.0,152703.0,32564.0,48751.0,6989.0,31181.0,12811.0,43922.0
+Colombia,imports,iron_steel_and_ferro-alloys,Ferro-chrome,520.0,655.0,1531.0,809.0,758.0,533.0,623.0,290.0,331.0,135.0
+Colombia,imports,iron_steel_and_ferro-alloys,Ferro-manganese,4973.0,3726.0,3866.0,5130.0,5699.0,5621.0,4515.0,5857.0,5382.0,4145.0
+Colombia,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,468.0,1444.0,2947.0,2528.0,2530.0,4035.0,3104.0,4494.0,2447.0,1754.0
+Colombia,imports,iron_steel_and_ferro-alloys,Ferro-silicon,1747.0,2324.0,2452.0,2251.0,3130.0,2554.0,2627.0,3040.0,2233.0,1896.0
+Colombia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",28407.0,9858.0,65025.0,120518.0,213737.0,147588.0,115889.0,173515.0,171523.0,87543.0
+Colombia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,779.0,989.0,1047.0,701.0,943.0,1020.0,687.0,928.0,853.0,916.0
+Colombia,imports,iron_steel_and_ferro-alloys,Scrap,73161.0,104474.0,187579.0,205091.0,197076.0,220266.0,116036.0,142511.0,119033.0,20500.0
+Costa Rica,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",71324.0,45824.0,74275.0,58257.0,75676.0,50944.0,53313.0,80212.0,69651.0,58852.0
+Croatia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,1332.0,1470.0,,97401.0,26329.0,2935.0,3077.0,2199.0
+Croatia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,91773.0,95319.0,65800.0,51757.0,29979.0,20128.0,27390.0,26718.0
+Croatia,imports,iron_steel_and_ferro-alloys,Pig iron,,,14278.0,8346.0,125000.0,13332.0,13306.0,13371.0,10696.0,10329.0
+Croatia,imports,iron_steel_and_ferro-alloys,Scrap,,,12979.0,5589.0,1000.0,1635.0,2102.0,5554.0,16531.0,6368.0
+Croatia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,427.0,451.0
+Cuba,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,,,,,
+Cuba,imports,iron_steel_and_ferro-alloys,Scrap,75000.0,,,,,,,,,
+Cyprus,imports,iron_steel_and_ferro-alloys,Pig iron,1077.0,137.0,1243.0,1091.0,,,,,,
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,0.0,93000.0,98404.0,117000.0,,,,
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,,,,,,27340.0,36114.0,31425.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,,,,32463.0,25430.0,19517.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,,,,,,,465.0,695.0,563.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,,,,18818.0,22924.0,16777.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,,,,,,25263.0,24923.0,18948.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,,,,,,100.0,131.0,205.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,206223.0,313838.0,184221.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,,,,,105000.0,4511.0,5982.0,5327.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Pig iron,,,0.0,187000.0,162000.0,189000.0,139000.0,143000.0,161000.0,62465.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Scrap,,,0.0,223000.0,158019.0,89000.0,84000.0,39923.0,114108.0,134543.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,4098.0,4510.0,3151.0
+Czech Republic,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,,,694.0,974.0
+Czechoslovakia,imports,iron_steel_and_ferro-alloys,Ferro-chrome & ferro-silico-chrome,500.0,3200.0,2100.0,,,,,,,
+Czechoslovakia,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,400.0,50.0,200.0,,,,,,,
+Czechoslovakia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",2000.0,1000.0,127600.0,,,,,,,
+Czechoslovakia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,121200.0,101300.0,52300.0,,,,,,,
+Czechoslovakia,imports,iron_steel_and_ferro-alloys,Pig iron,668000.0,101000.0,95000.0,,,,,,,
+Czechoslovakia,imports,iron_steel_and_ferro-alloys,Scrap,10900.0,152400.0,401400.0,,,,,,,
+Denmark,imports,iron_steel_and_ferro-alloys,Ferro-chrome & ferro-silico-chrome,113.0,50.0,68.0,87.0,111.0,,,,,
+Denmark,imports,iron_steel_and_ferro-alloys,Ferro-manganese,2523.0,2474.0,2453.0,2362.0,3766.0,2028.0,2420.0,3117.0,3889.0,3112.0
+Denmark,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,2807.0,4601.0,4706.0,4534.0,4781.0,3910.0,4475.0,5177.0,6879.0,6291.0
+Denmark,imports,iron_steel_and_ferro-alloys,Ferro-silicon,3629.0,3725.0,3105.0,2443.0,2880.0,2962.0,2593.0,3520.0,3010.0,2272.0
+Denmark,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",40542.0,10055.0,8689.0,4027.0,20080.0,112835.0,22380.0,43609.0,83489.0,7541.0
+Denmark,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1155.0,984.0,768.0,1220.0,1592.0,1907.0,1652.0,1920.0,4110.0,946.0
+Denmark,imports,iron_steel_and_ferro-alloys,Pig iron,109313.0,107625.0,74119.0,85511.0,90163.0,85193.0,100754.0,97192.0,133126.0,121314.0
+Denmark,imports,iron_steel_and_ferro-alloys,Scrap,74306.0,124708.0,96494.0,147270.0,140683.0,168942.0,330509.0,357694.0,273910.0,235598.0
+Denmark,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,1403.0,1519.0,2123.0,2323.0
+Denmark,imports,iron_steel_and_ferro-alloys,Sponge & powder,2624.0,2261.0,2411.0,1810.0,2871.0,2145.0,1994.0,3942.0,2594.0,2408.0
+Dubai,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,7065.0,9817.0,11497.0,14199.0
+Dubai,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,,17400.0,18009.0,26205.0,19826.0
+Dubai,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,9730.0,11542.0,11920.0,13101.0
+Ecuador,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",126214.0,142925.0,,98115.0,95991.0,206414.0,191701.0,160715.0,177712.0,129394.0
+Egypt,imports,iron_steel_and_ferro-alloys,Ferro-alloys,17800.0,15000.0,17293.0,24152.0,18635.0,,25792.0,22300.0,20322.0,15004.0
+Egypt,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",161030.0,223336.0,236686.0,231239.0,338445.0,282518.0,642562.0,1209431.0,1910852.0,1246300.0
+Egypt,imports,iron_steel_and_ferro-alloys,Pig iron,,,,107810.0,204495.0,,881266.0,94208.0,32122.0,42259.0
+Egypt,imports,iron_steel_and_ferro-alloys,Scrap,196652.0,115507.0,109818.0,120000.0,105666.0,97400.0,121382.0,54909.0,277279.0,518218.0
+El Salvador,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",13047.0,17632.0,22226.0,15905.0,31975.0,9449.0,17101.0,38595.0,69711.0,64130.0
+El Salvador,imports,iron_steel_and_ferro-alloys,Scrap,14129.0,11017.0,21423.0,,42152.0,18827.0,47725.0,17774.0,24184.0,11344.0
+Estonia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,940.0,,8992.0,40558.0,44456.0
+Estonia,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,1145.0,,242.0,8764.0,886.0
+Estonia,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,4865.0,35000.0,210201.0,401586.0,339645.0
+Estonia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,75.0,15799.0
+Ethiopia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,3122.0,3321.0,1583.0
+Ethiopia,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,,,310.0,60435.0,75761.0
+Faeroe Islands,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,,,,
+Fiji,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,3128.0,,,,,,,,
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,,,,3052.0,4838.0,5055.0,9685.0,4314.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-chrome & ferro-silico-chrome,2163.0,2013.0,2425.0,3110.0,5404.0,,,,,
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-manganese,10802.0,8827.0,5399.0,6722.0,9920.0,10398.0,8875.0,10837.0,12377.0,11726.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,844.0,820.0,1086.0,956.0,1373.0,1184.0,1539.0,1581.0,1646.0,1673.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-nickel,30718.0,29154.0,56265.0,60255.0,64429.0,70338.0,53096.0,53783.0,44569.0,44635.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,,,364.0,323.0,358.0,449.0,423.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,,,,105.0,170.0,145.0,190.0,288.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,20023.0,15000.0,22587.0,23523.0,23937.0,25953.0,26929.0,26197.0,34270.0,31005.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-silicon,13123.0,11612.0,14961.0,14235.0,22294.0,13833.0,17537.0,18024.0,15113.0,14411.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,419.0,205.0,374.0,373.0,562.0,530.0,671.0,536.0,852.0,735.0
+Finland,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,289.0,98.0,164.0,254.0,241.0,244.0,263.0,141.0,207.0,240.0
+Finland,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",150928.0,129438.0,107937.0,149636.0,227998.0,561763.0,461912.0,224157.0,209121.0,331409.0
+Finland,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1025.0,1047.0,1302.0,1903.0,2088.0,2661.0,2897.0,3422.0,6303.0,3026.0
+Finland,imports,iron_steel_and_ferro-alloys,Pig iron,52285.0,8414.0,7272.0,19292.0,29495.0,74625.0,67924.0,31744.0,30498.0,22009.0
+Finland,imports,iron_steel_and_ferro-alloys,Scrap,45774.0,45641.0,53111.0,139680.0,338483.0,297460.0,226200.0,348080.0,449640.0,345704.0
+Finland,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,2778.0,1610.0,2055.0,2411.0,2942.0,3077.0
+Finland,imports,iron_steel_and_ferro-alloys,Sponge & powder,638.0,446.0,220.0,120.0,176.0,935.0,2624.0,14003.0,18644.0,33587.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-chrome,210925.0,191798.0,189945.0,139303.0,236227.0,260050.0,206897.0,266349.0,283292.0,283009.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-manganese,83503.0,78707.0,44033.0,40192.0,38803.0,42817.0,51833.0,49156.0,59532.0,50040.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,2704.0,2213.0,2037.0,2240.0,4228.0,4871.0,4595.0,5098.0,4835.0,4709.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-nickel,46932.0,38403.0,33728.0,30105.0,36972.0,42696.0,63162.0,57202.0,41604.0,19050.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-niobium,1025.0,1163.0,1245.0,972.0,1291.0,1356.0,1586.0,1745.0,1983.0,1632.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,3244.0,2861.0,2586.0,1876.0,2321.0,3101.0,2801.0,2431.0,3437.0,3174.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,205.0,196.0,57.0,202.0,354.0,148.0,182.0,143.0,108.0,196.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,4357.0,3462.0,3479.0,2248.0,2848.0,2526.0,2817.0,3084.0,2702.0,2789.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,43734.0,60285.0,48550.0,31380.0,33717.0,45074.0,46725.0,57786.0,59597.0,45014.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-silicon,70176.0,69861.0,78070.0,61009.0,60893.0,55536.0,49630.0,47952.0,60877.0,53961.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,3554.0,4028.0,3441.0,3568.0,4810.0,4759.0,4925.0,4459.0,5478.0,5119.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,335.0,332.0,305.0,227.0,217.0,672.0,411.0,568.0,769.0,299.0
+France,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,725.0,672.0,745.0,746.0,1134.0,993.0,858.0,909.0,1154.0,1059.0
+France,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",477143.0,521444.0,357345.0,534352.0,929868.0,1041393.0,801104.0,890109.0,1404233.0,1386584.0
+France,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,6516.0,5360.0,9207.0,17580.0,7389.0,8088.0,8653.0,10133.0,22355.0,11864.0
+France,imports,iron_steel_and_ferro-alloys,Pig iron,313103.0,355682.0,327131.0,155126.0,186339.0,200945.0,185124.0,189127.0,213188.0,228303.0
+France,imports,iron_steel_and_ferro-alloys,Scrap,998821.0,1115033.0,1217225.0,1110854.0,1395930.0,1705635.0,1632170.0,2402691.0,2748147.0,2948480.0
+France,imports,iron_steel_and_ferro-alloys,Silicon metal,13619.0,13825.0,14386.0,10903.0,14778.0,15670.0,18894.0,20136.0,20336.0,16105.0
+France,imports,iron_steel_and_ferro-alloys,Sponge & powder,13811.0,14031.0,36538.0,10452.0,13838.0,13719.0,15325.0,18734.0,25713.0,25642.0
+German Democratic Rep,imports,iron_steel_and_ferro-alloys,Pig iron,1300000.0,,,,,,,,,
+German Democratic Rep,imports,iron_steel_and_ferro-alloys,Scrap,900000.0,,,,,,,,,
+German Democratic Rep,imports,iron_steel_and_ferro-alloys,Sponge & powder,6500.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-chrome,327314.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-manganese,126247.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,7934.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-nickel,89529.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-niobium,2158.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,11673.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,12002.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,4121.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,104628.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-silicon,224201.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,5120.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,1479.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,2720.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",1870893.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,6365.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Pig iron,286490.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Scrap,1117563.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Silicon metal,83578.0,,,,,,,,,
+German Federal Republic,imports,iron_steel_and_ferro-alloys,Sponge & powder,27751.0,,,,,,,,,
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,328189.0,328645.0,278633.0,354662.0,444412.0,339641.0,396657.0,449711.0,417825.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,130868.0,130186.0,112232.0,163597.0,198334.0,152092.0,175233.0,180041.0,131569.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,8205.0,8255.0,5728.0,7493.0,7842.0,6757.0,8449.0,9828.0,8811.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-nickel,,78848.0,65132.0,51792.0,118902.0,11954.0,77681.0,88858.0,56098.0,29629.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,2628.0,2412.0,2271.0,2478.0,2221.0,3395.0,3664.0,3359.0,2603.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,15722.0,8544.0,10542.0,24306.0,26550.0,7266.0,5540.0,4612.0,5662.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,,16716.0,14985.0,9591.0,19245.0,28616.0,18711.0,22121.0,19592.0,9003.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,2885.0,2157.0,2415.0,3574.0,4687.0,4600.0,4066.0,3831.0,3613.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,129579.0,140259.0,112302.0,133487.0,135336.0,121775.0,144301.0,101243.0,134131.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,192881.0,189382.0,176965.0,160868.0,184678.0,179525.0,173056.0,175323.0,187994.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,5459.0,6181.0,4783.0,10138.0,8357.0,7586.0,7056.0,8380.0,7556.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,,657.0,617.0,445.0,517.0,901.0,529.0,455.0,645.0,549.0
+Germany,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,2385.0,2527.0,1994.0,5915.0,3895.0,3861.0,5423.0,5506.0,4075.0
+Germany,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,1355829.0,1204752.0,805198.0,1377426.0,1767641.0,998882.0,1141721.0,1593375.0,1165465.0
+Germany,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,6295.0,9893.0,11717.0,12723.0,18276.0,21224.0,20138.0,27124.0,9872.0
+Germany,imports,iron_steel_and_ferro-alloys,Pig iron,,329215.0,285769.0,233589.0,387261.0,414887.0,242049.0,296685.0,339177.0,257567.0
+Germany,imports,iron_steel_and_ferro-alloys,Scrap,,835073.0,811502.0,910196.0,1017302.0,1253512.0,1334691.0,1862205.0,2678292.0,2863594.0
+Germany,imports,iron_steel_and_ferro-alloys,Silicon metal,,82842.0,73447.0,71922.0,94388.0,100688.0,95897.0,121559.0,117776.0,85384.0
+Germany,imports,iron_steel_and_ferro-alloys,Sponge & powder,,32985.0,41603.0,24145.0,36089.0,54970.0,46172.0,58410.0,57330.0,61791.0
+Ghana,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,,1106.0,974.0
+Ghana,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,5532.0,16497.0
+Greece,imports,iron_steel_and_ferro-alloys,Ferro-manganese,4991.0,4298.0,2931.0,5354.0,3478.0,4083.0,2667.0,2349.0,1800.0,1025.0
+Greece,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,8261.0,6509.0,2896.0,2083.0,2546.0,4945.0,8503.0,8738.0,7607.0,4763.0
+Greece,imports,iron_steel_and_ferro-alloys,Ferro-silicon,3502.0,3662.0,1675.0,2292.0,4407.0,2193.0,2427.0,5754.0,3048.0,2212.0
+Greece,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",684166.0,989162.0,837281.0,415841.0,549866.0,626795.0,455454.0,464809.0,145225.0,402216.0
+Greece,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,625.0,2140.0,529.0,434.0,480.0,381.0,353.0,489.0,800.0,436.0
+Greece,imports,iron_steel_and_ferro-alloys,Pig iron,95474.0,65636.0,42378.0,27180.0,35098.0,16864.0,14439.0,13132.0,11561.0,7706.0
+Greece,imports,iron_steel_and_ferro-alloys,Scrap,525948.0,928733.0,373446.0,366337.0,346957.0,460576.0,543799.0,762235.0,491145.0,278010.0
+Greece,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,582.0,563.0,963.0,911.0
+Guatemala,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",33884.0,37260.0,92821.0,105344.0,71238.0,37058.0,40677.0,43341.0,182242.0,130362.0
+Guatemala,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,35143.0,57499.0,50282.0,31613.0,10033.0
+Hong Kong,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,20586.0,4462.0,4688.0
+Hong Kong,imports,iron_steel_and_ferro-alloys,Ferro-manganese,12189.0,14089.0,5711.0,13318.0,9935.0,2737.0,9073.0,,,
+Hong Kong,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,24645.0,32992.0,15587.0,3821.0,2008.0,,,
+Hong Kong,imports,iron_steel_and_ferro-alloys,Ferro-silicon,39514.0,60641.0,21172.0,25253.0,18112.0,22208.0,21445.0,,,
+Hong Kong,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",139318.0,143112.0,60153.0,192185.0,245467.0,273909.0,319684.0,143730.0,237749.0,360476.0
+Hong Kong,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,36455.0,49435.0,3716.0,2686.0,1484.0,3586.0,4941.0,,,
+Hong Kong,imports,iron_steel_and_ferro-alloys,Pig iron,2332.0,6723.0,15247.0,6728.0,,,,,,
+Hong Kong,imports,iron_steel_and_ferro-alloys,Scrap,81961.0,140641.0,208026.0,366032.0,202770.0,257917.0,243392.0,255113.0,249397.0,204829.0
+Hong Kong,imports,iron_steel_and_ferro-alloys,Silicon metal,,,17228.0,16924.0,10848.0,8856.0,7145.0,3856.0,1008.0,811.0
+Hong Kong,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,1378.0,1073.0,1717.0,2378.0,3122.0
+Hungary,imports,iron_steel_and_ferro-alloys,Ferro-chrome,10409.0,,534.0,918.0,2279.0,,,,,
+Hungary,imports,iron_steel_and_ferro-alloys,Ferro-manganese,30675.0,,5843.0,2394.0,8058.0,8575.0,7262.0,9316.0,10369.0,11082.0
+Hungary,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,52.0,,,,,,,,,
+Hungary,imports,iron_steel_and_ferro-alloys,Ferro-silicon,13257.0,,6284.0,6090.0,6516.0,7716.0,6710.0,6570.0,6415.0,6213.0
+Hungary,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",197400.0,205200.0,130361.0,133266.0,147869.0,327726.0,166791.0,233838.0,282161.0,292283.0
+Hungary,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,10000.0,20300.0,2274.0,2318.0,4051.0,7822.0,7882.0,5230.0,4556.0,4046.0
+Hungary,imports,iron_steel_and_ferro-alloys,Pig iron,213605.0,79800.0,35497.0,22406.0,21481.0,24535.0,31737.0,32281.0,45615.0,25644.0
+Hungary,imports,iron_steel_and_ferro-alloys,Scrap,602886.0,121000.0,3628.0,3731.0,5739.0,9325.0,1829.0,13575.0,57710.0,22479.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-chrome & ferro-silico-chrome,207.0,194.0,689.0,1375.0,5835.0,13456.0,8131.0,14185.0,3510.0,7360.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,,,,,,9582.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-manganese & Fe-Si-Mn,273.0,88.0,59.0,31.0,755.0,2738.0,20546.0,14993.0,7117.0,
+India,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,505.0,667.0,1260.0,815.0,336.0,358.0,217.0,245.0,153.0,60.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-nickel,16119.0,14928.0,12517.0,13482.0,16661.0,12193.0,8635.0,9469.0,4924.0,5412.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,,,,,,,226.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,,,,,,1145.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-silicon,1930.0,954.0,433.0,1550.0,9828.0,22510.0,17901.0,14112.0,7898.0,33350.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,,,,,,,642.0
+India,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,,,,,,,,155.0
+India,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",32913.0,18400.0,20860.0,134613.0,237189.0,324176.0,392234.0,414223.0,607764.0,1155515.0
+India,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,475.0,1043.0,368.0,520.0,1264.0,1650.0,2879.0,4689.0,3522.0,2682.0
+India,imports,iron_steel_and_ferro-alloys,Pig iron,244744.0,205126.0,102451.0,3681.0,48571.0,29798.0,17809.0,2666.0,2247.0,3417.0
+India,imports,iron_steel_and_ferro-alloys,Scrap,3152368.0,1515437.0,3039920.0,1178643.0,2212536.0,1964571.0,1975667.0,1658894.0,1494745.0,1924394.0
+India,imports,iron_steel_and_ferro-alloys,Silicon metal,3897.0,2018.0,4360.0,7069.0,11347.0,10951.0,15195.0,13823.0,8725.0,10918.0
+India,imports,iron_steel_and_ferro-alloys,Sponge & powder,56426.0,3053.0,1068.0,1551.0,2997.0,3583.0,3258.0,2903.0,3209.0,2625.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Ferro-manganese,17719.0,27531.0,15590.0,8951.0,5311.0,22336.0,11964.0,36009.0,7482.0,10274.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,13841.0,21403.0,26561.0,33547.0,24625.0,35405.0,30103.0,32545.0,16085.0,10937.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Ferro-silicon,7879.0,8991.0,6959.0,8126.0,8315.0,11768.0,9800.0,9158.0,8480.0,10167.0
+Indonesia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",756620.0,517136.0,338191.0,790960.0,925233.0,1388605.0,1376411.0,1718583.0,268109.0,434099.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,810.0,1290.0,1245.0,1417.0,1724.0,2164.0,1507.0,,,
+Indonesia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,,,,,,2407.0,996.0,1385.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Pig iron,168259.0,106456.0,255178.0,233678.0,339928.0,557878.0,372572.0,220848.0,75138.0,135489.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Scrap,1177669.0,1187093.0,1244041.0,1886823.0,1024178.0,1462333.0,788561.0,869730.0,399964.0,690945.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,1769.0,1658.0,785.0,1242.0
+Indonesia,imports,iron_steel_and_ferro-alloys,Sponge & powder,158786.0,184477.0,184873.0,22630.0,214019.0,495842.0,203761.0,228625.0,57543.0,91208.0
+Iran,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,,,
+Iran,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,,,20000.0,31300.0,18137.0,43716.0
+Iran,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",37985.0,736714.0,286655.0,160506.0,31454.0,27894.0,,89291.0,33553.0,48433.0
+Iran,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,,,,,,,4018.0,2160.0
+Iran,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,,45000.0,50200.0,43878.0,10100.0
+Iran,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,935.0,1409.0
+"Ireland, Republic of",imports,iron_steel_and_ferro-alloys,Ferro-alloys,4513.0,4051.0,9335.0,3790.0,2598.0,1654.0,2256.0,1117.0,2325.0,2821.0
+"Ireland, Republic of",imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",2813.0,4372.0,5226.0,3110.0,8025.0,6755.0,3315.0,1775.0,1558.0,1331.0
+"Ireland, Republic of",imports,iron_steel_and_ferro-alloys,Pig iron,553.0,189.0,1519.0,376.0,629.0,10257.0,320.0,2964.0,3804.0,3074.0
+"Ireland, Republic of",imports,iron_steel_and_ferro-alloys,Scrap,217004.0,199033.0,158181.0,347429.0,166585.0,153246.0,51870.0,5000.0,12661.0,94958.0
+"Ireland, Republic of",imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,434.0,1160.0
+Israel,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",253872.0,253000.0,,130000.0,111000.0,170000.0,211000.0,,,
+Israel,imports,iron_steel_and_ferro-alloys,Scrap,1300.0,5600.0,,,,,,,,
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-chrome,96745.0,90005.0,108716.0,112558.0,185648.0,225766.0,184552.0,230009.0,259357.0,299033.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-manganese,78210.0,77901.0,91461.0,66293.0,68252.0,69017.0,55184.0,68961.0,68274.0,77851.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,2953.0,2901.0,3113.0,3626.0,4505.0,,,4397.0,5735.0,4869.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-nickel,16078.0,18109.0,24945.0,25138.0,25824.0,20852.0,37603.0,39560.0,40062.0,26998.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-niobium,761.0,1069.0,984.0,948.0,1135.0,,,1407.0,1395.0,1140.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,,,1946.0,,,1219.0,1492.0,1278.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,977.0,61.0,39.0,151.0,214.0,165.0,293.0,532.0,172.0,393.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,5851.0,5558.0,4726.0,0.0,,,5537.0,5855.0,8375.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,51761.0,73414.0,85781.0,76591.0,89874.0,75494.0,70452.0,71842.0,81050.0,90136.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-silicon,65562.0,70089.0,96154.0,104394.0,93639.0,112967.0,100594.0,112822.0,112673.0,129115.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,1010.0,1940.0,2166.0,2908.0,3418.0,,,3651.0,3296.0,3410.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,259.0,299.0,108.0,154.0,202.0,,,168.0,146.0,114.0
+Italy,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,887.0,865.0,1259.0,1335.0,1721.0,,,1493.0,1296.0,1566.0
+Italy,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",1788367.0,1513236.0,1297968.0,705471.0,1338121.0,2036702.0,1155267.0,1649167.0,2111264.0,2684986.0
+Italy,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,11359.0,4354.0,4649.0,6081.0,8362.0,28086.0,23803.0,8819.0,16523.0,7189.0
+Italy,imports,iron_steel_and_ferro-alloys,Pig iron,1025362.0,831180.0,941098.0,813570.0,1202212.0,1636859.0,1351649.0,1310196.0,1711795.0,1249505.0
+Italy,imports,iron_steel_and_ferro-alloys,Scrap,5809352.0,6037965.0,6259036.0,5931527.0,6389402.0,6337321.0,4935364.0,4303774.0,5112063.0,4255639.0
+Italy,imports,iron_steel_and_ferro-alloys,Silicon metal,19144.0,16781.0,15499.0,17691.0,48902.0,17599.0,19889.0,32053.0,33896.0,31667.0
+Italy,imports,iron_steel_and_ferro-alloys,Spiegeleisen,351.0,547.0,200.0,,,,,,,
+Italy,imports,iron_steel_and_ferro-alloys,Sponge & powder,305122.0,224995.0,116298.0,113243.0,186373.0,21717.0,18581.0,48362.0,161618.0,107120.0
+Jamaica,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",12086.0,31997.0,17926.0,,,,,,,
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-chrome,441672.0,578073.0,459608.0,548581.0,610163.0,825718.0,718567.0,811555.0,628345.0,599839.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-manganese,43268.0,32563.0,25525.0,55377.0,85703.0,123917.0,110917.0,95240.0,109853.0,89570.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,1600.0,1975.0,1854.0,1818.0,2298.0,2122.0,2585.0,3167.0,2214.0,2193.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-nickel,41941.0,45925.0,32626.0,44342.0,48394.0,66772.0,58460.0,49752.0,41069.0,34284.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-niobium,3516.0,4526.0,4187.0,4361.0,3642.0,5051.0,4758.0,4977.0,6516.0,6889.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,6591.0,9262.0,7962.0,5863.0,6709.0,12947.0,5881.0,7639.0,7324.0,6827.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,6690.0,10622.0,8863.0,5652.0,11165.0,13208.0,10142.0,4729.0,3414.0,3171.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,195282.0,241271.0,193746.0,210900.0,204342.0,240510.0,233277.0,257536.0,201284.0,227218.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-silicon,476482.0,484772.0,437554.0,542110.0,484591.0,557155.0,517618.0,556735.0,401939.0,440152.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,2260.0,2498.0,2703.0,4527.0,5487.0,5620.0,3122.0,6276.0,4792.0,3979.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,835.0,416.0,509.0,565.0,750.0,672.0,415.0,775.0,974.0,560.0
+Japan,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,431.0,807.0,1014.0,1132.0,1021.0,1336.0,1281.0,1770.0,1915.0,1985.0
+Japan,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",1022601.0,1307894.0,615128.0,322477.0,310368.0,567734.0,299397.0,274082.0,45554.0,8042.0
+Japan,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,12130.0,14031.0,11269.0,12420.0,10121.0,14448.0,10409.0,14099.0,11065.0,11611.0
+Japan,imports,iron_steel_and_ferro-alloys,Pig iron,3184495.0,3226332.0,1296109.0,1385930.0,1600992.0,2613359.0,791976.0,1052218.0,184396.0,143294.0
+Japan,imports,iron_steel_and_ferro-alloys,Scrap,1048189.0,820643.0,328113.0,912703.0,1067871.0,1208644.0,375078.0,414555.0,176907.0,282019.0
+Japan,imports,iron_steel_and_ferro-alloys,Silicon metal,131310.0,138206.0,146962.0,151970.0,151956.0,181696.0,191494.0,166312.0,163202.0,184596.0
+Japan,imports,iron_steel_and_ferro-alloys,Sponge & powder,81140.0,141856.0,171358.0,227704.0,197327.0,154732.0,156601.0,227821.0,113446.0,92788.0
+Jordan,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,259.0,610.0,1076.0
+Jordan,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",185433.0,189525.0,257046.0,164178.0,168837.0,210762.0,350369.0,252480.0,299418.0,332755.0
+Jordan,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,,,,,
+Jordan,imports,iron_steel_and_ferro-alloys,Scrap,9961.0,4948.0,5034.0,8803.0,,,3003.0,1661.0,939.0,3418.0
+Kazakhstan,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,,,,,14969.0,18857.0
+Kazakhstan,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,8386.0,9949.0
+Kazakhstan,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,,,,,18807.0,20373.0,4048.0,5410.0
+Kazakhstan,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,1000.0,8000.0,78000.0,1884.0,4706.0
+Kenya,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",47994.0,,54747.0,1703.0,3232.0,1000.0,2810.0,495.0,43426.0,74089.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-chrome,76931.0,90148.0,110026.0,167396.0,175056.0,187302.0,204707.0,299313.0,287466.0,384336.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-manganese,7868.0,9046.0,26630.0,32595.0,23747.0,37962.0,43650.0,41085.0,36445.0,33766.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,919.0,879.0,530.0,893.0,1328.0,1592.0,1018.0,1785.0,1423.0,2149.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-nickel,18541.0,23617.0,31500.0,38848.0,41701.0,41680.0,62551.0,85172.0,86594.0,85779.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,,470.0,355.0,396.0,634.0,779.0,1099.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,1347.0,2064.0,2889.0,3190.0,3791.0,5184.0,3340.0,3392.0,3681.0,4271.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,1820.0,6060.0,8300.0,5400.0,10305.0,16108.0,15198.0,12311.0,17063.0,14492.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,4420.0,9424.0,16657.0,39099.0,60511.0,76301.0,99513.0,120438.0,89959.0,84002.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-silicon,67781.0,82533.0,86481.0,102763.0,105908.0,125369.0,118423.0,128241.0,118983.0,133739.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,,114.0,242.0,491.0,764.0,462.0,579.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,,,,,112.0,92.0,184.0,74.0,90.0,122.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Ferro-vanadium,377.0,444.0,516.0,539.0,905.0,1519.0,863.0,728.0,762.0,632.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",1135774.0,2162806.0,2011357.0,2347533.0,3032724.0,3246945.0,4176046.0,3631133.0,1579493.0,2638634.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2187.0,2735.0,3273.0,3139.0,3181.0,2605.0,2605.0,0.0,6465.0,
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Pig iron,980970.0,773336.0,1068769.0,1482457.0,1764211.0,2141583.0,2426685.0,3691551.0,2481263.0,2752486.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Scrap,3875997.0,3261377.0,3136886.0,4916003.0,4970144.0,5003359.0,5054668.0,6532716.0,5566790.0,6583505.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Silicon metal,6921.0,7320.0,7916.0,11511.0,15365.0,16775.0,19516.0,19325.0,12592.0,22623.0
+Korea (Rep. of),imports,iron_steel_and_ferro-alloys,Sponge & powder,101305.0,247328.0,283370.0,449892.0,562002.0,690492.0,850124.0,911933.0,607926.0,742820.0
+"Korea, Dem. P.R. of",imports,iron_steel_and_ferro-alloys,Ferro-manganese,12000.0,10400.0,11700.0,14600.0,4900.0,6600.0,2700.0,1800.0,2300.0,5400.0
+"Korea, Dem. P.R. of",imports,iron_steel_and_ferro-alloys,Other ferro-alloys,9100.0,15600.0,6200.0,15200.0,4600.0,4300.0,7200.0,16400.0,8300.0,10500.0
+Kyrgyzstan,imports,iron_steel_and_ferro-alloys,Scrap,,,,,28000.0,10000.0,,,,
+Latvia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,,9042.0,11030.0
+Latvia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,5000.0,11000.0,1000.0,44455.0,41995.0
+Latvia,imports,iron_steel_and_ferro-alloys,Pig iron,,,30000.0,14000.0,29840.0,4784.0,,,2665.0,1959.0
+Latvia,imports,iron_steel_and_ferro-alloys,Scrap,,,17000.0,29600.0,6532.0,6241.0,65650.0,280169.0,216098.0,174691.0
+Latvia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,471.0,1309.0
+Lebanon,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,82818.0,50689.0
+Lebanon,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,,,,7044.0,1938.0
+Lithuania,imports,iron_steel_and_ferro-alloys,Pig iron,,,11957.0,,,,,,,
+Lithuania,imports,iron_steel_and_ferro-alloys,Scrap,,,,,1500.0,32000.0,49217.0,82817.0,63050.0,5921.0
+Malaysia,imports,iron_steel_and_ferro-alloys,Ferro-manganese,15873.0,9007.0,14269.0,12645.0,7256.0,13846.0,36091.0,19597.0,4791.0,13800.0
+Malaysia,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,4999.0,5277.0,10098.0,12113.0,,,,,,
+Malaysia,imports,iron_steel_and_ferro-alloys,Ferro-silicon,6419.0,5553.0,7832.0,11692.0,13228.0,6901.0,12410.0,8211.0,4125.0,
+Malaysia,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,124.0,303.0,512.0,268.0,274.0,314.0,48.0,
+Malaysia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",224662.0,345665.0,420707.0,688500.0,717087.0,580958.0,944411.0,,282714.0,240391.0
+Malaysia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1447.0,3392.0,3095.0,3115.0,3343.0,2126.0,1048.0,947.0,341.0,
+Malaysia,imports,iron_steel_and_ferro-alloys,Pig iron,110283.0,100109.0,162967.0,108537.0,134258.0,182097.0,169910.0,,98575.0,175498.0
+Malaysia,imports,iron_steel_and_ferro-alloys,Scrap,734297.0,1010549.0,704920.0,1417533.0,869896.0,1064500.0,1089543.0,991000.0,417000.0,979313.0
+Malaysia,imports,iron_steel_and_ferro-alloys,Spiegeleisen,1082.0,3346.0,2154.0,8029.0,12311.0,10678.0,,,,
+Malaysia,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,5314.0,5624.0,8843.0,23282.0,3459.0,5897.0,4934.0,61766.0
+Malta,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,,
+Mauritius,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,31116.0,34587.0,37331.0,40679.0
+Mauritius,imports,iron_steel_and_ferro-alloys,Pig iron & ingots,,23614.0,24556.0,,,39430.0,,,,
+Mexico,imports,iron_steel_and_ferro-alloys,Ferro-chrome,6219.0,6025.0,6073.0,4501.0,4344.0,5863.0,7519.0,9301.0,8154.0,7940.0
+Mexico,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,9114.0,13867.0,16116.0,17372.0,23164.0,16313.0,15151.0,11354.0
+Mexico,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,3261.0,15008.0,8504.0,14849.0,15539.0,25967.0,13494.0
+Mexico,imports,iron_steel_and_ferro-alloys,Ferro-silicon,14078.0,16584.0,14337.0,16430.0,22920.0,18449.0,23104.0,27717.0,31062.0,31468.0
+Mexico,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",19314.0,192987.0,154753.0,187357.0,241881.0,137371.0,389983.0,399660.0,773613.0,432820.0
+Mexico,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,3996.0,3116.0,3690.0,2379.0,2805.0,3921.0,4291.0,6797.0,8811.0,8936.0
+Mexico,imports,iron_steel_and_ferro-alloys,Pig iron,51707.0,23544.0,15230.0,18459.0,49767.0,77964.0,306638.0,493510.0,514741.0,299690.0
+Mexico,imports,iron_steel_and_ferro-alloys,Scrap,737234.0,561675.0,514369.0,852185.0,832667.0,874406.0,1294771.0,1895475.0,1280083.0,1150000.0
+Mexico,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,6559.0,6286.0,6835.0
+Mexico,imports,iron_steel_and_ferro-alloys,Sponge & powder,305300.0,223656.0,3773.0,759637.0,1055256.0,1399089.0,1233530.0,411611.0,212839.0,353500.0
+Mongolia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,,1094.0,650.0
+Morocco,imports,iron_steel_and_ferro-alloys,Ferro-alloys,349.0,427.0,347.0,272.0,386.0,403.0,,,,
+Morocco,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",412117.0,418095.0,341550.0,315451.0,411442.0,536555.0,523064.0,587408.0,557876.0,527763.0
+Morocco,imports,iron_steel_and_ferro-alloys,Pig iron,3339.0,5200.0,15958.0,3507.0,3564.0,3409.0,2600.0,1448.0,2383.0,2574.0
+Morocco,imports,iron_steel_and_ferro-alloys,Scrap,2320.0,1856.0,3169.0,5835.0,600.0,3.0,,,,
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-chrome,8084.0,2015.0,4777.0,72792.0,64126.0,200212.0,194728.0,150790.0,176092.0,204088.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-manganese,17450.0,17100.0,18394.0,24596.0,16691.0,34042.0,23416.0,39020.0,55750.0,32599.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,544.0,483.0,274.0,2074.0,2795.0,2633.0,,6971.0,4735.0,6279.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-nickel,100.0,19.0,527.0,2366.0,15456.0,8370.0,3428.0,2977.0,23309.0,27420.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-niobium,104.0,48.0,65.0,1124.0,176.0,681.0,,466.0,4263.0,6049.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,254.0,896.0,467.0,1940.0,6580.0,759.0,,,2165.0,2459.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,,,,1520.0,3884.0,2753.0,148.0,5408.0,2731.0,1751.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,1466.0,1025.0,1484.0,1823.0,,,1891.0,1020.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,7050.0,2794.0,2478.0,25392.0,61566.0,46497.0,50575.0,37709.0,39946.0,38231.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-silicon,8085.0,7642.0,5761.0,92707.0,10581.0,42428.0,38326.0,63684.0,75765.0,74596.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,288.0,543.0,496.0,184.0,551.0,1287.0,,3217.0,1380.0,2588.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,,,64.0,273.0,132.0,606.0,,711.0,750.0,670.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,62.0,56.0,48.0,360.0,202.0,725.0,,2380.0,1266.0,1572.0
+Netherlands,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",77461.0,72363.0,41233.0,97675.0,65280.0,56957.0,32245.0,71199.0,123650.0,85602.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1440.0,2380.0,608.0,764.0,1157.0,1671.0,13144.0,5377.0,2256.0,2205.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Pig iron,61336.0,58484.0,55959.0,122577.0,198425.0,199003.0,156013.0,176940.0,196800.0,79328.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Scrap,1173659.0,2023223.0,2038355.0,3744856.0,2938297.0,3281654.0,2816539.0,2073111.0,1396827.0,1354536.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Silicon metal,8824.0,8880.0,8674.0,15618.0,12687.0,13532.0,13410.0,23258.0,26156.0,44396.0
+Netherlands,imports,iron_steel_and_ferro-alloys,Sponge & powder,4691.0,2586.0,1606.0,6011.0,7790.0,8141.0,1722.0,2280.0,2956.0,19458.0
+New Zealand,imports,iron_steel_and_ferro-alloys,Ferro-manganese,1749.0,1934.0,2121.0,2279.0,2330.0,1999.0,1953.0,2074.0,2981.0,1816.0
+New Zealand,imports,iron_steel_and_ferro-alloys,Ferro-silicon,2213.0,3003.0,3161.0,2828.0,2295.0,2330.0,2767.0,2519.0,1892.0,2234.0
+New Zealand,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",17170.0,2309.0,3955.0,,,,,,,
+New Zealand,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2012.0,1555.0,1451.0,2355.0,2989.0,2522.0,2440.0,2555.0,2045.0,2419.0
+New Zealand,imports,iron_steel_and_ferro-alloys,Pig iron,5473.0,,,,,,,,,
+New Zealand,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,,,,,
+New Zealand,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,1736.0,2774.0,3045.0,2188.0,1553.0,3661.0
+Nigeria,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,100.0,1813.0,2058.0,1456.0,1281.0
+Nigeria,imports,iron_steel_and_ferro-alloys,Ferro-manganese,4000.0,2000.0,1000.0,1500.0,,,,,,
+Nigeria,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,17738.0,32930.0,68477.0,17731.0
+North Macedonia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,14731.0,,,
+North Macedonia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,65730.0,61804.0,11317.0,17619.0
+North Macedonia,imports,iron_steel_and_ferro-alloys,Scrap,,,,,,1000.0,4081.0,889.0,11611.0,27097.0
+Norway,imports,iron_steel_and_ferro-alloys,Ferro-chrome,854.0,639.0,485.0,518.0,655.0,864.0,660.0,688.0,712.0,366.0
+Norway,imports,iron_steel_and_ferro-alloys,Ferro-manganese,3704.0,9463.0,6196.0,1490.0,7323.0,15449.0,6079.0,15181.0,22231.0,37484.0
+Norway,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,309.0,2643.0,4908.0,1166.0,562.0,5645.0,49.0,3933.0,294.0,52.0
+Norway,imports,iron_steel_and_ferro-alloys,Ferro-silicon,1625.0,5357.0,1954.0,3833.0,7512.0,6152.0,5207.0,9161.0,7825.0,3408.0
+Norway,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",170550.0,135533.0,149969.0,131923.0,166937.0,196095.0,124334.0,166505.0,178746.0,117345.0
+Norway,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,578.0,976.0,397.0,592.0,509.0,4613.0,728.0,975.0,844.0,1690.0
+Norway,imports,iron_steel_and_ferro-alloys,Pig iron,5601.0,5363.0,3637.0,6275.0,8323.0,10405.0,9227.0,8179.0,10216.0,17924.0
+Norway,imports,iron_steel_and_ferro-alloys,Scrap,22605.0,95326.0,133373.0,222712.0,200118.0,230461.0,215747.0,290278.0,346976.0,331948.0
+Norway,imports,iron_steel_and_ferro-alloys,Silicon metal,,576.0,1720.0,3732.0,8962.0,8704.0,5360.0,13203.0,8235.0,10456.0
+Norway,imports,iron_steel_and_ferro-alloys,Sponge & powder,696.0,19292.0,25695.0,30818.0,9161.0,4049.0,967.0,37973.0,900.0,37267.0
+Oman,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,8.0,4007.0,24501.0,9900.0
+Pakistan,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,,1031.0,643.0,1659.0,1125.0,1600.0,1200.0,1300.0
+Pakistan,imports,iron_steel_and_ferro-alloys,Ferro-manganese,15464.0,16921.0,8387.0,13409.0,12410.0,,20090.0,8263.0,7582.0,6828.0
+Pakistan,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,74.0,5003.0,85.0,78.0,,,
+Pakistan,imports,iron_steel_and_ferro-alloys,Ferro-silicon,8664.0,8075.0,11776.0,10426.0,7796.0,7245.0,,,,6515.0
+Pakistan,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",35031.0,58836.0,28622.0,19985.0,,,48340.0,48336.0,,
+Pakistan,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1869.0,7759.0,1760.0,227.0,375.0,1093.0,211.0,,,
+Pakistan,imports,iron_steel_and_ferro-alloys,Pig iron,3321.0,1152.0,984.0,4417.0,2900.0,2820.0,36.0,6109.0,8457.0,0.0
+Pakistan,imports,iron_steel_and_ferro-alloys,Scrap,321846.0,482991.0,763805.0,354141.0,251386.0,,90576.0,121263.0,65790.0,
+Panama,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",8700.0,25313.0,35620.0,35356.0,36713.0,34584.0,27008.0,51713.0,29000.0,33598.0
+Peru,imports,iron_steel_and_ferro-alloys,Ferro-chrome,475.0,360.0,294.0,286.0,478.0,697.0,438.0,971.0,1210.0,849.0
+Peru,imports,iron_steel_and_ferro-alloys,Ferro-manganese,1660.0,493.0,1937.0,2845.0,3004.0,3160.0,2156.0,2162.0,2320.0,3927.0
+Peru,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,458.0,347.0,1007.0,,3991.0,4237.0,4262.0,7030.0,8375.0,3050.0
+Peru,imports,iron_steel_and_ferro-alloys,Ferro-silicon,544.0,717.0,980.0,1250.0,1583.0,1165.0,1776.0,1280.0,1708.0,863.0
+Peru,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,41461.0,47075.0,91284.0,117554.0,46851.0
+Peru,imports,iron_steel_and_ferro-alloys,Scrap,67400.0,,52239.0,49926.0,40718.0,,,19581.0,18883.0,
+Peru,imports,iron_steel_and_ferro-alloys,Sponge,,,,26971.0,69232.0,73881.0,62830.0,,22113.0,36649.0
+Philippines,imports,iron_steel_and_ferro-alloys,Ferro-manganese,2524.0,2072.0,2780.0,4531.0,2697.0,3080.0,5190.0,2857.0,3262.0,3200.0
+Philippines,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,918.0,796.0,104.0,674.0,1281.0,2077.0,1234.0,540.0,918.0,695.0
+Philippines,imports,iron_steel_and_ferro-alloys,Ferro-silicon,1037.0,316.0,2390.0,4468.0,3864.0,5431.0,4908.0,3670.0,5255.0,2644.0
+Philippines,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",669499.0,549314.0,1045641.0,1229865.0,1618352.0,2234573.0,1951019.0,1799813.0,983318.0,1310206.0
+Philippines,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,590.0,389.0,495.0,459.0,370.0,485.0,265.0,296.0,164.0,257.0
+Philippines,imports,iron_steel_and_ferro-alloys,Pig iron,63759.0,47876.0,13700.0,91340.0,91124.0,59112.0,69145.0,24536.0,12574.0,
+Philippines,imports,iron_steel_and_ferro-alloys,Scrap,64679.0,127771.0,52270.0,53470.0,27923.0,53281.0,109516.0,60488.0,51961.0,4642.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,3286.0,4622.0,5062.0,11961.0,9362.0,8332.0,8929.0,7225.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,7739.0,12976.0,5708.0,9013.0,4546.0,12324.0,20858.0,35376.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,,348.0,382.0,438.0,744.0,584.0,610.0,794.0,586.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,1083.0,947.0,1088.0,980.0,941.0,1020.0,1086.0,1184.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,1362.0,838.0,994.0,1897.0,2362.0,2151.0,1672.0,1725.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,1289.0,3930.0,5354.0,7682.0,16181.0,14673.0,12345.0,18173.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,2332.0,7297.0,13227.0,8837.0,11568.0,13047.0,9858.0,14345.0
+Poland,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,209.0,191.0,318.0,405.0,280.0,259.0,246.0,361.0
+Poland,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",11400.0,1482.0,3232.0,84267.0,150008.0,53000.0,146000.0,133000.0,,47777.0
+Poland,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,674.0,383.0,399.0,970.0,877.0,1397.0,2530.0,2879.0
+Poland,imports,iron_steel_and_ferro-alloys,Pig iron,,,90332.0,107567.0,68388.0,44537.0,39500.0,30700.0,26300.0,22338.0
+Poland,imports,iron_steel_and_ferro-alloys,Pig iron & ferro-alloys,1361234.0,129891.0,,,,,,,,
+Poland,imports,iron_steel_and_ferro-alloys,Scrap,4350.0,775.0,1022.0,254.0,185.0,238.0,400.0,14400.0,19300.0,86886.0
+Poland,imports,iron_steel_and_ferro-alloys,Silicon metal,,,2936.0,2904.0,4098.0,4070.0,4583.0,5150.0,6049.0,6708.0
+Poland,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,842.0,946.0,2070.0,,,,,
+Portugal,imports,iron_steel_and_ferro-alloys,Ferro-manganese,5851.0,5300.0,2002.0,1965.0,1724.0,,1239.0,1108.0,1304.0,1203.0
+Portugal,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,3058.0,56.0,3560.0,5496.0,,,7177.0,7553.0,6310.0,7252.0
+Portugal,imports,iron_steel_and_ferro-alloys,Ferro-silicon,6328.0,6637.0,4793.0,3192.0,,,4087.0,4658.0,4360.0,4017.0
+Portugal,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",14450.0,6398.0,10939.0,2496.0,27077.0,,3277.0,14126.0,22860.0,53177.0
+Portugal,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2181.0,1376.0,1422.0,942.0,11502.0,13000.0,1619.0,2626.0,4576.0,5353.0
+Portugal,imports,iron_steel_and_ferro-alloys,Pig iron,16967.0,14811.0,25395.0,4753.0,14442.0,,20671.0,23285.0,27032.0,18969.0
+Portugal,imports,iron_steel_and_ferro-alloys,Scrap,82398.0,63764.0,23061.0,22645.0,35490.0,62000.0,34555.0,39749.0,173559.0,288200.0
+Qatar,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,,5168.0,329.0
+Qatar,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,,,,,5568.0
+Qatar,imports,iron_steel_and_ferro-alloys,Scrap,3242.0,5453.0,979.0,12995.0,100.0,,,,,
+Qatar,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,63.0,797.0
+Romania,imports,iron_steel_and_ferro-alloys,Ferro-alloys,123200.0,15396.0,33095.0,37880.0,54728.0,61531.0,47740.0,80566.0,85521.0,56083.0
+Romania,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",205700.0,79332.0,540.0,19125.0,18991.0,88410.0,343965.0,340439.0,346160.0,238673.0
+Romania,imports,iron_steel_and_ferro-alloys,Pig iron,95000.0,4870.0,2987.0,18892.0,3441.0,,,,,
+Romania,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,708.0,2044.0,1979.0
+Romania,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,,,,
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,,,25200.0,19100.0,20008.0,8247.0,8734.0,7449.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,,,113300.0,155200.0,125778.0,144674.0,150344.0,105671.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,,,,,,,311.0,1124.0,2141.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,,,,,139.0,362.0,224.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,,,,,,,1026.0,,,
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,,,210725.0,154570.0,114641.0,123599.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,,,,,54950.0,40534.0,15249.0,4464.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,,,,,120.0,1437.0,387.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,,,,,,,,,,31.0
+Russia,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,,,,,,,,104.0,219.0,233.0
+Russia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,235835.0,19912.0,17731.0,16544.0
+Russia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,,,,,4549.0,882.0,1465.0,2336.0
+Russia,imports,iron_steel_and_ferro-alloys,Pig iron,,,,,,,161789.0,53894.0,24127.0,4174.0
+Russia,imports,iron_steel_and_ferro-alloys,Scrap,,,,,143900.0,91000.0,124952.0,92841.0,77093.0,302487.0
+Russia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,2170.0,1824.0,2245.0,4436.0
+Russia,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,3907416.0,584588.0,55495.0,3516.0
+Rwanda,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",21022.0,,,,,,,,,
+Saudi Arabia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,26378.0,3881.0,4102.0,4282.0,6324.0,2837.0,9497.0
+Saudi Arabia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",45249.0,18748.0,51423.0,851527.0,178860.0,289889.0,196330.0,149110.0,321101.0,108426.0
+Saudi Arabia,imports,iron_steel_and_ferro-alloys,Pig iron,4687.0,19730.0,28739.0,43770.0,39290.0,27626.0,44848.0,11893.0,46486.0,96906.0
+Saudi Arabia,imports,iron_steel_and_ferro-alloys,Scrap,312970.0,488290.0,3857.0,54670.0,37055.0,,,37004.0,23853.0,12124.0
+Saudi Arabia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,664.0,778.0,599.0
+Saudi Arabia,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,,,1473.0,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,13451.0,7405.0,10333.0
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,717.0,500.0,1000.0,1000.0,1900.0,,,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Ferro-manganese,,,3931.0,,,,5200.0,,,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,,,0.0,,,,,,,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,1412.0,,,,,,,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,157687.0,,,,92000.0,124152.0,34804.0,220158.0
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,344.0,,,,,,,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Pig iron,,,2417.0,,,,1624.0,2100.0,,
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Scrap,,,112106.0,70000.0,50000.0,50000.0,78000.0,37577.0,42372.0,82104.0
+Serbia and Montenegro,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,148.0,,,,,,,
+Singapore,imports,iron_steel_and_ferro-alloys,Ferro-manganese,2403.0,3135.0,3220.0,1878.0,513.0,763.0,962.0,904.0,682.0,953.0
+Singapore,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,,,,4204.0,4204.0,4939.0
+Singapore,imports,iron_steel_and_ferro-alloys,Ferro-silicon,9618.0,11181.0,9693.0,15225.0,5353.0,7788.0,12439.0,1901.0,1420.0,3484.0
+Singapore,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",164955.0,244252.0,133522.0,380207.0,333535.0,226880.0,275172.0,422065.0,116968.0,316183.0
+Singapore,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,384.0,458.0,,1073.0,496.0,,1704.0,3568.0,406.0,349.0
+Singapore,imports,iron_steel_and_ferro-alloys,Pig iron,72838.0,131320.0,94524.0,133443.0,87009.0,78599.0,75870.0,21500.0,26510.0,63399.0
+Singapore,imports,iron_steel_and_ferro-alloys,Scrap,220910.0,148592.0,147334.0,147894.0,123609.0,158143.0,83557.0,63521.0,68633.0,141027.0
+Singapore,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,865.0,578.0
+Singapore,imports,iron_steel_and_ferro-alloys,Sponge & powder,19313.0,7292.0,149.0,63.0,260.0,21.0,29.0,1714.0,1507.0,2111.0
+Slovakia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,24000.0,33000.0,21000.0,13000.0,13000.0,15508.0,12408.0
+Slovakia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,50000.0,20000.0,11000.0,11000.0,13081.0,,17318.0
+Slovakia,imports,iron_steel_and_ferro-alloys,Pig iron,,,0.0,35000.0,22000.0,21000.0,27000.0,18000.0,24341.0,17317.0
+Slovakia,imports,iron_steel_and_ferro-alloys,Scrap,,,0.0,85000.0,133000.0,236000.0,158000.0,115000.0,188586.0,134405.0
+Slovakia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,3165.0,,4589.0
+Slovakia,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,0.0,200.0,8400.0,600.0,,425.0,2095.0,3677.0
+Slovenia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,14603.0,10660.0,11186.0,15000.0,13671.0,22176.0,25332.0,26458.0
+Slovenia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,42364.0,20448.0,9848.0,3000.0,2103.0,2533.0,3166.0,2315.0
+Slovenia,imports,iron_steel_and_ferro-alloys,Pig iron,,,13152.0,11169.0,9243.0,11000.0,14615.0,9847.0,8387.0,10632.0
+Slovenia,imports,iron_steel_and_ferro-alloys,Scrap,,,285605.0,196268.0,278290.0,260000.0,142673.0,203099.0,261088.0,179747.0
+Slovenia,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,2020.0,2262.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-chrome,,,3106.0,1953.0,2090.0,1371.0,626.0,465.0,628.0,9080.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,,,710.0,633.0,949.0,1048.0,1104.0,1258.0,1040.0,1419.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-nickel,,,,,1804.0,1866.0,5251.0,2263.0,4508.0,2159.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-niobium,,,,74.0,101.0,172.0,91.0,87.0,223.0,79.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,,,826.0,1067.0,,1882.0,168.0,
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,743.0,946.0,977.0,1477.0,814.0,220.0,457.0,218.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,,,,,72.0,243.0,253.0,196.0,5338.0,571.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,4944.0,2478.0,2821.0,38217.0,16617.0,3100.0,2844.0,3564.0
+South Africa,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,,,,314.0,359.0,709.0,925.0,417.0,537.0,562.0
+South Africa,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,,,1245.0,274.0,296.0,700.0,1137.0,222.0,1428.0,1696.0
+South Africa,imports,iron_steel_and_ferro-alloys,Scrap,564.0,,11542.0,30884.0,80423.0,155300.0,67077.0,50048.0,43066.0,47454.0
+South Africa,imports,iron_steel_and_ferro-alloys,Silicon metal,1176.0,,1177.0,1319.0,747.0,422.0,1658.0,2895.0,9609.0,4078.0
+South Africa,imports,iron_steel_and_ferro-alloys,Sponge & powder,,,,,,,,3884.0,85719.0,313568.0
+Soviet Union,imports,iron_steel_and_ferro-alloys,Ferro-alloys,3001.0,,,,,,,,,
+Soviet Union,imports,iron_steel_and_ferro-alloys,Pig iron,4120.0,,,,,,,,,
+Soviet Union,imports,iron_steel_and_ferro-alloys,Scrap,40000.0,,,,,,,,,
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-chrome,100362.0,93510.0,85031.0,101559.0,151321.0,150798.0,146344.0,188775.0,192914.0,218710.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-manganese,15893.0,19462.0,24840.0,23277.0,29244.0,28929.0,18364.0,13967.0,13514.0,20919.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,1362.0,1371.0,1019.0,1431.0,2175.0,2396.0,,3260.0,2266.0,2114.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-nickel,32041.0,29916.0,21910.0,21920.0,29345.0,25027.0,28043.0,25806.0,32235.0,34987.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-niobium,145.0,141.0,115.0,257.0,302.0,265.0,,368.0,387.0,220.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,1398.0,1486.0,1440.0,1027.0,1741.0,1291.0,,1968.0,1990.0,1649.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,1184.0,1612.0,2529.0,3841.0,5543.0,5258.0,5718.0,5949.0,5351.0,4151.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,,,3657.0,4893.0,,4065.0,3527.0,2632.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,19450.0,31231.0,33601.0,35353.0,36414.0,29012.0,21563.0,24976.0,25312.0,31338.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-silicon,16234.0,25727.0,33169.0,23314.0,33593.0,21439.0,33346.0,42561.0,43300.0,39520.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,699.0,477.0,286.0,178.0,304.0,242.0,,488.0,561.0,745.0
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,29.0,66.0,28.0,37.0,17.0,31.0,,,,
+Spain,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,283.0,307.0,305.0,364.0,634.0,583.0,,531.0,343.0,563.0
+Spain,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",94572.0,130305.0,106545.0,51366.0,65078.0,335428.0,412996.0,474682.0,438176.0,848086.0
+Spain,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,4728.0,5077.0,4605.0,3176.0,2133.0,3669.0,12661.0,3954.0,11717.0,16759.0
+Spain,imports,iron_steel_and_ferro-alloys,Pig iron,204566.0,200898.0,140126.0,145605.0,232426.0,321804.0,373164.0,255342.0,350118.0,324990.0
+Spain,imports,iron_steel_and_ferro-alloys,Scrap,4332121.0,4315796.0,4259542.0,4064935.0,4534213.0,4799745.0,4479581.0,5249904.0,5998402.0,5677123.0
+Spain,imports,iron_steel_and_ferro-alloys,Silicon metal,1903.0,3813.0,1870.0,4478.0,3766.0,3126.0,3649.0,3655.0,4953.0,3045.0
+Spain,imports,iron_steel_and_ferro-alloys,Sponge & powder,60077.0,109465.0,126812.0,145862.0,221970.0,229007.0,225759.0,342934.0,567763.0,771805.0
+Sri Lanka,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",39685.0,45490.0,48880.0,294118.0,87370.0,69203.0,99609.0,121798.0,132766.0,131913.0
+Suriname,imports,iron_steel_and_ferro-alloys,Ferro-alloys,7637.0,7000.0,,,,,,,,
+Suriname,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",3564.0,6518.0,,,,,,,,
+Suriname,imports,iron_steel_and_ferro-alloys,Scrap,6680.0,3000.0,,,,,,,,
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-chrome,46069.0,38772.0,46342.0,49356.0,66757.0,79408.0,64878.0,71078.0,76916.0,80231.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-manganese,25012.0,19907.0,20403.0,22852.0,24235.0,29828.0,24501.0,22952.0,28899.0,31463.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,3292.0,2513.0,2412.0,2824.0,3803.0,,,2508.0,4013.0,3354.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-nickel,12863.0,10927.0,13330.0,15581.0,21398.0,20440.0,16657.0,17979.0,15090.0,5195.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-niobium,368.0,342.0,514.0,431.0,454.0,,,376.0,611.0,595.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,,,993.0,,,991.0,969.0,987.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,1379.0,1369.0,2392.0,1845.0,2152.0,2568.0,2397.0,2334.0,3458.0,2642.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,,,,0.0,,,1270.0,1919.0,7377.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,11478.0,12298.0,14748.0,13120.0,17313.0,21328.0,18163.0,16127.0,19347.0,20701.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-silicon,22838.0,19521.0,18391.0,20702.0,33460.0,25080.0,30978.0,31064.0,36840.0,31381.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,1634.0,1140.0,1549.0,1713.0,2119.0,,,1813.0,2264.0,2285.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,705.0,241.0,177.0,242.0,1684.0,,,722.0,601.0,402.0
+Sweden,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,1040.0,892.0,1131.0,1266.0,1909.0,,,1070.0,1575.0,1487.0
+Sweden,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",87180.0,53551.0,50190.0,96623.0,340318.0,247078.0,335334.0,393046.0,305002.0,389416.0
+Sweden,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2949.0,2331.0,2333.0,5084.0,2369.0,11480.0,9555.0,1415.0,4947.0,2729.0
+Sweden,imports,iron_steel_and_ferro-alloys,Pig iron,43400.0,28544.0,16171.0,24953.0,47068.0,42187.0,39062.0,31011.0,59364.0,54919.0
+Sweden,imports,iron_steel_and_ferro-alloys,Scrap,246894.0,165652.0,281514.0,467967.0,663765.0,362905.0,333059.0,492324.0,612175.0,454865.0
+Sweden,imports,iron_steel_and_ferro-alloys,Silicon metal,1346.0,1420.0,1805.0,1948.0,2641.0,1795.0,2487.0,2101.0,2413.0,3808.0
+Sweden,imports,iron_steel_and_ferro-alloys,Sponge & powder,3511.0,2486.0,3231.0,2253.0,4847.0,4393.0,4239.0,5357.0,7650.0,7604.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Ferro-aluminium,806.0,682.0,662.0,670.0,999.0,1055.0,1860.0,333.0,28.0,1.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Ferro-chrome,1307.0,1040.0,1035.0,1280.0,692.0,805.0,522.0,732.0,1012.0,913.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Ferro-manganese,5372.0,3820.0,3800.0,3044.0,1989.0,2757.0,3617.0,5518.0,3824.0,3302.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,7318.0,8828.0,9112.0,9047.0,8204.0,4396.0,3830.0,4413.0,5615.0,5145.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Ferro-silicon,6071.0,5329.0,6231.0,5412.0,5090.0,5171.0,4702.0,5850.0,6042.0,5741.0
+Switzerland,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",124340.0,88912.0,90098.0,93408.0,172287.0,132120.0,59664.0,93321.0,90596.0,52522.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1386.0,1077.0,1029.0,928.0,772.0,748.0,947.0,1185.0,1276.0,1153.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Pig iron,46886.0,34712.0,35709.0,25830.0,25825.0,44518.0,30921.0,22268.0,36101.0,27870.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Scrap,135922.0,227043.0,348521.0,434960.0,110249.0,90186.0,76086.0,165862.0,217924.0,208365.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Silicon metal,4421.0,4301.0,1608.0,760.0,1505.0,1589.0,1397.0,16579.0,12023.0,1120.0
+Switzerland,imports,iron_steel_and_ferro-alloys,Sponge & powder,5313.0,4884.0,4645.0,4099.0,4964.0,5549.0,4855.0,6381.0,8038.0,9033.0
+Syria,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",38725.0,,20612.0,20377.0,21385.0,26329.0,25296.0,22350.0,51209.0,55631.0
+Syria,imports,iron_steel_and_ferro-alloys,Scrap,12881.0,,79433.0,29758.0,12900.0,11748.0,9119.0,,,
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-chrome,35182.0,57246.0,48045.0,58947.0,93548.0,192574.0,196389.0,285664.0,309496.0,397972.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-manganese,21120.0,19348.0,29411.0,47169.0,37306.0,39274.0,38225.0,51793.0,42990.0,67161.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,434.0,433.0,291.0,679.0,750.0,1096.0,1920.0,2234.0,2974.0,2876.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-nickel,,,,123.0,2989.0,16820.0,56118.0,81818.0,90978.0,110969.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-niobium,431.0,324.0,205.0,149.0,187.0,203.0,245.0,164.0,345.0,189.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,12430.0,31272.0,42222.0,42802.0,43564.0,64962.0,51311.0,77702.0,79780.0,71212.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-silicon,36207.0,41412.0,41504.0,52096.0,46028.0,62098.0,58713.0,63313.0,64723.0,66445.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,,,,,58.0,161.0,,122.0,230.0,106.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,330.0,396.0,378.0,383.0,523.0,16610.0,453.0,490.0,468.0,575.0
+Taiwan,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",2461379.0,3837135.0,5443382.0,7508179.0,7680156.0,7426257.0,5941500.0,7013973.0,7528921.0,9121332.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1059.0,2162.0,1689.0,1653.0,2069.0,2489.0,3205.0,6558.0,6421.0,4846.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Pig iron,578375.0,853410.0,817656.0,958372.0,1197794.0,1090114.0,850315.0,1112462.0,955323.0,951797.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Scrap,1286723.0,2262211.0,1845489.0,1736356.0,1069912.0,673190.0,1048932.0,1960652.0,2398392.0,1800846.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Silicon metal,11266.0,18017.0,12566.0,19356.0,17809.0,21673.0,20163.0,25275.0,19434.0,18092.0
+Taiwan,imports,iron_steel_and_ferro-alloys,Sponge & powder,114042.0,47225.0,72570.0,19871.0,38979.0,55824.0,24373.0,24957.0,22969.0,24836.0
+Tanzania,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,510.0,8104.0,9330.0,5413.0
+Tanzania,imports,iron_steel_and_ferro-alloys,Pig iron & ferro-alloys,,,,,,,,,,
+Thailand,imports,iron_steel_and_ferro-alloys,Ferro-chrome,505.0,472.0,363.0,661.0,1286.0,2607.0,3117.0,3095.0,3398.0,3977.0
+Thailand,imports,iron_steel_and_ferro-alloys,Ferro-manganese,6783.0,5484.0,9376.0,9944.0,14079.0,13972.0,8457.0,7744.0,7675.0,5526.0
+Thailand,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,901.0,1411.0,2426.0,3308.0,5506.0,16912.0,29218.0,21947.0,17553.0,19148.0
+Thailand,imports,iron_steel_and_ferro-alloys,Ferro-silicon,6452.0,7634.0,10306.0,16532.0,27741.0,19016.0,16751.0,15645.0,12569.0,14910.0
+Thailand,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",979645.0,891557.0,1223831.0,1167081.0,3209335.0,3428112.0,3995668.0,3256499.0,3260000.0,3190960.0
+Thailand,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,380.0,305.0,1396.0,909.0,5875.0,615.0,915.0,775.0,2418.0,1614.0
+Thailand,imports,iron_steel_and_ferro-alloys,Pig iron,103869.0,78381.0,149113.0,113322.0,182447.0,281689.0,227771.0,219603.0,118441.0,135430.0
+Thailand,imports,iron_steel_and_ferro-alloys,Scrap,1101356.0,501015.0,865435.0,1457660.0,1158764.0,1035693.0,899238.0,728218.0,320014.0,629698.0
+Thailand,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,1992.0,2291.0,2614.0,3536.0,2735.0,3828.0
+Thailand,imports,iron_steel_and_ferro-alloys,Sponge & powder,14304.0,522.0,5524.0,9330.0,10300.0,6506.0,1557.0,1325.0,1638.0,2752.0
+Togo,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",4618.0,,,,,,,5057.0,298.0,4372.0
+Trinidad & Tobago,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,8348.0,8030.0,11397.0,6102.0,
+Tunisia,imports,iron_steel_and_ferro-alloys,Ferro-alloys,1778.0,1617.0,1925.0,1864.0,2305.0,1631.0,2564.0,2808.0,2216.0,2709.0
+Tunisia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",46601.0,54435.0,57949.0,62894.0,80281.0,29421.0,68343.0,108477.0,106408.0,192070.0
+Tunisia,imports,iron_steel_and_ferro-alloys,Pig iron,5640.0,2567.0,1565.0,2634.0,1422.0,1939.0,,,,
+Tunisia,imports,iron_steel_and_ferro-alloys,Scrap,2183.0,1880.0,3526.0,1100.0,379.0,737.0,900.0,1304.0,3110.0,550.0
+Turkey,imports,iron_steel_and_ferro-alloys,Ferro-manganese,32047.0,30099.0,40187.0,24988.0,37455.0,24600.0,33940.0,32459.0,24323.0,29364.0
+Turkey,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,48830.0,49750.0,61041.0,72943.0,89472.0,103832.0,93835.0,102756.0,91245.0,90684.0
+Turkey,imports,iron_steel_and_ferro-alloys,Ferro-silicon,32409.0,26950.0,20566.0,37387.0,33107.0,,45023.0,41466.0,48971.0,51768.0
+Turkey,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",521941.0,791694.0,987784.0,2518255.0,1620437.0,1009767.0,1311824.0,1390031.0,1484361.0,1607637.0
+Turkey,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,4718.0,3159.0,4154.0,6037.0,3509.0,3594.0,4715.0,5232.0,6554.0,9308.0
+Turkey,imports,iron_steel_and_ferro-alloys,Pig iron,148094.0,240761.0,449490.0,697594.0,563512.0,580624.0,393343.0,244247.0,194160.0,153706.0
+Turkey,imports,iron_steel_and_ferro-alloys,Scrap,3649790.0,4442548.0,4989316.0,6372843.0,5917326.0,6613223.0,7085308.0,7747674.0,6550614.0,7877831.0
+Turkey,imports,iron_steel_and_ferro-alloys,Silicon metal,,,,,,,,,1841.0,2005.0
+Turkey,imports,iron_steel_and_ferro-alloys,Sponge & powder,19894.0,39462.0,42800.0,4952.0,1106.0,1962.0,2363.0,3221.0,14088.0,8634.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-chrome,415882.0,402767.0,411428.0,383314.0,320045.0,499236.0,419647.0,388858.0,418492.0,603794.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-manganese,379728.0,314764.0,303443.0,345366.0,335779.0,321744.0,375368.0,302996.0,336097.0,314929.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,1401.0,1454.0,1658.0,4615.0,6583.0,6721.0,7929.0,5891.0,7720.0,8540.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-nickel,41767.0,39857.0,35122.0,37281.0,42350.0,45890.0,43405.0,38218.0,35918.0,37840.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-niobium,2919.0,3282.0,3801.0,3367.0,4004.0,5685.0,4801.0,6957.0,8076.0,7380.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,,,7678.0,8434.0,15244.0,7592.0,10556.0,11457.0,13651.0,10598.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,3801.0,5301.0,9379.0,8648.0,15068.0,49667.0,49396.0,36502.0,24946.0,35947.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,222742.0,260317.0,257577.0,323519.0,276648.0,304706.0,324957.0,303109.0,345044.0,299997.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-silicon,237757.0,177617.0,237007.0,212467.0,203876.0,220645.0,210937.0,195209.0,203804.0,248905.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,1960.0,1186.0,1356.0,4843.0,6337.0,5646.0,7758.0,6233.0,7335.0,4747.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,659.0,690.0,555.0,811.0,687.0,874.0,702.0,1087.0,825.0,895.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,305.0,524.0,780.0,2806.0,3101.0,3026.0,2481.0,2535.0,2455.0,2730.0
+USA,imports,iron_steel_and_ferro-alloys,Ferro-zirconium,0.0,288.0,,,,,,,,
+USA,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",2146494.0,1872859.0,2127174.0,4536323.0,7207916.0,4695297.0,6848093.0,5771636.0,6220275.0,7565441.0
+USA,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2878.0,23162.0,16617.0,16489.0,23489.0,31442.0,37778.0,40090.0,39356.0,31897.0
+USA,imports,iron_steel_and_ferro-alloys,Pig iron,347384.0,434453.0,496761.0,828405.0,2503709.0,2383358.0,2657503.0,3153082.0,5145121.0,4989059.0
+USA,imports,iron_steel_and_ferro-alloys,Scrap,1291535.0,1072164.0,1217867.0,1505150.0,1766740.0,2021268.0,2560969.0,2833522.0,3024556.0,3686289.0
+USA,imports,iron_steel_and_ferro-alloys,Silicon metal,66344.0,43206.0,33477.0,73295.0,103307.0,97310.0,83936.0,125087.0,106929.0,118500.0
+USA,imports,iron_steel_and_ferro-alloys,Sponge & powder,384483.0,476386.0,572398.0,1033367.0,1099175.0,1323901.0,1181377.0,1223391.0,1170294.0,1338542.0
+Ukraine,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,,,,,,20280.0,18096.0,12930.0
+Ukraine,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",,,,,,,,,12425.0,15765.0
+Ukraine,imports,iron_steel_and_ferro-alloys,Scrap,,,249200.0,158600.0,113400.0,181000.0,89836.0,90061.0,26250.0,1937.0
+United Arab Emirates,imports,iron_steel_and_ferro-alloys,Scrap,7600.0,2021.0,5673.0,,,,,,,
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-alloys,,,262837.0,337337.0,424856.0,470121.0,457388.0,434121.0,394065.0,372305.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-chrome & ferro-silico-chrome,69764.0,76381.0,78478.0,93596.0,128507.0,135108.0,133540.0,118915.0,114275.0,120393.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-manganese,45685.0,31717.0,35160.0,93758.0,119463.0,135494.0,131528.0,135902.0,111500.0,90301.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-molybdenum,502.0,227.0,286.0,920.0,1103.0,1375.0,392.0,773.0,599.0,792.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-nickel,19439.0,17710.0,17611.0,18018.0,40540.0,39115.0,35416.0,20251.0,11909.0,4470.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-niobium,472.0,511.0,603.0,543.0,852.0,767.0,921.0,856.0,1086.0,952.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-phosphorus,2945.0,3456.0,3212.0,3004.0,2791.0,3021.0,3227.0,3025.0,2980.0,2630.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,,,15.0,0.0,0.0,1010.0,,,78.0,5482.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-silico-magnesium,,7584.0,9479.0,6498.0,9080.0,10961.0,11508.0,11374.0,9671.0,8565.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-silico-manganese,35809.0,31156.0,32297.0,35046.0,31897.0,40453.0,35098.0,38261.0,49448.0,53965.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-silicon,99511.0,82864.0,77609.0,76333.0,80254.0,92069.0,96025.0,96005.0,82802.0,80753.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-titanium & Fe-Si-Ti,1464.0,1122.0,5190.0,6203.0,7419.0,7761.0,7591.0,5161.0,4887.0,4054.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-tungsten & Fe-Si-W,189.0,95.0,182.0,95.0,59.0,98.0,44.0,112.0,56.0,66.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,631.0,674.0,801.0,493.0,500.0,450.0,291.0,378.0,378.0,648.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",341848.0,285842.0,233601.0,230260.0,282652.0,794305.0,373414.0,458875.0,549465.0,412482.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,7244.0,2029.0,1929.0,2829.0,2391.0,3448.0,1806.0,3108.0,4475.0,4717.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Pig iron,207495.0,110866.0,149631.0,131869.0,228259.0,234061.0,240886.0,210112.0,225303.0,156325.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Scrap,81876.0,95803.0,69395.0,22594.0,88913.0,177248.0,242588.0,211827.0,179204.0,164757.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Silicon metal,44337.0,39258.0,41887.0,38693.0,42294.0,44041.0,45831.0,46675.0,45285.0,58164.0
+United Kingdom,imports,iron_steel_and_ferro-alloys,Sponge & powder,16927.0,16890.0,16990.0,16957.0,18992.0,20487.0,21414.0,25690.0,33529.0,23005.0
+Uruguay,imports,iron_steel_and_ferro-alloys,Ferro-alloys,632.0,512.0,765.0,624.0,850.0,746.0,1107.0,778.0,666.0,706.0
+Uruguay,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",2520.0,2599.0,6566.0,5925.0,3021.0,243.0,509.0,200.0,3004.0,
+Venezuela,imports,iron_steel_and_ferro-alloys,Ferro-chrome,405.0,530.0,349.0,745.0,76.0,263.0,281.0,359.0,209.0,93.0
+Venezuela,imports,iron_steel_and_ferro-alloys,Ferro-manganese,26476.0,16028.0,11135.0,18538.0,26209.0,23256.0,15794.0,20180.0,15209.0,6904.0
+Venezuela,imports,iron_steel_and_ferro-alloys,Ferro-vanadium,462.0,239.0,,,,,,,,
+Venezuela,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",68159.0,109978.0,4480.0,891.0,2453.0,68947.0,4670.0,24967.0,,12933.0
+Venezuela,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,1955.0,2311.0,5274.0,1812.0,680.0,1477.0,1480.0,1686.0,3250.0,1376.0
+Venezuela,imports,iron_steel_and_ferro-alloys,Scrap,45353.0,,65482.0,73072.0,144868.0,173612.0,250110.0,66254.0,98256.0,23003.0
+Venezuela,imports,iron_steel_and_ferro-alloys,Silicon metal,2524.0,1164.0,856.0,1222.0,1055.0,2350.0,1031.0,2119.0,1086.0,1560.0
+Venezuela,imports,iron_steel_and_ferro-alloys,Sponge & powder,280594.0,69983.0,24377.0,3223.0,3519.0,21739.0,3363.0,3025.0,734.0,1690.0
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Ferro-chrome,2970.0,987.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Ferro-manganese,6856.0,1078.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Ferro-silico-chrome,3963.0,,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Ferro-silicon,5013.0,1662.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,"Ingots, blooms, billets",720305.0,137112.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,2527.0,175.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Pig iron,93256.0,13516.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Scrap,412800.0,53055.0,,,,,,,,
+Yugoslavia,imports,iron_steel_and_ferro-alloys,Sponge & powder,1584.0,382.0,,,,,,,,
+Zimbabwe,imports,iron_steel_and_ferro-alloys,Ferro-manganese,546.0,,326.0,1589.0,1532.0,1710.0,10091.0,1100.0,772.0,1439.0
+Zimbabwe,imports,iron_steel_and_ferro-alloys,Ferro-silicon,,,350.0,1024.0,1626.0,1269.0,49475.0,45341.0,3201.0,3320.0
+Zimbabwe,imports,iron_steel_and_ferro-alloys,Other ferro-alloys,90.0,,,,,,,,,

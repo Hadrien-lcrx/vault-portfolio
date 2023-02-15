@@ -1,0 +1,6 @@
+Country,Activity,Commodity,Sub-commodity,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999
+Botswana,production,sodium_carbonate_natural,,,,,,,201657.0,119137.0,199990.0,195500.0,233643.0
+Ethiopia,production,sodium_carbonate_natural,,,,,,2153.0,200.0,4907.0,5009.0,5272.0,4409.0
+Kenya,production,sodium_carbonate_natural,,,,167160.0,216890.0,226150.0,218450.0,223000.0,257640.0,242910.0,245680.0
+Pakistan,production,sodium_carbonate_natural,,,,,,,,,,3112.0,3748.0
+USA,production,sodium_carbonate_natural,,,,,,,10100000.0,10200000.0,10700000.0,10100000.0,10200000.0

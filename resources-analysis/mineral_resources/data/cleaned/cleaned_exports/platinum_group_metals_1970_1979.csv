@@ -1,0 +1,49 @@
+Country,Activity,Commodity,Sub-commodity,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979
+Australia,exports,platinum_group_metals,Platinum & platinum metals                        ,191.0,260.0,1132.0,1056.0,726.0,550.0,623.0,2236.0,1838.0,339.0
+Austria,exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,267.0,1289.0,293.0,215.0,238.0,179.0
+Belgium-Luxembourg,exports,platinum_group_metals,Platinum                                          ,,,2094.0,2358.0,1088.0,1081.0,928.0,1172.0,1365.0,995.0
+Belgium-Luxembourg,exports,platinum_group_metals,Platinum metals                                   ,,,,,1471.0,2124.0,2912.0,2025.0,2295.0,2527.0
+Canada,exports,platinum_group_metals,Ores & concentrates                               ,14968.0,14439.0,12755.0,13917.0,16321.0,13472.0,12072.0,12391.0,10557.0,4906.0
+Canada,exports,platinum_group_metals,Platinum metals                                   ,360.0,352.0,1646.0,1966.0,1998.0,2599.0,2039.0,2159.0,1080.0,1779.0
+Canada,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,,975.0,994.0,1324.0,1665.0
+Colombia,exports,platinum_group_metals,Platinum                                          ,909.0,827.0,757.0,806.0,,,428.0,234.0,228.0,0.0
+Denmark,exports,platinum_group_metals,Platinum                                          ,,,,,,,,,40.0,65.0
+Denmark,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,,,,0.0,0.0
+Finland,exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,,,,71.0
+France,exports,platinum_group_metals,Palladium                                         ,456.0,542.0,661.0,1423.0,,,,,,
+France,exports,platinum_group_metals,Platinum                                          ,21607.0,1331.0,2580.0,1732.0,4038.0,3374.0,23848.0,2121.0,1889.0,2484.0
+France,exports,platinum_group_metals,Platinum metals                                   ,,,,,1614.0,3094.0,3409.0,2870.0,1352.0,2586.0
+France,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,80.0,79.0,142.0,3150.0,443.0
+German Federal Republic,exports,platinum_group_metals,Other platinum metals                             ,,,,,8050.0,3006.0,2798.0,3429.0,2518.0,3565.0
+German Federal Republic,exports,platinum_group_metals,Palladium                                         ,,,,,,7658.0,6369.0,6031.0,3450.0,4176.0
+German Federal Republic,exports,platinum_group_metals,Platinum                                          ,9917.0,13330.0,18001.0,14449.0,7105.0,7083.0,7846.0,8559.0,7853.0,9014.0
+German Federal Republic,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,12.0,29966.0,111380.0,25386.0,44562.0
+Hong Kong,exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,402.0,886.0,424.0,689.0,606.0
+"Ireland, Republic of",exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,300.0,600.0,441.0,119.0
+Italy,exports,platinum_group_metals,Platinum                                          ,1874.0,622.0,1287.0,1167.0,1698.0,1499.0,1165.0,1681.0,2064.0,1352.0
+Italy,exports,platinum_group_metals,Platinum metals                                   ,,,,,238.0,288.0,112.0,231.0,45.0,383.0
+Japan,exports,platinum_group_metals,Platinum                                          ,833.0,529.0,3764.0,3972.0,2185.0,4263.0,2214.0,2271.0,1282.0,1701.0
+Japan,exports,platinum_group_metals,Platinum metals                                   ,396.0,66.0,1670.0,2676.0,4935.0,967.0,1317.0,1546.0,2519.0,1816.0
+Lebanon,exports,platinum_group_metals,Platinum                                          ,7.0,10.0,18.0,37.0,,,,,,
+Netherlands,exports,platinum_group_metals,Platinum                                          ,124.0,126.0,1043.0,826.0,505.0,227.0,410.0,394.0,723.0,905.0
+Netherlands,exports,platinum_group_metals,Platinum metals                                   ,,,,,358.0,960.0,620.0,1056.0,454.0,648.0
+Netherlands,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,,,,,0.0
+Norway,exports,platinum_group_metals,Platinum                                          ,609.0,865.0,1397.0,1205.0,,,,,,
+Norway,exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,959.0,1455.0,1509.0,1240.0,968.0,1161.0
+South Africa,exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,51400.0,57600.0,67800.0,69600.0,81300.0,98700.0
+Soviet Union,exports,platinum_group_metals,Platinum & platinum metals                        ,45100.0,51100.0,77400.0,85200.0,101300.0,55700.0,80500.0,60800.0,58100.0,68100.0
+Spain,exports,platinum_group_metals,Platinum & platinum metals                        ,,,,,,,,132.0,387.0,1481.0
+Switzerland,exports,platinum_group_metals,Platinum                                          ,,,4630.0,7687.0,12236.0,13302.0,17755.0,19065.0,27869.0,19645.0
+Taiwan,exports,platinum_group_metals,Platinum & platinum metals                        ,,13.0,7465.0,6403.0,2.0,100.0,0.0,22.0,,
+USA,exports,platinum_group_metals,Ores & concentrates                               ,260.0,465.0,996.0,158.0,1415.0,240.0,194.0,558.0,451.0,466.0
+USA,exports,platinum_group_metals,Other platinum metals                             ,,,,,,,,,7836.0,9310.0
+USA,exports,platinum_group_metals,Palladium                                         ,,,,,,,,,3605.0,6966.0
+USA,exports,platinum_group_metals,Platinum                                          ,5602.0,4814.0,9790.0,12183.0,13296.0,13524.0,6938.0,4950.0,4911.0,6045.0
+USA,exports,platinum_group_metals,Platinum metals                                   ,4312.0,2291.0,6229.0,9110.0,15739.0,11821.0,7024.0,5452.0,,
+USA,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,240.0,5634.0,3829.0,5139.0,5476.0
+United Kingdom,exports,platinum_group_metals,Other platinum metals                             ,13912.0,14405.0,16632.0,17642.0,6263.0,1996.0,2974.0,3077.0,5377.0,12463.0
+United Kingdom,exports,platinum_group_metals,Palladium                                         ,,,,,9192.0,11289.0,15738.0,9162.0,10807.0,8695.0
+United Kingdom,exports,platinum_group_metals,Platinum                                          ,24206.0,19829.0,26947.0,30603.0,40855.0,25893.0,20159.0,19658.0,22075.0,21451.0
+United Kingdom,exports,platinum_group_metals,Waste & scrap                                     ,,,,,,95.0,4549.0,17344.0,313.0,232.0
+Yugoslavia,exports,platinum_group_metals,Palladium                                         ,720.0,16.0,38.0,,10.0,140.0,210.0,2193.0,,
+Yugoslavia,exports,platinum_group_metals,Platinum                                          ,,,,,0.0,0.0,76.0,145.0,2076.0,1997.0

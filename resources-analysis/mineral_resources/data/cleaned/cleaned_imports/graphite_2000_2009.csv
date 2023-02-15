@@ -1,0 +1,58 @@
+Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+Argentina,imports,graphite,,968.0,1139.0,905.0,,,,,,,
+Australia,imports,graphite,,4741.0,7894.0,8736.0,,,,,,,
+Austria,imports,graphite,,7611.0,5521.0,6004.0,4971.0,7229.0,13655.0,10704.0,17757.0,30863.0,4622.0
+Azerbaijan,imports,graphite,,,531.0,790.0,,,,,,,
+Belarus,imports,graphite,,830.0,1221.0,2234.0,,,,,,,
+Belgium,imports,graphite,,,,,,,,1836.0,2309.0,3624.0,5048.0
+Belgium-Luxembourg,imports,graphite,,9847.0,9948.0,10638.0,12414.0,3301.0,3040.0,,,,
+Brazil,imports,graphite,,227.0,185.0,866.0,,,,,,,
+Bulgaria,imports,graphite,,174.0,223.0,210.0,492.0,420.0,319.0,433.0,250.0,158.0,132.0
+Canada,imports,graphite,,5775.0,8819.0,6514.0,,,,,,,
+China,imports,graphite,,740.0,2844.0,741.0,,,,,,,
+Czech Republic,imports,graphite,,975.0,1518.0,1476.0,2765.0,3663.0,4787.0,3485.0,5301.0,6233.0,2554.0
+Denmark,imports,graphite,,613.0,707.0,355.0,567.0,478.0,288.0,268.0,212.0,185.0,269.0
+Egypt,imports,graphite,,,378.0,200.0,,,,,,,
+Finland,imports,graphite,,649.0,411.0,281.0,197.0,168.0,,,,,
+France,imports,graphite,,53643.0,24440.0,13016.0,11149.0,15083.0,20449.0,19430.0,19250.0,20618.0,10376.0
+Germany,imports,graphite,,45517.0,49720.0,42706.0,41161.0,53602.0,55843.0,45884.0,54627.0,62180.0,33293.0
+Greece,imports,graphite,,60.0,54.0,75.0,77.0,127.0,91.0,83.0,111.0,142.0,918.0
+Hong Kong,imports,graphite,,107.0,92.0,170.0,,,,,,,
+Hungary,imports,graphite,,571.0,474.0,528.0,517.0,234.0,191.0,192.0,178.0,,
+Iceland,imports,graphite,,,,,42.0,,0.0,2.0,0.0,11.0,2132.0
+India,imports,graphite,,987.0,1662.0,2800.0,,,,,,,
+Indonesia,imports,graphite,,7699.0,2416.0,1962.0,,,,,,,
+Iran,imports,graphite,,784.0,955.0,2047.0,,,,,,,
+"Ireland, Republic of",imports,graphite,,342.0,108.0,541.0,248.0,288.0,177.0,,,,
+Italy,imports,graphite,,12241.0,11319.0,11302.0,10845.0,10699.0,11102.0,11548.0,11362.0,11832.0,5995.0
+Japan,imports,graphite,,143906.0,143540.0,106574.0,,,,,,,
+Korea (Rep. of),imports,graphite,,53801.0,49478.0,34210.0,,,,,,,
+Latvia,imports,graphite,,,,,,,,,,2.0,0.0
+Malaysia,imports,graphite,,445.0,13488.0,,,,,,,,
+Mexico,imports,graphite,,3449.0,1691.0,2564.0,,,,,,,
+Netherlands,imports,graphite,,3622.0,5636.0,8232.0,10208.0,18139.0,15205.0,5362.0,13463.0,42612.0,2487.0
+New Zealand,imports,graphite,,203.0,102.0,301.0,,,,,,,
+North Macedonia,imports,graphite,,,,,,0.0,107.0,648.0,1969.0,1522.0,761.0
+Norway,imports,graphite,,318.0,347.0,615.0,502.0,548.0,423.0,296.0,980.0,561.0,508.0
+Pakistan,imports,graphite,,2761.0,3037.0,2669.0,,,,,,,
+Philippines,imports,graphite,,128.0,207.0,,,,,,,,
+Poland,imports,graphite,,3727.0,2856.0,2700.0,3150.0,3089.0,3028.0,3658.0,5701.0,4474.0,3078.0
+Portugal,imports,graphite,,678.0,1297.0,1436.0,1129.0,1317.0,1722.0,1954.0,2210.0,1493.0,
+Romania,imports,graphite,,,,,387.0,315.0,548.0,488.0,542.0,304.0,144.0
+Russia,imports,graphite,,6316.0,7562.0,10333.0,,,,,,,
+Saudi Arabia,imports,graphite,,12671.0,16240.0,18816.0,,,,,,,
+Serbia and Montenegro,imports,graphite,,711.0,206.0,377.0,,,,,,,
+Singapore,imports,graphite,,1294.0,486.0,608.0,,,,,,,
+Slovakia,imports,graphite,,5199.0,1992.0,2633.0,2209.0,1667.0,1031.0,1382.0,2246.0,2981.0,962.0
+Slovenia,imports,graphite,,,,115.0,155.0,155.0,112.0,161.0,108.0,141.0,89.0
+South Africa,imports,graphite,,1818.0,1940.0,1533.0,,,,,,,
+Spain,imports,graphite,,8296.0,7675.0,8119.0,7363.0,9402.0,8334.0,10143.0,15582.0,24284.0,15669.0
+Sweden,imports,graphite,,1062.0,1026.0,1022.0,1428.0,1473.0,1539.0,1252.0,1592.0,1091.0,835.0
+Switzerland,imports,graphite,,445.0,538.0,918.0,863.0,395.0,652.0,722.0,966.0,931.0,306.0
+Taiwan,imports,graphite,,9398.0,8886.0,8375.0,,,,,,,
+Thailand,imports,graphite,,1034.0,779.0,748.0,,,,,,,
+Tunisia,imports,graphite,,196.0,153.0,,,,,,,,
+Turkey,imports,graphite,,6250.0,6431.0,7010.0,7429.0,10212.0,11956.0,6300.0,6095.0,13230.0,6788.0
+USA,imports,graphite,,60804.0,52148.0,45138.0,,,,,,,
+United Kingdom,imports,graphite,,26088.0,44917.0,22435.0,19270.0,19075.0,17766.0,16978.0,17225.0,14309.0,7850.0
+Venezuela,imports,graphite,,1356.0,1767.0,1483.0,,,,,,,

@@ -1,0 +1,7 @@
+Country,Activity,Commodity,Sub-commodity,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989
+Belgium,production,tellurium_refined,,,,,,90.0,70.0,,,,
+Canada,production,tellurium_refined,,9.0,21.0,17.0,24.0,14.0,19.0,20.0,13.0,19.0,8.0
+Fiji,production,tellurium_refined,,11.0,,,,,,,,,
+Japan,production,tellurium_refined,,69.0,62.0,63.0,55.0,65.0,66.0,56.0,53.0,55.0,51.0
+Peru,production,tellurium_refined,,21.0,22.0,20.0,16.0,14.0,15.0,10.0,7.0,4.0,8.0
+USA,production,tellurium_refined,,50.0,70.0,70.0,75.0,75.0,75.0,75.0,42.0,53.0,69.0
