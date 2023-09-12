@@ -3,6 +3,8 @@
 
 # Ignore Mac files
 *.DS_Store
+*.csv
+*.xlsx
 
 # Ignore sensitive data and credentials
 /terrorism-analysis/globalterrorismdb_0919dist.xlsx
