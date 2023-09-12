@@ -1,7 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-China,production,beryl,,1800.0
-Madagascar,production,beryl,,16.0
-Mozambique,production,beryl,,80.0
-USA,production,beryl,,3750.0
-Uganda,production,beryl,,186.0
-Zambia,production,beryl,,6.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:8202f91a7b107772a322caccf8eeb9d90c206d6d4afca48210f98d691a883f66
+size 234

@@ -1,7 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,imports,bauxite_alumina_and_aluminium,Alumina                                           ,93915.0
-United Kingdom,imports,bauxite_alumina_and_aluminium,Alumina hydrate                                   ,74557.0
-United Kingdom,imports,bauxite_alumina_and_aluminium,Bauxite                                           ,47948.0
-United Kingdom,imports,bauxite_alumina_and_aluminium,Scrap                                             ,98190.0
-United Kingdom,imports,bauxite_alumina_and_aluminium,Unwrought                                         ,120039.0
-United Kingdom,imports,bauxite_alumina_and_aluminium,Unwrought alloys                                  ,84000.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7373c69e6f0c5368d81329f9762eec27ce43b75add8467547286f025485989
+size 719

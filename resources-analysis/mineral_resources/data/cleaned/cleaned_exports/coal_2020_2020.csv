@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,exports,coal,Anthracite                                        ,131609.0
-United Kingdom,exports,coal,Briquettes                                        ,135520.0
-United Kingdom,exports,coal,Lignite                                           ,437.0
-United Kingdom,exports,coal,Other coal                                        ,1593851.0
-United Kingdom,exports,coal,,1725460.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:1743cb7f0991ab120841d9f6d783172538e0ca89735b733b4f20e434f290d723
+size 435

@@ -1,11 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-Armenia,production,bismuth_mine,,4.0
-Bolivia,production,bismuth_mine,,20.0
-Canada,production,bismuth_mine,,4.0
-China,production,bismuth_mine,,1650.0
-Japan,production,bismuth_mine,,574.0
-Kazakhstan,production,bismuth_mine,,450.0
-Mexico,production,bismuth_mine,,0.0
-Peru,production,bismuth_mine,,74.0
-Russia,production,bismuth_mine,,45.0
-Vietnam,production,bismuth_mine,,993.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e195c09626a41c97ae336e5b843406e1f969a3ab31f0212e47e2831aac82f455
+size 421

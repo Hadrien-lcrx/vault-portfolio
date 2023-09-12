@@ -1,7 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,exports,nickel,Mattes,
-United Kingdom,exports,nickel,Ores & concentrates                               ,23.0
-United Kingdom,exports,nickel,Oxides                                            ,2.0
-United Kingdom,exports,nickel,Scrap                                             ,8872.0
-United Kingdom,exports,nickel,Unwrought                                         ,30802.0
-United Kingdom,exports,nickel,Unwrought alloys                                  ,5205.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:471f9ef4c923e1d55a1aa6932f64d2439bc603d95e2b8a5a7971d28401ea55b1
+size 520

@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,exports,platinum_group_metals,Other platinum group metals,17585.0
-United Kingdom,exports,platinum_group_metals,Other platinum metals                             ,17585.0
-United Kingdom,exports,platinum_group_metals,Palladium                                         ,76723.0
-United Kingdom,exports,platinum_group_metals,Platinum                                          ,96733.0
-United Kingdom,exports,platinum_group_metals,Waste & scrap                                     ,2674422.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:9821b4ac91640805ee0151d026fca82f66271407f738d0604f6cedca45f5cdee
+size 545

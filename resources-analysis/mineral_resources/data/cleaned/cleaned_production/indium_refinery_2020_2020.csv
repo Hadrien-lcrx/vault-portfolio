@@ -1,11 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-Belgium,production,indium_refinery,,20.0
-Brazil,production,indium_refinery,,5.0
-Canada,production,indium_refinery,,61.0
-China,production,indium_refinery,,500.0
-France,production,indium_refinery,,40.0
-Italy,production,indium_refinery,,5.0
-Japan,production,indium_refinery,,70.0
-Korea (Rep. of),production,indium_refinery,,100.0
-Peru,production,indium_refinery,,10.0
-Russia,production,indium_refinery,,7.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:605719a54d7c8ce02f415df0f11bc659bde268d696462f7b3e287f5d5cafd218
+size 450

@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,imports,diamond,Dust                                              ,30185214.0
-United Kingdom,imports,diamond,Gem,
-United Kingdom,imports,diamond,Gem,
-United Kingdom,imports,diamond,Industrial                                        ,1646227.0
-United Kingdom,imports,diamond,Unsorted                                          ,58749.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:32347816da2a24bf729e87b3a2c89fdba4ee52407bfc35b2cccd3dc2372fa988
+size 393

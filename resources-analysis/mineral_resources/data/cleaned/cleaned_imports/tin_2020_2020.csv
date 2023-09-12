@@ -1,5 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,imports,tin,Concentrates                                      ,25.0
-United Kingdom,imports,tin,Scrap                                             ,5.0
-United Kingdom,imports,tin,Unwrought                                         ,3641.0
-United Kingdom,imports,tin,Unwrought alloys                                  ,49.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e5db16c8fdbd01ddf4dd76879941688a82ec1e42922acb81d4e9576d263dc9
+size 379

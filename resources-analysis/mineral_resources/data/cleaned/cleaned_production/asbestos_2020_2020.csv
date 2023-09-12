@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-Brazil,production,asbestos,,100000.0
-China,production,asbestos,,100000.0
-Colombia,production,asbestos,,0.0
-Kazakhstan,production,asbestos,,227000.0
-Russia,production,asbestos,,670000.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:681bde8049d7222562cade62c8929b24d7a23954c36dcc2ade41e6695e067fc1
+size 231

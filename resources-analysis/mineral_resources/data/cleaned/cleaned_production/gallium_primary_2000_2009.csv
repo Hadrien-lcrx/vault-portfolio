@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
-China,production,gallium_primary,,,,,,,,,,,
-India,production,gallium_primary,,,,,,,,,,,
-Japan,production,gallium_primary,,,,,,,,,,7.0,7.0
-Kazakhstan,production,gallium_primary,,,,,,,,,19.0,19.0,19.0
-Russia,production,gallium_primary,,,,,,,,,,13.0,13.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0170d95a66a598667e1aa3d43bb8eb0ff8e7be30406facd2a4787664acf8e23
+size 343

@@ -1,5 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-China,production,germanium_metal,,85.0
-Finland,production,germanium_metal,,0.0
-Russia,production,germanium_metal,,5.0
-USA,production,germanium_metal,,3.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51aa626fb21e6fa15ee7e7707d411e665f1992cf9f19206b73ca3d39b62c0a5
+size 200

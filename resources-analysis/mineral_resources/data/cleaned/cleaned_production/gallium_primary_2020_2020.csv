@@ -1,7 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-China,production,gallium_primary,,350.0
-Germany,production,gallium_primary,,0.0
-Japan,production,gallium_primary,,3.0
-Korea (Rep. of),production,gallium_primary,,2.0
-Russia,production,gallium_primary,,13.0
-Ukraine,production,gallium_primary,,4.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eb4d90e1c1cce7ebd54b5c6034fd7442c99efc9ae330d80ecfc0b8fe6d7bfe0
+size 292

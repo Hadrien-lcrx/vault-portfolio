@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-Burundi,production,rare_earth_minerals,,549.0
-Malaysia,production,rare_earth_minerals,Monazite                                          ,18.0
-Malaysia,production,rare_earth_minerals,Xenotime                                          ,3.0
-Russia,production,rare_earth_minerals,Loparite,9530.0
-USA,production,rare_earth_minerals,Bastnaesite                                       ,38000.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd8977a51606e9b8c408588f2fa3a04031d4a3bb13481248d9d8f6cfb6e54e8d
+size 431

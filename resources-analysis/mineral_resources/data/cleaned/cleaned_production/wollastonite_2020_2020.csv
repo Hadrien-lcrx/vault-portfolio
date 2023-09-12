@@ -1,8 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-Australia,production,wollastonite,,2426.0
-China,production,wollastonite,,890000.0
-Finland,production,wollastonite,,11000.0
-India,production,wollastonite,,103902.0
-Mexico,production,wollastonite,,77665.0
-Spain,production,wollastonite,,17412.0
-USA,production,wollastonite,,40000.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa0839ce109539276dc8d669c7b0896081f4fab4bf068a3264b60df3836536aa
+size 325

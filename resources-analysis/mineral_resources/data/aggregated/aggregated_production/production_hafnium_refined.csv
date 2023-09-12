@@ -1,11 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,Measure,Year,Amount
-Russia,production,hafnium_refined,Hafnium (refined),,2010,
-Russia,production,hafnium_refined,Hafnium (refined),,2011,
-Russia,production,hafnium_refined,Hafnium (refined),,2012,
-Russia,production,hafnium_refined,Hafnium (refined),,2013,
-Russia,production,hafnium_refined,Hafnium (refined),,2014,
-Russia,production,hafnium_refined,Hafnium (refined),,2015,
-Russia,production,hafnium_refined,Hafnium (refined),,2016,
-Russia,production,hafnium_refined,Hafnium (refined),,2017,
-Russia,production,hafnium_refined,Hafnium (refined),,2018,
-Russia,production,hafnium_refined,Hafnium (refined),,2019,
+version https://git-lfs.github.com/spec/v1
+oid sha256:6336f6d5ddd5f38550169b51a2353913700d05c02812c3a4e8a11a3841c82d89
+size 651

@@ -1,9 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-Brazil,production,magnesium_metal_primary,,20000.0
-China,production,magnesium_metal_primary,,858000.0
-Israel,production,magnesium_metal_primary,,18500.0
-Korea (Rep. of),production,magnesium_metal_primary,,0.0
-Malaysia,production,magnesium_metal_primary,,0.0
-Russia,production,magnesium_metal_primary,,12795.0
-Turkey,production,magnesium_metal_primary,,4500.0
-USA,production,magnesium_metal_primary,,32000.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3659cfe40f4e4fde6343e77e0892e38ea334c515e8bf4dfdb6a8b9e03c4a665
+size 453

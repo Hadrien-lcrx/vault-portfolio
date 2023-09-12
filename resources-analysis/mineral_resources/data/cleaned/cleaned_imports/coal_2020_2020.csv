@@ -1,6 +1,3 @@
-Country,Activity,Commodity,Sub-commodity,2020
-United Kingdom,imports,coal,Anthracite                                        ,52152.0
-United Kingdom,imports,coal,Briquettes                                        ,11438.0
-United Kingdom,imports,coal,Lignite                                           ,217.0
-United Kingdom,imports,coal,Other coal                                        ,3635890.0
-United Kingdom,imports,coal,,3688042.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d690f2df1e53523e1c380b069c7ed18d5c78aea6ca0e226aabd6603a8578f24
+size 433
