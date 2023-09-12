@@ -1,0 +1,5 @@
+# Ignore all .ipynb checkpoints
+*.ipynb_checkpoints
+
+# Ignore Mac files
+*.DS_Store
