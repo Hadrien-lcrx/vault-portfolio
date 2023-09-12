@@ -1,9 +1,0 @@
-.ipynb_checkpoints
-__pycache__
-data/boston_massachusetts.osm
-boston.db
-nodes.csv
-nodes_tags.csv
-ways.csv
-ways_nodes.csv
-ways_tags.csv
